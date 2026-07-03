@@ -1,0 +1,14 @@
+date,event_name,event_type,geographic_scope,direction
+2015-12-12,Paris Agreement,international_agreement,global,positive
+2016-11-08,Trump Election 2016,political_change,US,negative
+2017-06-01,US Paris Withdrawal,policy_reversal,US,negative
+2019-12-11,EU Green Deal,policy_package,EU,positive
+2020-03-11,COVID Pandemic,economic_shock,global,negative
+2021-01-20,Biden Inauguration,political_change,US,positive
+2021-07-14,EU Fit for 55,policy_package,EU,positive
+2022-08-16,Inflation Reduction Act,subsidy_legislation,US,positive
+2022-11-20,COP27 Loss and Damage,international_agreement,global,positive
+2023-12-13,COP28 Dubai,international_agreement,global,positive
+2024-06-01,EU CBAM Phase 2,trade_regulation,EU,positive
+2024-11-05,Trump Election 2024,political_change,US,negative
+2025-01-20,Trump 2 Inauguration,political_change,US,negative

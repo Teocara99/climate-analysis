@@ -1,0 +1,568 @@
+investor_id,investor_name,field,old_value,new_value,reason
+95,Equinor Ventures,investor_type,GVC,CVC,name_pattern_corporate_brand
+108,Wells Fargo Innovation Incubator,investor_type,GVC,Bank_VC,self_consistency
+135,Microsoft Climate Fund,investor_type,GVC,CVC,self_consistency
+181,Eni Next,investor_type,GVC,CVC,self_consistency
+183,ABB Ventures,investor_type,GVC,CVC,self_consistency
+225,EDP Ventures,investor_type,GVC,CVC,self_consistency
+276,bp Ventures,investor_type,GVC,CVC,self_consistency
+276,bp Ventures,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+304,IP Group,investor_type,GVC,University_VC,self_consistency
+384,Exelon Foundation,investor_type,GVC,CVC,self_consistency
+465,Esplanade Québec,investor_type,OTHER,IVC,self_consistency
+511,TechFounders,investor_type,GVC,University_VC,self_consistency
+532,PepsiCo Greenhouse Collaborative Accelerator,investor_type,GVC,CVC,self_consistency
+577,Novo Holdings,investor_type,GVC,IVC,self_consistency
+601,Future Ventures,investor_type,OTHER,IVC,self_consistency
+603,NZIP Acceleration,investor_type,OTHER,GVC,self_consistency
+613,Eneco Ventures,investor_type,GVC,CVC,self_consistency
+614,Eneos Innovation Partners,investor_type,GVC,CVC,self_consistency
+658,Saint-Gobain NOVA,investor_type,GVC,CVC,self_consistency
+675,SAIC Capital,investor_type,OTHER,IVC,self_consistency
+692,Munich Re Ventures,investor_type,GVC,CVC,self_consistency
+703,Shell,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+716,FootPrint Coalition,investor_type,CVC,IVC,self_consistency
+724,Berkeley,investor_type,GVC,University_VC,self_consistency
+755,dsm-firmenich Ventures,investor_type,OTHER,IVC,self_consistency
+778,GCCA,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+791,Samsung Venture Investment,investor_type,GVC,CVC,self_consistency
+794,Ant Group,investor_type,OTHER,CVC,self_consistency
+837,Lowercase Capital,investor_type,OTHER,IVC,self_consistency
+840,Builders Vision,green_focus,GREEN_VC,ESG_ALIGNED,self_consistency
+903,Burnt Island Ventures,investor_type,OTHER,IVC,self_consistency
+905,Bunge Ventures,investor_type,GVC,CVC,self_consistency
+916,Glory Ventures,investor_type,OTHER,IVC,self_consistency
+940,TRK Group,investor_type,OTHER,IVC,self_consistency
+999,Morgan Stanley Inclusive & Sustainable Ventures,investor_type,OTHER,Bank_VC,self_consistency
+1007,Social Venture Circle,investor_type,OTHER,Impact_VC,self_consistency
+1045,JLL Foundation,investor_type,GVC,Impact_VC,self_consistency
+1140,FTW Ventures,investor_type,OTHER,IVC,self_consistency
+1150,Holcim Accelerator,investor_type,GVC,CVC,self_consistency
+1180,AgVenture Lab,investor_type,OTHER,IVC,self_consistency
+1192,Tsinghua Capital,investor_type,GVC,University_VC,self_consistency
+1232,Climate Scale-Up,investor_type,GVC,University_VC,self_consistency
+1246,Hangzhou Dongfang Jiafu Asset Management,investor_type,GVC,CVC,self_consistency
+1265,SFV Capital,investor_type,OTHER,IVC,self_consistency
+1274,Centrica Innovations,investor_type,GVC,CVC,self_consistency
+1278,KTH Innovation,investor_type,GVC,University_VC,self_consistency
+1323,growX Ventures,investor_type,OTHER,IVC,self_consistency
+1327,Good Seed Ventures,investor_type,OTHER,GVC,self_consistency
+1390,West Hill Capital,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+1419,LG Technology Ventures,investor_type,GVC,CVC,self_consistency
+1464,Springvest,investor_type,OTHER,IVC,self_consistency
+1465,Rethink Capital Partners,green_focus,GREEN_VC,ESG_ALIGNED,self_consistency
+1472,ACE Ventures,investor_type,OTHER,IVC,self_consistency
+1474,Pusa Krishi,investor_type,OTHER,GVC,self_consistency
+1513,GOOSE Capital,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+1742,WARF Ventures,investor_type,GVC,University_VC,self_consistency
+1768,Felix Jahn Beteiligungen,investor_type,OTHER,Angel_Network,self_consistency
+1768,Felix Jahn Beteiligungen,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+1865,Innogy Innovation Hub,investor_type,GVC,CVC,self_consistency
+1916,Syngenta Group Ventures,investor_type,GVC,CVC,self_consistency
+1920,Helmerich & Payne,investor_type,GVC,CVC,self_consistency
+1931,Climate Angels,investor_type,OTHER,IVC,self_consistency
+1941,Norrsken Launcher,investor_type,OTHER,IVC,self_consistency
+1957,Toyota Tsusho,investor_type,GVC,CVC,self_consistency
+1993,Xinrui Venture Capital,investor_type,OTHER,IVC,self_consistency
+2027,Vectr Ventures,investor_type,OTHER,IVC,self_consistency
+2033,Indigram Labs Foundation,investor_type,GVC,Impact_VC,self_consistency
+2088,Nanometer Venture,green_focus,GREEN_VC,ESG_ALIGNED,self_consistency
+2157,MiLA Capital,investor_type,OTHER,IVC,self_consistency
+2165,KTH Royal Institute of Technology Endowment,investor_type,GVC,University_VC,self_consistency
+2167,Brainforest,investor_type,OTHER,IVC,self_consistency
+2213,Green Artha,investor_type,IVC,Impact_VC,self_consistency
+2236,UCL Technology Fund,investor_type,GVC,University_VC,self_consistency
+2278,Alpha Wave Global,investor_type,OTHER,IVC,self_consistency
+2327,Yunqi Partners,investor_type,OTHER,IVC,self_consistency
+2330,Air Liquide Venture Capital,investor_type,GVC,CVC,self_consistency
+2331,M&G,investor_type,GVC,Bank_VC,self_consistency
+2370,Center for Life Science Ventures,green_focus,GREEN_VC,ESG_ALIGNED,self_consistency
+2392,Kyoshin Social Capital,investor_type,OTHER,IVC,self_consistency
+2400,Franz Haniel & Cie,investor_type,GVC,IVC,self_consistency
+2430,Bridford Group,investor_type,GVC,OTHER,self_consistency
+2495,LDV Partners,investor_type,OTHER,IVC,self_consistency
+2592,Joint Effects,investor_type,GVC,IVC,self_consistency
+2663,Cambridge Companies SPG,investor_type,GVC,University_VC,self_consistency
+2683,Good Ventures,investor_type,OTHER,Impact_VC,self_consistency
+2711,Shikoku Electric Power,green_focus,TRADITIONAL,GREEN_VC,self_consistency
+2757,Agri Investment Fund,investor_type,GVC,IVC,self_consistency
+2909,TUM Venture Labs,investor_type,OTHER,IVC,self_consistency
+2935,SideCar Angels,investor_type,OTHER,Angel_Network,self_consistency
+2983,Xiang He Capital,investor_type,OTHER,IVC,self_consistency
+2987,Comcast Ventures,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+2990,EDP Starter,investor_type,GVC,CVC,self_consistency
+3020,Backstage Capital,investor_type,OTHER,Impact_VC,self_consistency
+3104,H2 Refuel Accelerator,investor_type,OTHER,GVC,self_consistency
+3119,HIGHEST,investor_type,GVC,University_VC,self_consistency
+3137,Hiroshima Venture Capital,investor_type,OTHER,IVC,self_consistency
+3142,Hitejinro,investor_type,GVC,CVC,self_consistency
+3173,Helvetia Venture Fund,investor_type,GVC,CVC,self_consistency
+3203,California Institute of Technology Endowment,investor_type,GVC,University_VC,self_consistency
+3209,Delek US Holdings,investor_type,GVC,CVC,self_consistency
+3268,Sofokus Ventures,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+3310,SLU Holding,investor_type,GVC,University_VC,self_consistency
+3319,Golden Angels Investors,investor_type,OTHER,IVC,self_consistency
+3341,EnjoyVenture,investor_type,OTHER,IVC,self_consistency
+3362,Stellantis Ventures,investor_type,GVC,CVC,self_consistency
+3423,SEED Innovations,investor_type,GVC,Impact_VC,self_consistency
+3468,Japan Airlines Company,investor_type,GVC,CVC,self_consistency
+3480,Suzano Ventures,investor_type,GVC,CVC,self_consistency
+3481,Jeff Dean,investor_type,GVC,OTHER,self_consistency
+3517,Humba Ventures,investor_type,OTHER,IVC,self_consistency
+3543,ITU ARI Teknokent,investor_type,GVC,University_VC,self_consistency
+3575,Emera ideaHUB,investor_type,OTHER,University_VC,self_consistency
+3580,The Icehouse,investor_type,OTHER,IVC,self_consistency
+3615,AUC Venture Lab,investor_type,GVC,University_VC,self_consistency
+3632,Bali Investment Club,investor_type,OTHER,IVC,self_consistency
+3686,Point72 Ventures,green_focus,ESG_ALIGNED,TRADITIONAL,self_consistency
+3713,LG Chem,green_focus,TRADITIONAL,GREEN_VC,self_consistency
+3717,Visa Foundation,investor_type,GVC,CVC,self_consistency
+3745,Advanced Technology Development Center,investor_type,GVC,University_VC,self_consistency
+3750,Beiersdorf,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+3752,ORIX,investor_type,GVC,IVC,self_consistency
+3786,QUBIS,investor_type,GVC,University_VC,self_consistency
+3791,Maruti Suzuki Innovation,investor_type,GVC,CVC,self_consistency
+3828,Bow Capital,investor_type,IVC,University_VC,self_consistency
+3843,Airbus BizLab,investor_type,GVC,CVC,self_consistency
+3862,Blue Catapult Partners,investor_type,OTHER,IVC,self_consistency
+3949,Louis Dreyfus Company Ventures,investor_type,GVC,CVC,self_consistency
+3974,BKK Production,investor_type,OTHER,IVC,self_consistency
+3991,Aster Aceleradora,investor_type,OTHER,GVC,self_consistency
+4016,Bezos Expeditions,investor_type,OTHER,IVC,self_consistency
+4106,Xiaomi Fund Management,investor_type,GVC,CVC,self_consistency
+4110,Mazarine Ventures,investor_type,OTHER,IVC,self_consistency
+4118,Oxford Technology Management,investor_type,GVC,University_VC,self_consistency
+4140,HackZone Scale Up,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+4227,I'mnovation,investor_type,GVC,CVC,self_consistency
+4237,MIT Innovation Initiative,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+4299,Atlanta Technology Angels,investor_type,OTHER,Angel_Network,self_consistency
+4300,Science Angel Syndicate,investor_type,OTHER,Angel_Network,self_consistency
+4370,Sabancı ARF,investor_type,GVC,IVC,self_consistency
+4395,Wisconsin Alumni Research Foundation,investor_type,GVC,University_VC,self_consistency
+4413,Techmind,investor_type,GVC,IVC,self_consistency
+4453,Scania Invest,investor_type,GVC,CVC,self_consistency
+4465,Honda Xcelerator Ventures,investor_type,OTHER,CVC,self_consistency
+4520,Templewater,investor_type,OTHER,IVC,self_consistency
+4661,NUS Enterprise,investor_type,GVC,University_VC,self_consistency
+4671,FEMSA Ventures,green_focus,GREEN_VC,ESG_ALIGNED,self_consistency
+4682,FAST--by GETTYLAB,investor_type,OTHER,IVC,self_consistency
+4721,Next Mobility Labs,investor_type,OTHER,IVC,self_consistency
+4722,Founders Bay,green_focus,ESG_ALIGNED,TRADITIONAL,self_consistency
+4785,École polytechnique fédérale de Lausanne Endowment,investor_type,GVC,University_VC,self_consistency
+4830,Fujian New Doone Science,investor_type,OTHER,IVC,self_consistency
+4844,First In Ventures,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+4864,Fine Day Ventures,investor_type,OTHER,IVC,self_consistency
+4924,Elohim Partners,investor_type,OTHER,GVC,self_consistency
+4925,Alan Asset Management,investor_type,OTHER,IVC,self_consistency
+4940,Mirai Sozo Capital,investor_type,OTHER,IVC,self_consistency
+4941,Omron Ventures,investor_type,GVC,CVC,self_consistency
+4942,Mirova Natural Capital,investor_type,GVC,CVC,self_consistency
+4964,Guangzhou Nanyue Aode Investment,investor_type,GVC,OTHER,self_consistency
+4993,Orkla,investor_type,GVC,CVC,self_consistency
+5033,Orange Capital Ventures,investor_type,OTHER,IVC,self_consistency
+5035,Oracle Venture Investment,investor_type,GVC,CVC,self_consistency
+5086,Gerdau Next Ventures,investor_type,GVC,CVC,self_consistency
+5119,Sigma Partners,green_focus,TRADITIONAL,GREEN_VC,self_consistency
+5263,Protagonist,investor_type,OTHER,IVC,self_consistency
+5348,Chona Family Office,investor_type,OTHER,IVC,self_consistency
+5380,Baobab Network,investor_type,OTHER,IVC,self_consistency
+5410,Primepulse,investor_type,OTHER,IVC,self_consistency
+5424,Kyoto Bank Lease Capital,investor_type,GVC,Bank_VC,self_consistency
+5534,Carbon Zero Venture Capital,investor_type,GVC,IVC,self_consistency
+5543,Bricks Fund Tokyo,investor_type,OTHER,IVC,self_consistency
+5565,Primavera Venture Partners,green_focus,GREEN_VC,ESG_ALIGNED,self_consistency
+5579,Reverb Capital,investor_type,OTHER,IVC,self_consistency
+5582,SDG Impact Japan,investor_type,OTHER,Impact_VC,self_consistency
+5631,BMG Uptech,investor_type,OTHER,IVC,self_consistency
+5660,Valkea Growth Club,investor_type,GVC,CVC,self_consistency
+5668,Blue Marlin Partners,investor_type,OTHER,IVC,self_consistency
+5673,Plus Eight Accelerator,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+5675,Plantbase VC,investor_type,OTHER,Impact_VC,self_consistency
+5738,KAIST Venture Investment Holdings,investor_type,GVC,University_VC,self_consistency
+5744,Purdue Ventures,investor_type,GVC,University_VC,self_consistency
+5767,Puzzle Ventures,investor_type,OTHER,IVC,self_consistency
+5769,Level2 Ventures,investor_type,OTHER,IVC,self_consistency
+5774,Imperial Create Lab,investor_type,OTHER,University_VC,self_consistency
+5827,Bajaj Auto,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+5855,London Business Angels,investor_type,OTHER,Angel_Network,self_consistency
+5874,OCTAVE Capital,investor_type,OTHER,IVC,self_consistency
+5953,JB Ventures,investor_type,OTHER,IVC,self_consistency
+6007,QBE Insurance Group,investor_type,GVC,CVC,self_consistency
+6048,Godfrey Capital,investor_type,OTHER,IVC,self_consistency
+6069,Obayashi,investor_type,GVC,IVC,self_consistency
+6079,Musea Ventures,investor_type,OTHER,IVC,self_consistency
+6096,Rising Tide Fund,investor_type,GVC,Impact_VC,self_consistency
+6123,Good Energies Foundation,investor_type,GVC,Impact_VC,self_consistency
+6394,KICHIRI & Company,investor_type,GVC,IVC,self_consistency
+6400,Founder 2 Funder,investor_type,IVC,CVC,self_consistency
+6420,Founders Room Capital,investor_type,OTHER,Angel_Network,self_consistency
+6425,KBR,investor_type,GVC,OTHER,self_consistency
+6430,NPK Capital,investor_type,OTHER,IVC,self_consistency
+6495,Novelis Ventures,investor_type,GVC,CVC,self_consistency
+6526,Gelita,green_focus,TRADITIONAL,GREEN_VC,self_consistency
+6538,Gates Ventures,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+6562,RMIT Activator,investor_type,OTHER,University_VC,self_consistency
+6597,Sobotka Seed Stage Ventures Grants,investor_type,GVC,University_VC,self_consistency
+6624,Karl-Johan Persson,investor_type,GVC,CVC,self_consistency
+6674,JinkoSolar Investment,investor_type,GVC,CVC,self_consistency
+6685,Karot Capital,green_focus,GREEN_VC,ESG_ALIGNED,self_consistency
+6687,Shape Capital,investor_type,OTHER,IVC,self_consistency
+6781,SJ Jiacheng Investment Management,investor_type,OTHER,IVC,self_consistency
+6790,Lenny Rachitsky,investor_type,OTHER,Angel_Network,self_consistency
+6792,Pava Marie LaPere Center for Entrepreneurship,investor_type,GVC,University_VC,self_consistency
+6802,Hirogin Capital Partners,investor_type,OTHER,CVC,self_consistency
+6817,Santander UK,investor_type,GVC,Bank_VC,self_consistency
+6859,Ingredion,investor_type,GVC,OTHER,self_consistency
+6955,Scale Now,investor_type,OTHER,IVC,self_consistency
+6966,Ignis H2 Energy,investor_type,OTHER,IVC,self_consistency
+7012,Lineage Ventures,investor_type,OTHER,IVC,self_consistency
+7053,STS Ventures,investor_type,CVC,IVC,self_consistency
+7068,INSEAD Endowment,investor_type,GVC,University_VC,self_consistency
+7130,Penn State Research Foundation,investor_type,GVC,University_VC,self_consistency
+7137,Huaan Securities,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+7154,Levels Up Ventures,investor_type,OTHER,IVC,self_consistency
+7198,I-Square Ventures,investor_type,OTHER,IVC,self_consistency
+7200,Saint-Gobain,investor_type,GVC,IVC,self_consistency
+7214,MTG Ventures,investor_type,OTHER,IVC,self_consistency
+7402,Pure Imagination Brands,investor_type,OTHER,IVC,self_consistency
+7419,Miyagin Venture Capital,investor_type,OTHER,IVC,self_consistency
+7445,Purdue University,investor_type,University_VC,GVC,self_consistency
+7498,Puget Sound Venture Club,investor_type,OTHER,Angel_Network,self_consistency
+7529,Primetime Partners,green_focus,GREEN_VC,ESG_ALIGNED,self_consistency
+7534,Innovate@BU,investor_type,GVC,University_VC,self_consistency
+7632,LUXEM family office,investor_type,OTHER,IVC,self_consistency
+7633,Haran Family Office,investor_type,OTHER,IVC,self_consistency
+7654,Mercedes Benz,investor_type,GVC,CVC,self_consistency
+7677,SAP Labs India,investor_type,GVC,CVC,self_consistency
+7692,Ryder Ventures,investor_type,OTHER,IVC,self_consistency
+7697,Prophetic Ventures,investor_type,OTHER,Impact_VC,self_consistency
+7738,HKUST Entrepreneurship Fund,investor_type,GVC,University_VC,self_consistency
+7755,HBG Ventures,investor_type,OTHER,IVC,self_consistency
+7765,HCC Insurance Holdings,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+7811,Centrale Innovation,investor_type,GVC,University_VC,self_consistency
+7846,Tripple,investor_type,OTHER,Impact_VC,self_consistency
+7864,Tsinghua Tiancheng Capital,investor_type,GVC,University_VC,self_consistency
+7912,Taicang Guofa Wenxin Private Equity Fund Management,investor_type,GVC,IVC,self_consistency
+7933,Charleston Angel Partners,investor_type,OTHER,Angel_Network,self_consistency
+7992,BP Launchpad,investor_type,GVC,CVC,self_consistency
+8041,Triggering Exponential Climate Action,investor_type,OTHER,Impact_VC,self_consistency
+8045,Xavaav Capital,investor_type,OTHER,IVC,self_consistency
+8219,Cartography Capital,investor_type,OTHER,GVC,self_consistency
+8251,TI- Capital,investor_type,OTHER,GVC,self_consistency
+8264,Catalyze CU,investor_type,GVC,University_VC,self_consistency
+8302,Ynsect,investor_type,OTHER,GVC,self_consistency
+8312,EPFL Innovation Park,investor_type,GVC,University_VC,self_consistency
+8335,E.ON Strategic Co-Investments,investor_type,GVC,CVC,self_consistency
+8368,Citi Ventures,investor_type,OTHER,Bank_VC,self_consistency
+8378,Coughdrop Capital,investor_type,OTHER,IVC,self_consistency
+8456,Crosslight Partners,investor_type,OTHER,IVC,self_consistency
+8511,Tikura Ventures,investor_type,OTHER,IVC,self_consistency
+8524,Colmeia Accelerator,investor_type,GVC,CVC,self_consistency
+8578,Clean Energy Fuels,investor_type,GVC,IVC,self_consistency
+8593,Conscience,investor_type,OTHER,IVC,self_consistency
+8594,Conquest,investor_type,OTHER,IVC,self_consistency
+8617,Wavemaker Labs.,investor_type,OTHER,IVC,self_consistency
+8629,Time Zero Capital,green_focus,GREEN_VC,ESG_ALIGNED,self_consistency
+8674,Volve Capital,investor_type,OTHER,IVC,self_consistency
+8873,Winsoul Capital,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+8953,Steve Bolze,investor_type,GVC,CVC,self_consistency
+8998,Stellar Solutions,investor_type,OTHER,Impact_VC,self_consistency
+9013,CAV Angels,investor_type,Angel_Network,University_VC,self_consistency
+9070,Acorn Pacific Ventures,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+9101,Stony Brook Foundation,investor_type,GVC,University_VC,self_consistency
+9143,Stirling Operations and Angeli Capital,investor_type,OTHER,IVC,self_consistency
+9153,CEI Ventures,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+9253,AG Ventures.,investor_type,OTHER,IVC,self_consistency
+9264,i Net Zero,investor_type,OTHER,GVC,self_consistency
+9330,VCET Capital,investor_type,OTHER,IVC,self_consistency
+9343,Stardust Startups,investor_type,OTHER,GVC,self_consistency
+9345,ALP.X Group,investor_type,OTHER,IVC,self_consistency
+9346,Brown Angel Group,investor_type,Angel_Network,University_VC,self_consistency
+9363,Stardust Equity,investor_type,OTHER,IVC,self_consistency
+9373,ANIMO Ventures,investor_type,OTHER,IVC,self_consistency
+9374,Stata Capital Partners,investor_type,IVC,Impact_VC,self_consistency
+9399,University of Valencia,investor_type,University_VC,GVC,self_consistency
+9434,Supernode,investor_type,OTHER,IVC,self_consistency
+9538,Bragiel Brothers,investor_type,OTHER,IVC,self_consistency
+9555,Suzuki Global Ventures,investor_type,GVC,CVC,self_consistency
+9586,ZTE Capital,investor_type,GVC,CVC,self_consistency
+9587,Food Ventures,investor_type,OTHER,GVC,self_consistency
+9597,Elkem,investor_type,GVC,OTHER,self_consistency
+9648,Advanced Industries Accelerator,investor_type,OTHER,GVC,self_consistency
+9699,FirstTracks Ventures,investor_type,OTHER,IVC,self_consistency
+9710,CLP-OSEG,investor_type,GVC,CVC,self_consistency
+9722,CLP CICC Fund,investor_type,GVC,CVC,self_consistency
+9761,UpNorth Ventures,investor_type,OTHER,GVC,self_consistency
+9837,VI Ventures,green_focus,TRADITIONAL,GREEN_VC,self_consistency
+9917,Peugeot Invest,investor_type,GVC,CVC,self_consistency
+9965,Pharma Foods International Company,investor_type,GVC,IVC,self_consistency
+9972,Qatar University,investor_type,GVC,University_VC,self_consistency
+9989,Urban Capital Network,investor_type,OTHER,IVC,self_consistency
+9994,Wallenius Wilhelmsen,investor_type,GVC,CVC,self_consistency
+9998,V. Balaji,investor_type,GVC,IVC,self_consistency
+10020,Vesper Holding,investor_type,OTHER,IVC,self_consistency
+10034,Vesta System,investor_type,OTHER,IVC,self_consistency
+10101,Potato Productions,investor_type,OTHER,IVC,self_consistency
+10103,Posthaste Electronics,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+10119,Vestra-Elsaco,investor_type,OTHER,IVC,self_consistency
+10161,VentureCEO,green_focus,ESG_ALIGNED,TRADITIONAL,self_consistency
+10166,Prime Capital Partner,investor_type,IVC,OTHER,self_consistency
+10230,Vermeer Capital,investor_type,OTHER,University_VC,self_consistency
+10317,Planethic Group,investor_type,OTHER,GVC,self_consistency
+10326,Purpose Ventures,investor_type,OTHER,Impact_VC,self_consistency
+10469,Value System Asset Management,investor_type,OTHER,IVC,self_consistency
+10491,Portland Diversification Fund,investor_type,OTHER,IVC,self_consistency
+10494,Villam Ventures,investor_type,OTHER,IVC,self_consistency
+10583,Occitanie Invest,investor_type,OTHER,IVC,self_consistency
+10657,ZWC Partners,investor_type,OTHER,GVC,self_consistency
+10694,NxGen Ventures,green_focus,GREEN_VC,ESG_ALIGNED,self_consistency
+10713,Zerodha Broking,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+10747,OMV,investor_type,GVC,CVC,self_consistency
+10750,Zeynep Tolon,investor_type,GVC,IVC,self_consistency
+10767,One Degree Ventures,investor_type,OTHER,Impact_VC,self_consistency
+10805,Open People Network,investor_type,OTHER,Angel_Network,self_consistency
+10830,OneEthos,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+11027,Nokia,investor_type,GVC,IVC,self_consistency
+11037,Nippon Steel Kowa Real Estate,investor_type,GVC,CVC,self_consistency
+11092,tsingvm.com,investor_type,OTHER,GVC,self_consistency
+11118,yeSeN Energia,investor_type,OTHER,IVC,self_consistency
+11186,Zhong Jin Innovation,investor_type,OTHER,IVC,self_consistency
+11228,Norman Newman Centre for Entrepreneurship,investor_type,OTHER,University_VC,self_consistency
+11239,North 50 Venture Capital,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+11257,i/o Ventures,investor_type,OTHER,GVC,self_consistency
+11343,Pasudeco,investor_type,OTHER,IVC,self_consistency
+11439,Wolfpack Investor Network,investor_type,GVC,University_VC,self_consistency
+11442,Palmer Energy Technology,investor_type,OTHER,IVC,self_consistency
+11451,Palumni VC,investor_type,OTHER,IVC,self_consistency
+11463,Paris-Saclay Playground,investor_type,GVC,University_VC,self_consistency
+11526,Wayra UK,investor_type,GVC,CVC,self_consistency
+11539,Penn Engineering,investor_type,GVC,University_VC,self_consistency
+11600,Peter Alvarsson,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+11609,White Lion Capital,investor_type,OTHER,GVC,self_consistency
+11619,Wharton Cypher,investor_type,OTHER,University_VC,self_consistency
+11674,PeerCapital,investor_type,OTHER,Impact_VC,self_consistency
+11681,Pearl Abyss Capital,investor_type,GVC,CVC,self_consistency
+11708,Other Sources Energy Group,investor_type,OTHER,GVC,self_consistency
+11770,Y&Archer,investor_type,GVC,IVC,self_consistency
+11885,Won & Partners,investor_type,OTHER,IVC,self_consistency
+11893,PSR Crypto,investor_type,OTHER,IVC,self_consistency
+11941,Pale Blue Dot Investments AB,investor_type,OTHER,IVC,self_consistency
+11961,World of Innovation Economics,investor_type,OTHER,IVC,self_consistency
+11996,PATRIZIA,investor_type,GVC,IVC,self_consistency
+12126,T-Mobile Environment and Sustainability Fund,investor_type,GVC,CVC,self_consistency
+12184,Segenia Capital,investor_type,OTHER,IVC,self_consistency
+12325,Suzhou Angel Fund of Funds,investor_type,OTHER,IVC,self_consistency
+12362,Suzhou Shuimu Tsinghua Capital,investor_type,GVC,University_VC,self_consistency
+12385,Shanghai Chinafortune,investor_type,GVC,OTHER,self_consistency
+12428,Swiss Sustainability Challenge,investor_type,GVC,University_VC,self_consistency
+12461,Swvl,investor_type,OTHER,IVC,self_consistency
+12479,Telenor Amp,investor_type,GVC,CVC,self_consistency
+12553,Teck Resources,investor_type,GVC,CVC,self_consistency
+12567,Tengye Ventures,investor_type,OTHER,IVC,self_consistency
+12583,Tessellate Tech Ventures,investor_type,OTHER,IVC,self_consistency
+12686,SeAH Capital,investor_type,GVC,CVC,self_consistency
+12760,Seattle Pacific Foundation,investor_type,GVC,University_VC,self_consistency
+12762,Tampere University of Technology,investor_type,GVC,University_VC,self_consistency
+12780,Tba Network,investor_type,OTHER,IVC,self_consistency
+12782,Scania Growth Capital,investor_type,GVC,CVC,self_consistency
+12801,ScaleUp Endeavor,investor_type,OTHER,IVC,self_consistency
+12809,Tech Launch Arizona,investor_type,GVC,University_VC,self_consistency
+12814,SchindlerAM Ventures,investor_type,GVC,CVC,self_consistency
+12845,Tata Steel,investor_type,GVC,CVC,self_consistency
+12854,Schreiber Ventures,investor_type,OTHER,IVC,self_consistency
+12951,Social Impact,investor_type,OTHER,IVC,self_consistency
+13020,Starttech Ventures,investor_type,OTHER,IVC,self_consistency
+13036,Startup Creasphere,investor_type,GVC,CVC,self_consistency
+13047,Startup Kaist,investor_type,GVC,University_VC,self_consistency
+13245,Solidarity,investor_type,OTHER,Impact_VC,self_consistency
+13259,Sumitomo Shigeru,investor_type,GVC,CVC,self_consistency
+13323,Stu Clark Centre for Entrepreneurship,investor_type,GVC,University_VC,self_consistency
+13327,Shumka Centre for Creative Entrepreneurship,investor_type,GVC,University_VC,self_consistency
+13362,Supergravity Capital,investor_type,OTHER,IVC,self_consistency
+13376,Supack Industries,green_focus,TRADITIONAL,GREEN_VC,self_consistency
+13474,Stena Ventures,investor_type,GVC,CVC,self_consistency
+13518,Steelpoint Capital Partners,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+13532,Singapore Angel Network,investor_type,OTHER,Angel_Network,self_consistency
+13533,Singapore Management University,investor_type,GVC,University_VC,self_consistency
+13543,Sino Group,investor_type,GVC,CVC,self_consistency
+13556,Straightline Ventures,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+13656,RevTech Ventures,investor_type,OTHER,IVC,self_consistency
+13680,Resilient Ventures,investor_type,IVC,Impact_VC,self_consistency
+13713,Tufts Gordon Institute,investor_type,GVC,University_VC,self_consistency
+13754,Regen Network,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+13776,UM Ventures,investor_type,GVC,University_VC,self_consistency
+13884,Triple Five,investor_type,OTHER,IVC,self_consistency
+13989,Tsinghua Holdings,investor_type,GVC,University_VC,self_consistency
+13999,Ritual Capital,investor_type,OTHER,IVC,self_consistency
+14027,True Light Capital,investor_type,OTHER,IVC,self_consistency
+14040,TroyLabs,investor_type,OTHER,University_VC,self_consistency
+14045,UPS Ventures,investor_type,GVC,CVC,self_consistency
+14120,Rady School of Management Endowment,investor_type,GVC,University_VC,self_consistency
+14155,R & R Investments,investor_type,OTHER,IVC,self_consistency
+14263,Realum.cloud,investor_type,OTHER,Angel_Network,self_consistency
+14346,Unicamp,investor_type,GVC,University_VC,self_consistency
+14372,Raiven Capital,investor_type,OTHER,IVC,self_consistency
+14448,SNV Global,investor_type,OTHER,IVC,self_consistency
+14477,The Warehouse Group,investor_type,GVC,OTHER,self_consistency
+14499,The Propell Group,investor_type,OTHER,IVC,self_consistency
+14528,SRI Ventures,investor_type,GVC,University_VC,self_consistency
+14609,SLVC,investor_type,OTHER,IVC,self_consistency
+14609,SLVC,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+14613,Thien Viet Securities,investor_type,OTHER,IVC,self_consistency
+14651,The Board,investor_type,OTHER,Angel_Network,self_consistency
+14753,The Haskell Company,investor_type,OTHER,IVC,self_consistency
+14782,SWAN Venture Fund,investor_type,OTHER,IVC,self_consistency
+14788,The Finger Group,investor_type,OTHER,IVC,self_consistency
+14824,The German Warema Group,green_focus,TRADITIONAL,GREEN_VC,self_consistency
+14914,TomyK,investor_type,OTHER,IVC,self_consistency
+15000,Rovira i Virgili University,investor_type,University_VC,GVC,self_consistency
+15008,Toyota Tsusho Canada,investor_type,GVC,CVC,self_consistency
+15061,SCE Freiraum Ventures,investor_type,OTHER,CVC,self_consistency
+15062,SCI investments,investor_type,GVC,OTHER,self_consistency
+15076,SCP Ventures,investor_type,OTHER,IVC,self_consistency
+15126,Thynk Ventures,investor_type,OTHER,IVC,self_consistency
+15157,Tokopedia,investor_type,OTHER,IVC,self_consistency
+15167,Toho Leo,investor_type,OTHER,GVC,self_consistency
+15311,Cultivo,investor_type,OTHER,IVC,self_consistency
+15366,Crush It Ventures,investor_type,Impact_VC,GVC,self_consistency
+15369,Crown Terrace Capital,investor_type,OTHER,IVC,self_consistency
+15384,ComfortDelGro Ventures,investor_type,GVC,CVC,self_consistency
+15414,College Green Ventures,investor_type,GVC,University_VC,self_consistency
+15430,Columbia SIPA,investor_type,GVC,University_VC,self_consistency
+15445,Copenhagen Fintech Lab,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+15551,Danieli & C,investor_type,OTHER,IVC,self_consistency
+15687,DPD UK,investor_type,GVC,CVC,self_consistency
+15760,Daniel Luhde-Thompson,investor_type,GVC,IVC,self_consistency
+15796,Dallal Family Office,investor_type,OTHER,IVC,self_consistency
+15806,Challenjers Venture,investor_type,OTHER,IVC,self_consistency
+15854,CentraleSupélec,investor_type,GVC,University_VC,self_consistency
+16034,CavinKare,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+16043,Cedas Foundation,investor_type,GVC,Impact_VC,self_consistency
+16144,City University of Hong Kong,investor_type,GVC,University_VC,self_consistency
+16154,Citi SPRINT,investor_type,OTHER,Bank_VC,self_consistency
+16155,Cistern Capital,green_focus,ESG_ALIGNED,GREEN_VC,self_consistency
+16181,Cogniphy,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+16224,Cloud Angel Fund,investor_type,OTHER,IVC,self_consistency
+16232,China UnionPay,green_focus,TRADITIONAL,GREEN_VC,self_consistency
+16384,Escola Gervasi,investor_type,GVC,University_VC,self_consistency
+16400,Etohum,investor_type,OTHER,IVC,self_consistency
+16504,Everplus Capital,investor_type,OTHER,IVC,self_consistency
+16722,Fidève Groupe,investor_type,OTHER,GVC,self_consistency
+16820,FS Life Science Investment,investor_type,Angel_Network,Impact_VC,self_consistency
+16856,FA holding,investor_type,OTHER,IVC,self_consistency
+16922,Faisal Al-Rajhi,investor_type,GVC,OTHER,self_consistency
+16964,Dong Yi Ri Sheng Home Decoration Group Company,investor_type,GVC,IVC,self_consistency
+16967,Doright Co,investor_type,GVC,OTHER,self_consistency
+16970,Doosan,investor_type,GVC,CVC,self_consistency
+17031,Drew Lane Capital,investor_type,OTHER,IVC,self_consistency
+17185,Digitech Venture Capital Fund,investor_type,OTHER,IVC,self_consistency
+17265,Eksim Ventures,investor_type,OTHER,IVC,self_consistency
+17276,Ecovative,investor_type,OTHER,IVC,self_consistency
+17296,Eden Impact,investor_type,Impact_VC,IVC,self_consistency
+17366,Elig Capital,investor_type,OTHER,IVC,self_consistency
+17411,EBM Capital,investor_type,OTHER,IVC,self_consistency
+17431,E.ON Venture Partners,investor_type,GVC,CVC,self_consistency
+17475,Eastern Pacific Shipping,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+17483,Early Impact Ventures,investor_type,OTHER,IVC,self_consistency
+17543,Anchor Ship Partners,investor_type,OTHER,IVC,self_consistency
+17545,Anaïs Ventures,investor_type,OTHER,IVC,self_consistency
+17682,All-Stars Investment,investor_type,OTHER,IVC,self_consistency
+17686,Allegheny Cleantech University Prize Competition,investor_type,GVC,University_VC,self_consistency
+17740,Alta Park Capital,investor_type,OTHER,IVC,self_consistency
+17776,Allied Venture Partners,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+17882,Asahi Media Lab Ventures,investor_type,OTHER,IVC,self_consistency
+17988,Angels4Women,investor_type,OTHER,Angel_Network,self_consistency
+18057,Anya Capital,investor_type,OTHER,IVC,self_consistency
+18170,Abad Capital,investor_type,OTHER,IVC,self_consistency
+18344,4Ventures,investor_type,OTHER,IVC,self_consistency
+18354,4Catalyzer,green_focus,GREEN_VC,ESG_ALIGNED,self_consistency
+18356,49th State Angel Fund,investor_type,OTHER,Angel_Network,self_consistency
+18519,Agility Ventures,investor_type,GVC,IVC,self_consistency
+18573,Accenture,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+18594,Africa Growth,investor_type,OTHER,GVC,self_consistency
+18595,African Food Changemakers,investor_type,OTHER,GVC,self_consistency
+18693,Borzouyeh Poursharif,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+18738,Brian Balfour,investor_type,OTHER,IVC,self_consistency
+18761,Brian Traquair,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+18773,BraVenture,investor_type,OTHER,GVC,self_consistency
+18783,Boğaziçi Ventures,investor_type,GVC,University_VC,self_consistency
+18829,Black Pearls VC,investor_type,OTHER,IVC,self_consistency
+18861,Binocular Investments,investor_type,OTHER,IVC,self_consistency
+18884,Blue Investment Group,investor_type,OTHER,IVC,self_consistency
+18925,BluSmart,investor_type,OTHER,IVC,self_consistency
+18941,Bloom Foundation,investor_type,GVC,Impact_VC,self_consistency
+18954,CNBX Pharmaceuticals,investor_type,GVC,IVC,self_consistency
+18973,CS Capital,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+19029,Cambridge Future Tech,investor_type,OTHER,IVC,self_consistency
+19059,California Clean Energy Angel Fund,investor_type,OTHER,Angel_Network,self_consistency
+19131,Brightlight Ventures,investor_type,OTHER,IVC,self_consistency
+19192,CBS Bio Platforms,investor_type,OTHER,IVC,self_consistency
+19218,Business Angels FrankfurtRheinMain,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+19289,Aviva Ventures,investor_type,GVC,CVC,self_consistency
+19314,BRV Capital Management,investor_type,OTHER,IVC,self_consistency
+19319,BP Capital,investor_type,GVC,CVC,self_consistency
+19361,BIG Impact Co,investor_type,OTHER,Impact_VC,self_consistency
+19388,Aston University Endowment,investor_type,GVC,University_VC,self_consistency
+19425,AsianTrust Capital Partners,investor_type,OTHER,IVC,self_consistency
+19451,AtkinsRéalis Group,investor_type,GVC,IVC,self_consistency
+19512,Aubrey Capital,investor_type,OTHER,IVC,self_consistency
+19516,Audeo Ventures,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+19518,Audi,investor_type,GVC,CVC,self_consistency
+19527,Bengt Walerud,investor_type,OTHER,Angel_Network,self_consistency
+19699,Barclays Accelerator,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+19715,Baiada Institute of Entrepreneurship,investor_type,GVC,University_VC,self_consistency
+19725,Bangkok Business Challenge at Sasin,investor_type,GVC,University_VC,self_consistency
+19794,Bata Shoe Foundation,investor_type,GVC,Impact_VC,self_consistency
+19815,Leia Capital,investor_type,Angel_Network,Impact_VC,self_consistency
+19830,Leonora Ventures,investor_type,OTHER,IVC,self_consistency
+19840,Leo Lion,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+19843,Lee's Pharmaceutical Holdings,investor_type,GVC,CVC,self_consistency
+19855,Lavi Fund,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+19865,Ledgeways Ventures,investor_type,OTHER,IVC,self_consistency
+19944,Lianbang Private Equity Fund,investor_type,OTHER,IVC,self_consistency
+19961,LGVP,investor_type,GVC,CVC,self_consistency
+19972,LVL1 Group,investor_type,OTHER,IVC,self_consistency
+19986,LMNT Ventures,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+20000,Kutnick Family Office,investor_type,OTHER,IVC,self_consistency
+20007,LC Ventures,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+20024,La base entrepreneuriale HEC Montréal,investor_type,GVC,University_VC,self_consistency
+20128,MGM Innova Capital,investor_type,OTHER,IVC,self_consistency
+20158,MA Growth Ventures,investor_type,OTHER,IVC,self_consistency
+20186,MIT Energy Ventures,investor_type,GVC,University_VC,self_consistency
+20210,MMC Technology Ventures,investor_type,OTHER,IVC,self_consistency
+20231,MTM KULeuven,investor_type,GVC,University_VC,self_consistency
+20248,London Borough of Southwark Pension Fund,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+20270,Long Tail Ventures.,investor_type,OTHER,IVC,self_consistency
+20273,Local Investment YYC Cooperative,investor_type,OTHER,IVC,self_consistency
+20281,Liquid Ventures,investor_type,OTHER,IVC,self_consistency
+20337,Luminance Brands,investor_type,OTHER,GVC,self_consistency
+20348,Lotus-NUS Fund,investor_type,GVC,University_VC,self_consistency
+20369,Lowe's Ventures,investor_type,GVC,CVC,self_consistency
+20389,KPMG Australia,investor_type,GVC,IVC,self_consistency
+20412,KX Knowledge Xchange,investor_type,GVC,University_VC,self_consistency
+20451,KF20 Capital,investor_type,OTHER,GVC,self_consistency
+20458,Karl Kleissner,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+20471,Karlssons Charkuterifabrik,investor_type,OTHER,IVC,self_consistency
+20493,Kalpataru Ventures,investor_type,OTHER,Angel_Network,self_consistency
+20629,Jx Nippon Mining & Metals Usa,investor_type,GVC,CVC,self_consistency
+20653,Julien Belliato,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+20696,Knauf Interfer,investor_type,OTHER,GVC,self_consistency
+20729,Kit-Su Lee,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+21034,NFDG,investor_type,GVC,OTHER,self_consistency
+21044,NICE Investment Partners,investor_type,OTHER,IVC,self_consistency
+21048,NP Consulting,investor_type,OTHER,IVC,self_consistency
+21141,Mir Ventures,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+21161,Misra Group,investor_type,OTHER,IVC,self_consistency
+21174,Moody's,investor_type,GVC,OTHER,self_consistency
+21185,MontBlu Capital,investor_type,OTHER,IVC,self_consistency
+21234,Monex Ventures,investor_type,OTHER,IVC,self_consistency
+21252,New Tsinghua Unigroup,investor_type,GVC,University_VC,self_consistency
+21319,Nicholas Pann,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+21390,Nanyang Realty,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+21423,NXTUS,investor_type,OTHER,IVC,self_consistency
+21508,National Geographic Partners,green_focus,TRADITIONAL,GREEN_VC,self_consistency
+21561,Marwari Catalysts Ventures,investor_type,OTHER,CVC,self_consistency
+21582,Martin Frost,investor_type,GVC,IVC,self_consistency
+21611,Matthew Lynde,investor_type,GVC,IVC,self_consistency
+21653,Matmut Innovation,investor_type,GVC,CVC,self_consistency
+21885,Midwest Wealth Ventures,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency

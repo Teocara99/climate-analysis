@@ -1,0 +1,902 @@
+[
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The U.S. Department of Energy is a government ministry, making it a GVC investor. Additionally, the department's focus on energy projects indicates a green focus.",
+  "investor_id": 1,
+  "investor_name": "U.S. Department of Energy"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "medium",
+  "confidence_green": "high",
+  "reasoning": "Plug and Play Tech Center is not explicitly categorized as GVC, CVC, IVC, Impact_VC, Bank_VC, Angel_Network, or University_VC. However, it has a green focus as it is a global startup accelerator with a focus on various industries including sustainability and clean technology.",
+  "investor_id": 2,
+  "investor_name": "Plug and Play Tech Center"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Innovate UK is a government-funded organization in the UK, making it a GVC. Its mission is to drive innovation and support businesses, with a focus on green technologies.",
+  "investor_id": 3,
+  "investor_name": "Innovate UK"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "NSF is an independent federal agency, making it a GVC. Its mission supports science and engineering in all 50 states and U.S territories.",
+  "investor_id": 4,
+  "investor_name": "US National Science Foundation"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "SOSV is an independent private firm not owned by government, a corporation, university, or bank. However, it specializes in deep tech ventures which often include green and climate-related projects.",
+  "investor_id": 5,
+  "investor_name": "SOSV"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "ESG_ALIGNED",
+  "confidence_type": "medium",
+  "confidence_green": "high",
+  "reasoning": "Techstars is an independent private firm not owned by government, a corporation, university, or bank. However, their focus on early-stage startups building a better future for everyone could indicate an ESG alignment.",
+  "investor_id": 6,
+  "investor_name": "Techstars"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The European Innovation Council is a government-funded program, making it a GVC. Its focus on innovation often includes green and climate projects.",
+  "investor_id": 7,
+  "investor_name": "European Innovation Council"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Climate Capital is an independent private firm not owned by government, a corporation, university, or bank. It focuses on early stage climate startups, indicating a green focus.",
+  "investor_id": 8,
+  "investor_name": "Climate Capital"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "InnoEnergy is industrializing clean tech innovation for a net zero economy, and it is funded by the European Union's Horizon 2020 program, making it a government-funded venture capital investor.",
+  "investor_id": 9,
+  "investor_name": "InnoEnergy"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "TRADITIONAL",
+  "confidence_type": "low",
+  "confidence_green": "low",
+  "reasoning": "The provided data does not specify whether MassChallenge is a government, corporate, university, or independent venture capital investor. Therefore, the 'investor_type' classification is 'OTHER'. The green focus cannot be determined without additional information.",
+  "investor_id": 10,
+  "investor_name": "MassChallenge"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "medium",
+  "confidence_green": "high",
+  "reasoning": "The Creative Destruction Lab is not a government entity, corporation, university, bank, or angel network. While it's not explicitly clear if it's an independent private firm (IVC), it does seem to have a focus on green technologies through its AI program.",
+  "investor_id": 11,
+  "investor_name": "Creative Destruction Lab"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The Cleantech Open is a private, independent firm not owned by government, a corporation, university, or bank. Its focus on clean technology indicates a green focus.",
+  "investor_id": 12,
+  "investor_name": "Cleantech Open"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The investor 'Breakthrough Energy' is focused on empowering innovators to build the future of energy, which aligns with government-led initiatives. The name itself suggests a mission-driven approach, typically associated with green ventures.",
+  "investor_id": 13,
+  "investor_name": "Breakthrough Energy"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "TRADITIONAL",
+  "confidence_type": "medium",
+  "confidence_green": "low",
+  "reasoning": "Y Combinator is an independent private firm not owned by government, a corporation, university, or bank. However, their focus on early-stage startups does not necessarily indicate a green focus.",
+  "investor_id": 14,
+  "investor_name": "Y Combinator"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "EIT Climate-KIC is Europe's leading climate innovation agency and community, which aligns with a government body (European Institute of Innovation and Technology) bridging the gap between climate commitments and current reality.",
+  "investor_id": 15,
+  "investor_name": "EIT Climate-KIC"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Lowercarbon Capital is an independent private firm not owned by government, a corporation, university, or bank. Its focus on reducing CO2 emissions and carbon sequestration aligns with green ventures.",
+  "investor_id": 16,
+  "investor_name": "Lowercarbon Capital"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Greentown Labs is an independent private firm not owned by government, a corporation, university, or bank. Its focus on bringing innovation for the biggest opportunity of our lifetime (implied to be climate-related) indicates a green focus.",
+  "investor_id": 17,
+  "investor_name": "Greentown Labs"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Horizon 2020 is a European Union research and innovation funding programme, which falls under the category of GVC as it is publicly funded by the government.",
+  "investor_id": 18,
+  "investor_name": "Horizon 2020"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "EIT Food is Europe\u2019s food innovation community, funded by the European Institute of Innovation and Technology (EIT), which is a body of the European Union. Therefore, it falls under the category of GVC.",
+  "investor_id": 19,
+  "investor_name": "EIT Food"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The investor 'Third Derivative' is an independent private firm not owned by government, a corporation, university, or bank. Its focus on climate tech innovation suggests a green focus.",
+  "investor_id": 20,
+  "investor_name": "Third Derivative"
+ },
+ {
+  "investor_type": "Impact_VC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "ImpactAssets is a private, non-government mission-driven fund that focuses on impact investing and philanthropic giving for positive change. It does not fit the definition of any other investor type.",
+  "investor_id": 21,
+  "investor_name": "Impact Assets"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "ESG_ALIGNED",
+  "confidence_type": "medium",
+  "confidence_green": "high",
+  "reasoning": "Google Accelerator is not a government entity, corporation, university, bank, or angel network, so it falls under the OTHER category. However, as Google is known for its commitment to sustainability and ESG principles, it can be considered ESG-aligned.",
+  "investor_id": 22,
+  "investor_name": "Google Accelerator"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The investor 'Sustainable Development Technology Canada' is a government ministry, as indicated by its name. Therefore, it falls under the GVC category.",
+  "investor_id": 23,
+  "investor_name": "Sustainable Development Technology Canada"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Bpifrance is a state development bank, which falls under the category of GVC as it is publicly funded by the French government.",
+  "investor_id": 24,
+  "investor_name": "Bpifrance"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Energy Impact Partners is an independent private firm not owned by government, a corporation, university, or bank. Its focus on driving innovation for a better energy future indicates a green focus.",
+  "investor_id": 25,
+  "investor_name": "Energy Impact Partners"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "VentureWell is an independent private firm not owned by government, a corporation, university, or bank. Its mission to solve the world's biggest challenges suggests a green focus.",
+  "investor_id": 26,
+  "investor_name": "VentureWell"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "IndieBio is an independent private firm not owned by government, a corporation, university, or bank. It focuses on biotech startups, which can include green and climate-related projects, making it a Green VC.",
+  "investor_id": 27,
+  "investor_name": "IndieBio"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "TRADITIONAL",
+  "confidence_type": "low",
+  "confidence_green": "high",
+  "reasoning": "The investor 'Alumni Ventures' is not clearly tied to one owner type, such as a government body, corporation, university, bank, or angel network. However, since it focuses on providing venture capital exposure for accredited investors, it is likely traditionally focused and not specifically a green ",
+  "investor_id": 28,
+  "investor_name": "Alumni Ventures"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "TRADITIONAL",
+  "confidence_type": "low",
+  "confidence_green": "low",
+  "reasoning": "No description provided to determine the investor type or its focus.",
+  "investor_id": 29,
+  "investor_name": "Remove"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "TRADITIONAL",
+  "confidence_type": "low",
+  "confidence_green": "low",
+  "reasoning": "Antler is described as an early-stage investor, but there's no clear indication that it is a government venture capital (GVC), corporate venture capital (CVC), university venture capital (University_VC), impact venture capital (Impact_VC), bank venture capital (Bank_VC), or angel network (Angel_Netw",
+  "investor_id": 30,
+  "investor_name": "Antler"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The United States Department of Agriculture is a government ministry, making it a GVC. Additionally, the department's focus on agriculture suggests a green focus.",
+  "investor_id": 31,
+  "investor_name": "United States Department of Agriculture"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "medium",
+  "confidence_green": "high",
+  "reasoning": "Collaborative Fund is an independent private firm not owned by government, a corporation, university, or bank. However, the description mentions that they invest in entrepreneurs pushing the world forward, which could imply a focus on green and sustainable projects.",
+  "investor_id": 32,
+  "investor_name": "Collaborative Fund"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The investor 'Free Electrons' works alongside world leading energy utilities, which are typically government-owned or regulated entities. Therefore, it is classified as a GVC.",
+  "investor_id": 33,
+  "investor_name": "Free Electrons"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "TRADITIONAL",
+  "confidence_type": "medium",
+  "confidence_green": "low",
+  "reasoning": "The investor is not clearly tied to one owner type as it's an incubator program. However, due to the lack of information about its funding source or affiliation with a specific government body, university, corporation, bank, or angel network, it cannot be definitively classified.",
+  "investor_id": 34,
+  "investor_name": "Tech Incubator Program for Startup"
+ },
+ {
+  "investor_type": "Impact_VC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Elemental Impact is a nonprofit investor in climate technologies, indicating it's an independent private firm with a mission-driven focus. It's not affiliated with a government body, university, corporation, bank or angel network, so it falls under the Impact_VC category.",
+  "investor_id": 35,
+  "investor_name": "Elemental Impact"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Leading Cities is a global nonprofit, not affiliated with a government, corporation, university, bank, or angel network. However, their focus on building community resilience and turning climate solutions into real-world impact suggests a green focus.",
+  "investor_id": 36,
+  "investor_name": "Leading Cities"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Enterprise Ireland is a government agency responsible for supporting Irish businesses, making it a GVC.",
+  "investor_id": 37,
+  "investor_name": "Enterprise Ireland"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Artesian is an independent private firm not owned by government, a corporation, university, or bank. The focus on impact investment strategies suggests a green focus.",
+  "investor_id": 38,
+  "investor_name": "Artesian"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "TRADITIONAL",
+  "confidence_type": "low",
+  "confidence_green": "low",
+  "reasoning": "No description provided to determine if Big Idea Ventures is a government venture capital (GVC), corporate venture capital (CVC), independent venture capital (IVC), impact venture capital (Impact_VC), bank venture capital (Bank_VC), angel network, university venture capital, or other. Similarly, no ",
+  "investor_id": 39,
+  "investor_name": "Big Idea Ventures"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "MCJ is an independent private firm not owned by government, a corporation, university, or bank. The description mentions backing founders driving the transition of energy and industry and solving climate change impacts, indicating a focus on green ventures.",
+  "investor_id": 40,
+  "investor_name": "MCJ"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Gaingels is an independent private firm not owned by government, a corporation, university, or bank. Its focus on investing in companies resolved on building diverse and inclusive teams, which can be considered as promoting positive environmental, social, and governance (ESG) practices, making it a ",
+  "investor_id": 41,
+  "investor_name": "Gaingels"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Venture Kick is an independent private firm not owned by government, a corporation, university, or bank. Its focus on doubling the number of spin-offs from Swiss universities and accelerating their time-to-market suggests it primarily invests in green technologies developed at universities, making i",
+  "investor_id": 42,
+  "investor_name": "Venture Kick"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The European Commission is a government body, making it a GVC. Its political priorities and policies are focused on climate-related projects.",
+  "investor_id": 43,
+  "investor_name": "European Commission"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The name 'For ClimateTech' suggests a focus on climate technology, which aligns with government-funded ventures focused on green initiatives. As no other ownership type is specified, it can be classified as a GVC.",
+  "investor_id": 44,
+  "investor_name": "For ClimateTech"
+ },
+ {
+  "investor_type": "Impact_VC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The investor 'Village Capital' is a private, mission-driven fund that focuses on impact-creating startups solving global problems. Given its focus on impact and creating solutions for the world's biggest problems, it can be classified as an Impact_VC.",
+  "investor_id": 45,
+  "investor_name": "Village Capital"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "medium",
+  "confidence_green": "high",
+  "reasoning": "Unreasonable Impact is a mission-driven organization that focuses on supporting and scaling high-impact startups, but it's not affiliated with a specific government body, corporation, university, bank, or angel network. Therefore, it falls under the OTHER category. However, given its focus on high-i",
+  "investor_id": 46,
+  "investor_name": "Unreasonable Impact"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "TRADITIONAL",
+  "confidence_type": "low",
+  "confidence_green": "low",
+  "reasoning": "The description does not provide enough information to definitively classify HAX as a specific investor type. It appears to be an incubator or accelerator, but it's not explicitly tied to a government, corporation, university, bank, or angel network.",
+  "investor_id": 47,
+  "investor_name": "HAX"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "E8 is a venture capital investor that does not have a clear affiliation with a private company, university, bank, or angel network. Given its lack of association with non-government entities, it is likely a government venture capital (GVC) entity.",
+  "investor_id": 48,
+  "investor_name": "E8"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Temasek Holdings is a sovereign wealth fund of the government of Singapore, making it a GVC.",
+  "investor_id": 49,
+  "investor_name": "Temasek Holdings"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Massachusetts Clean Energy Center is a state economic development agency, which falls under the GVC category as it is publicly funded by the Massachusetts government.",
+  "investor_id": 50,
+  "investor_name": "Massachusetts Clean Energy Center"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The Tech Nation Group is a government-backed organization in the UK that supports tech startups. It falls under the category of GVC.",
+  "investor_id": 51,
+  "investor_name": "Tech Nation Group"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Scottish Enterprise is a government business agency, making it a GVC. Its mission is to support businesses in Scotland, which aligns with green ventures.",
+  "investor_id": 52,
+  "investor_name": "Scottish Enterprise"
+ },
+ {
+  "investor_type": "Impact_VC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The investor Prelude Ventures is a private, mission-driven fund that focuses on early-stage startups to mitigate climate change. This aligns with the definition of Impact_VC.",
+  "investor_id": 53,
+  "investor_name": "Prelude Ventures"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "medium",
+  "confidence_green": "high",
+  "reasoning": "The investor 'Startupbootcamp Holding' is an accelerator/incubator that provides access to mentors, partners, and investors. While not explicitly a government, corporate, university, bank, or angel network, it falls under the 'OTHER' category as it is not clearly tied to one owner type.",
+  "investor_id": 54,
+  "investor_name": "Startupbootcamp Holding"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The Los Angeles Cleantech Incubator (LACI) is an incubator focused on creating a green economy, which aligns with the definition of GREEN_VC. However, it's not directly affiliated with a government body, university, corporation, bank, or angel network, making it OTHER.",
+  "investor_id": 55,
+  "investor_name": "Los Angeles Cleantech Incubator"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The investor, SFC Capital, is a UK's leading SEIS Fund offering tax-efficient investments in innovative startups. This aligns with the definition of GVC as it is publicly funded or run by a government body.",
+  "investor_id": 56,
+  "investor_name": "SFC Capital"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Activate Global is an independent private firm not owned by government, a corporation, university, or bank. Its focus on building the community that drives science into impact and transforming hard tech into real-world solutions suggests a green focus.",
+  "investor_id": 57,
+  "investor_name": "Activate Global"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "MassVentures is a venture capital firm focused on the Massachusetts innovation economy, which suggests it is affiliated with a state (in this case, Massachusetts). As such, it falls under the category of GVC.",
+  "investor_id": 58,
+  "investor_name": "MassVentures"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "medium",
+  "confidence_green": "high",
+  "reasoning": "Brinc is an international accelerator and venture builder that focuses on IoT, AI, robotics, and sustainability technologies. While not a government entity or university, it's classified as OTHER due to its role as an accelerator. Given its focus on sustainability technologies, it is considered a Gr",
+  "investor_id": 59,
+  "investor_name": "Brinc"
+ },
+ {
+  "investor_type": "CVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Shell Ventures is the venture arm of a non-government company (Royal Dutch Shell), making it a CVC. Given that Royal Dutch Shell is a major oil and gas company, it has a significant focus on green ventures to reduce its carbon footprint.",
+  "investor_id": 60,
+  "investor_name": "Shell Ventures"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "TRADITIONAL",
+  "confidence_type": "low",
+  "confidence_green": "medium",
+  "reasoning": "The investor 'gener8tor' is not clearly tied to one owner type as it seems to be a platform that connects various entities within the creative economy. However, since there's no indication of it being a government, corporation, university, bank, or angel network, it falls under the 'OTHER' category.",
+  "investor_id": 61,
+  "investor_name": "gener8tor"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Congruent Ventures is an independent venture capital firm, not owned by government, a corporation, university, or bank. The focus on clean energy and sustainability indicates a green focus.",
+  "investor_id": 62,
+  "investor_name": "Congruent Ventures"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Almi Invest is a government-backed venture capital investor in Sweden, as indicated by its name and description. It invests in startups in early stages and supports companies to grow sustainably, which aligns with the green focus of GVC.",
+  "investor_id": 63,
+  "investor_name": "Almi Invest"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "EnergyLab is an accelerator and innovation ecosystem dedicated to reaching net zero emissions, which aligns with a green focus. However, it's not clearly tied to one owner type as stated in the description, so it falls under OTHER.",
+  "investor_id": 64,
+  "investor_name": "Energy Laboratory"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "S2G Investments is an independent private firm not owned by government, a corporation, university, or bank. It focuses on venture and growth-stage businesses across food & agriculture, oceans, and energy which are all green sectors.",
+  "investor_id": 65,
+  "investor_name": "S2G Investments"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "TRADITIONAL",
+  "confidence_type": "low",
+  "confidence_green": "medium",
+  "reasoning": "The description provided does not specify whether Rockstart is a government entity, corporation, university, bank, or angel network. Therefore, it falls under the 'OTHER' category. However, as Rockstart seems to focus on startups, it might have an ESG-aligned approach, but without more specific info",
+  "investor_id": 66,
+  "investor_name": "Rockstart"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Arpa-E is a government agency under the U.S. Department of Energy, making it a GVC.",
+  "investor_id": 67,
+  "investor_name": "Arpa-E"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The European Union is a government body, making it a GVC. Its focus on climate-related projects indicates a green focus.",
+  "investor_id": 68,
+  "investor_name": "European Union"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Blue Horizon Corporation is an independent private firm not owned by government, a corporation, university, or bank. Its focus on accelerating the transition to a sustainable food system indicates a green focus.",
+  "investor_id": 69,
+  "investor_name": "Blue Horizon Corporation"
+ },
+ {
+  "investor_type": "Impact_VC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The Grantham Foundation is a private, non-government mission-driven fund focused on protecting and improving the health of the global environment. It falls under Impact_VC category.",
+  "investor_id": 70,
+  "investor_name": "The Grantham Foundation"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "medium",
+  "confidence_green": "high",
+  "reasoning": "The investor 'DCVC' is an independent venture capital firm, not owned by a government, corporation, university, bank or angel network. However, the focus on deep tech ventures could suggest a green focus, but without specific information about their portfolio or mission, it's classified as medium co",
+  "investor_id": 71,
+  "investor_name": "DCVC"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The National Science Foundation Innovation Corps Program is a government-funded program, making it a GVC.",
+  "investor_id": 72,
+  "investor_name": "National Science Foundation Innovation Corps Program"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "TRADITIONAL",
+  "confidence_type": "low",
+  "confidence_green": "low",
+  "reasoning": "Entrepreneurs First is an independent private firm not owned by government, a corporation, university, or bank. However, the description does not provide any information about their focus on green ventures.",
+  "investor_id": 73,
+  "investor_name": "Entrepreneurs First"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The investor 'Neglected Climate Opportunities' does not fit any of the other categories. As it is not a private firm, corporation, university, bank, or angel network, it is likely a government-funded venture capitalist, making it a GVC.",
+  "investor_id": 74,
+  "investor_name": "Neglected Climate Opportunities"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Grow London is a venture capital investor affiliated with the Greater London Authority, making it a Government Venture Capital (GVC) investor.",
+  "investor_id": 75,
+  "investor_name": "Grow London"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "TRADITIONAL",
+  "confidence_type": "medium",
+  "confidence_green": "low",
+  "reasoning": "Engine Ventures is an independent private firm not owned by government, a corporation, university, or bank. However, the description 'Tough Tech founders' does not provide enough information to determine if they have a green focus.",
+  "investor_id": 76,
+  "investor_name": "Engine Ventures"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The investor 'High-Tech Gr\u00fcnderfonds' is a government venture capital fund as it is publicly funded and run by a government body (Gr\u00fcnderfonds is a German term for seed money for startups, which is usually provided by the government).",
+  "investor_id": 77,
+  "investor_name": "High-Tech Gr\u00fcnderfonds"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The California Energy Commission is a state agency leading the state to a 100 percent clean energy future, making it a GVC.",
+  "investor_id": 78,
+  "investor_name": "California Energy Commission"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "medium",
+  "confidence_green": "high",
+  "reasoning": "Thrive AgriFood does not fit the criteria for any specific investor type mentioned, but it focuses on agriculture and food, which can be considered green. However, without more information about its ownership or affiliations, the classification is based on medium confidence.",
+  "investor_id": 79,
+  "investor_name": "Thrive AgriFood"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Valor Equity Partners is an independent private firm not owned by government, a corporation, university, or bank. They have a focus on green investments.",
+  "investor_id": 80,
+  "investor_name": "Valor Equity Partners"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The United States Department of War is a government ministry, making it a GVC. Given its name, it's likely that it focuses on green initiatives related to war and defense, making it a GREEN_VC.",
+  "investor_id": 81,
+  "investor_name": "United States Department of War"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Khosla Ventures is an independent private firm not owned by government, a corporation, university, or bank. It focuses on green technology investments.",
+  "investor_id": 82,
+  "investor_name": "Khosla Ventures"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "medium",
+  "confidence_green": "high",
+  "reasoning": "Capricorn Investment Group is not a government entity, corporation, university, bank, or angel network. However, it's known for its focus on sustainable investing and clean energy, making it a Green Venture Capital (GVC) with a medium confidence level.",
+  "investor_id": 83,
+  "investor_name": "Capricorn Investment Group"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "EIT Urban Mobility is committed to decarbonising the mobility sector and accelerating the transition to sustainable urban mobility, which aligns with a government-funded venture focused on green initiatives.",
+  "investor_id": 84,
+  "investor_name": "EIT KIC Urban Mobility"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "TRADITIONAL",
+  "confidence_type": "medium",
+  "confidence_green": "medium",
+  "reasoning": "Capital Factory is not a government ministry, department, agency, council, commission, public bank, state/national fund, or publicly-funded program, so it's not GVC. It's also not the venture arm of a non-government company (CVC), university (University_VC), independent private firm (IVC), impact-fo",
+  "investor_id": 85,
+  "investor_name": "Capital Factory"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "AgFunder is an independent private firm not owned by government, a corporation, university, or bank. Its focus on deeptech platforms across AI, biotech, robotics, manufacturing, climate, and materials indicates a green focus.",
+  "investor_id": 86,
+  "investor_name": "AgFunder"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Investing in the Future of Protein suggests a focus on sustainable and innovative solutions, making it an Independent Venture Capital (IVC) with a Green Focus (GREEN_VC)",
+  "investor_id": 87,
+  "investor_name": "CPT Capital"
+ },
+ {
+  "investor_type": "CVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Aramco Ventures is the venture arm of a non-government company (Saudi Aramco) and its focus on achieving net-zero greenhouse gas emissions across its wholly-owned operated assets by 2050 indicates a green focus.",
+  "investor_id": 88,
+  "investor_name": "Aramco Ventures"
+ },
+ {
+  "investor_type": "Impact_VC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The investor 'Carbon13' is a private, mission-driven fund that focuses on building and backing ventures addressing Earth\u2019s critical life support systems. This aligns with the definition of an Impact_VC.",
+  "investor_id": 89,
+  "investor_name": "Carbon13"
+ },
+ {
+  "investor_type": "Angel_Network",
+  "green_focus": "TRADITIONAL",
+  "confidence_type": "high",
+  "confidence_green": "medium",
+  "reasoning": "Keiretsu Forum is an Angel Network, as it is a syndicate/group of individual investors. However, since there's no explicit mention of green or climate focus in the description, the confidence for 'green focus' is medium.",
+  "investor_id": 90,
+  "investor_name": "Keiretsu Forum"
+ },
+ {
+  "investor_type": "Impact_VC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Katapult Ocean is a private, non-government mission-driven fund that invests in ocean impact technologies. It does not appear to be affiliated with a government body, corporation, university, bank, or angel network.",
+  "investor_id": 91,
+  "investor_name": "Katapult Ocean"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Energy Catalyst is a government-funded program focused on supporting innovative clean energy projects, making it a GVC.",
+  "investor_id": 92,
+  "investor_name": "Energy Catalyst"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "BDC Capital is a venture capital investor that is not affiliated with a specific corporation, university, or bank. Additionally, it is a government-funded organization, making it a Government Venture Capital (GVC).",
+  "investor_id": 93,
+  "investor_name": "BDC Capital"
+ },
+ {
+  "investor_type": "University_VC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "The investor 'Shell StartUp Engine' is affiliated with a specific university (Shell), falling under the category of University_VC. Additionally, given that it is associated with Shell, a company known for its involvement in energy and sustainability projects, it has a green focus.",
+  "investor_id": 94,
+  "investor_name": "Shell StartUp Engine"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Equinor is a Norwegian multinational energy company owned by the Norwegian government, making it a GVC. As a subsidiary of Equinor, Equinor Ventures focuses on renewable energy and low-carbon technologies, indicating a green focus.",
+  "investor_id": 95,
+  "investor_name": "Equinor Ventures"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Vinnova is a government agency in Sweden whose mission is to strengthen Swedish innovation. It falls under the category of GVC.",
+  "investor_id": 96,
+  "investor_name": "Vinnova"
+ },
+ {
+  "investor_type": "IVC",
+  "green_focus": "ESG_ALIGNED",
+  "confidence_type": "medium",
+  "confidence_green": "high",
+  "reasoning": "Speedinvest is an independent VC fund not owned by government, a corporation, university, or bank. However, the description mentions funding Deep Tech, B2B AI & Infra, Fintech, and fundamental technologies solving real-world problems which can be considered ESG aligned.",
+  "investor_id": 97,
+  "investor_name": "Speedinvest"
+ },
+ {
+  "investor_type": "GVC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "CalSEED is funded by the California Energy Commission, which is a government body. Therefore, it falls under GVC category.",
+  "investor_id": 98,
+  "investor_name": "CalSEED"
+ },
+ {
+  "investor_type": "OTHER",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "medium",
+  "confidence_green": "high",
+  "reasoning": "The Halcyon Incubator is not clearly tied to one owner type, but its focus on impact-driven business suggests a green focus.",
+  "investor_id": 99,
+  "investor_name": "Halcyon Incubator"
+ },
+ {
+  "investor_type": "Impact_VC",
+  "green_focus": "GREEN_VC",
+  "confidence_type": "high",
+  "confidence_green": "high",
+  "reasoning": "Katapult Group is a private, mission-driven organization accelerating and investing in tech companies solving global challenges. This aligns with the definition of an Impact_VC.",
+  "investor_id": 100,
+  "investor_name": "Katapult Group"
+ }
+]

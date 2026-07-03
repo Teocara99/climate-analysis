@@ -1,0 +1,20 @@
+# Source data files (too large / proprietary)
+*.xlsx
+*.xls
+
+# Ollama raw classification checkpoints (large JSON)
+output/all_investors_classified.json
+output/all_investors_classified_corrected.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual envs
+venv/
+.env
