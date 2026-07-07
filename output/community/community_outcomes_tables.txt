@@ -1,0 +1,365 @@
+======================================================================
+ANALYSIS A: Community variables beyond syndicate_type
+======================================================================
+
+--- A1_individual_only ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 exited   R-squared:                       0.002
+Model:                            OLS   Adj. R-squared:                  0.001
+Method:                 Least Squares   F-statistic:                     1.944
+Date:                Tue, 07 Jul 2026   Prob (F-statistic):             0.0837
+Time:                        13:56:53   Log-Likelihood:                 66.796
+No. Observations:                6136   AIC:                            -121.6
+Df Residuals:                    6130   BIC:                            -81.26
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================================================
+                                                              coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------------
+Intercept                                                   0.0646      0.006     10.617      0.000       0.053       0.077
+C(syndicate_type, Treatment('Mixed'))[T.Pure Green]        -0.0002      0.013     -0.013      0.990      -0.025       0.025
+C(syndicate_type, Treatment('Mixed'))[T.Pure Non-Green]     0.0240      0.015      1.621      0.105      -0.005       0.053
+C(green_quartile)[T.Q2
+(25-50%)]                            0.0032      0.009      0.376      0.707      -0.014       0.020
+C(green_quartile)[T.Q3
+(50-75%)]                           -0.0106      0.011     -0.994      0.320      -0.031       0.010
+C(green_quartile)[T.Q4
+(75-100%)]                          -0.0143      0.016     -0.913      0.362      -0.045       0.016
+==============================================================================
+Omnibus:                     4484.771   Durbin-Watson:                   1.868
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            46851.384
+Skew:                           3.656   Prob(JB):                         0.00
+Kurtosis:                      14.393   Cond. No.                         7.97
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+--- A2_plus_community ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 exited   R-squared:                       0.004
+Model:                            OLS   Adj. R-squared:                  0.002
+Method:                 Least Squares   F-statistic:                     2.803
+Date:                Tue, 07 Jul 2026   Prob (F-statistic):            0.00424
+Time:                        13:56:53   Log-Likelihood:                 73.142
+No. Observations:                6136   AIC:                            -128.3
+Df Residuals:                    6127   BIC:                            -67.79
+Df Model:                           8                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================================================
+                                                              coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------------
+Intercept                                                   0.6185      0.172      3.597      0.000       0.281       0.956
+C(syndicate_type, Treatment('Mixed'))[T.Pure Green]      5.133e-05      0.013      0.004      0.997      -0.025       0.025
+C(syndicate_type, Treatment('Mixed'))[T.Pure Non-Green]     0.0245      0.015      1.656      0.098      -0.005       0.053
+C(green_quartile)[T.Q2
+(25-50%)]                            0.0026      0.009      0.299      0.765      -0.014       0.020
+C(green_quartile)[T.Q3
+(50-75%)]                           -0.0104      0.011     -0.981      0.327      -0.031       0.010
+C(green_quartile)[T.Q4
+(75-100%)]                          -0.0143      0.016     -0.916      0.360      -0.045       0.016
+community_pct_green                                         0.0002      0.001      0.347      0.729      -0.001       0.001
+community_herfindahl                                        0.0203      0.052      0.389      0.697      -0.082       0.122
+community_avg_novelty                                      -1.3657      0.397     -3.439      0.001      -2.144      -0.587
+==============================================================================
+Omnibus:                     4473.538   Durbin-Watson:                   1.872
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            46517.468
+Skew:                           3.645   Prob(JB):                         0.00
+Kurtosis:                      14.349   Cond. No.                     8.18e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 8.18e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+--- A3_plus_cluster ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 exited   R-squared:                       0.004
+Model:                            OLS   Adj. R-squared:                  0.003
+Method:                 Least Squares   F-statistic:                     2.801
+Date:                Tue, 07 Jul 2026   Prob (F-statistic):            0.00279
+Time:                        13:56:53   Log-Likelihood:                 74.534
+No. Observations:                6136   AIC:                            -129.1
+Df Residuals:                    6126   BIC:                            -61.85
+Df Model:                           9                                         
+Covariance Type:            nonrobust                                         
+=====================================================================================================================================
+                                                                        coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                             0.0705      0.007      9.701      0.000       0.056       0.085
+C(syndicate_type, Treatment('Mixed'))[T.Pure Green]                  -0.0006      0.013     -0.049      0.961      -0.026       0.024
+C(syndicate_type, Treatment('Mixed'))[T.Pure Non-Green]               0.0254      0.015      1.716      0.086      -0.004       0.054
+C(green_quartile)[T.Q2
+(25-50%)]                                      0.0014      0.009      0.165      0.869      -0.016       0.018
+C(green_quartile)[T.Q3
+(50-75%)]                                     -0.0118      0.011     -1.111      0.267      -0.033       0.009
+C(green_quartile)[T.Q4
+(75-100%)]                                    -0.0153      0.016     -0.981      0.327      -0.046       0.015
+C(cluster_label, Treatment('Mixed Bridge'))[T.Deep Green]            -0.0658      0.120     -0.549      0.583      -0.301       0.169
+C(cluster_label, Treatment('Mixed Bridge'))[T.Exit-Oriented]          0.0052      0.007      0.718      0.473      -0.009       0.020
+C(cluster_label, Treatment('Mixed Bridge'))[T.Government-Led]        -0.0737      0.080     -0.922      0.357      -0.230       0.083
+C(cluster_label, Treatment('Mixed Bridge'))[T.High-Risk Frontier]    -0.0238      0.008     -3.132      0.002      -0.039      -0.009
+==============================================================================
+Omnibus:                     4470.597   Durbin-Watson:                   1.869
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            46415.482
+Skew:                           3.642   Prob(JB):                         0.00
+Kurtosis:                      14.335   Cond. No.                         47.6
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+F-test community vars jointly: F=4.229  p=0.0054  ΔR²=0.0021
+VERDICT: INCLUDE AS MECHANISM. Community variables jointly significant (F-test p=0.005), adding ΔR²=0.0021 beyond syndicate_type. Community structure captures co-investment ecosystem dynamics not reducible to individual investor green classification.
+
+======================================================================
+ANALYSIS B: Policy shocks × community type
+======================================================================
+
+--- B1_trump ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 exited   R-squared:                       0.005
+Model:                            OLS   Adj. R-squared:                  0.003
+Method:                 Least Squares   F-statistic:                     3.148
+Date:                Tue, 07 Jul 2026   Prob (F-statistic):           0.000854
+Time:                        13:56:53   Log-Likelihood:                 57.531
+No. Observations:                6097   AIC:                            -95.06
+Df Residuals:                    6087   BIC:                            -27.91
+Df Model:                           9                                         
+Covariance Type:            nonrobust                                         
+============================================================================================================================================================
+                                                                                               coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                                                    0.0717      0.006     12.647      0.000       0.061       0.083
+C(cluster_grp, Treatment('Mixed Bridge'))[T.Exit-Oriented]                                   0.0016      0.010      0.165      0.869      -0.018       0.021
+C(cluster_grp, Treatment('Mixed Bridge'))[T.High-Risk Frontier]                             -0.0313      0.008     -3.699      0.000      -0.048      -0.015
+C(cluster_grp, Treatment('Mixed Bridge'))[T.Other]                                          -0.0701      0.107     -0.652      0.514      -0.281       0.141
+C(syndicate_type, Treatment('Mixed'))[T.Pure Green]                                         -0.0121      0.007     -1.799      0.072      -0.025       0.001
+C(syndicate_type, Treatment('Mixed'))[T.Pure Non-Green]                                      0.0284      0.014      2.011      0.044       0.001       0.056
+post_trump_election_2016                                                                    -0.0234      0.014     -1.718      0.086      -0.050       0.003
+C(cluster_grp, Treatment('Mixed Bridge'))[T.Exit-Oriented]:post_trump_election_2016          0.0256      0.018      1.442      0.149      -0.009       0.060
+C(cluster_grp, Treatment('Mixed Bridge'))[T.High-Risk Frontier]:post_trump_election_2016     0.0444      0.020      2.225      0.026       0.005       0.083
+C(cluster_grp, Treatment('Mixed Bridge'))[T.Other]:post_trump_election_2016                  0.0148      0.138      0.107      0.914      -0.255       0.284
+==============================================================================
+Omnibus:                     4421.797   Durbin-Watson:                   1.871
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            45307.891
+Skew:                           3.625   Prob(JB):                         0.00
+Kurtosis:                      14.216   Cond. No.                         65.0
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+--- B2_eu ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 exited   R-squared:                       0.004
+Model:                            OLS   Adj. R-squared:                  0.003
+Method:                 Least Squares   F-statistic:                     2.954
+Date:                Tue, 07 Jul 2026   Prob (F-statistic):            0.00166
+Time:                        13:56:53   Log-Likelihood:                 56.660
+No. Observations:                6097   AIC:                            -93.32
+Df Residuals:                    6087   BIC:                            -26.16
+Df Model:                           9                                         
+Covariance Type:            nonrobust                                         
+======================================================================================================================================================
+                                                                                         coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                                              0.0697      0.008      9.127      0.000       0.055       0.085
+C(cluster_grp, Treatment('Mixed Bridge'))[T.Exit-Oriented]                             0.0017      0.010      0.177      0.859      -0.017       0.020
+C(cluster_grp, Treatment('Mixed Bridge'))[T.High-Risk Frontier]                       -0.0274      0.010     -2.840      0.005      -0.046      -0.008
+C(cluster_grp, Treatment('Mixed Bridge'))[T.Other]                                    -0.0724      0.073     -0.995      0.320      -0.215       0.070
+C(syndicate_type, Treatment('Mixed'))[T.Pure Green]                                   -0.0133      0.007     -1.977      0.048      -0.026      -0.000
+C(syndicate_type, Treatment('Mixed'))[T.Pure Non-Green]                                0.0278      0.014      1.970      0.049       0.000       0.056
+post_eu_green_deal                                                                    -0.0013      0.009     -0.135      0.893      -0.020       0.017
+C(cluster_grp, Treatment('Mixed Bridge'))[T.Exit-Oriented]:post_eu_green_deal          0.0195      0.017      1.138      0.255      -0.014       0.053
+C(cluster_grp, Treatment('Mixed Bridge'))[T.High-Risk Frontier]:post_eu_green_deal     0.0243      0.020      1.209      0.227      -0.015       0.064
+C(cluster_grp, Treatment('Mixed Bridge'))[T.Other]:post_eu_green_deal                 -0.0034      0.185     -0.018      0.985      -0.366       0.359
+==============================================================================
+Omnibus:                     4423.960   Durbin-Watson:                   1.870
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            45380.784
+Skew:                           3.627   Prob(JB):                         0.00
+Kurtosis:                      14.226   Cond. No.                         72.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+VERDICT: Policy shocks table shows whether Trump 2016 and EU Green Deal affected community cluster types differently. Inspect interaction coefficients above: significant interactions (p<0.10) indicate that the policy effect was heterogeneous across community types — worth reporting as a moderating mechanism. Non-significant interactions suggest uniform policy effects regardless of community structure.
+
+======================================================================
+ANALYSIS C: Cross-community funding → outcomes
+======================================================================
+
+--- C1 ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 exited   R-squared:                       0.000
+Model:                            OLS   Adj. R-squared:                  0.000
+Method:                 Least Squares   F-statistic:                     3.073
+Date:                Tue, 07 Jul 2026   Prob (F-statistic):             0.0797
+Time:                        13:56:53   Log-Likelihood:                 51.536
+No. Observations:                6159   AIC:                            -99.07
+Df Residuals:                    6157   BIC:                            -85.62
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+Intercept           0.0537      0.005     10.033      0.000       0.043       0.064
+cross_community     0.0114      0.007      1.753      0.080      -0.001       0.024
+==============================================================================
+Omnibus:                     4496.158   Durbin-Watson:                   1.869
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            46736.964
+Skew:                           3.652   Prob(JB):                         0.00
+Kurtosis:                      14.348   Cond. No.                         3.26
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+--- C2 ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 exited   R-squared:                       0.002
+Model:                            OLS   Adj. R-squared:                  0.001
+Method:                 Least Squares   F-statistic:                     2.147
+Date:                Tue, 07 Jul 2026   Prob (F-statistic):             0.0451
+Time:                        13:56:53   Log-Likelihood:                 56.442
+No. Observations:                6159   AIC:                            -98.88
+Df Residuals:                    6152   BIC:                            -51.80
+Df Model:                           6                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================================================
+                                                              coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------------
+Intercept                                                   0.0583      0.007      7.942      0.000       0.044       0.073
+C(syndicate_type, Treatment('Mixed'))[T.Pure Green]         0.0008      0.013      0.066      0.948      -0.024       0.026
+C(syndicate_type, Treatment('Mixed'))[T.Pure Non-Green]     0.0230      0.015      1.560      0.119      -0.006       0.052
+C(green_quartile)[T.Q2
+(25-50%)]                            0.0005      0.009      0.053      0.957      -0.017       0.017
+C(green_quartile)[T.Q3
+(50-75%)]                           -0.0136      0.011     -1.275      0.202      -0.035       0.007
+C(green_quartile)[T.Q4
+(75-100%)]                          -0.0159      0.016     -1.014      0.310      -0.046       0.015
+cross_community                                             0.0120      0.007      1.799      0.072      -0.001       0.025
+==============================================================================
+Omnibus:                     4487.452   Durbin-Watson:                   1.871
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            46476.474
+Skew:                           3.644   Prob(JB):                         0.00
+Kurtosis:                      14.314   Cond. No.                         9.37
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+--- C3 ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 exited   R-squared:                       0.002
+Model:                            OLS   Adj. R-squared:                  0.001
+Method:                 Least Squares   F-statistic:                     1.857
+Date:                Tue, 07 Jul 2026   Prob (F-statistic):             0.0724
+Time:                        13:56:53   Log-Likelihood:                 56.024
+No. Observations:                6158   AIC:                            -96.05
+Df Residuals:                    6150   BIC:                            -42.24
+Df Model:                           7                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================================================
+                                                              coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------------
+Intercept                                                   0.0583      0.007      7.939      0.000       0.044       0.073
+C(syndicate_type, Treatment('Mixed'))[T.Pure Green]         0.0009      0.013      0.072      0.943      -0.024       0.026
+C(syndicate_type, Treatment('Mixed'))[T.Pure Non-Green]     0.0231      0.015      1.564      0.118      -0.006       0.052
+C(green_quartile)[T.Q2
+(25-50%)]                            0.0005      0.009      0.056      0.955      -0.017       0.018
+C(green_quartile)[T.Q3
+(50-75%)]                           -0.0137      0.011     -1.280      0.201      -0.035       0.007
+C(green_quartile)[T.Q4
+(75-100%)]                          -0.0160      0.016     -1.021      0.307      -0.047       0.015
+cross_community                                             0.0120      0.007      1.802      0.072      -0.001       0.025
+novelty_z                                                  -0.0011      0.003     -0.351      0.726      -0.007       0.005
+==============================================================================
+Omnibus:                     4486.137   Durbin-Watson:                   1.871
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            46445.738
+Skew:                           3.643   Prob(JB):                         0.00
+Kurtosis:                      14.310   Cond. No.                         9.37
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+--- C4_failure ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 failed   R-squared:                       0.005
+Model:                            OLS   Adj. R-squared:                  0.004
+Method:                 Least Squares   F-statistic:                     4.801
+Date:                Tue, 07 Jul 2026   Prob (F-statistic):           6.80e-05
+Time:                        13:56:53   Log-Likelihood:                -645.66
+No. Observations:                6159   AIC:                             1305.
+Df Residuals:                    6152   BIC:                             1352.
+Df Model:                           6                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================================================
+                                                              coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------------
+Intercept                                                   0.1037      0.008     12.610      0.000       0.088       0.120
+C(syndicate_type, Treatment('Mixed'))[T.Pure Green]        -0.0173      0.014     -1.209      0.227      -0.045       0.011
+C(syndicate_type, Treatment('Mixed'))[T.Pure Non-Green]     0.0162      0.017      0.978      0.328      -0.016       0.049
+C(green_quartile)[T.Q2
+(25-50%)]                           -0.0236      0.010     -2.428      0.015      -0.043      -0.005
+C(green_quartile)[T.Q3
+(50-75%)]                           -0.0207      0.012     -1.731      0.083      -0.044       0.003
+C(green_quartile)[T.Q4
+(75-100%)]                           0.0145      0.018      0.828      0.407      -0.020       0.049
+cross_community                                            -0.0189      0.007     -2.537      0.011      -0.034      -0.004
+==============================================================================
+Omnibus:                     3802.225   Durbin-Watson:                   1.999
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            25165.805
+Skew:                           3.106   Prob(JB):                         0.00
+Kurtosis:                      10.712   Cond. No.                         9.37
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+--- C5_continuous ---
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 exited   R-squared:                       0.002
+Model:                            OLS   Adj. R-squared:                  0.001
+Method:                 Least Squares   F-statistic:                     2.054
+Date:                Tue, 07 Jul 2026   Prob (F-statistic):             0.0553
+Time:                        13:56:53   Log-Likelihood:                 56.163
+No. Observations:                6159   AIC:                            -98.33
+Df Residuals:                    6152   BIC:                            -51.25
+Df Model:                           6                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================================================
+                                                              coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------------------
+Intercept                                                   0.0589      0.007      8.014      0.000       0.045       0.073
+C(syndicate_type, Treatment('Mixed'))[T.Pure Green]         0.0008      0.013      0.061      0.951      -0.024       0.026
+C(syndicate_type, Treatment('Mixed'))[T.Pure Non-Green]     0.0233      0.015      1.578      0.115      -0.006       0.052
+C(green_quartile)[T.Q2
+(25-50%)]                         6.429e-05      0.009      0.007      0.994      -0.017       0.017
+C(green_quartile)[T.Q3
+(50-75%)]                           -0.0140      0.011     -1.303      0.192      -0.035       0.007
+C(green_quartile)[T.Q4
+(75-100%)]                          -0.0159      0.016     -1.016      0.310      -0.047       0.015
+n_communities                                               0.0028      0.002      1.637      0.102      -0.001       0.006
+==============================================================================
+Omnibus:                     4487.927   Durbin-Watson:                   1.872
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            46491.011
+Skew:                           3.644   Prob(JB):                         0.00
+Kurtosis:                      14.316   Cond. No.                         23.5
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+VERDICT: MARGINAL EVIDENCE. Cross-community dummy shows suggestive positive effect on exits (coef=+0.0120, p=0.072). Report with caveat: directionally consistent with resource diversity hypothesis but below conventional significance threshold.
