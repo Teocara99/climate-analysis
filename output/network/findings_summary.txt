@@ -1,0 +1,29 @@
+NETWORK STRUCTURE
+The climate tech co-investment network comprises 24,356 investor nodes and
+148,720 co-investment edges (density=0.0005). The largest connected
+component (LCC) spans 17,790 investors — 73% of all classified investors —
+confirming a deeply integrated ecosystem. Average degree is 12.2 co-investment
+partners per investor. The global clustering coefficient is 604× higher than a
+random graph of the same size and density, consistent with a strong small-world topology:
+investors form tight local syndicates (high clustering) while a small number of hubs
+bridge distant parts of the network (short path lengths).
+
+GREEN vs TRADITIONAL NETWORK HOMOPHILY
+Attribute assortativity by green_focus is 0.056 — weakly positive, meaning
+green investors modestly prefer co-investing with other green investors, but the effect
+is mild. ESG_ALIGNED investors have the highest average degree (20.8), acting as
+natural connectors between GREEN_VC (12.4 avg) and TRADITIONAL (11.6 avg)
+communities. Traditional investors dominate on betweenness centrality (max 0.142 vs 0.076
+for green), meaning the highest-betweenness bridges are primarily traditional funds and
+accelerators (Plug and Play, Alumni Ventures) — they span across the most communities.
+GREEN_VC investors cluster more tightly within niche technology sub-networks.
+
+COMMUNITY STRUCTURE AND BRIDGE INVESTORS
+Louvain detection identifies 46 communities in the LCC. 23 are
+primarily green-focused (≥60% GREEN_VC), 2 are traditional-dominated,
+and 21 are genuinely mixed. Mixed communities show comparable or lower
+exit rates versus pure-green ones. The top bridge investors spanning green↔traditional
+boundaries are Climate Capital, Breakthrough Energy, SOSV, and Lowercarbon Capital —
+all GREEN_VC funds with the highest degree in the LCC (800–1,400 co-investment partners).
+Their structural position as hubs within the green cluster while maintaining dense
+traditional ties makes them the connectors most likely to facilitate strategic M&A exits.

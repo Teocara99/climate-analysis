@@ -1,0 +1,35 @@
+CENTRALITY × GREEN FOCUS → EXIT (LINEAR PROBABILITY MODEL)
+=============================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 exited   R-squared:                       0.003
+Model:                            OLS   Adj. R-squared:                  0.002
+Method:                 Least Squares   F-statistic:                     3.403
+Date:                Tue, 07 Jul 2026   Prob (F-statistic):            0.00236
+Time:                        12:43:07   Log-Likelihood:                 60.203
+No. Observations:                6159   AIC:                            -106.4
+Df Residuals:                    6152   BIC:                            -59.33
+Df Model:                           6                                         
+Covariance Type:            nonrobust                                         
+=====================================================================================================
+                                        coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------------------
+Intercept                             0.0758      0.006     12.843      0.000       0.064       0.087
+C(green_quartile)[T.Q2
+(25-50%)]      0.0078      0.009      0.893      0.372      -0.009       0.025
+C(green_quartile)[T.Q3
+(50-75%)]     -0.0020      0.009     -0.209      0.835      -0.020       0.016
+C(green_quartile)[T.Q4
+(75-100%)]    -0.0064      0.010     -0.663      0.507      -0.025       0.013
+avg_degree_c_z                        0.0009      0.004      0.219      0.827      -0.007       0.009
+is_green_company                     -0.0232      0.007     -3.161      0.002      -0.038      -0.009
+avg_degree_c_z:is_green_company      -0.0090      0.006     -1.453      0.146      -0.021       0.003
+==============================================================================
+Omnibus:                     4479.882   Durbin-Watson:                   1.871
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            46237.959
+Skew:                           3.637   Prob(JB):                         0.00
+Kurtosis:                      14.282   Cond. No.                         5.95
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
