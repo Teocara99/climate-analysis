@@ -1,0 +1,23 @@
+MODEL COMPARISON REPORT
+==================================================
+BGE-large silhouette score:  0.4898
+SPECTER2 silhouette score:   0.5463
+Novelty score correlation:   0.5678
+Primary model:               SPECTER (higher silhouette)
+
+BGE-large clusters:   60 (excl. noise=2185)
+SPECTER2 clusters:    64 (excl. noise=2565)
+
+Top 5 most novel (BGE):
+  0.776  Ecuablue  [noise]
+  0.771  reNEW Technologies  [noise]
+  0.754  Meinergy  [noise]
+  0.744  Tongfugongqiang Agriculture  [noise]
+  0.731  Pacific Composting  [noise]
+
+Top 5 most novel (SPECTER2):
+  0.671  Trillium Renewable Chemicals  [fiber, materials, fibers, lignin, enabling, adhesives, bio, ]
+  0.668  Cai Foods  [noise]
+  0.666  Biomass Resin Holdings  [noise]
+  0.665  MiniClean  [noise]
+  0.659  Aulton  [noise]

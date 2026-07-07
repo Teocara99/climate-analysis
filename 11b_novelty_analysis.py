@@ -73,6 +73,16 @@ def load_data() -> pd.DataFrame:
     df = nov.merge(mix, left_on="name", right_on="Companies", how="inner")
     print(f"Companies matched to investor mix: {len(df):,}")
 
+    # derive syndicate_type if not present
+    if "syndicate_type" not in df.columns:
+        df["syndicate_type"] = pd.cut(
+            df["pct_green"],
+            bins=[-1, 25, 75, 101],
+            labels=["Pure Non-Green", "Mixed", "Pure Green"]
+        ).astype(str)
+    # convenience dummies
+    df["Pure_Green"] = (df["syndicate_type"] == "Pure Green").astype(int)
+
     companies = load_companies()
     def comp_outcome(row):
         own = str(row.get("Ownership Status",""))
@@ -82,7 +92,7 @@ def load_data() -> pd.DataFrame:
         if "Out of Business" in own or "Liquidation" in biz: return "failed"
         return "operating"
     companies["outcome"] = companies.apply(comp_outcome, axis=1)
-    comp_map = companies.set_index("Companies")[["outcome","Total Raised"]].to_dict("index")
+    comp_map = companies.drop_duplicates("Companies").set_index("Companies")[["outcome","Total Raised"]].to_dict("index")
 
     df["outcome"]      = df["name"].map(lambda n: comp_map.get(n,{}).get("outcome","operating"))
     df["total_raised"] = df["name"].map(lambda n: comp_map.get(n,{}).get("Total Raised",np.nan))

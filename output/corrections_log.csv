@@ -566,3 +566,51 @@ investor_id,investor_name,field,old_value,new_value,reason
 21611,Matthew Lynde,investor_type,GVC,IVC,self_consistency
 21653,Matmut Innovation,investor_type,GVC,CVC,self_consistency
 21885,Midwest Wealth Ventures,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+22062,Mica Ventures,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+22093,Mercurius Media Capital,investor_type,OTHER,IVC,self_consistency
+22166,Grey Innovation,investor_type,OTHER,IVC,self_consistency
+22305,Goode Partners,investor_type,OTHER,IVC,self_consistency
+22391,Hartley Richardson,green_focus,GREEN_VC,TRADITIONAL,self_consistency
+22408,Hatch Partners,investor_type,OTHER,IVC,self_consistency
+22425,Hanwha Asset Management,investor_type,GVC,IVC,self_consistency
+22432,Hanwha Impact,investor_type,GVC,CVC,self_consistency
+22466,Helen Min,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+22581,Gx Partners,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+22590,HEIG-VD,investor_type,GVC,University_VC,self_consistency
+22610,Hammer Team,investor_type,OTHER,IVC,self_consistency
+22633,Hangzhou Kaifu Private Equity Fund Management,investor_type,OTHER,GVC,self_consistency
+22722,François-Xavier Vannesson,investor_type,GVC,Impact_VC,self_consistency
+22771,GAIA Venture Partners,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+22790,FutureMoney Group,investor_type,OTHER,IVC,self_consistency
+22941,Foundation at New Jersey Institute of Technology,investor_type,GVC,University_VC,self_consistency
+23036,Global Tech Ventures,investor_type,GVC,IVC,self_consistency
+23038,Global Startups,investor_type,OTHER,GVC,self_consistency
+23048,Gloria Advanced Material Investment,investor_type,OTHER,IVC,self_consistency
+23106,GV Giri,investor_type,GVC,CVC,self_consistency
+23264,JR Automation,green_focus,TRADITIONAL,GREEN_VC,self_consistency
+23269,JS Capital Management,investor_type,OTHER,IVC,self_consistency
+23309,JAM Capital,investor_type,OTHER,IVC,self_consistency
+23310,JA Solar Technology,green_focus,TRADITIONAL,ESG_ALIGNED,self_consistency
+23421,Intuitive Private Equity,investor_type,IVC,CVC,self_consistency
+23431,Institute of Neuroinformatics,investor_type,GVC,University_VC,self_consistency
+23443,Intentional Impact,investor_type,OTHER,Impact_VC,self_consistency
+23463,Isher Capital Family Office,investor_type,OTHER,IVC,self_consistency
+23495,Ireon Ventures,investor_type,OTHER,IVC,self_consistency
+23506,Ira A. Fulton Schools of Engineering,investor_type,GVC,University_VC,self_consistency
+23527,Ionis 361,investor_type,GVC,IVC,self_consistency
+23590,JioGenNext,investor_type,OTHER,CVC,self_consistency
+23611,Johns Hopkins Technology Ventures,investor_type,GVC,University_VC,self_consistency
+23649,John S. and James L. Knight Foundation,investor_type,GVC,Impact_VC,self_consistency
+23676,Javas Venture,investor_type,GVC,OTHER,self_consistency
+23821,Huntington Avenue Ventures,investor_type,OTHER,IVC,self_consistency
+23879,Huhoco,investor_type,OTHER,IVC,self_consistency
+23906,IIEC,investor_type,GVC,University_VC,self_consistency
+23936,Hyundai Motor Manufacturing Alabama,investor_type,GVC,CVC,self_consistency
+23964,Higgs Centre for Innovation,investor_type,GVC,University_VC,self_consistency
+24014,Henrik Jonsson,investor_type,OTHER,IVC,self_consistency
+24025,Heracles Ventures,investor_type,OTHER,IVC,self_consistency
+24153,IncubaUdeC,investor_type,GVC,University_VC,self_consistency
+24212,Innovation UBC,investor_type,GVC,University_VC,self_consistency
+24255,Ichigo,investor_type,GVC,IVC,self_consistency
+24310,IT Park Ventures,investor_type,OTHER,GVC,self_consistency
+24383,Impact Hub Tbilisi,investor_type,OTHER,Impact_VC,self_consistency

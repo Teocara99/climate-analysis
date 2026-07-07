@@ -1,0 +1,16 @@
+model,variable,coef,lo,hi,p,sig
+Model 2 — Failure,Pure_Green,-0.1711,-0.3677,0.0256,0.0881,(†)
+Model 2 — Failure,Pure_NG,0.4249,0.0865,0.7632,0.0138,*
+Model 2 — Failure,novelty_z,0.0075,-0.1051,0.1202,0.8958,
+Model 2 — Failure,novelty_z:Pure_Green,0.077,-0.116,0.2699,0.4344,
+Model 2 — Failure,novelty_z:Pure_NG,-0.1886,-0.5324,0.1551,0.2821,
+Model 4 (Cox),Pure_Green,-0.0096,-0.1452,0.1261,0.8899,
+Model 4 (Cox),Pure_NG,0.2858,0.0296,0.542,0.0288,*
+Model 4 (Cox),novelty_z,0.0201,-0.0453,0.0856,0.5467,
+Model 4 (Cox),PG_x_nov,0.0257,-0.0883,0.1398,0.6587,
+Model 4 (Cox),PNG_x_nov,-0.0513,-0.3054,0.2029,0.6926,
+Model 5 (quadratic),Pure_Green,0.0753,-0.2158,0.3665,0.6121,
+Model 5 (quadratic),Pure_NG,0.2884,-0.2379,0.8147,0.2828,
+Model 5 (quadratic),novelty_z,0.0575,-0.069,0.184,0.3729,
+Model 5 (quadratic),novelty_z:Pure_Green,-0.2107,-0.4548,0.0334,0.0906,(†)
+Model 5 (quadratic),novelty_z:Pure_NG,0.2218,-0.1939,0.6375,0.2956,
