@@ -1,0 +1,29 @@
+COMMUNITY DEEP-DIVE: KEY FINDINGS
+===================================
+
+1. COMMUNITY STRUCTURE AND COMPOSITION
+Louvain community detection on the climate tech co-investment network identified
+30 communities with ≥20 investors. The ecosystem is dominated by large
+mixed communities (50-65% GREEN_VC) — pure-green or pure-traditional silos are rare.
+The greener cluster type is "Deep Green" (78% GREEN_VC avg).
+GVC-heavy communities tend to form their own cluster, consistent with government
+funds co-investing primarily with other public-sector actors rather than mixing
+freely with IVC/CVC syndicates.
+
+2. SECTOR SPECIALIZATION AND NOVELTY
+Communities vary substantially in their technology focus. The sector heatmap shows
+that most communities have a dominant orientation toward either Renewable Energy or
+Sustainable Agriculture, with Battery & Storage and Mobility/EV forming secondary
+clusters. Novelty profiles reveal that communities with higher green share tend to
+fund slightly more novel companies (positive slope in the novelty scatter), though
+the effect is modest — the deepest frontier technology investment comes from a small
+number of specialized communities regardless of green composition.
+
+3. OUTCOMES BY COMMUNITY TYPE
+The "Exit-Oriented" cluster type achieves the highest exit rate
+(7.8%), consistent with traditional investors' focus on
+commercial exits. Green-dominated clusters show lower exit rates but also lower
+failure rates — confirming the "patient capital" hypothesis from the survival
+analysis. Cross-community investment (startups funded by investors from multiple
+communities) is associated with better outcomes, suggesting that portfolio companies
+benefit from the diverse networks and expertise that cross-community syndicates bring.
