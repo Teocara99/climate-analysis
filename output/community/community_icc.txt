@@ -1,0 +1,14 @@
+
+EXIT ICC ANALYSIS
+  Grand mean: 6.14%
+  Between-community variance: 0.000865
+  Within-community variance:  0.055920
+  ICC = 0.0152 (1.5% of variance explained by community membership)
+  → Interpretation: LOW — individual characteristics dominate
+
+FAILURE ICC ANALYSIS
+  Grand mean: 7.87%
+  Between-community variance: 0.001131
+  Within-community variance:  0.054593
+  ICC = 0.0203 (2.0% of variance explained by community membership)
+  → Interpretation: LOW — individual characteristics dominate

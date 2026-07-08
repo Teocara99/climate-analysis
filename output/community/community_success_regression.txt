@@ -1,0 +1,80 @@
+
+==================================================
+OUTCOME: exit_rate
+==================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              exit_rate   R-squared:                       0.541
+Model:                            OLS   Adj. R-squared:                  0.300
+Method:                 Least Squares   F-statistic:                     2.243
+Date:                Wed, 08 Jul 2026   Prob (F-statistic):             0.0623
+Time:                        10:16:53   Log-Likelihood:                -57.098
+No. Observations:                  30   AIC:                             136.2
+Df Residuals:                      19   BIC:                             151.6
+Df Model:                          10                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+Intercept               9.6554     17.571      0.549      0.589     -27.122      46.433
+pct_GREEN_VC           -0.1299      0.097     -1.339      0.196      -0.333       0.073
+pct_GVC                 0.1732      0.108      1.598      0.127      -0.054       0.400
+pct_CVC                 0.9530      0.621      1.535      0.141      -0.346       2.252
+pct_IVC                 0.2063      0.130      1.592      0.128      -0.065       0.478
+avg_degree             -0.1465      0.095     -1.546      0.139      -0.345       0.052
+avg_novelty           -34.9060     40.637     -0.859      0.401    -119.960      50.148
+herfindahl             14.7366      7.404      1.990      0.061      -0.761      30.234
+num_investors           0.0002      0.001      0.226      0.824      -0.002       0.002
+geo_diversity           2.9938      1.521      1.968      0.064      -0.190       6.177
+pct_cross_community    -0.0275      0.043     -0.632      0.535      -0.118       0.064
+==============================================================================
+Omnibus:                        3.367   Durbin-Watson:                   1.428
+Prob(Omnibus):                  0.186   Jarque-Bera (JB):                1.976
+Skew:                           0.562   Prob(JB):                        0.372
+Kurtosis:                       3.564   Cond. No.                     9.45e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 9.45e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+==================================================
+OUTCOME: failure_rate
+==================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           failure_rate   R-squared:                       0.421
+Model:                            OLS   Adj. R-squared:                  0.116
+Method:                 Least Squares   F-statistic:                     1.380
+Date:                Wed, 08 Jul 2026   Prob (F-statistic):              0.262
+Time:                        10:16:53   Log-Likelihood:                -74.413
+No. Observations:                  30   AIC:                             170.8
+Df Residuals:                      19   BIC:                             186.2
+Df Model:                          10                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+Intercept             -26.6688     31.294     -0.852      0.405     -92.169      38.831
+pct_GREEN_VC           -0.1585      0.173     -0.917      0.371      -0.520       0.203
+pct_GVC                 0.1075      0.193      0.557      0.584      -0.296       0.511
+pct_CVC                -0.1849      1.105     -0.167      0.869      -2.499       2.129
+pct_IVC                -0.0109      0.231     -0.047      0.963      -0.494       0.472
+avg_degree             -0.1680      0.169     -0.996      0.332      -0.521       0.185
+avg_novelty            68.8754     72.374      0.952      0.353     -82.604     220.355
+herfindahl             -9.7123     13.187     -0.737      0.470     -37.313      17.888
+num_investors           0.0007      0.002      0.439      0.666      -0.003       0.004
+geo_diversity          -1.2725      2.709     -0.470      0.644      -6.942       4.397
+pct_cross_community     0.2041      0.077      2.636      0.016       0.042       0.366
+==============================================================================
+Omnibus:                        0.790   Durbin-Watson:                   2.231
+Prob(Omnibus):                  0.674   Jarque-Bera (JB):                0.122
+Skew:                          -0.059   Prob(JB):                        0.941
+Kurtosis:                       3.290   Cond. No.                     9.45e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 9.45e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.

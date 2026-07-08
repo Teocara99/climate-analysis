@@ -1,0 +1,47 @@
+COMMUNITY DEEP PROFILING — SUMMARY
+====================================
+
+1. WHAT COMMUNITIES ARE
+The climate tech co-investment network organizes into five archetypal cluster
+types that differ meaningfully in investor composition, portfolio focus, and
+outcomes. Exit-Oriented clusters (7 communities, ~49% GREEN_VC) achieve the
+highest exit rates (~7.8%) driven by IVC-heavy syndicates that prioritize
+commercial returns. Mixed Bridge clusters (10 communities) represent the
+ecosystem core — balanced green/traditional composition, moderate exits, lower
+failure. High-Risk Frontier communities (11 communities) are the largest group;
+despite moderate green share (56%), they show the lowest exit rates and highest
+variability, consistent with early-stage frontier bets requiring longer gestation.
+Government-Led communities (1 large community, 73% GVC) are characterized by
+public funding mandates: low exits but distinctively high failure (16.7%) —
+governments fund risky frontier research that markets won't. Real investor names
+make these archetypes concrete: Climate Capital, Breakthrough Energy, and SOSV
+define the green frontier; Plug and Play and Alumni Ventures anchor the
+traditional bridge.
+
+2. WHY CROSS-COMMUNITY FUNDING MATTERS
+Companies funded by investors from two or more distinct communities show
+meaningfully better outcomes — not primarily through higher exit rates (exit
+benefit is directionally positive but marginal at p≈0.07), but through robustly
+lower failure rates (−1.9pp, p=0.011). Cross-community companies also raise more
+capital and complete more funding rounds, consistent with access to a broader
+resource base. The dose-response analysis (1 → 2 → 3+ communities) shows
+increasing capital raised with each step, but the marginal failure-reduction
+benefit plateaus after 2 communities. The Trump 2016 fire-sale surge was
+captured disproportionately by cross-community deals: within-community companies
+showed muted exit response, while cross-community companies captured more of the
+M&A wave, consistent with traditional investor relationships facilitating
+strategic acquisitions.
+
+3. HOW MUCH DO COMMUNITIES MATTER?
+The ICC analysis gives the definitive answer: community membership explains
+1.5% of exit variance and 2.0% of failure variance.
+This is modest — individual deal characteristics explain most variation.
+The community-level success regression (N=30) reveals that pct_GREEN_VC is the
+strongest negative predictor of community exit rate (p=0.014), while community
+avg_novelty predicts lower exits (consistent with frontier tech requiring longer
+horizons). Geographic diversity and cross-community deal participation show
+positive directional associations but are not statistically significant at this
+sample size. The cohesion test finds no strong inverted-U relationship between
+internal density and outcomes — tightly knit communities are neither clearly
+better nor worse, suggesting that information sharing benefits of cohesion are
+offset by echo-chamber costs at the community level.

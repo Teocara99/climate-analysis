@@ -1,0 +1,218 @@
+
+════════════════════════════════════════════════════════════
+  CLUSTER: Exit-Oriented
+════════════════════════════════════════════════════════════
+
+  INVESTORS: 6,274 total
+  Top 5 investors (by # deals):
+    Plug and Play Tech Center                | OTHER        | TRADITIONAL  | 615 deals | degree 1288
+    SOSV                                     | IVC          | GREEN_VC     | 295 deals | degree 828
+    Techstars                                | IVC          | ESG_ALIGNED  | 276 deals | degree 337
+    Climate Capital                          | IVC          | GREEN_VC     | 257 deals | degree 1407
+    Breakthrough Energy                      | OTHER        | GREEN_VC     | 186 deals | degree 790
+  Type mix: OTHER=33%  GVC=30%  IVC=30%  Impact_VC=2%  CVC=2%  University_VC=1%  Angel_Network=1%  Bank_VC=0%
+  Avg deals/investor: 4.1  median: 2  max: 615
+  Avg investor vintage (first deal year): 2021
+  Investor deal geography (company HQ):
+    Americas            : 67.4%
+    Europe              : 20.1%
+    Asia                : 6.8%
+    Middle East         : 3.4%
+    Oceania             : 1.7%
+
+  PORTFOLIO COMPANIES: 1,874
+  Avg founding year: 2018  median: 2018
+  Stage distribution (VC Round):
+    1st Round      : 29.5%
+    2nd Round      : 27.7%
+    3rd Round      : 19.2%
+    4th Round      : 11.9%
+    5th Round      : 6.2%
+  Deal types:
+    Later Stage VC                : 29.5%
+    Early Stage VC                : 29.0%
+    Seed Round                    : 26.8%
+    Accelerator/Incubator         : 10.7%
+  Company geography:
+    Americas            : 67.4%
+    Europe              : 20.1%
+    Asia                : 6.8%
+    Middle East         : 3.4%
+  Avg total raised: $50.2M  median: $6.8M
+  Avg funding rounds: 5.1  median: 4
+  Outcomes: exit=6.9%  IPO=1.2%  M&A=5.8%  fail=8.3%
+
+  Deal pacing (avg deals/year): pre-2016=84  2017-20=527  post-2020=1048
+  → Pacing trend: accelerating
+
+════════════════════════════════════════════════════════════
+  CLUSTER: Mixed Bridge
+════════════════════════════════════════════════════════════
+
+  INVESTORS: 6,307 total
+  Top 5 investors (by # deals):
+    U.S. Department of Energy                | GVC          | GREEN_VC     | 569 deals | degree 88
+    Innovate UK                              | GVC          | GREEN_VC     | 527 deals | degree 137
+    US National Science Foundation           | GVC          | GREEN_VC     | 439 deals | degree 58
+    European Innovation Council              | GVC          | GREEN_VC     | 265 deals | degree 223
+    InnoEnergy                               | GVC          | GREEN_VC     | 241 deals | degree 357
+  Type mix: GVC=53%  OTHER=27%  IVC=16%  Impact_VC=2%  University_VC=1%  CVC=1%  Angel_Network=1%  Bank_VC=0%
+  Avg deals/investor: 3.6  median: 1  max: 569
+  Avg investor vintage (first deal year): 2021
+  Investor deal geography (company HQ):
+    Europe              : 59.9%
+    Asia                : 19.5%
+    Americas            : 16.9%
+    Africa              : 2.1%
+    Middle East         : 0.9%
+
+  PORTFOLIO COMPANIES: 2,658
+  Avg founding year: 2018  median: 2018
+  Stage distribution (VC Round):
+    1st Round      : 33.8%
+    2nd Round      : 27.2%
+    3rd Round      : 18.8%
+    4th Round      : 8.8%
+    5th Round      : 5.7%
+  Deal types:
+    Early Stage VC                : 26.1%
+    Later Stage VC                : 22.8%
+    Seed Round                    : 18.8%
+    Grant                         : 14.5%
+  Company geography:
+    Europe              : 59.9%
+    Asia                : 19.5%
+    Americas            : 16.9%
+    Africa              : 2.1%
+  Avg total raised: $60.3M  median: $3.7M
+  Avg funding rounds: 5.0  median: 4
+  Outcomes: exit=6.5%  IPO=1.6%  M&A=4.9%  fail=8.0%
+
+  Deal pacing (avg deals/year): pre-2016=134  2017-20=744  post-2020=1230
+  → Pacing trend: accelerating
+
+════════════════════════════════════════════════════════════
+  CLUSTER: High-Risk Frontier
+════════════════════════════════════════════════════════════
+
+  INVESTORS: 4,977 total
+  Top 5 investors (by # deals):
+    Greentown Labs                           | IVC          | GREEN_VC     | 233 deals | degree 68
+    Creative Destruction Lab                 | OTHER        | GREEN_VC     | 203 deals | degree 68
+    Third Derivative                         | IVC          | GREEN_VC     | 177 deals | degree 82
+    Sustainable Development Technology Canad | GVC          | GREEN_VC     | 120 deals | degree 171
+    Antler                                   | IVC          | TRADITIONAL  | 97 deals | degree 156
+  Type mix: GVC=42%  OTHER=31%  IVC=20%  Angel_Network=2%  Impact_VC=2%  University_VC=1%  CVC=1%  Bank_VC=0%
+  Avg deals/investor: 3.1  median: 1  max: 233
+  Avg investor vintage (first deal year): 2021
+  Investor deal geography (company HQ):
+    Americas            : 43.3%
+    Asia                : 29.4%
+    Europe              : 17.8%
+    Oceania             : 7.6%
+    Middle East         : 1.2%
+
+  PORTFOLIO COMPANIES: 1,591
+  Avg founding year: 2018  median: 2018
+  Stage distribution (VC Round):
+    1st Round      : 34.0%
+    2nd Round      : 28.3%
+    3rd Round      : 18.2%
+    4th Round      : 10.2%
+    5th Round      : 5.6%
+  Deal types:
+    Seed Round                    : 27.7%
+    Early Stage VC                : 22.5%
+    Later Stage VC                : 22.4%
+    Accelerator/Incubator         : 20.3%
+  Company geography:
+    Americas            : 43.3%
+    Asia                : 29.4%
+    Europe              : 17.8%
+    Oceania             : 7.6%
+  Avg total raised: $23.7M  median: $2.8M
+  Avg funding rounds: 4.8  median: 4
+  Outcomes: exit=4.5%  IPO=0.6%  M&A=3.9%  fail=7.2%
+
+  Deal pacing (avg deals/year): pre-2016=63  2017-20=439  post-2020=821
+  → Pacing trend: accelerating
+
+════════════════════════════════════════════════════════════
+  CLUSTER: Government-Led
+════════════════════════════════════════════════════════════
+
+  INVESTORS: 26 total
+  Top 5 investors (by # deals):
+    gBETA                                    | OTHER        | TRADITIONAL  | 35 deals | degree 8
+    GrowthX Capital                          | IVC          | TRADITIONAL  | 10 deals | degree 26
+    HudsonAlpha AgTech Accelerator           | OTHER        | GREEN_VC     | 8 deals | degree 8
+    Securewyse                               | OTHER        | TRADITIONAL  | 2 deals | degree 20
+    Vidya Dinamani                           | GVC          | GREEN_VC     | 1 deals | degree 9
+  Type mix: GVC=73%  OTHER=19%  IVC=8%
+  Avg deals/investor: 3.0  median: 1  max: 35
+  Avg investor vintage (first deal year): 2018
+  Investor deal geography (company HQ):
+    Americas            : 100.0%
+
+  PORTFOLIO COMPANIES: 9
+  Avg founding year: 2018  median: 2016
+  Stage distribution (VC Round):
+    2nd Round      : 58.8%
+    3rd Round      : 26.5%
+    1st Round      : 14.7%
+  Deal types:
+    Accelerator/Incubator         : 55.8%
+    Seed Round                    : 24.7%
+    Early Stage VC                : 19.5%
+  Company geography:
+    Americas            : 100.0%
+  Avg total raised: $0.7M  median: $0.5M
+  Avg funding rounds: 3.8  median: 3
+  Outcomes: exit=0.0%  IPO=0.0%  M&A=0.0%  fail=11.1%
+
+  Deal pacing (avg deals/year): pre-2016=1  2017-20=2  post-2020=6
+  → Pacing trend: accelerating
+
+════════════════════════════════════════════════════════════
+  CLUSTER: Deep Green
+════════════════════════════════════════════════════════════
+
+  INVESTORS: 27 total
+  Top 5 investors (by # deals):
+    Vardar                                   | GVC          | GREEN_VC     | 4 deals | degree 27
+    Kaamos Group                             | GVC          | GREEN_VC     | 3 deals | degree 24
+    Copenhagen Infrastructure Partners       | IVC          | GREEN_VC     | 2 deals | degree 5
+    Warmeston                                | GVC          | GREEN_VC     | 2 deals | degree 23
+    VanMeter                                 | GVC          | GREEN_VC     | 1 deals | degree 22
+  Type mix: GVC=67%  OTHER=26%  IVC=7%
+  Avg deals/investor: 1.3  median: 1  max: 4
+  Avg investor vintage (first deal year): 2021
+  Investor deal geography (company HQ):
+    Europe              : 100.0%
+
+  PORTFOLIO COMPANIES: 4
+  Avg founding year: 2019  median: 2019
+  Stage distribution (VC Round):
+    1st Round      : 87.5%
+    5th Round      : 12.5%
+  Deal types:
+    Early Stage VC                : 70.6%
+    Later Stage VC                : 11.8%
+    Seed Round                    : 11.8%
+    PE Growth/Expansion           : 2.9%
+  Company geography:
+    Europe              : 100.0%
+  Avg total raised: $285.8M  median: $85.2M
+  Avg funding rounds: 3.5  median: 4
+  Outcomes: exit=0.0%  IPO=0.0%  M&A=0.0%  fail=0.0%
+
+  Deal pacing (avg deals/year): pre-2016=1  2017-20=1  post-2020=2
+  → Pacing trend: stable
+
+  [Exit-Oriented] Keywords: energy, carbon, platform, developer, technology, designed, intended, based, offers, sustainable, products, food, reduce, waste, data
+
+  [Mixed Bridge] Keywords: energy, carbon, developer, platform, designed, technology, intended, offers, sustainable, reduce, waste, systems, products, materials, company offers
+
+  [High-Risk Frontier] Keywords: energy, carbon, platform, technology, developer, designed, intended, sustainable, waste, offers, reduce, food, based, products, data
+
+  [Government-Led] Keywords: developer, designed, platform, waste, farm, data, sustainable, offers, company offers, storage, water, costs, intended, monitoring, alternative

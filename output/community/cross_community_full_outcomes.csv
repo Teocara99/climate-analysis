@@ -1,0 +1,3 @@
+cross_community,n,exit_rate,ipo_rate,ma_rate,failure_rate,survival_rate,avg_rounds,avg_capital_M,median_capital_M,label
+0.0,2012,5.37,1.34,4.03,9.54,85.09,3.088469184890656,31.05515087719298,2.13,Within-community
+1.0,4147,6.51,1.18,5.33,7.07,86.42,5.894140342416205,54.29411385606874,5.23,Cross-community
