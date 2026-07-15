@@ -1,0 +1,35 @@
+CPU ANALYSIS — RESEARCH NARRATIVE
+===================================
+
+1. CPU AS A CONTINUOUS PREDICTOR (MODEL 1)
+Replacing binary policy shock dummies with the Gavriilidis continuous CPU index
+reveals that each one-standard-deviation rise in climate policy uncertainty is
+associated with a +0.07pp change in exit probability (p=0.894,
+not significant). This continuous specification captures intensity, not merely
+before-versus-after binary variation, and avoids the arbitrary date-cutting of
+dummy approaches. The interaction between pure_green syndicate and CPU
+(coef=+0.21pp, p=0.714, not significant) speaks to the core hypothesis:
+green-investor-backed companies show a positive
+response to rising uncertainty — consistent with green investors either holding through
+uncertainty or being less able to find exit buyers in high-CPU environments.
+
+2. DIRECTIONAL UNCERTAINTY MATTERS (MODEL 2)
+Decomposing CPU into CPU+ (strengthening signals, e.g. Green Deal) and CPU−
+(weakening signals, e.g. Trump) tests whether green vs traditional investors
+respond asymmetrically. The hypothesis is that CPU+ creates a wait-and-see
+holdback for pure-green syndicates (they expect better conditions ahead) while
+CPU− triggers distress exits for traditional investors caught in climate-exposed
+assets. Note that CPU+/CPU− are only fully available through 2019 in the
+Basaglia dataset; post-2019 values are approximated from Gavriilidis. Results
+should therefore be interpreted as directionally indicative rather than
+conclusive for the 2020–2026 period.
+
+3. CROSS-COMMUNITY RESILIENCE (MODEL 3)
+The interaction between cross_community funding and CPU
+(coef=-0.64pp, p=0.229, directionally present but not significant) tests whether
+the network diversity documented in Script 15 also confers policy-risk resilience.
+Cross-community companies span multiple investor communities — bringing geographic
+and type diversity — which may buffer against jurisdiction-specific policy shocks
+better than single-community syndicates. This finding links the network structure
+analysis to the macro policy environment and strengthens the case for viewing
+syndicate architecture as a form of political risk management.

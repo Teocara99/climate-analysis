@@ -1,0 +1,33 @@
+COMMUNITY PAIR ANALYSIS — SUMMARY
+===================================
+
+1. PAIR OUTCOME LANDSCAPE
+Across 198 community pairs with ≥20 co-invested companies, exit rates range
+from ~2% to ~20% and failure rates from ~1% to ~20%. The best risk-adjusted pair
+(C5 × C19, n=33) achieves 18.2% exits and
+0.0% failures — a spread of +18.2pp. The worst pair
+(C2 × C12) inverts this: 4.7% exits with 16.3%
+failures. The variation across pairs is substantial, suggesting that community
+combination choice is a meaningful predictor of startup outcomes — not just
+a compositional artefact of which investors happen to co-invest.
+
+2. WHAT COMPLEMENTARITY PREDICTS SUCCESS
+The complementarity regression reveals that geographic complementarity (cross-
+geography pairs) is the strongest predictor of lower failure rates, with cross-
+geography pairs failing 1.9pp less than same-geography pairs.
+Type complementarity (GVC-heavy + IVC-heavy) and green complementarity (large
+green% gap between partners) show directional associations but are noisier given
+the sample size (N=198 pairs). The implication is clear: US communities paired
+with EU or Asia communities tend to produce more resilient portfolios — likely
+because geographic diversity brings different market access, regulatory knowledge,
+and exit route optionality.
+
+3. C7 AND STRATEGIC PAIRING
+C7 (US Mixed Exit-Active, 1,836 investors) achieves its distinctive 9.7% exit /
+2.9% failure profile in part through strategic partner selection. Its best
+partners are communities with high IVC concentration and cross-geography exposure.
+Its worst partners tend to be same-geography same-stage communities — precisely
+the echo-chamber pairings where geographic complementarity is zero and type
+overlap is highest. C7's average deal size ($59.7M) and co-investor diversity (29)
+suggest it operates in the growth-to-exit zone where network breadth matters more
+than depth.

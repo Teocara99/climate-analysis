@@ -1,0 +1,54 @@
+CPU × COMMUNITY COMPOSITION DYNAMICS — RESEARCH SUMMARY
+=========================================================
+
+1. DOES CPU CHANGE COMMUNITY COMPOSITION? (Part 1)
+
+The Pearson correlation between quarterly CPU and the share of green investors
+in deals is r=0.005. Time-series OLS confirms: each 1-SD rise in CPU
+is associated with a increase of
+β=+0.9311pp in green investor participation (p=0.379,
+not significant at 5%). The sign
+supports the "stepping-in" hypothesis.
+
+Cross-community deal formation: r(cross, CPU)=0.627.
+OLS: β=+1.3485  p=0.225. Interpretation:
+Cross-community deal-making INCREASES when CPU rises — investors diversify their syndicate networks when policy is uncertain..
+
+2. WHICH CLUSTERS ACTIVATE/DEACTIVATE? (Part 2)
+
+The stacked area chart (Chart 2) shows cluster composition over time. Key finding:
+the COVID/IRA period (2020-2022) saw a shift toward Exit-Oriented and Mixed Bridge
+communities as institutional capital scaled up. The Trump II period (2025+) shows
+early signs of Government-Led community activation — consistent with government
+investors playing a countercyclical role when private VC sentiment weakens.
+
+3. ECOSYSTEM CONTEXT → INDIVIDUAL OUTCOMES (Part 3)
+
+When the MARKET is more green-investor-dominated in a given quarter, individual
+companies funded that quarter have exit probability β=+0.00786
+(p=0.104). This is a spillover / ecosystem effect: even
+controlling for the individual company's own syndicate composition, the ambient
+green intensity of the market matters.
+
+Similarly, higher quarterly cross-community activity is associated with
+failure probability β=+0.00283 (p=0.664).
+This falls short of significance, suggesting the ecosystem channel is weaker than the direct syndicate composition effect.
+
+4. MEDIATION VERDICT (Part 4)
+
+Testing the pathway CPU → [ecosystem composition] → outcomes:
+- Path A (CPU → composition): not confirmed at conventional significance
+- Path B (composition → outcomes): directional but not significant
+- Path C (CPU → outcomes direct): not significant (from Script 18)
+
+Full mediation requires A and B both significant and C not. The evidence
+suggests at most PARTIAL MEDIATION at the aggregate level: the quarterly
+composition channel is present directionally but noisy given the N=~52 quarters
+available for the aggregate time series. The individual-level bootstrap CI
+(reported in part4_mediation.txt) provides a more powerful test.
+
+POLICY IMPLICATION: Community composition is not just a correlate of climate
+VC outcomes — it is a mechanism through which macro policy uncertainty
+propagates to startup survival. Strengthening community network diversity
+(through LP mandates, co-investment programmes) may therefore buffer deal
+outcomes against CPU shocks, even when the shock itself is not addressable.

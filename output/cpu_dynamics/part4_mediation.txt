@@ -1,0 +1,87 @@
+====================================================================
+PART 4: MEDIATION ANALYSIS
+  CPU → Composition (Path A) → Outcomes (Path B)
+====================================================================
+
+  A. AGGREGATE (quarterly N~52)
+
+
+  Mediator: Quarterly % Green investors  |  Outcome: exit_rate_pct
+  Path c  (total): CPU → exit_rate_: β=+0.4080  p=0.886
+  Path a:          CPU → mediator:         β=-0.2366  p=0.822
+  Path b:          mediator → exit_rate_: β=+0.9196  p=0.016
+  Path c' (direct):CPU → exit_rate_: β=+0.6255  p=0.817
+  Indirect (a×b):  -0.2176  Sobel z=-0.226  p=0.821
+  Verdict: n.s.
+  → No significant mediation detected at quarterly level
+
+  Mediator: Quarterly % Green investors  |  Outcome: failure_rate_pct
+  Path c  (total): CPU → failure_ra: β=-0.1459  p=0.896
+  Path a:          CPU → mediator:         β=-0.2366  p=0.822
+  Path b:          mediator → failure_ra: β=+0.1733  p=0.256
+  Path c' (direct):CPU → failure_ra: β=-0.1049  p=0.925
+  Indirect (a×b):  -0.0410  Sobel z=-0.223  p=0.824
+  Verdict: n.s.
+  → No significant mediation detected at quarterly level
+
+  Mediator: Quarterly % Cross-community deals  |  Outcome: exit_rate_pct
+  Path c  (total): CPU → exit_rate_: β=+0.4080  p=0.886
+  Path a:          CPU → mediator:         β=+0.2448  p=0.764
+  Path b:          mediator → exit_rate_: β=-0.4275  p=0.397
+  Path c' (direct):CPU → exit_rate_: β=+0.5126  p=0.857
+  Indirect (a×b):  -0.1046  Sobel z=-0.285  p=0.776
+  Verdict: n.s.
+  → No significant mediation detected at quarterly level
+
+  Mediator: Quarterly % Cross-community deals  |  Outcome: failure_rate_pct
+  Path c  (total): CPU → failure_ra: β=-0.1459  p=0.896
+  Path a:          CPU → mediator:         β=+0.2448  p=0.764
+  Path b:          mediator → failure_ra: β=-0.1721  p=0.383
+  Path c' (direct):CPU → failure_ra: β=-0.1038  p=0.926
+  Indirect (a×b):  -0.0421  Sobel z=-0.286  p=0.775
+  Verdict: n.s.
+  → No significant mediation detected at quarterly level
+
+────────────────────────────────────────────────────────────
+  B. INDIVIDUAL LEVEL (company N~6,000)
+
+
+  Mediator: % Green in market that quarter  |  Outcome: exited
+  c (total):  β=-0.02210  p=0.000
+  a (path A): β=-0.00577  p=0.637
+  b (path B): β=+0.01630  p=0.000
+  c'(direct): β=-0.02200  p=0.000
+  Indirect:   -0.00009  Sobel z=-0.471  p=0.638
+  Bootstrap CI (n=1000):
+  Indirect (bootstrap): -0.00010  95% CI [-0.00053, +0.00027]
+  Bootstrap verdict: not significant
+
+  Mediator: % Green in market that quarter  |  Outcome: failed
+  c (total):  β=-0.01949  p=0.000
+  a (path A): β=-0.00577  p=0.637
+  b (path B): β=+0.00689  p=0.041
+  c'(direct): β=-0.01945  p=0.000
+  Indirect:   -0.00004  Sobel z=-0.460  p=0.645
+  Bootstrap CI (n=1000):
+  Indirect (bootstrap): -0.00004  95% CI [-0.00027, +0.00013]
+  Bootstrap verdict: not significant
+
+  Mediator: % Cross-community in market that quarter  |  Outcome: exited
+  c (total):  β=-0.02210  p=0.000
+  a (path A): β=+0.48658  p=0.000
+  b (path B): β=-0.01790  p=0.000
+  c'(direct): β=-0.01339  p=0.000
+  Indirect:   -0.00871  Sobel z=-5.343  p=0.000
+  Bootstrap CI (n=1000):
+  Indirect (bootstrap): -0.00869  95% CI [-0.01195, -0.00546]
+  Bootstrap verdict: SIGNIFICANT
+
+  Mediator: % Cross-community in market that quarter  |  Outcome: failed
+  c (total):  β=-0.01949  p=0.000
+  a (path A): β=+0.48658  p=0.000
+  b (path B): β=-0.01392  p=0.000
+  c'(direct): β=-0.01271  p=0.001
+  Indirect:   -0.00677  Sobel z=-3.601  p=0.000
+  Bootstrap CI (n=1000):
+  Indirect (bootstrap): -0.00673  95% CI [-0.01045, -0.00311]
+  Bootstrap verdict: SIGNIFICANT

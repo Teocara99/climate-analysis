@@ -1,0 +1,35 @@
+======================================================================
+CPU INTEGRATION — DESCRIPTIVE STATISTICS
+======================================================================
+
+  Companies in analytical sample: 6,718
+  Deal date range: 2013-05 → 2026-04
+
+  CPU Narrow (Gavriilidis, US):
+    mean=342.3  std=160.4  P10=158.9  P90=518.0
+
+  CPU Country-matched (Basaglia):
+    mean=316.2  std=173.3  P10=109.1  P90=517.4
+
+  CPU+ Strengthening:
+    mean=184.3  std=121.9  P10=45.1  P90=319.5
+
+  CPU− Weakening:
+    mean=144.4  std=72.0  P10=71.9  P90=222.4
+
+  Syndicate composition:
+    pure_green          : n=4,155 (61.8%)
+    pure_ivc            : n=  376 (5.6%)
+    pure_trad           : n=  778 (11.6%)
+    mixed_syn           : n=4,015 (59.8%)
+
+  Cross-community: 4,137 (61.6%)
+  Exit rate:    6.12%
+  Failure rate: 8.37%
+
+  Exit/Failure by CPU quartile (Gavriilidis):
+  CPU Quartile    Exit%    Fail%    n       
+  Q1 (Low)          10.03%   11.86%    1,695
+  Q2                 6.48%    8.95%    1,698
+  Q3                 3.97%    6.32%    1,661
+  Q4 (High)          3.91%    6.25%    1,664

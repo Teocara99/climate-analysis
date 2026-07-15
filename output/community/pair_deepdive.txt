@@ -1,0 +1,123 @@
+============================================================
+TOP 3 PAIRS — DEEP DIVE
+============================================================
+
+═══════════════════════════════════════════════════════
+  #1: C5 × C19  exit=18.2%  fail=0.0%  risk-adj=+18.2pp  n=33
+  C5: Gov-Led · Early-Stage · Diversified (EU)
+  C19: Gov-Led · Early-Stage · Diversified · [Exit-Active] (Asia)
+
+  Top 10 investors from C5 in this pair:
+    Asia Green Fund                                (in-pair deals: 9, total: 10)
+    Yunqi Partners                                 (in-pair deals: 6, total: 6)
+    TransLink Capital                              (in-pair deals: 4, total: 14)
+    Demea Sustainable Investment                   (in-pair deals: 3, total: 41)
+    China Southern Power Grid Technology           (in-pair deals: 2, total: 2)
+    BNP Paribas                                    (in-pair deals: 2, total: 19)
+    Bpifrance                                      (in-pair deals: 2, total: 119)
+    ChinaEquity Group                              (in-pair deals: 2, total: 2)
+    Mirae Asset Global Investments                 (in-pair deals: 2, total: 2)
+    Sumitomo Corporation Equity Asia               (in-pair deals: 2, total: 4)
+
+  Top 10 investors from C19 in this pair:
+    Cathay Innovation                              (in-pair deals: 6, total: 10)
+    Cathay Capital                                 (in-pair deals: 5, total: 9)
+    ZhenFund                                       (in-pair deals: 5, total: 21)
+    Legend Capital                                 (in-pair deals: 4, total: 19)
+    Guangzhou Industrial Investment Holding Group  (in-pair deals: 3, total: 5)
+    Source Code Capital                            (in-pair deals: 3, total: 15)
+    Korelya Capital                                (in-pair deals: 3, total: 3)
+    Hubei Provincial High-tech Industry Investmen  (in-pair deals: 3, total: 6)
+    Yingdong Capital                               (in-pair deals: 3, total: 3)
+    China Structural Reform Fund                   (in-pair deals: 2, total: 5)
+
+  5 example companies (highest capital raised):
+    GAC Aion                                 | Active / Private     | $  2985M | electric, vehicles, mobility, enabling, vehicle, bike, scoot
+    Archaea Energy                           | Acquired             | $   653M | noise
+    Wallbox (NYS: WBX)                       | IPO / Public         | $   356M | charging, electric, vehicle, electric vehicle, vehicle charg
+    Too Good To Go                           | Active / Private     | $   130M | food, food waste, reduce food, waste, surplus food, surplus,
+    v2food                                   | Active / Private     | $   115M | meat, food, plant, dairy, protein, producer plant, vegan, pr
+
+  Typical investment path:
+    C5 invests first (avg year 2021) → C19 follows (avg year 2021)
+    Lag: ~0.6 years
+
+═══════════════════════════════════════════════════════
+  #2: C7 × C26  exit=17.6%  fail=0.0%  risk-adj=+17.6pp  n=34
+  C7: Mixed · Early-Stage · Diversified · [Exit-Active] (US)
+  C26: Mixed · Early-Stage · Diversified · [Exit-Active] (EU)
+
+  Top 10 investors from C7 in this pair:
+    Nysno Climate Investments                      (in-pair deals: 7, total: 9)
+    SINTEF Venture                                 (in-pair deals: 6, total: 8)
+    Axel Johnson Group                             (in-pair deals: 5, total: 5)
+    Maniv Mobility                                 (in-pair deals: 5, total: 18)
+    AENU                                           (in-pair deals: 4, total: 35)
+    Equinor Ventures                               (in-pair deals: 4, total: 43)
+    Orlen VC                                       (in-pair deals: 4, total: 5)
+    Lowercarbon Capital                            (in-pair deals: 4, total: 152)
+    Kongsberg Innovation                           (in-pair deals: 4, total: 6)
+    Moore Strategic Ventures                       (in-pair deals: 3, total: 11)
+
+  Top 10 investors from C26 in this pair:
+    Israel G-Tek                                   (in-pair deals: 7, total: 7)
+    Farvatn Venture                                (in-pair deals: 6, total: 15)
+    EQT                                            (in-pair deals: 5, total: 6)
+    Firda                                          (in-pair deals: 4, total: 7)
+    Eviny Ventures                                 (in-pair deals: 4, total: 12)
+    Skyfall Ventures                               (in-pair deals: 3, total: 3)
+    Capital Nature                                 (in-pair deals: 3, total: 4)
+    Investinor                                     (in-pair deals: 3, total: 8)
+    TD Veen                                        (in-pair deals: 3, total: 6)
+    Arkwright X                                    (in-pair deals: 3, total: 4)
+
+  5 example companies (highest capital raised):
+    Li-Cycle                                 | Acquired             | $  1190M | lithium, battery, battery recycling, recycling, batteries, l
+    Fisker                                   | Active / Private     | $   483M | electric, vehicles, mobility, enabling, vehicle, bike, scoot
+    Hyliion Holdings (ASE: HYLN)             | IPO / Public         | $   318M | energy, wave, electricity, power, ocean, wave energy, enabli
+    Revel                                    | Active / Private     | $   251M | charging, electric, vehicle, electric vehicle, vehicle charg
+    Scale Microgrid Solutions                | Active / Private     | $   235M | noise
+
+  Typical investment path:
+    C26 invests first (avg year 2021) → C7 follows (avg year 2022)
+    Lag: ~1.0 years
+
+═══════════════════════════════════════════════════════
+  #3: C14 × C23  exit=17.5%  fail=0.0%  risk-adj=+17.5pp  n=40
+  C14: VC-Driven · Early-Stage · Diversified · [Exit-Active] (EU)
+  C23: Mixed · Early-Stage · Diversified (US)
+
+  Top 10 investors from C14 in this pair:
+    FJ Labs                                        (in-pair deals: 11, total: 37)
+    Speedinvest                                    (in-pair deals: 9, total: 43)
+    Northzone Ventures                             (in-pair deals: 5, total: 19)
+    White Star Capital                             (in-pair deals: 5, total: 9)
+    Point Nine Capital                             (in-pair deals: 5, total: 15)
+    Sequoia Capital                                (in-pair deals: 5, total: 33)
+    Valor Equity Partners                          (in-pair deals: 4, total: 50)
+    Andreessen Horowitz                            (in-pair deals: 4, total: 28)
+    Goodwater Capital                              (in-pair deals: 4, total: 8)
+    RTP Global                                     (in-pair deals: 4, total: 11)
+
+  Top 10 investors from C23 in this pair:
+    New Enterprise Associates                      (in-pair deals: 9, total: 21)
+    B37 Ventures                                   (in-pair deals: 6, total: 11)
+    Faber Ventures                                 (in-pair deals: 5, total: 9)
+    Pear                                           (in-pair deals: 4, total: 12)
+    Astia                                          (in-pair deals: 4, total: 7)
+    Franklin Resources                             (in-pair deals: 3, total: 8)
+    Amazon.com                                     (in-pair deals: 3, total: 8)
+    Asiri                                          (in-pair deals: 3, total: 5)
+    Prologis Ventures                              (in-pair deals: 2, total: 11)
+    Initialized Capital                            (in-pair deals: 2, total: 5)
+
+  5 example companies (highest capital raised):
+    Archer Aviation (NYS: ACHR)              | IPO / Public         | $  4413M | aircraft, landing, electric, electric vertical, aviation, fl
+    Redwood Materials                        | Active / Private     | $  1979M | lithium, battery, battery recycling, recycling, batteries, l
+    Redaptive                                | Active / Private     | $  1437M | cooling, energy, heating, ventilation, air conditioning, ena
+    Perfect Day                              | Active / Private     | $   700M | meat, food, plant, dairy, protein, producer plant, vegan, pr
+    TIER Mobility                            | Acquired             | $   584M | electric, vehicles, mobility, enabling, vehicle, bike, scoot
+
+  Typical investment path:
+    C23 invests first (avg year 2021) → C14 follows (avg year 2021)
+    Lag: ~0.0 years

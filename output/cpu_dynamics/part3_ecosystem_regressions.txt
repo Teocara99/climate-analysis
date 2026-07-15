@@ -1,0 +1,22 @@
+====================================================================
+PART 3: ECOSYSTEM CONTEXT → INDIVIDUAL OUTCOMES
+====================================================================
+  (market-level quarterly composition as contextual variable)
+
+  Outcome: EXITED
+  n=6,718  R²=0.0636  adj-R²=0.0620
+  mkt_green_q_z            : coef=+0.00786  se=0.00484  p=0.104    
+  mkt_cross_q_z            : coef=-0.00540  se=0.00562  p=0.337    
+  cpu_z                    : coef=-0.00111  se=0.00406  p=0.784    
+  pure_green               : coef=-0.00901  se=0.00599  p=0.132    
+  pure_ivc                 : coef=+0.02646  se=0.01422  p=0.063 (†)
+  ───────────────────────────────────────────────────────────────
+
+  Outcome: FAILED
+  n=6,718  R²=0.0414  adj-R²=0.0397
+  mkt_green_q_z            : coef=+0.00010  se=0.00518  p=0.985    
+  mkt_cross_q_z            : coef=+0.00283  se=0.00652  p=0.664    
+  cpu_z                    : coef=-0.00360  se=0.00498  p=0.470    
+  pure_green               : coef=-0.02329  se=0.00714  p=0.001 **
+  pure_ivc                 : coef=+0.01597  se=0.01450  p=0.271    
+  ───────────────────────────────────────────────────────────────

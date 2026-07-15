@@ -1,0 +1,108 @@
+
+=======================================================
+OUTCOME: failure_rate
+=======================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           failure_rate   R-squared:                       0.105
+Model:                            OLS   Adj. R-squared:                  0.077
+Method:                 Least Squares   F-statistic:                     3.752
+Date:                Wed, 08 Jul 2026   Prob (F-statistic):            0.00149
+Time:                        10:56:11   Log-Likelihood:                -490.36
+No. Observations:                 198   AIC:                             994.7
+Df Residuals:                     191   BIC:                             1018.
+Df Model:                           6                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept       6.9563      0.720      9.656      0.000       5.535       8.377
+geo_comp       -4.3335      1.101     -3.935      0.000      -6.505      -2.162
+type_comp      -2.0939      2.834     -0.739      0.461      -7.683       3.496
+green_comp     -0.2142      3.931     -0.054      0.957      -7.968       7.539
+stage_comp     -1.5952      1.782     -0.895      0.372      -5.110       1.919
+size_comp      -0.0016      0.004     -0.424      0.672      -0.009       0.006
+n_companies -5.788e-05      0.001     -0.039      0.969      -0.003       0.003
+==============================================================================
+Omnibus:                       30.107   Durbin-Watson:                   1.717
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               43.445
+Skew:                           0.884   Prob(JB):                     3.68e-10
+Kurtosis:                       4.462   Cond. No.                     3.73e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.73e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+=======================================================
+OUTCOME: exit_rate
+=======================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              exit_rate   R-squared:                       0.181
+Model:                            OLS   Adj. R-squared:                  0.155
+Method:                 Least Squares   F-statistic:                     7.044
+Date:                Wed, 08 Jul 2026   Prob (F-statistic):           8.67e-07
+Time:                        10:56:11   Log-Likelihood:                -522.77
+No. Observations:                 198   AIC:                             1060.
+Df Residuals:                     191   BIC:                             1083.
+Df Model:                           6                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept       6.3248      0.849      7.453      0.000       4.651       7.999
+geo_comp        0.2427      1.297      0.187      0.852      -2.316       2.801
+type_comp       6.1262      3.338      1.835      0.068      -0.457      12.710
+green_comp      2.2340      4.630      0.483      0.630      -6.899      11.367
+stage_comp     -6.5996      2.099     -3.144      0.002     -10.739      -2.460
+size_comp       0.0222      0.004      5.025      0.000       0.013       0.031
+n_companies    -0.0026      0.002     -1.461      0.146      -0.006       0.001
+==============================================================================
+Omnibus:                       12.477   Durbin-Watson:                   1.795
+Prob(Omnibus):                  0.002   Jarque-Bera (JB):               13.049
+Skew:                           0.569   Prob(JB):                      0.00147
+Kurtosis:                       3.534   Cond. No.                     3.73e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.73e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+=======================================================
+OUTCOME: risk_adjusted
+=======================================================
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:          risk_adjusted   R-squared:                       0.155
+Model:                            OLS   Adj. R-squared:                  0.129
+Method:                 Least Squares   F-statistic:                     5.853
+Date:                Wed, 08 Jul 2026   Prob (F-statistic):           1.27e-05
+Time:                        10:56:11   Log-Likelihood:                -588.73
+No. Observations:                 198   AIC:                             1191.
+Df Residuals:                     191   BIC:                             1214.
+Df Model:                           6                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      -0.6315      1.184     -0.533      0.594      -2.967       1.704
+geo_comp        4.5762      1.810      2.529      0.012       1.007       8.146
+type_comp       8.2201      4.657      1.765      0.079      -0.966      17.407
+green_comp      2.4482      6.460      0.379      0.705     -10.295      15.191
+stage_comp     -5.0044      2.929     -1.709      0.089     -10.781       0.772
+size_comp       0.0237      0.006      3.859      0.000       0.012       0.036
+n_companies    -0.0025      0.002     -1.023      0.307      -0.007       0.002
+==============================================================================
+Omnibus:                        5.978   Durbin-Watson:                   1.642
+Prob(Omnibus):                  0.050   Jarque-Bera (JB):                7.658
+Skew:                           0.190   Prob(JB):                       0.0217
+Kurtosis:                       3.885   Cond. No.                     3.73e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.73e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

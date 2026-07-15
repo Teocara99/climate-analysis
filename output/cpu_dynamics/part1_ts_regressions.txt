@@ -1,0 +1,38 @@
+====================================================================
+PART 1: QUARTERLY COMPOSITION ~ CPU (with lags)
+====================================================================
+
+  Outcome: % Green investors in deals
+  n=52 quarters  R²=0.101
+  cpu_z          : coef=+0.9311  se=1.0586  p=0.379    
+  cpu_z_l1       : coef=-2.8373  se=1.2149  p=0.020 *
+  cpu_z_l2       : coef=+0.4822  se=0.8949  p=0.590    
+  ────────────────────────────────────────────────────────────
+
+  Outcome: % Cross-community deals
+  n=52 quarters  R²=0.619
+  cpu_z          : coef=+1.3485  se=1.1113  p=0.225    
+  cpu_z_l1       : coef=-2.7236  se=1.3414  p=0.042 *
+  cpu_z_l2       : coef=+1.9480  se=1.2787  p=0.128    
+  ────────────────────────────────────────────────────────────
+
+  Outcome: Avg communities spanned per deal
+  n=52 quarters  R²=0.565
+  cpu_z          : coef=+0.0302  se=0.0361  p=0.403    
+  cpu_z_l1       : coef=-0.0776  se=0.0378  p=0.040 *
+  cpu_z_l2       : coef=+0.0477  se=0.0345  p=0.167    
+  ────────────────────────────────────────────────────────────
+
+  Outcome: % GVC investors in deals
+  n=52 quarters  R²=0.190
+  cpu_z          : coef=+1.8432  se=1.1255  p=0.101    
+  cpu_z_l1       : coef=-2.8473  se=1.3632  p=0.037 *
+  cpu_z_l2       : coef=+0.5612  se=1.1861  p=0.636    
+  ────────────────────────────────────────────────────────────
+
+  Outcome: % IVC investors in deals
+  n=52 quarters  R²=0.341
+  cpu_z          : coef=-0.4557  se=0.7023  p=0.516    
+  cpu_z_l1       : coef=-0.4328  se=0.6209  p=0.486    
+  cpu_z_l2       : coef=+0.8848  se=0.5172  p=0.087 (†)
+  ────────────────────────────────────────────────────────────

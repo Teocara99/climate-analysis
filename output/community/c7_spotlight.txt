@@ -1,0 +1,43 @@
+============================================================
+C7 SPOTLIGHT ANALYSIS
+============================================================
+
+  C7: Mixed · Early-Stage · Diversified · [Exit-Active] (US)
+  1836 investors | green=53% | GVC=31% | IVC=30% | avg deal $60M | co-diversity 29
+  Overall: exit=9.7%  fail=2.9%
+
+  Partners ranked by risk-adjusted (exit − failure):
+  Partner Name                                               n     Exit%   Fail%   Risk-adj
+  ──────────────────────────────────────────────────────────────────────────────────────────
+  C26   Mixed · Early-Stage · Diversified · [Exit-Active      34   17.6%    0.0%    +17.6pp
+  C19   Gov-Led · Early-Stage · Diversified · [Exit-Acti      69   20.3%    2.9%    +17.4pp
+  C13   Mixed · Early-Stage · Diversified (EU)               149   11.4%    2.0%     +9.4pp
+  C21   Mixed · Early-Stage · AgriTech · [Exit-Active] (     130   11.5%    5.4%     +6.2pp
+  C17   Mixed · Early-Stage · Diversified · [Resilient]       55    7.3%    1.8%     +5.5pp
+  C10   Mixed · Early-Stage · Diversified · [Resilient]      154    7.8%    2.6%     +5.2pp
+  C8    Mixed · Early-Stage · Diversified · [Exit-Active     245    8.2%    3.3%     +4.9pp
+  C16   Mixed · Early-Stage · Diversified · [Exit-Active     164    5.5%    0.6%     +4.9pp
+  C14   VC-Driven · Early-Stage · Diversified · [Exit-Ac     366    8.7%    4.1%     +4.6pp
+  C15   Mixed · Early-Stage · Diversified · [Exit-Active     157    6.4%    1.9%     +4.5pp
+  C23   Mixed · Early-Stage · Diversified (US)               136    8.1%    4.4%     +3.7pp
+  C5    Gov-Led · Early-Stage · Diversified (EU)             355    7.3%    4.5%     +2.8pp
+  C4    Mixed · Early-Stage · Diversified (EU)               554    6.9%    4.2%     +2.7pp
+  C9    Mixed · Early-Stage · Diversified · [Exit-Active     154    7.8%    5.2%     +2.6pp
+  C11   Mixed · Early-Stage · Diversified (Global)           200    6.5%    4.0%     +2.5pp
+  C3    Mixed · Early-Stage · Diversified (US)               881    6.0%    4.4%     +1.6pp
+  C1    Mixed · Early-Stage · AgriTech (US)                  870    6.3%    4.8%     +1.5pp
+  C6    Mixed · Early-Stage · Diversified · [Resilient]      619    4.8%    3.4%     +1.5pp
+  C18   Mixed · Early-Stage · Diversified (EU)                97    6.2%    5.2%     +1.0pp
+  C0    Gov-Led · Multi-Stage · Diversified (US)             396    4.3%    4.0%     +0.3pp
+  C12   Mixed · Early-Stage · Diversified (US)               120    5.0%    5.0%     +0.0pp
+  C24   Mixed · Seed · Diversified (US)                      146    5.5%    5.5%     +0.0pp
+  C2    Mixed · Early-Stage · Diversified (EU)               317    3.2%    4.7%     -1.6pp
+
+  C7 vs peer communities (same cluster type):
+    C1: exit=7.4%  fail=6.4%  green=56%  deal=$22M  co-div=23  n=1541
+    C3: exit=6.0%  fail=7.0%  green=51%  deal=$17M  co-div=24  n=1637
+    C9: exit=9.5%  fail=3.0%  green=50%  deal=$47M  co-div=16  n=232
+    C14: exit=15.9%  fail=2.8%  green=42%  deal=$77M  co-div=22  n=728
+    C21: exit=19.3%  fail=14.8%  green=49%  deal=$18M  co-div=19  n=239
+
+  ← C7 distinctives: highest deal size ($60M), highest co-investor diversity (29), lowest failure (2.9%) within Exit-Oriented cluster

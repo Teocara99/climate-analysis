@@ -1,0 +1,327 @@
+============================================================
+RANKED COMMUNITY PAIRS
+============================================================
+
+───────────────────────────────────────────────────────
+  LOWEST FAILURE RATE (best survival)
+───────────────────────────────────────────────────────
+
+  TOP 5:
+
+  ───────────────────────────────────────────────────────
+  #1
+  C15 × C24  |  n=20 companies
+  Exit=5.0%  Fail=0.0%  Risk-adj=5.0pp  Capital=$4M  Rounds=10.8
+  C15: Mixed · Early-Stage · Diversified · [Exit-Active] (Global)
+         geo=Africa  stage=Early  green=69%  GVC=40%  IVC=22%
+  C24: Mixed · Seed · Diversified (US)
+         geo=Americas  stage=Seed/Angel  green=53%  GVC=40%  IVC=23%
+  Complementarity: geo=Africa × Americas  green_diff=16pp
+
+  ───────────────────────────────────────────────────────
+  #2
+  C14 × C23  |  n=40 companies
+  Exit=17.5%  Fail=0.0%  Risk-adj=17.5pp  Capital=$40M  Rounds=7.7
+  C14: VC-Driven · Early-Stage · Diversified · [Exit-Active] (EU)
+         geo=Europe  stage=Early  green=42%  GVC=27%  IVC=37%
+  C23: Mixed · Early-Stage · Diversified (US)
+         geo=Americas  stage=Early  green=54%  GVC=37%  IVC=27%
+  Complementarity: geo=Europe × Americas  green_diff=12pp
+
+  ───────────────────────────────────────────────────────
+  #3
+  C0 × C16  |  n=38 companies
+  Exit=5.3%  Fail=0.0%  Risk-adj=5.3pp  Capital=$25M  Rounds=11.6
+  C0: Gov-Led · Multi-Stage · Diversified (US)
+         geo=Americas  stage=Other  green=61%  GVC=56%  IVC=5%
+  C16: Mixed · Early-Stage · Diversified · [Exit-Active] (Asia)
+         geo=Asia  stage=Early  green=53%  GVC=54%  IVC=12%
+  Complementarity: geo=Americas × Asia  green_diff=9pp
+
+  ───────────────────────────────────────────────────────
+  #4
+  C0 × C15  |  n=45 companies
+  Exit=4.4%  Fail=0.0%  Risk-adj=4.4pp  Capital=$5M  Rounds=12.2
+  C0: Gov-Led · Multi-Stage · Diversified (US)
+         geo=Americas  stage=Other  green=61%  GVC=56%  IVC=5%
+  C15: Mixed · Early-Stage · Diversified · [Exit-Active] (Global)
+         geo=Africa  stage=Early  green=69%  GVC=40%  IVC=22%
+  Complementarity: geo=Americas × Africa  green_diff=7pp
+
+  ───────────────────────────────────────────────────────
+  #5
+  C1 × C16  |  n=136 companies
+  Exit=3.7%  Fail=0.0%  Risk-adj=3.7pp  Capital=$14M  Rounds=9.1
+  C1: Mixed · Early-Stage · AgriTech (US)
+         geo=Americas  stage=Early  green=56%  GVC=32%  IVC=27%
+  C16: Mixed · Early-Stage · Diversified · [Exit-Active] (Asia)
+         geo=Asia  stage=Early  green=53%  GVC=54%  IVC=12%
+  Complementarity: geo=Americas × Asia  green_diff=3pp
+
+  BOTTOM 5:
+
+  ───────────────────────────────────────────────────────
+  Worst #1
+  C2 × C12  |  n=43 companies
+  Exit=4.7%  Fail=16.3%  Risk-adj=-11.6pp  Capital=$8M  Rounds=8.4
+  C2: Mixed · Early-Stage · Diversified (EU)
+         geo=Europe  stage=Early  green=63%  GVC=45%  IVC=19%
+  C12: Mixed · Early-Stage · Diversified (US)
+         geo=Americas  stage=Early  green=59%  GVC=37%  IVC=28%
+  Complementarity: geo=Europe × Americas  green_diff=4pp
+
+  ───────────────────────────────────────────────────────
+  Worst #2
+  C12 × C14  |  n=27 companies
+  Exit=3.7%  Fail=14.8%  Risk-adj=-11.1pp  Capital=$10M  Rounds=9.1
+  C12: Mixed · Early-Stage · Diversified (US)
+         geo=Americas  stage=Early  green=59%  GVC=37%  IVC=28%
+  C14: VC-Driven · Early-Stage · Diversified · [Exit-Active] (EU)
+         geo=Europe  stage=Early  green=42%  GVC=27%  IVC=37%
+  Complementarity: geo=Americas × Europe  green_diff=17pp
+
+  ───────────────────────────────────────────────────────
+  Worst #3
+  C21 × C24  |  n=23 companies
+  Exit=8.7%  Fail=13.0%  Risk-adj=-4.3pp  Capital=$18M  Rounds=8.3
+  C21: Mixed · Early-Stage · AgriTech · [Exit-Active] (US)
+         geo=Americas  stage=Early  green=49%  GVC=40%  IVC=16%
+  C24: Mixed · Seed · Diversified (US)
+         geo=Americas  stage=Seed/Angel  green=53%  GVC=40%  IVC=23%
+  Complementarity: geo=same (Americas)  green_diff=5pp
+
+  ───────────────────────────────────────────────────────
+  Worst #4
+  C11 × C24  |  n=33 companies
+  Exit=12.1%  Fail=12.1%  Risk-adj=0.0pp  Capital=$10M  Rounds=9.8
+  C11: Mixed · Early-Stage · Diversified (Global)
+         geo=Oceania  stage=Early  green=53%  GVC=41%  IVC=21%
+  C24: Mixed · Seed · Diversified (US)
+         geo=Americas  stage=Seed/Angel  green=53%  GVC=40%  IVC=23%
+  Complementarity: geo=Oceania × Americas  green_diff=0pp
+
+  ───────────────────────────────────────────────────────
+  Worst #5
+  C2 × C23  |  n=34 companies
+  Exit=5.9%  Fail=11.8%  Risk-adj=-5.9pp  Capital=$7M  Rounds=8.3
+  C2: Mixed · Early-Stage · Diversified (EU)
+         geo=Europe  stage=Early  green=63%  GVC=45%  IVC=19%
+  C23: Mixed · Early-Stage · Diversified (US)
+         geo=Americas  stage=Early  green=54%  GVC=37%  IVC=27%
+  Complementarity: geo=Europe × Americas  green_diff=9pp
+
+───────────────────────────────────────────────────────
+  HIGHEST EXIT RATE
+───────────────────────────────────────────────────────
+
+  TOP 5:
+
+  ───────────────────────────────────────────────────────
+  #1
+  C7 × C19  |  n=69 companies
+  Exit=20.3%  Fail=2.9%  Risk-adj=17.4pp  Capital=$134M  Rounds=6.9
+  C7: Mixed · Early-Stage · Diversified · [Exit-Active] (US)
+         geo=Americas  stage=Early  green=53%  GVC=31%  IVC=30%
+  C19: Gov-Led · Early-Stage · Diversified · [Exit-Active] (Asia)
+         geo=Asia  stage=Early  green=61%  GVC=62%  IVC=7%
+  Complementarity: geo=Americas × Asia  green_diff=8pp
+
+  ───────────────────────────────────────────────────────
+  #2
+  C14 × C19  |  n=36 companies
+  Exit=19.4%  Fail=2.8%  Risk-adj=16.7pp  Capital=$113M  Rounds=6.6
+  C14: VC-Driven · Early-Stage · Diversified · [Exit-Active] (EU)
+         geo=Europe  stage=Early  green=42%  GVC=27%  IVC=37%
+  C19: Gov-Led · Early-Stage · Diversified · [Exit-Active] (Asia)
+         geo=Asia  stage=Early  green=61%  GVC=62%  IVC=7%
+  Complementarity: geo=Europe × Asia  green_diff=19pp
+
+  ───────────────────────────────────────────────────────
+  #3
+  C5 × C19  |  n=33 companies
+  Exit=18.2%  Fail=0.0%  Risk-adj=18.2pp  Capital=$127M  Rounds=5.0
+  C5: Gov-Led · Early-Stage · Diversified (EU)
+         geo=Europe  stage=Early  green=67%  GVC=56%  IVC=14%
+  C19: Gov-Led · Early-Stage · Diversified · [Exit-Active] (Asia)
+         geo=Asia  stage=Early  green=61%  GVC=62%  IVC=7%
+  Complementarity: geo=Europe × Asia  green_diff=6pp
+
+  ───────────────────────────────────────────────────────
+  #4
+  C7 × C26  |  n=34 companies
+  Exit=17.6%  Fail=0.0%  Risk-adj=17.6pp  Capital=$28M  Rounds=7.3
+  C7: Mixed · Early-Stage · Diversified · [Exit-Active] (US)
+         geo=Americas  stage=Early  green=53%  GVC=31%  IVC=30%
+  C26: Mixed · Early-Stage · Diversified · [Exit-Active] (EU)
+         geo=Europe  stage=Early  green=65%  GVC=54%  IVC=15%
+  Complementarity: geo=Americas × Europe  green_diff=12pp
+
+  ───────────────────────────────────────────────────────
+  #5
+  C14 × C23  |  n=40 companies
+  Exit=17.5%  Fail=0.0%  Risk-adj=17.5pp  Capital=$40M  Rounds=7.7
+  C14: VC-Driven · Early-Stage · Diversified · [Exit-Active] (EU)
+         geo=Europe  stage=Early  green=42%  GVC=27%  IVC=37%
+  C23: Mixed · Early-Stage · Diversified (US)
+         geo=Americas  stage=Early  green=54%  GVC=37%  IVC=27%
+  Complementarity: geo=Europe × Americas  green_diff=12pp
+
+  BOTTOM 5:
+
+  ───────────────────────────────────────────────────────
+  Worst #1
+  C8 × C24  |  n=37 companies
+  Exit=0.0%  Fail=0.0%  Risk-adj=0.0pp  Capital=$9M  Rounds=10.8
+  C8: Mixed · Early-Stage · Diversified · [Exit-Active] (Asia)
+         geo=Asia  stage=Early  green=46%  GVC=35%  IVC=15%
+  C24: Mixed · Seed · Diversified (US)
+         geo=Americas  stage=Seed/Angel  green=53%  GVC=40%  IVC=23%
+  Complementarity: geo=Asia × Americas  green_diff=7pp
+
+  ───────────────────────────────────────────────────────
+  Worst #2
+  C10 × C11  |  n=51 companies
+  Exit=0.0%  Fail=7.8%  Risk-adj=-7.8pp  Capital=$5M  Rounds=8.2
+  C10: Mixed · Early-Stage · Diversified · [Resilient] (Asia)
+         geo=Asia  stage=Early  green=55%  GVC=43%  IVC=21%
+  C11: Mixed · Early-Stage · Diversified (Global)
+         geo=Oceania  stage=Early  green=53%  GVC=41%  IVC=21%
+  Complementarity: geo=Asia × Oceania  green_diff=2pp
+
+  ───────────────────────────────────────────────────────
+  Worst #3
+  C12 × C23  |  n=23 companies
+  Exit=0.0%  Fail=4.3%  Risk-adj=-4.3pp  Capital=$3M  Rounds=11.0
+  C12: Mixed · Early-Stage · Diversified (US)
+         geo=Americas  stage=Early  green=59%  GVC=37%  IVC=28%
+  C23: Mixed · Early-Stage · Diversified (US)
+         geo=Americas  stage=Early  green=54%  GVC=37%  IVC=27%
+  Complementarity: geo=same (Americas)  green_diff=5pp
+
+  ───────────────────────────────────────────────────────
+  Worst #4
+  C9 × C11  |  n=23 companies
+  Exit=0.0%  Fail=4.3%  Risk-adj=-4.3pp  Capital=$12M  Rounds=11.1
+  C9: Mixed · Early-Stage · Diversified · [Exit-Active] (US)
+         geo=Americas  stage=Early  green=50%  GVC=28%  IVC=30%
+  C11: Mixed · Early-Stage · Diversified (Global)
+         geo=Oceania  stage=Early  green=53%  GVC=41%  IVC=21%
+  Complementarity: geo=Americas × Oceania  green_diff=4pp
+
+  ───────────────────────────────────────────────────────
+  Worst #5
+  C5 × C23  |  n=38 companies
+  Exit=0.0%  Fail=5.3%  Risk-adj=-5.3pp  Capital=$9M  Rounds=11.1
+  C5: Gov-Led · Early-Stage · Diversified (EU)
+         geo=Europe  stage=Early  green=67%  GVC=56%  IVC=14%
+  C23: Mixed · Early-Stage · Diversified (US)
+         geo=Americas  stage=Early  green=54%  GVC=37%  IVC=27%
+  Complementarity: geo=Europe × Americas  green_diff=13pp
+
+───────────────────────────────────────────────────────
+  BEST RISK-ADJUSTED (exit - failure)
+───────────────────────────────────────────────────────
+
+  TOP 5:
+
+  ───────────────────────────────────────────────────────
+  #1
+  C5 × C19  |  n=33 companies
+  Exit=18.2%  Fail=0.0%  Risk-adj=18.2pp  Capital=$127M  Rounds=5.0
+  C5: Gov-Led · Early-Stage · Diversified (EU)
+         geo=Europe  stage=Early  green=67%  GVC=56%  IVC=14%
+  C19: Gov-Led · Early-Stage · Diversified · [Exit-Active] (Asia)
+         geo=Asia  stage=Early  green=61%  GVC=62%  IVC=7%
+  Complementarity: geo=Europe × Asia  green_diff=6pp
+
+  ───────────────────────────────────────────────────────
+  #2
+  C7 × C26  |  n=34 companies
+  Exit=17.6%  Fail=0.0%  Risk-adj=17.6pp  Capital=$28M  Rounds=7.3
+  C7: Mixed · Early-Stage · Diversified · [Exit-Active] (US)
+         geo=Americas  stage=Early  green=53%  GVC=31%  IVC=30%
+  C26: Mixed · Early-Stage · Diversified · [Exit-Active] (EU)
+         geo=Europe  stage=Early  green=65%  GVC=54%  IVC=15%
+  Complementarity: geo=Americas × Europe  green_diff=12pp
+
+  ───────────────────────────────────────────────────────
+  #3
+  C14 × C23  |  n=40 companies
+  Exit=17.5%  Fail=0.0%  Risk-adj=17.5pp  Capital=$40M  Rounds=7.7
+  C14: VC-Driven · Early-Stage · Diversified · [Exit-Active] (EU)
+         geo=Europe  stage=Early  green=42%  GVC=27%  IVC=37%
+  C23: Mixed · Early-Stage · Diversified (US)
+         geo=Americas  stage=Early  green=54%  GVC=37%  IVC=27%
+  Complementarity: geo=Europe × Americas  green_diff=12pp
+
+  ───────────────────────────────────────────────────────
+  #4
+  C7 × C19  |  n=69 companies
+  Exit=20.3%  Fail=2.9%  Risk-adj=17.4pp  Capital=$134M  Rounds=6.9
+  C7: Mixed · Early-Stage · Diversified · [Exit-Active] (US)
+         geo=Americas  stage=Early  green=53%  GVC=31%  IVC=30%
+  C19: Gov-Led · Early-Stage · Diversified · [Exit-Active] (Asia)
+         geo=Asia  stage=Early  green=61%  GVC=62%  IVC=7%
+  Complementarity: geo=Americas × Asia  green_diff=8pp
+
+  ───────────────────────────────────────────────────────
+  #5
+  C14 × C19  |  n=36 companies
+  Exit=19.4%  Fail=2.8%  Risk-adj=16.7pp  Capital=$113M  Rounds=6.6
+  C14: VC-Driven · Early-Stage · Diversified · [Exit-Active] (EU)
+         geo=Europe  stage=Early  green=42%  GVC=27%  IVC=37%
+  C19: Gov-Led · Early-Stage · Diversified · [Exit-Active] (Asia)
+         geo=Asia  stage=Early  green=61%  GVC=62%  IVC=7%
+  Complementarity: geo=Europe × Asia  green_diff=19pp
+
+  BOTTOM 5:
+
+  ───────────────────────────────────────────────────────
+  Worst #1
+  C2 × C12  |  n=43 companies
+  Exit=4.7%  Fail=16.3%  Risk-adj=-11.6pp  Capital=$8M  Rounds=8.4
+  C2: Mixed · Early-Stage · Diversified (EU)
+         geo=Europe  stage=Early  green=63%  GVC=45%  IVC=19%
+  C12: Mixed · Early-Stage · Diversified (US)
+         geo=Americas  stage=Early  green=59%  GVC=37%  IVC=28%
+  Complementarity: geo=Europe × Americas  green_diff=4pp
+
+  ───────────────────────────────────────────────────────
+  Worst #2
+  C12 × C14  |  n=27 companies
+  Exit=3.7%  Fail=14.8%  Risk-adj=-11.1pp  Capital=$10M  Rounds=9.1
+  C12: Mixed · Early-Stage · Diversified (US)
+         geo=Americas  stage=Early  green=59%  GVC=37%  IVC=28%
+  C14: VC-Driven · Early-Stage · Diversified · [Exit-Active] (EU)
+         geo=Europe  stage=Early  green=42%  GVC=27%  IVC=37%
+  Complementarity: geo=Americas × Europe  green_diff=17pp
+
+  ───────────────────────────────────────────────────────
+  Worst #3
+  C6 × C12  |  n=100 companies
+  Exit=3.0%  Fail=11.0%  Risk-adj=-8.0pp  Capital=$4M  Rounds=10.0
+  C6: Mixed · Early-Stage · Diversified · [Resilient] (US)
+         geo=Americas  stage=Early  green=54%  GVC=38%  IVC=21%
+  C12: Mixed · Early-Stage · Diversified (US)
+         geo=Americas  stage=Early  green=59%  GVC=37%  IVC=28%
+  Complementarity: geo=same (Americas)  green_diff=5pp
+
+  ───────────────────────────────────────────────────────
+  Worst #4
+  C10 × C11  |  n=51 companies
+  Exit=0.0%  Fail=7.8%  Risk-adj=-7.8pp  Capital=$5M  Rounds=8.2
+  C10: Mixed · Early-Stage · Diversified · [Resilient] (Asia)
+         geo=Asia  stage=Early  green=55%  GVC=43%  IVC=21%
+  C11: Mixed · Early-Stage · Diversified (Global)
+         geo=Oceania  stage=Early  green=53%  GVC=41%  IVC=21%
+  Complementarity: geo=Asia × Oceania  green_diff=2pp
+
+  ───────────────────────────────────────────────────────
+  Worst #5
+  C14 × C24  |  n=56 companies
+  Exit=3.6%  Fail=10.7%  Risk-adj=-7.1pp  Capital=$14M  Rounds=6.9
+  C14: VC-Driven · Early-Stage · Diversified · [Exit-Active] (EU)
+         geo=Europe  stage=Early  green=42%  GVC=27%  IVC=37%
+  C24: Mixed · Seed · Diversified (US)
+         geo=Americas  stage=Seed/Angel  green=53%  GVC=40%  IVC=23%
+  Complementarity: geo=Europe × Americas  green_diff=11pp
