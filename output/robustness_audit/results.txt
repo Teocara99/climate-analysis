@@ -1,0 +1,194 @@
+========================================================================
+FINAL PRE-SUBMISSION ROBUSTNESS AUDIT (9 BLOCKS)
+Company level: N=6,718  |  All models: year FE baseline
+========================================================================
+
+========================================================================
+BLOCK 1: YEAR FIXED EFFECTS ON ALL CORE FINDINGS
+========================================================================
+  Finding                                         Baseline         + Year FE  Flag
+  A. U-shape (green²)                           +0.006n.s.        +0.005n.s.  –
+  B. Pure-green → failure                         -0.317**          -0.323**  ✅
+  C. Pure-trad → exit                            +0.606***         +0.601***  ✅
+  D. Green × novelty                            -0.013n.s.        -0.013n.s.  –
+  E. Cross-community → failure                   -0.476***          -0.443**  ✅
+  F. Dose-response (n_communities)               -0.196***         -0.183***  ✅
+
+========================================================================
+BLOCK 2: ESG_ALIGNED SENSITIVITY
+  ESG investors: 292 of 17,790 (1.6%); company pct_esg mean 2.08%
+  Version A: ESG counted as GREEN (pct_green_A = pct_green + pct_esg)
+  Version B: ESG counted as TRADITIONAL (pct_green unchanged)
+========================================================================
+  Finding                          Baseline (orig)       ESG=Green        ESG=Trad
+  A. U-shape (green²)                   +0.005n.s.      +0.003n.s.      +0.005n.s.
+  B. Pure-green → failure                 -0.323**        -0.323**        -0.323**
+  E. Cross-community                      -0.443**        -0.443**        -0.443**
+
+  [Optimal green% from U-shape: where d(failure)/d(pct_green) = 0]
+  Baseline      : optimal pct_green ≈ 91.7%  (b_green=-0.0162, b_sq=0.0089)
+  ESG=Green     : optimal pct_green ≈ 115.0%  (b_green=-0.0145, b_sq=0.0063)
+
+========================================================================
+BLOCK 3: SECTOR ROBUSTNESS
+  Tech cluster coverage: 6,717 / 6,718
+========================================================================
+  Cluster distribution:
+    Waste / Hydrogen / Carbon                 N=1,243
+    Noise                                     N=1,120
+    Agtech / Farming / Climate                N=935
+    Energy / Solar / Power                    N=905
+    Mobility / Electric / Charging            N=577
+    Carbon / Platform / Data                  N=486
+    Energy / Battery / Storage                N=464
+    Food / Meat / Plant Based                 N=437
+    Waste / Water / Treatment                 N=236
+    Wind / Energy / Turbines                  N=103
+    Aircraft / Electric / Mobility            N=79
+    Air / Monitoring / Data                   N=67
+    Nuclear / Fusion / Energy                 N=65
+
+  [3A] + SECTOR (tech_cluster) FIXED EFFECTS
+  A. U-shape                 +sector FE: +0.006n.s.  (baseline+yearFE: n/a)  ❌
+  E. Cross-community         +sector FE: -0.472***  (baseline+yearFE: n/a)  ✅
+  F. Dose-response           +sector FE: -0.186***  (baseline+yearFE: n/a)  ✅
+
+  [3B] EXCLUDE Food/Plant-Based cluster (N=437)
+  A. U-shape                 -food: +0.009n.s.  N=2,897  ❌
+  E. Cross-community         -food: -0.632***  N=2,897  ✅
+  F. Dose-response           -food: -0.215***  N=2,897  ✅
+
+  [3C] EXCLUDE top-2 sectors (Waste / Hydrogen / Carbon, Noise, N=2,363)
+  A. U-shape                 -top2: +0.003n.s.  N=2,097  ❌
+  E. Cross-community         -top2: -0.389*  N=2,097  ✅
+  F. Dose-response           -top2: -0.195***  N=2,097  ✅
+
+========================================================================
+BLOCK 4: REGIONAL SUBSAMPLE
+  Does the U-shape optimum hold within each region?
+========================================================================
+  Region               N     green β    green² β    Optimum%   E.CrossComm
+  Americas         2,321  +0.001n.s.  -0.006n.s.          9%       -0.543*
+  Europe           2,578  -0.014n.s.  +0.008n.s.         85%       -0.470*
+  Asia             1,282  -0.007n.s.  -0.000n.s.  out of range    +0.315n.s.
+
+========================================================================
+BLOCK 5: COMMUNITY DETECTION ROBUSTNESS
+  Rebuild co-investment graph, re-run Louvain (res=0.5, 1.0, 2.0) + Leiden
+  For each: recompute cross_community per company, re-run Model E
+========================================================================
+
+  Method                 N communities   cross_comm %     β failure         p  flag
+  Louvain res=0.5                  931          57.1%       -0.441†    0.0848  ✅
+  Louvain res=1.0 (original)             203          44.3%       -0.465†    0.0784  ✅
+  Louvain res=2.0                  225          45.9%       -0.456†    0.0845  ✅
+  Leiden                           202          44.4%       -0.449†    0.0888  ✅
+
+========================================================================
+BLOCK 6: DOSE-RESPONSE LINEARITY CHECK
+  H: If n_communities² is significant → threshold effect, not linear
+========================================================================
+  Linear only                          β=-0.18317  p=0.0000 ***  N=3,138
+  Quadratic — linear term              β=-0.28455  p=0.0014 **  N=3,138
+  Quadratic — squared term             β=+0.01470  p=0.1799 n.s.  N=3,138
+
+  [OLS for marginal effects — linear probability model]
+  Linear:    n_communities β=-0.01385  p=0.0000 ***
+  Quadratic: n_communities β=-0.02430  p=0.0000 ***  n²: β=+0.00141  p=0.0101 *
+  adj-R² linear=0.0498  quadratic=0.0503
+  VERDICT: THRESHOLD EFFECT confirmed (n² significant)
+
+========================================================================
+BLOCK 7: INVESTOR CLASSIFICATION ROBUSTNESS (misclassification simulation)
+  Assumption: LLM investor classification is ~85% accurate
+  Simulation: randomly flip 15% of investor green/traditional labels per run
+  Method: for each company, sample binomial noise on n_green investors
+  Repeat 100× → report: mean β, % runs p<0.05 for green² (U-shape)
+========================================================================
+
+  N runs completed: 100 / 100
+  U-shape (green²) under 15% misclassification:
+    Mean β:         +0.01289  (baseline: +nan)
+    SD β:           0.00424
+    % runs p<0.05:  72.0%
+    % runs correct sign (β<0): 0.0%
+    95% CI of β:    [+0.00538, +0.02126]
+  VERDICT: PARTIALLY ROBUST (significant in 72% of runs)
+
+========================================================================
+BLOCK 8: MEGA-INVESTOR INFLUENCE
+  Drop all companies whose first-round investors include the top-20 by deal count
+========================================================================
+  Top-20 investors by deal count:
+    Plug and Play Tech Center                 615 deals
+    U.S. Department of Energy                 569 deals
+    Innovate UK                               527 deals
+    US National Science Foundation            439 deals
+    SOSV                                      295 deals
+    Techstars                                 276 deals
+    European Innovation Council               265 deals
+    Climate Capital                           257 deals
+    InnoEnergy                                241 deals
+    Greentown Labs                            233 deals
+    Creative Destruction Lab                  203 deals
+    EIT Climate-KIC                           199 deals
+    Cleantech Open                            195 deals
+    MassChallenge                             192 deals
+    Breakthrough Energy                       186 deals
+    Third Derivative                          177 deals
+    Y Combinator                              171 deals
+    Lowercarbon Capital                       152 deals
+    EIT Food                                  147 deals
+    Horizon 2020                              146 deals
+
+  Companies involving top-20 investors: 354 excluded
+  Remaining: 6,364
+
+  Finding                         Full sample    -MegaInvestors  flag
+  A. U-shape                              n/a           -0.041†  ✅
+  E. Cross-community                      n/a        -0.487n.s.  ❌
+  F. Dose-response                        n/a        -0.079n.s.  ❌
+
+========================================================================
+BLOCK 9: ALTERNATIVE OUTCOME DEFINITIONS
+========================================================================
+
+  [9A] MULTINOMIAL LOGIT: outcome = {fail, exit, active}
+  Baseline = Active/Private; coefficients show relative log-odds
+  [Logit approximation: separate fail and exit models]
+  A. green²→fail             β=-0.0439  p=0.0463 *  N=1,248
+  C. pure_trad→exit          β=+1.0661  p=0.0000 ***  N=1,248
+  E. cross→fail              β=-0.4934  p=0.0810 †  N=1,248
+
+  [9B] COX SURVIVAL ANALYSIS
+  Cox HR(cross_community): exp(β)=0.825  β=-0.1928  p=0.0013 **
+  Cox HR(pct_green): exp(β)=0.999  β=-0.0009  p=0.5213 n.s.
+  Cox HR(pct_green_sq): exp(β)=1.000  β=+0.0002  p=0.8844 n.s.
+  Cox HR(pure_green): exp(β)=0.878  β=-0.1297  p=0.0461 *
+  Cox HR(pure_trad): exp(β)=1.006  β=+0.0060  p=0.9483 n.s.
+
+  [9C] LINEAR PROBABILITY MODEL vs LOGIT
+  E. Cross-community         Logit: β=-0.4934 †  |  LPM: β=-0.0459 n.s.  N=1,248
+  F. Dose-response           Logit: β=-0.1037 n.s.  |  LPM: β=-0.0069 †  N=1,248
+
+====================================================================================================
+MASTER ROBUSTNESS TABLE
+  Each cell: β (p-value) or flag [✅ robust  ⚠️ weakens  ❌ drops  – not sig baseline]
+====================================================================================================
+  Finding                              Baseline       +Year FE     +Sector FE          -Food   -Top2 sector       Americas         Europe           Asia      ESG=Green       ESG=Trad         Leiden    Lvn res=0.5    Lvn res=2.0       -MegaInv    Misclass85%
+  ------------------------------  -------------  -------------  -------------  -------------  -------------  -------------  -------------  -------------  -------------  -------------  -------------  -------------  -------------  -------------  -------------
+  A. U-shape                                n/a            n/a   ❌ +0.006n.s.   ❌ +0.009n.s.   ❌ +0.003n.s.   ❌ -0.006n.s.   ❌ +0.008n.s.   ❌ -0.000n.s.            n/a            n/a            n/a            n/a            n/a      ✅ -0.041†   ❌ +0.013n.s.
+  B. Pure-green → failure            ✅ -0.317**     ✅ -0.323**            n/a            n/a            n/a            n/a            n/a            n/a     ✅ -0.323**     ✅ -0.323**            n/a            n/a            n/a            n/a            n/a
+  C. Pure-trad → exit               ✅ +0.606***    ✅ +0.601***            n/a            n/a            n/a            n/a            n/a            n/a            n/a            n/a            n/a            n/a            n/a            n/a            n/a
+  D. Green × novelty               – -0.013n.s.   – -0.013n.s.            n/a            n/a            n/a            n/a            n/a            n/a            n/a            n/a            n/a            n/a            n/a            n/a            n/a
+  E. Cross-community                        n/a            n/a    ✅ -0.472***    ✅ -0.632***      ✅ -0.389*      ✅ -0.543*      ✅ -0.470*   ❌ +0.315n.s.     ✅ -0.443**     ✅ -0.443**      ✅ -0.449†      ✅ -0.441†      ✅ -0.456†   ❌ -0.487n.s.            n/a
+  F. Dose-response                          n/a            n/a    ✅ -0.186***    ✅ -0.215***    ✅ -0.195***            n/a            n/a            n/a            n/a            n/a            n/a            n/a            n/a   ❌ -0.079n.s.            n/a
+
+  FINDINGS THAT DROPPED (❌) IN ANY CHECK:
+    A. U-shape: ❌ in +Sector FE, -Food, -Top2 sector, Americas, Europe, Asia, Misclass85%
+    B. Pure-green → failure: ✅ robust across all checks
+    C. Pure-trad → exit: ✅ robust across all checks
+    E. Cross-community: ❌ in Asia, -MegaInv
+    F. Dose-response: ❌ in -MegaInv
+
+  Total runtime: 81s

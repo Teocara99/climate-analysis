@@ -1,0 +1,70 @@
+REFERENCE — DEAL-LEVEL RESULTS (from script 22, N≈9,459 deal rows)
+  is_failed: green_c p=0.000***, novelty_c p=0.224 n.s., interaction p=0.838 n.s.
+  is_exit:   green_c p=0.018*,   novelty_c p=0.313 n.s., interaction p=0.983 n.s.
+
+======================================================================
+MODEL 1: Green × Novelty → FAILURE
+  failure = green_std + nov_std + green_std:nov_std + controls
+  Predictors centred/z-scored; reference: mixed syndicate
+======================================================================
+  N = 6,718 companies
+    green_std                                 β=-0.1495  SE=0.0439  p=0.001 ***
+    nov_std                                   β=+0.0202  SE=0.0455  p=0.658 n.s.
+    green_std:nov_std                         β=+0.0332  SE=0.0434  p=0.444 n.s.
+  Deal-level interaction p=0.838 n.s.
+
+======================================================================
+MODEL 2: Green × Novelty → EXIT
+======================================================================
+  N = 6,718 companies
+    green_std                                 β=-0.1402  SE=0.0573  p=0.014 *
+    nov_std                                   β=+0.0206  SE=0.0532  p=0.698 n.s.
+    green_std:nov_std                         β=-0.1114  SE=0.0543  p=0.040 *
+  Deal-level interaction p=0.983 n.s.
+
+======================================================================
+MODEL 3: Cross-Community × Novelty → FAILURE  [NEW TEST]
+  H: cross-community protection stronger for high-novelty startups
+======================================================================
+  N = 6,718 companies
+    cross_community                           β=-0.4330  SE=0.1071  p=0.000 ***
+    nov_std                                   β=+0.1143  SE=0.0693  p=0.099 †
+    cross_community:nov_std                   β=-0.1750  SE=0.0920  p=0.057 †
+
+======================================================================
+MODEL 4: Cross-Community × Novelty → EXIT  [NEW TEST]
+======================================================================
+  N = 6,718 companies
+    cross_community                           β=-0.2759  SE=0.1282  p=0.031 *
+    nov_std                                   β=-0.0061  SE=0.0902  p=0.946 n.s.
+    cross_community:nov_std                   β=+0.0625  SE=0.1107  p=0.572 n.s.
+
+======================================================================
+MODEL 5: Traditional × Novelty → EXIT  [NEW TEST]
+  H: traditional VCs amplify exit-pressure on novel companies
+======================================================================
+  N = 6,718 companies
+    pure_trad                                 β=+0.5938  SE=0.1677  p=0.000 ***
+    nov_std                                   β=-0.0092  SE=0.0576  p=0.873 n.s.
+    pure_trad:nov_std                         β=+0.2571  SE=0.1423  p=0.071 †
+  [Also on failure to check for asymmetry]
+    pure_trad                                 β=-0.0056  SE=0.1511  p=0.970 n.s.
+    nov_std                                   β=+0.0412  SE=0.0488  p=0.399 n.s.
+    pure_trad:nov_std                         β=-0.1649  SE=0.1348  p=0.221 n.s.
+
+======================================================================
+MODEL 6: N-Communities (dose) × Novelty → FAILURE  [NEW TEST]
+  H: dose-response stronger for high-novelty startups
+======================================================================
+  N = 6,718 companies
+    n_comm_c                                  β=-0.2093  SE=0.0365  p=0.000 ***
+    nov_std                                   β=-0.0021  SE=0.0469  p=0.964 n.s.
+    n_comm_c:nov_std                          β=-0.0509  SE=0.0281  p=0.070 †
+  [Also on exit]
+    n_comm_c                                  β=-0.1618  SE=0.0345  p=0.000 ***
+    nov_std                                   β=+0.0331  SE=0.0529  p=0.532 n.s.
+    n_comm_c:nov_std                          β=-0.0132  SE=0.0263  p=0.616 n.s.
+
+======================================================================
+INTERACTION SCORECARD
+======================================================================

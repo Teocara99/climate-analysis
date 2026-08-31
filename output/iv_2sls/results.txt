@@ -1,0 +1,144 @@
+========================================================================
+2SLS INSTRUMENTAL VARIABLE ANALYSIS
+Endogenous: cross_community (binary)
+Outcome: is_failed (binary, estimated via LPM in 2SLS)
+Controls: log_cap, specter_novelty, company_age, region FE, year FE
+========================================================================
+
+EXCLUSION RESTRICTION ARGUMENTS:
+  IV A (Lead Prior Communities): An investor's past cross-community
+  activity predicts whether they form cross-community syndicates NOW,
+  but their historical reach should not directly cause THIS company's
+  failure (conditional on quality controls). Caveat: experienced investors
+  may also be better selectors — controls for capital and novelty partially
+  address this, but IV A is the weaker candidate.
+
+  IV B (Geographic Distance): Geographically dispersed investors necessarily
+  span community clusters (communities partially reflect geography), but
+  investor location should not directly cause portfolio failure beyond the
+  channel of cross-community information flow. Conditional on region FE,
+  within-region variation in syndicate geographic spread is a clean source
+  of exogenous variation in cross-community status.
+========================================================================
+
+========================================================================
+FIRST-STAGE RELEVANCE (instrument strength)
+========================================================================
+
+  FIRST-STAGE DESCRIPTIVE (OLS, for diagnostics)
+
+  IV A (z-scored lead prior communities):
+    β(instrument) = +0.0617  p=0.0000 ***
+    Partial F (approx, t²) = 100.25  [STRONG, F>10]
+    First-stage R²=0.1229  N=2,231
+    Corr(IV, cross_community) = 0.1605
+
+  IV B (z-scored geographic distance):
+    β(instrument) = +0.0693  p=0.0000 ***
+    Partial F (approx, t²) = 57.25  [STRONG, F>10]
+    First-stage R²=0.1257  N=1,545
+    Corr(IV, cross_community) = 0.1564
+
+========================================================================
+MODEL A: IV = Lead Investor Prior Community Reach
+========================================================================
+
+  ─────────────────────────────────────────────────────────────────
+  Stage 1: cross_community ~ iv_a_z + controls  Stage 2: failure ~ cross_hat + controls
+  ─────────────────────────────────────────────────────────────────
+  2SLS β(cross_community) =  +0.0691  p=0.4294 n.s.
+  95% CI: [-0.1023, +0.2405]  N=2,231
+
+  FIRST-STAGE DIAGNOSTICS:
+    Partial R² = 0.0252
+    KP-F (robust chi²/k) = 101.30  [STRONG, F>10]  p=0.0000 ***
+
+========================================================================
+MODEL B: IV = Average Investor Geographic Distance
+========================================================================
+
+  ─────────────────────────────────────────────────────────────────
+  Stage 1: cross_community ~ iv_b_z + controls  Stage 2: failure ~ cross_hat + controls
+  ─────────────────────────────────────────────────────────────────
+  2SLS β(cross_community) =  -0.0717  p=0.4223 n.s.
+  95% CI: [-0.2468, +0.1034]  N=1,545
+
+  FIRST-STAGE DIAGNOSTICS:
+    Partial R² = 0.0361
+    KP-F (robust chi²/k) = 58.11  [STRONG, F>10]  p=0.0000 ***
+
+========================================================================
+MODEL C: Both IVs (overidentified system, Hansen J-test)
+========================================================================
+
+  ─────────────────────────────────────────────────────────────────
+  Stage 1: cross_community ~ iv_a_z + iv_b_z + controls  Stage 2: failure ~ cross_hat + controls
+  ─────────────────────────────────────────────────────────────────
+  2SLS β(cross_community) =  -0.0183  p=0.7979 n.s.
+  95% CI: [-0.1581, +0.1215]  N=1,545
+
+  FIRST-STAGE DIAGNOSTICS:
+    Partial R² = 0.0522
+    KP-F (robust chi²/k) = 48.70  [STRONG, F>10]  p=0.0000 ***
+
+  SARGAN-HANSEN J-TEST (overidentification):
+    J = 1.1435  p = 0.2849  df = 1
+    → n.s.: both instruments pass overidentification test (plausibly valid)
+
+========================================================================
+HAUSMAN / DWH ENDOGENEITY TEST
+========================================================================
+
+  HAUSMAN (DWH) ENDOGENEITY TEST
+  H0: cross_community is exogenous (OLS is consistent)
+  Method: augmented regression — add first-stage residuals to structural eq.
+
+  IV = IV A (lead prior communities):
+    v_hat coefficient: β=-0.1091  p=0.1956 n.s.
+    → Fail to reject H0: cannot confirm endogeneity at p<0.10
+
+  IV = IV B (geographic distance):
+    v_hat coefficient: β=+0.0198  p=0.8298 n.s.
+    → Fail to reject H0: cannot confirm endogeneity at p<0.10
+
+  OLS BENCHMARK (LPM — directly comparable to 2SLS LPM):
+    OLS (LPM) β = -0.0372  p=0.0139 *  N=2,231
+
+========================================================================
+SUMMARY TABLE: OLS vs 2SLS (β for cross_community)
+========================================================================
+  Model                                        β         p  sig        N  Notes
+  --------------------------------------------------------------------------------
+  OLS logit (original finding)           -0.4373    0.0000  ***    6,718  benchmark
+  OLS LPM (for comparison)             see above                          see Hausman section above
+  2SLS Model A (IV A only)               +0.0691    0.4294  n.s.    2,231  
+  2SLS Model B (IV B only)               -0.0717    0.4223  n.s.    1,545  
+  2SLS Model C (both IVs)                -0.0183    0.7979  n.s.    1,545  overidentified
+
+========================================================================
+INTERPRETATION
+========================================================================
+
+  KEY QUESTIONS ANSWERED:
+
+  1. INSTRUMENT STRENGTH (First-stage F > 10?):
+     See first-stage section. If F > 10, instruments are strong enough
+     for credible IV estimates. Stock-Yogo 10% bias threshold requires F > 16.4.
+
+  2. ENDOGENEITY (Hausman DWH p < 0.10?):
+     If significant: cross_community is endogenous → 2SLS is preferred.
+     If not significant: OLS may be consistent; 2SLS estimates are still valid
+     but less efficient.
+
+  3. DIRECTION OF ENDOGENEITY BIAS:
+     If 2SLS β is MORE negative than OLS β: OLS was DOWNWARD biased.
+       → Better companies chose cross-community syndicates ("reverse causality").
+         2SLS corrects upward for this selection, revealing the true (smaller) effect.
+     If 2SLS β is LESS negative than OLS β: OLS was UPWARD biased.
+       → OLS overstates the benefit. Cross-community companies were already
+         better before the syndicate formed (positive selection).
+     If 2SLS β ≈ OLS β: endogeneity was not a major concern.
+
+  4. OVERIDENTIFICATION (Hansen J p > 0.10?):
+     If Model C J-test is n.s.: both instruments are consistent with
+     the exclusion restriction — strong evidence for IV validity.

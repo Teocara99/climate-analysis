@@ -1,0 +1,161 @@
+========================================================================
+ECOSYSTEM BUILDER DEEP-DIVE
+Top-20 investors by deal count (identified as key drivers in Block 8)
+========================================================================
+
+========================================================================
+INSTITUTION PROFILES: Top-20 Ecosystem Builders
+========================================================================
+
+  Ecosystem average failure rate: 8.4%
+
+  Institution                          Type               N    Fail%   vs avg    Exit%   Cross%  N comms     Betw.
+  ---------------------------------------------------------------------------------------------------------
+  Plug and Play Tech Center            Accelerator       93    4.3%   -4.1%     4.3%    94.6%       23    0.1313
+  Y Combinator                         Accelerator       24   12.5%   +4.1%     4.2%   100.0%       13    0.0109
+  Third Derivative                     Accelerator        9    0.0%   -8.4%    11.1%   100.0%        5    0.0021
+  MassChallenge                        Accelerator        3    0.0%   -8.4%    33.3%   100.0%        0    0.0002
+  Cleantech Open                       Accelerator        1    0.0%   -8.4%     0.0%   100.0%        1    0.0005
+  Creative Destruction Lab             Accelerator        4    0.0%   -8.4%     0.0%   100.0%        5    0.0013
+  Greentown Labs                       Accelerator        8    0.0%   -8.4%    25.0%   100.0%        7    0.0019
+  Techstars                            Accelerator       50    2.0%   -6.4%     0.0%    98.0%       19    0.0132
+  SOSV                                 Accelerator       73   12.3%   +4.0%     1.4%    91.8%       22    0.0367
+  Climate Capital                      Climate VC       108   11.1%   +2.7%     4.6%   100.0%       22    0.0639
+  Breakthrough Energy                  Climate VC        40    7.5%   -0.9%     7.5%    92.5%       15    0.0321
+  Lowercarbon Capital                  Climate VC        46    4.3%   -4.0%     4.3%   100.0%       19    0.0258
+  InnoEnergy                           Government        32    9.4%   +1.0%     9.4%    84.4%        9    0.0222
+  EIT Food                             Government         3    0.0%   -8.4%     0.0%   100.0%        5    0.0058
+  EIT Climate-KIC                      Government         7    0.0%   -8.4%    28.6%    85.7%        5    0.0036
+  US National Science Foundation       Government        46    6.5%   -1.8%     6.5%    95.7%        5    0.0032
+  Innovate UK                          Government        25    4.0%   -4.4%     8.0%    88.0%        7    0.0046
+  U.S. Department of Energy            Government        38    5.3%   -3.1%     5.3%    89.5%        8    0.0037
+  European Innovation Council          Government        31    3.2%   -5.1%     9.7%    93.5%       10    0.0095
+  Horizon 2020                         Government        13    7.7%   -0.7%    15.4%   100.0%        3    0.0007
+
+  [BY INSTITUTION TYPE]
+  Type              N institutions  Avg portfolio N   Avg fail%   Avg cross%   Avg N comms
+  Government                     8               24        4.5%        92.1%           6.5
+  Accelerator                    9               29        3.5%        98.3%          10.6
+  Climate VC                     3               65        7.7%        97.5%          18.7
+
+========================================================================
+INDIVIDUAL INSTITUTION EFFECTS ON FAILURE
+  For each top-20: logit(failure) ~ has_this_investor + controls
+  Controls: log_cap + nrounds + C(hq_region) + C(deal_year)
+========================================================================
+  Ecosystem average failure: 8.4%
+
+  Institution                          Type               N  Fail(own)   Raw diff    Logit β         p  sig
+  ---------------------------------------------------------------------------------------------------------
+  Cleantech Open                       Accelerator        1       0.0%     -8.4%   -62.8190    1.0000  n.s.
+  Creative Destruction Lab             Accelerator        4       0.0%     -8.4%   -35.3999    1.0000  n.s.
+  Third Derivative                     Accelerator        9       0.0%     -8.4%   -29.1777    1.0000  n.s.
+  Greentown Labs                       Accelerator        8       0.0%     -8.4%   -19.7864    0.9993  n.s.
+  MassChallenge                        Accelerator        3       0.0%     -8.4%   -19.7238    0.9996  n.s.
+  Techstars                            Accelerator       50       2.0%     -6.4%    -1.4953    0.1409  n.s.
+  European Innovation Council          Government        31       3.2%     -5.2%    -0.8167    0.4261  n.s.
+  U.S. Department of Energy            Government        38       5.3%     -3.1%    -0.8055    0.2773  n.s.
+  Innovate UK                          Government        25       4.0%     -4.4%    -0.7354    0.4767  n.s.
+  US National Science Foundation       Government        46       6.5%     -1.9%    -0.6852    0.2643  n.s.
+  Plug and Play Tech Center            Accelerator       93       4.3%     -4.1%    -0.4358    0.4032  n.s.
+  Horizon 2020                         Government        13       7.7%     -0.7%    -0.2135    0.8404  n.s.
+  Lowercarbon Capital                  Climate VC        46       4.3%     -4.0%    +0.0542    0.9414  n.s.
+  InnoEnergy                           Government        32       9.4%     +1.0%    +0.3880    0.5355  n.s.
+  SOSV                                 Accelerator       73      12.3%     +4.0%    +0.5787    0.1195  n.s.
+  Climate Capital                      Climate VC       108      11.1%     +2.8%    +0.7923    0.0148  *
+  Y Combinator                         Accelerator       24      12.5%     +4.1%    +0.8312    0.1895  n.s.
+  Breakthrough Energy                  Climate VC        40       7.5%     -0.9%    +0.9047    0.1469  n.s.
+  EIT Climate-KIC                      Government         7       0.0%     -8.4%       +nan       nan  n.s.
+  EIT Food                             Government         3       0.0%     -8.4%       +nan       nan  n.s.
+
+========================================================================
+INSTITUTION vs CROSS-COMMUNITY: WHAT DRIVES THE EFFECT?
+  Decomposition:
+    has_eco:          company backed by any top-20 ecosystem builder
+    has_other_cross:  cross-community WITHOUT any top-20 builder
+    eco_and_cross:    cross-community WITH a top-20 builder
+  H: If the effect is pure cross-community access:
+     has_eco alone should be n.s.; has_other_cross should be significant.
+  H: If the effect is the institution itself:
+     has_eco should be significant; has_other_cross should be weaker.
+========================================================================
+
+  SAMPLE SPLIT:
+    No eco builder                            N=6,364  fail=8.5%  exit=6.1%
+    Has eco builder                           N=354  fail=6.8%  exit=5.6%
+    Cross-comm, no eco                        N=3,804  fail=7.1%  exit=6.6%
+    Cross-comm + eco                          N=333  fail=6.3%  exit=6.0%
+
+  [M1] BASELINE: failure ~ cross_community (original)
+    cross_community  β=-0.4373  p=0.0000 ***  N=6,718
+
+  [M2] DECOMPOSED: failure ~ has_eco + has_other_cross
+  (has_eco: any top-20 builder; has_other_cross: cross-comm without top-20)
+    has_eco          β=-0.4214  p=0.0804 †
+    has_other_cross  β=-0.4226  p=0.0001 ***
+    N=6,718
+
+  [M3] THREE-WAY: eco_only / eco+cross / other_cross (vs within, no eco)
+    eco_cross             β=-0.5112  p=0.0447 *
+    eco_within            β=+0.4887  p=0.4557 n.s.
+    other_cross           β=-0.4279  p=0.0001 ***
+    N=6,718  (ref = within-community, no eco builder)
+
+  [M4] BY INSTITUTION TYPE: Government vs Accelerator vs Climate VC
+    has_government             β=-0.6552  p=0.1283 n.s.
+    has_accelerator            β=-0.0937  p=0.7836 n.s.
+    has_climate_vc             β=+0.5455  p=0.1379 n.s.
+    N=6,718
+
+  [M5] DOES has_eco ABSORB cross_community?
+  Adding has_eco to the cross_community model — does cross_community survive?
+    cross_community  β=-0.4364  p=0.0000 ***
+    has_eco          β=-0.0264  p=0.9071 n.s.
+    N=6,718
+    → cross_community survives: institution does NOT explain the cross-comm effect
+
+========================================================================
+COMMUNITY BRIDGING: Which Communities Does Each Institution Link?
+  Own community + top-4 co-investor communities (by co-investment frequency)
+========================================================================
+  Total Louvain communities: 46
+
+  Institution                           Own comm        Co-inv communities (top 4 by freq)
+  ------------------------------------------------------------------------------------------
+  Plug and Play Tech Center            C       1  C7(×112), C3(×92), C4(×31), C6(×22)
+  U.S. Department of Energy            C       0  C7(×13), C3(×2), C5(×2), C1(×1)
+  Innovate UK                          C       2  C4(×6), C1(×3), C3(×3), C7(×2)
+  US National Science Foundation       C       0  C7(×13), C6(×2), C12(×2), C9(×1)
+  SOSV                                 C       1  C3(×67), C7(×56), C10(×21), C4(×17)
+  Techstars                            C       3  C7(×41), C6(×12), C1(×11), C4(×11)
+  European Innovation Council          C       4  C5(×9), C2(×9), C1(×6), C7(×6)
+  Climate Capital                      C       3  C7(×214), C1(×140), C6(×28), C2(×22)
+  InnoEnergy                           C       5  C13(×28), C4(×28), C7(×9), C1(×5)
+  Greentown Labs                       C       8  C7(×11), C1(×8), C3(×7), C9(×5)
+  Creative Destruction Lab             C       6  C7(×9), C3(×4), C16(×1), C1(×1)
+  EIT Climate-KIC                      C       4  C7(×7), C2(×4), C3(×3), C24(×1)
+  Cleantech Open                       C       5  within only
+  MassChallenge                        C       4  within only
+  Breakthrough Energy                  C       7  C1(×27), C3(×23), C16(×16), C14(×14)
+  Third Derivative                     C       6  C3(×11), C7(×3), C1(×3), C21(×1)
+  Y Combinator                         C       3  C7(×18), C1(×10), C14(×5), C4(×4)
+  Lowercarbon Capital                  C       7  C3(×94), C14(×61), C1(×41), C21(×17)
+  EIT Food                             C       1  C7(×4), C5(×3), C2(×1), C3(×1)
+  Horizon 2020                         C       4  C2(×3), C18(×1)
+
+========================================================================
+INTERPRETATION
+========================================================================
+
+  KEY QUESTION: Is the cross-community advantage driven by the INSTITUTION
+  (having Techstars/DOE/Y Combinator) or by the CROSS-COMMUNITY ACCESS itself?
+
+  Evidence to synthesise:
+  M2: has_eco vs has_other_cross → which dominates?
+  M5: does has_eco absorb cross_community in same model?
+  M4: which institution TYPE drives failure reduction?
+
+  Mechanism candidates:
+  (A) Institution provides quality signal → better companies get these investors
+  (B) Institution provides cross-community access → network information matters
+  (C) Both: institutions and network access have independent effects

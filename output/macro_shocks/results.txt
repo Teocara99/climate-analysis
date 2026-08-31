@@ -1,0 +1,81 @@
+========================================================================
+MACRO SHOCKS × CROSS-COMMUNITY NETWORK FRAGMENTATION
+Caldara & Iacoviello GPR | FRED VIX/Oil/Rate | CPU Gavriilidis
+========================================================================
+
+========================================================================
+STEP 1: SHOCK → QUARTERLY CROSS-COMMUNITY SHARE
+  DV: pct_cross(t); Controls: pct_cross(t-1), trend, quarter dummies
+========================================================================
+
+  [VIX]  N=46 quarters  adj-R²=0.389  F-test p=0.566 n.s.
+    vix_z_l1: β=+0.0078  p=0.644 n.s.
+    vix_z_l2: β=+0.0076  p=0.608 n.s.
+
+  [Oil Price]  N=46 quarters  adj-R²=0.375  F-test p=0.856 n.s.
+    oil_price_z_l1: β=-0.0165  p=0.641 n.s.
+    oil_price_z_l2: β=+0.0164  p=0.656 n.s.
+
+  [Interest Rate]  N=46 quarters  adj-R²=0.419  F-test p=0.218 n.s.
+    interest_rate_z_l1: β=+0.0605  p=0.219 n.s.
+    interest_rate_z_l2: β=-0.0829  p=0.086 †
+
+  [GPR]  N=46 quarters  adj-R²=0.395  F-test p=0.472 n.s.
+    gpr_z_l1: β=-0.0196  p=0.455 n.s.
+    gpr_z_l2: β=+0.0020  p=0.927 n.s.
+
+  [CPU]  N=21 quarters  adj-R²=0.034  F-test p=0.618 n.s.
+    cpu_z_l1: β=-0.0274  p=0.566 n.s.
+    cpu_z_l2: β=+0.0348  p=0.502 n.s.
+
+========================================================================
+STEP 2: BOOTSTRAP MEDIATION ANALYSIS (1,000 replications)
+  Path A: shock(company-level) → cross_community
+  Path B: cross_community → failure (logit)
+  Path C': shock → failure (direct, logit)
+  Indirect effect = A × B  [95% bias-corrected bootstrap CI]
+========================================================================
+
+  [CPU → cross_community → FAILURE]  N=6,718
+    Path A (shock→cross_comm):  β=+0.0042  p=0.507 n.s.
+    Path B (cross_comm→failed): β=-0.3511  p=0.001 ***
+    Path C (shock→failed direct): β=-0.0120  p=0.840 n.s.
+    Indirect (A×B):  -0.001486  95%CI [-0.006755, +0.002945]  p_boot=0.112
+    Verdict: NOT significant (CI includes 0)  |  Prop. mediated ≈ 11.2%
+
+  [CPU → cross_community → EXIT]  N=6,718
+    Path A (shock→cross_comm):  β=+0.0042  p=0.507 n.s.
+    Path B (cross_comm→exited): β=-0.2241  p=0.072 †
+    Path C (shock→exited direct): β=+0.0208  p=0.763 n.s.
+    Indirect (A×B):  -0.000949  95%CI [-0.004867, +0.002182]  p_boot=0.046
+    Verdict: NOT significant (CI includes 0)  |  Prop. mediated ≈ 4.6%
+
+========================================================================
+STEP 3: HORSE RACE — ALL SHOCKS SIMULTANEOUSLY (lag=1Q)
+  DV: pct_cross(t)  N=22 quarters  adj-R²=0.471  HC3 SE
+========================================================================
+  VIX(t-1)                   β=-0.03775  p=0.555 n.s.
+  Oil(t-1)                   β=-0.10785  p=0.025 *
+  Interest Rate(t-1)         β=-0.03482  p=0.857 n.s.
+  GPR(t-1)                   β=-0.01165  p=0.921 n.s.
+  CPU(t-1)                   β=-0.03155  p=0.393 n.s.
+
+  AR(1) pct_cross_l1:      β=-0.4009  p=0.262
+  Overall model F p-value: 0.0145
+
+========================================================================
+STEP 4: MEDIATION COMPARISON TABLE
+  Sorted by absolute indirect effect size (failure outcome)
+========================================================================
+
+  CPU
+    Step1 F-p = 0.618  |  Path A β=+0.0042 n.s.  Path B β=-0.3511 ***
+    Indirect = -0.001486  95%CI [-0.00676, +0.00294]  Prop.med = 11.2%
+
+========================================================================
+SUMMARY
+========================================================================
+
+  Shocks that fragment cross-community network (p<0.05): none
+  Shocks at p<0.10 (marginal): none
+  Significant mediation paths (CI excludes 0): none

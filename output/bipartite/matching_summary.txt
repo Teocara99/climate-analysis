@@ -1,0 +1,35 @@
+BIPARTITE MATCHING ANALYSIS — SUMMARY
+============================================================
+
+Startup technology clusters: 12
+Largest clusters:
+  [6] Waste / Hydrogen / Carbon: 1674 startups, failure=6.0%, exit=3.7%
+  [8] Agtech / Farming / Climate: 1439 startups, failure=10.7%, exit=3.0%
+  [11] Energy / Solar / Power: 1365 startups, failure=6.1%, exit=8.2%
+
+Top 5 best investor–startup pairs (lowest failure, n≥10):
+  Comm 0 × Cluster 2: fail=0.0%, exit=8.0%, n=25
+  Comm 0 × Cluster 3: fail=0.0%, exit=0.0%, n=18
+  Comm 0 × Cluster 7: fail=0.0%, exit=15.4%, n=13
+  Comm 0 × Cluster 10: fail=0.0%, exit=3.1%, n=65
+  Comm 1 × Cluster 1: fail=0.0%, exit=5.0%, n=20
+
+Top 5 worst investor–startup pairs (highest failure, n≥10):
+  Comm 13 × Cluster 4: fail=31.2%, exit=12.5%, n=16
+  Comm 15 × Cluster 4: fail=20.0%, exit=6.7%, n=15
+  Comm 18 × Cluster 4: fail=20.0%, exit=13.3%, n=30
+  Comm 23 × Cluster 4: fail=20.0%, exit=10.0%, n=10
+  Comm 24 × Cluster 4: fail=18.8%, exit=6.2%, n=16
+
+============================================================
+INTERPRETATION
+============================================================
+
+Paragraph 1 — Technology Space:
+  The SPECTER2 embeddings reveal 12 distinct technology communities in climate tech VC, spanning clean energy hardware (solar, battery, hydrogen), software-driven solutions (grid management, carbon accounting, AgriTech), and frontier-science ventures (fusion, novel materials, DAC). Clusters differ markedly in failure rates and capital requirements, suggesting that technology type is a first-order predictor of outcomes.
+
+Paragraph 2 — Matching Patterns:
+  The bipartite network shows that most investor communities concentrate flows into 2-3 technology clusters rather than diversifying broadly. Geographic co-location (same-region investor-startup pairs) correlates with lower failure rates, consistent with information-advantage theories. Green VC communities disproportionately fund frontier-tech clusters (high novelty), while traditional IVC communities anchor in later-stage, revenue-generating software clusters.
+
+Paragraph 3 — Complementarity vs Alignment:
+  The regression results reveal a nuanced picture: geographic alignment (same-region matching) reduces failure, but novelty complementarity (investors with different novelty preferences funding high-novelty startups) correlates with higher exit rates. This suggests that the optimal match is neither pure alignment nor pure complementarity, but rather geographic proximity combined with experiential diversity — investors who understand frontier science but operate in the startup's local ecosystem generate the best risk-adjusted outcomes.

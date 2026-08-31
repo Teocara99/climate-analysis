@@ -1,0 +1,971 @@
+company_key,n_communities,diff_geo,diff_type,diff_green,diff_stage,diff_sector,n_diff_dims,bridge_type
+isar aerospace,2,0,1,1,0,0,2,Cross-type + green-focus
+numat (specialty chemicals),2,0,1,0,1,0,2,Multiple dimensions (3+)
+cysal,2,1,1,0,0,0,2,Cross-geography + type
+cleanchoice energy,3,1,1,0,0,0,2,Cross-geography + type
+cleanfiber,3,0,1,0,1,0,2,Multiple dimensions (3+)
+exo (usa),2,0,1,0,1,0,2,Multiple dimensions (3+)
+curb (equipment),2,0,1,0,0,0,1,Cross-type only
+orbital insight,2,1,1,1,0,0,3,Cross-geography + type
+alertmedia,2,0,1,0,0,0,1,Cross-type only
+understory,2,0,1,0,1,1,3,Multiple dimensions (3+)
+crop one (cultivation),2,0,1,0,1,0,2,Multiple dimensions (3+)
+arcadia,2,1,1,0,0,0,2,Cross-geography + type
+mirova sunfunder,3,1,1,0,0,0,2,Cross-geography + type
+sparkmeter,3,1,1,0,0,0,2,Cross-geography + type
+chai energy,2,1,0,0,0,0,1,Cross-geography only
+windesco,2,0,1,1,0,0,2,Cross-type + green-focus
+utilityapi,2,1,0,0,0,0,1,Cross-geography only
+75f,2,1,1,0,0,0,2,Cross-geography + type
+spero renewables,2,0,1,1,1,0,3,Cross-type + green-focus
+quidnet energy,2,0,1,0,1,0,2,Multiple dimensions (3+)
+limejump,2,1,0,0,0,0,1,Cross-geography only
+strata critical medical (nas: srta),3,1,1,1,0,1,4,Cross-geography + type
+hazel technologies,2,0,0,1,0,0,1,Cross-green-focus only
+corpower ocean,3,0,0,0,0,0,0,Same on all dimensions (homophily)
+waga energy (par: waga),2,1,1,0,0,0,2,Cross-geography + type
+navitas semiconductor (nas: nvts),2,0,1,0,0,0,1,Cross-type only
+bright exchange,4,1,1,1,0,0,3,Cross-geography + type
+synergy fuels,2,1,1,1,0,0,3,Cross-geography + type
+prêt à pousser,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+axiom exergy,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+artemis (other agriculture),2,0,1,0,0,0,1,Cross-type only
+blue planet energy,2,0,0,0,0,1,1,Cross-sector only
+otovo (osl: otovo),2,1,1,0,0,0,2,Cross-geography + type
+rezatec,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+united wind,2,0,1,0,0,0,1,Cross-type only
+enobraq,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+plenty,4,1,1,0,0,1,3,Cross-geography + type
+electriq,2,1,0,0,1,0,2,Cross-geography + stage
+beta hatch,2,0,1,0,0,1,2,Multiple dimensions (3+)
+agerpoint,3,0,1,0,0,1,2,Multiple dimensions (3+)
+carbonbook,2,0,1,0,0,1,2,Multiple dimensions (3+)
+udelv,2,1,1,0,0,0,2,Cross-geography + type
+hydro x,2,0,1,0,1,1,3,Multiple dimensions (3+)
+the every company,5,0,1,1,0,1,3,Cross-type + green-focus
+aeropowder,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+stormsensor,2,0,0,1,0,0,1,Cross-green-focus only
+mobike,2,1,1,0,0,0,2,Cross-geography + type
+teq,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+mimsi materials,2,1,0,0,0,0,1,Cross-geography only
+apana,2,0,1,1,0,0,2,Cross-type + green-focus
+azuri technologies,2,1,1,0,0,0,2,Cross-geography + type
+menlomicro,2,1,1,0,0,0,2,Cross-geography + type
+optimal (agriculture),2,1,1,0,0,1,3,Cross-geography + type
+the fresh factory (tsx: frsh),2,1,1,1,0,1,4,Cross-geography + type
+cover,4,1,1,0,0,1,3,Cross-geography + type
+four sigmatic,2,0,1,0,1,1,3,Multiple dimensions (3+)
+wright,3,1,1,0,0,0,2,Cross-geography + type
+levelten energy,3,0,1,0,0,0,1,Cross-type only
+clarity ai,4,1,1,1,0,0,3,Cross-geography + type
+northvolt,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+ofo,3,1,1,1,0,0,3,Cross-geography + type
+fero labs,2,1,1,0,0,1,3,Cross-geography + type
+spin (automotive),2,0,0,0,0,1,1,Cross-sector only
+via separations,2,0,1,0,1,0,2,Multiple dimensions (3+)
+nautilus data technologies,2,0,0,1,0,0,1,Cross-green-focus only
+halsa (food products),3,1,1,1,1,1,5,Cross-geography + type
+electron,2,1,1,0,0,0,2,Cross-geography + type
+weavair,2,1,1,0,0,0,2,Cross-geography + type
+entocycle,3,0,0,0,0,0,0,Same on all dimensions (homophily)
+switched source,3,0,1,1,1,0,3,Cross-type + green-focus
+dandelion energy,2,1,1,0,0,0,2,Cross-geography + type
+shoreline wind,3,1,1,0,0,0,2,Cross-geography + type
+temperpack technologies,2,1,1,0,0,1,3,Cross-geography + type
+innowatts,3,1,1,0,0,0,2,Cross-geography + type
+square roots,6,1,1,1,0,1,4,Cross-geography + type
+omnidian,3,1,1,0,0,0,2,Cross-geography + type
+perennial (beverages),3,0,1,0,1,1,3,Multiple dimensions (3+)
+soundenergy,2,1,1,0,0,0,2,Cross-geography + type
+freewire,3,0,1,0,0,1,2,Multiple dimensions (3+)
+harmony biosciences holdings (nas: hrmy),3,1,1,1,0,0,3,Cross-geography + type
+bluefield (business/productivity software),2,0,1,0,0,0,1,Cross-type only
+switch automation,3,1,1,1,0,1,4,Cross-geography + type
+bead,3,1,1,0,0,1,3,Cross-geography + type
+kuva systems,3,0,1,1,0,0,2,Cross-type + green-focus
+amp sortation,3,1,1,0,0,0,2,Cross-geography + type
+mast reforestation,4,0,1,0,0,1,2,Multiple dimensions (3+)
+outrider,2,0,1,0,0,0,1,Cross-type only
+impactvision,2,0,0,0,0,1,1,Cross-sector only
+advano,5,1,1,0,0,1,3,Cross-geography + type
+hexafly,2,0,1,0,0,1,2,Multiple dimensions (3+)
+daedalean,2,1,1,0,0,0,2,Cross-geography + type
+depsys,2,1,0,0,0,0,1,Cross-geography only
+hyperborean,2,1,0,0,0,0,1,Cross-geography only
+gegadyne energy,2,1,1,0,0,0,2,Cross-geography + type
+gradient (electronics (b2c)),2,0,0,0,1,0,1,Cross-stage only
+nexton,2,1,0,1,0,0,2,Cross-geography + green
+zunum aero,2,1,1,1,0,0,3,Cross-geography + type
+fomm,2,1,1,0,0,1,3,Cross-geography + type
+hexxen,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+curie co,2,0,0,0,0,1,1,Cross-sector only
+bounce infinity,2,1,1,1,0,0,3,Cross-geography + type
+solarhome,3,1,1,0,0,1,3,Cross-geography + type
+goterra,3,1,1,0,0,1,3,Cross-geography + type
+boost biomes,4,1,1,1,0,1,4,Cross-geography + type
+ohmconnect,4,1,1,0,0,1,3,Cross-geography + type
+native state foods,2,1,1,1,1,0,4,Cross-geography + type
+hello cycling,2,1,1,0,0,0,2,Cross-geography + type
+redaptive,3,1,1,1,0,0,3,Cross-geography + type
+provenance bio,2,0,0,0,0,1,1,Cross-sector only
+geltor,2,0,0,0,0,1,1,Cross-sector only
+checkerspot,3,0,0,0,0,1,1,Cross-sector only
+conamix,2,0,1,0,0,0,1,Cross-type only
+skip (automotive),4,1,1,1,1,0,4,Cross-geography + type
+grin scooter,4,1,1,1,0,1,4,Cross-geography + type
+bird global,3,1,1,1,0,0,3,Cross-geography + type
+beta bugs,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+yulu,2,1,1,0,0,1,3,Cross-geography + type
+urban electric power,2,0,1,0,0,0,1,Cross-type only
+eggoz,2,1,1,0,0,1,3,Cross-geography + type
+zwitterco,2,0,1,0,1,0,2,Multiple dimensions (3+)
+water.io (tae: watr),2,0,1,0,0,1,2,Multiple dimensions (3+)
+solstice power technologies,2,0,1,0,0,0,1,Cross-type only
+amply power,3,1,1,0,0,0,2,Cross-geography + type
+zonful energy,2,1,1,0,0,0,2,Cross-geography + type
+fora:butter,2,1,1,1,0,1,4,Cross-geography + type
+zume,3,0,1,0,0,1,2,Multiple dimensions (3+)
+plant prefab,3,1,1,0,0,0,2,Cross-geography + type
+advanced electric machines,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+uhoo,2,1,1,0,0,1,3,Cross-geography + type
+geospiza (business/productivity software),2,0,1,0,0,0,1,Cross-type only
+kula bio,4,1,0,1,0,1,3,Cross-geography + green
+tier mobility,2,0,1,1,0,0,2,Cross-type + green-focus
+solugen,2,0,1,0,0,0,1,Cross-type only
+zenith aerospace,2,0,0,0,0,1,1,Cross-sector only
+planetiq,4,1,1,0,0,1,3,Cross-geography + type
+lo3 energy,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+delfos,2,0,0,0,0,1,1,Cross-sector only
+last energy,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+luna (nashville),2,0,1,0,0,1,2,Multiple dimensions (3+)
+ekwateur,3,1,1,0,0,0,2,Cross-geography + type
+revel,3,0,1,0,0,1,2,Multiple dimensions (3+)
+shiok meats,3,0,0,0,0,1,1,Cross-sector only
+energy vault holdings (nys: nrgv),2,0,0,0,0,1,1,Cross-sector only
+heila technologies,2,0,1,0,1,0,2,Multiple dimensions (3+)
+gelatex,4,1,1,0,0,1,3,Cross-geography + type
+celadyne,2,0,1,0,1,0,2,Multiple dimensions (3+)
+fork & good,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+oishii,2,1,1,0,0,1,3,Cross-geography + type
+farmshelf,3,1,1,0,0,1,3,Cross-geography + type
+iunu,3,0,1,0,0,0,1,Cross-type only
+coral vita,3,1,1,0,0,0,2,Cross-geography + type
+sensorflow,3,1,1,0,1,1,4,Cross-geography + type
+cruz foam,3,1,1,0,0,0,2,Cross-geography + type
+nuru,2,1,1,0,0,0,2,Cross-geography + type
+swell energy,2,1,1,0,0,0,2,Cross-geography + type
+puraffinity,4,1,1,1,1,1,5,Cross-geography + type
+avant meats,2,1,1,0,0,1,3,Cross-geography + type
+perennial,3,1,1,1,0,0,3,Cross-geography + type
+c-motive,3,0,1,0,0,1,2,Multiple dimensions (3+)
+adaviv,3,0,1,0,1,0,2,Multiple dimensions (3+)
+pachama,5,1,1,1,0,0,3,Cross-geography + type
+hygge power,2,0,1,0,0,0,1,Cross-type only
+new culture,2,0,0,0,0,1,1,Cross-sector only
+socïvolta,3,0,1,0,0,0,1,Cross-type only
+parmela creamery,2,0,0,0,0,1,1,Cross-sector only
+meati,5,1,1,1,0,1,4,Cross-geography + type
+ac biode,3,1,1,0,0,1,3,Cross-geography + type
+lettuce grow,3,1,1,1,0,0,3,Cross-geography + type
+kuhmute,2,0,1,0,0,0,1,Cross-type only
+eden (energy infrastructure),2,0,0,1,0,1,2,Multiple dimensions (3+)
+noops,2,0,0,0,0,1,1,Cross-sector only
+microbyre,2,0,1,0,0,0,1,Cross-type only
+domatic,4,1,1,0,1,1,4,Cross-geography + type
+clir,2,0,1,0,0,0,1,Cross-type only
+nuventura,2,0,1,1,0,0,2,Cross-type + green-focus
+wattmore,4,0,1,0,0,1,2,Multiple dimensions (3+)
+igs,2,1,1,0,0,1,3,Cross-geography + type
+lancey energy storage,2,1,1,0,0,0,2,Cross-geography + type
+boaz bikes,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+setpoint (electronic equipment and instruments),2,0,1,0,1,0,2,Multiple dimensions (3+)
+nth cycle,2,0,0,0,1,0,1,Cross-stage only
+earth ai,4,1,1,0,0,1,3,Cross-geography + type
+simulate,5,1,1,1,1,1,5,Cross-geography + type
+moku foods,2,0,0,0,0,1,1,Cross-sector only
+mori (specialty chemicals),4,0,1,1,0,1,3,Cross-type + green-focus
+syzygy plasmonics,4,0,1,0,0,0,1,Cross-type only
+loop (environmental services (b2b)),3,1,1,1,0,0,3,Cross-geography + type
+upside foods,3,0,0,0,0,1,1,Cross-sector only
+xos (nas: xos),2,1,1,1,0,0,3,Cross-geography + type
+wheels,4,1,1,1,0,0,3,Cross-geography + type
+tcs (business/productivity software),2,0,1,0,0,1,2,Multiple dimensions (3+)
+ocean oasis,2,1,0,0,0,0,1,Cross-geography only
+presso,2,0,0,0,0,1,1,Cross-sector only
+kapsul air,2,0,0,0,0,1,1,Cross-sector only
+60hertz,2,0,1,0,0,0,1,Cross-type only
+reit ev,2,1,0,1,0,0,2,Cross-geography + green
+skilancer solar,2,1,1,0,0,0,2,Cross-geography + type
+micromobility.com,2,0,0,1,0,0,1,Cross-green-focus only
+numocity,2,1,0,0,0,0,1,Cross-geography only
+arbol (commercial/professional insurance),2,1,1,0,0,0,2,Cross-geography + type
+jaza energy,3,1,0,0,0,0,1,Cross-geography only
+natron energy,3,1,1,0,0,0,2,Cross-geography + type
+zitara,2,0,1,0,1,0,2,Multiple dimensions (3+)
+manocap energy,3,1,1,0,0,0,2,Cross-geography + type
+leap,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+neuron mobility,2,0,0,1,0,1,2,Multiple dimensions (3+)
+aeroshield,6,1,1,1,0,0,3,Cross-geography + type
+debut biotechnology,4,1,1,0,0,1,3,Cross-geography + type
+electriphi,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+planetary technologies (energy),2,0,1,0,0,0,1,Cross-type only
+urbankisaan,3,1,1,0,0,0,2,Cross-geography + type
+alchemr,2,0,0,1,1,0,2,Multiple dimensions (3+)
+turtletree,3,1,1,0,0,1,3,Cross-geography + type
+zeno power,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+conservation labs,2,0,1,0,0,0,1,Cross-type only
+powerx (business/productivity software),3,1,1,0,0,0,2,Cross-geography + type
+nori (environmental services),5,1,1,0,1,0,3,Cross-geography + type
+yotta energy,2,0,0,0,0,1,1,Cross-sector only
+notpla,5,1,1,1,0,0,3,Cross-geography + type
+enpowered,3,0,1,0,0,0,1,Cross-type only
+evocco,2,1,0,0,0,0,1,Cross-geography only
+loam,2,1,1,0,0,0,2,Cross-geography + type
+sparkchange (financial software),2,0,1,1,0,0,2,Cross-type + green-focus
+hungry harvest,2,0,1,1,0,0,2,Cross-type + green-focus
+nitricity,3,1,1,0,0,0,2,Cross-geography + type
+voltstorage,3,1,1,0,0,1,3,Cross-geography + type
+sinai,2,1,1,1,0,0,3,Cross-geography + type
+carbon america,3,0,1,0,0,1,2,Multiple dimensions (3+)
+knowde,4,1,1,1,0,1,4,Cross-geography + type
+oned battery sciences,3,1,1,1,0,0,3,Cross-geography + type
+prometheus fuels,4,1,1,0,0,1,3,Cross-geography + type
+lilium (pinx: lilmf),4,1,1,1,0,0,3,Cross-geography + type
+juno,6,1,1,1,0,0,3,Cross-geography + type
+audette,3,0,1,0,0,0,1,Cross-type only
+polymateria,2,1,0,0,0,0,1,Cross-geography only
+ecoworks,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+hungry planet,4,1,0,1,0,1,3,Cross-geography + green
+coreshell,5,1,1,0,1,0,3,Cross-geography + type
+circunomics,3,1,1,0,0,0,2,Cross-geography + type
+enginzyme,2,0,1,1,0,0,2,Cross-type + green-focus
+qmerit,2,1,1,0,0,0,2,Cross-geography + type
+econcrete,2,1,1,1,0,0,3,Cross-geography + type
+dendra,5,1,1,1,0,0,3,Cross-geography + type
+energicity,2,1,1,0,0,0,2,Cross-geography + type
+company six,3,0,1,0,1,0,2,Multiple dimensions (3+)
+rise (consumer durables),3,1,1,0,0,1,3,Cross-geography + type
+airly (business/productivity software),3,1,1,0,0,1,3,Cross-geography + type
+glanris,2,0,1,0,0,1,2,Multiple dimensions (3+)
+blue sky analytics,3,1,1,1,0,0,3,Cross-geography + type
+greyparrot,4,1,1,1,0,1,4,Cross-geography + type
+spero,6,1,1,1,0,1,4,Cross-geography + type
+one concern,5,1,1,1,0,1,4,Cross-geography + type
+sicona battery technologies,2,1,1,0,0,1,3,Cross-geography + type
+recycleye,2,1,0,0,1,0,2,Cross-geography + stage
+utility stream,2,0,0,0,0,1,1,Cross-sector only
+infarm,4,1,1,1,0,1,4,Cross-geography + type
+passivelogic,4,1,1,1,0,0,3,Cross-geography + type
+swift solar,3,0,0,1,0,0,1,Cross-green-focus only
+carbonchain,5,1,1,0,0,0,2,Cross-geography + type
+parallel systems (los angeles),3,1,1,1,0,1,4,Cross-geography + type
+overstory,4,1,1,1,0,0,3,Cross-geography + type
+shellworks,2,1,1,0,0,0,2,Cross-geography + type
+archer aviation (nys: achr),4,1,1,1,0,1,4,Cross-geography + type
+biotech foods,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+guangzhou xiaopeng motors technology (hkg: 09868),3,1,1,1,0,0,3,Cross-geography + type
+power roll,2,1,0,0,0,0,1,Cross-geography only
+rhombus energy solutions,4,1,1,0,0,1,3,Cross-geography + type
+project canary,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+apparatus,3,1,1,0,0,1,3,Cross-geography + type
+kettle,4,0,1,0,1,1,3,Multiple dimensions (3+)
+eva (air),2,0,1,0,0,0,1,Cross-type only
+blue planet systems,2,1,1,1,0,0,3,Cross-geography + type
+patch,2,1,1,0,0,0,2,Cross-geography + type
+devotion food,2,1,0,1,0,0,2,Cross-geography + green
+chargerhelp!,3,0,1,0,1,0,2,Multiple dimensions (3+)
+tiamat sciences,2,0,0,0,0,1,1,Cross-sector only
+hyzon fuel cell,2,1,1,0,0,0,2,Cross-geography + type
+hooked (food products),3,1,1,0,0,1,3,Cross-geography + type
+zauben,2,0,1,0,0,0,1,Cross-type only
+mozza foods,3,0,0,1,0,1,2,Multiple dimensions (3+)
+v2food,4,1,1,0,0,0,2,Cross-geography + type
+everfuel,3,0,1,1,0,0,2,Cross-type + green-focus
+allonnia,2,0,0,0,0,1,1,Cross-sector only
+the new (food products),2,1,1,0,0,1,3,Cross-geography + type
+metron,6,1,1,1,0,0,3,Cross-geography + type
+matrix f.t.,2,0,0,0,0,1,1,Cross-sector only
+atmo,4,1,1,0,1,1,4,Cross-geography + type
+barta,2,1,1,0,0,1,3,Cross-geography + type
+portable electric,2,0,0,0,1,0,1,Cross-stage only
+rheom materials,3,0,1,0,0,1,2,Multiple dimensions (3+)
+core biogenesis,3,1,1,1,0,1,4,Cross-geography + type
+foodyworm,2,1,1,0,0,0,2,Cross-geography + type
+strong by form,2,1,1,0,0,1,3,Cross-geography + type
+helios (petah tikva),2,0,0,0,0,1,1,Cross-sector only
+cypher ( media and information services),3,1,1,1,0,0,3,Cross-geography + type
+mosa meat,5,1,1,1,0,1,4,Cross-geography + type
+dcbel,3,0,1,0,0,0,1,Cross-type only
+cleartrace,3,0,1,0,0,0,1,Cross-type only
+fortuna cools,3,1,1,0,0,1,3,Cross-geography + type
+brighte,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+nossa data,3,1,1,0,0,0,2,Cross-geography + type
+hoxton farms,2,0,0,0,0,1,1,Cross-sector only
+kanin energy,3,0,1,1,0,0,2,Cross-type + green-focus
+scanifly,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+redefine meat,3,0,0,1,0,1,2,Multiple dimensions (3+)
+bia (business/productivity software),2,0,0,0,0,0,0,Same on all dimensions (homophily)
+copenhagen atomics,2,1,1,0,0,0,2,Cross-geography + type
+solarsteam,2,0,1,0,0,1,2,Multiple dimensions (3+)
+hystar,2,1,1,0,0,0,2,Cross-geography + type
+ev.energy,5,1,1,0,0,1,3,Cross-geography + type
+epoch biodesign,4,1,1,0,0,1,3,Cross-geography + type
+shandi,2,1,1,1,0,0,3,Cross-geography + type
+save trees,3,0,0,0,0,1,1,Cross-sector only
+ekona power,3,1,1,0,0,1,3,Cross-geography + type
+cultured decadence,4,0,1,0,0,1,2,Multiple dimensions (3+)
+smart joules,2,1,1,0,0,0,2,Cross-geography + type
+exnaton,2,1,1,0,0,0,2,Cross-geography + type
+applied impact robotics,2,1,0,0,0,0,1,Cross-geography only
+inseact,2,1,0,0,0,0,1,Cross-geography only
+mission barns,6,1,1,1,0,1,4,Cross-geography + type
+moleaer,2,0,0,0,0,1,1,Cross-sector only
+brill power,3,1,1,0,0,0,2,Cross-geography + type
+stegra,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+electricfish energy,2,1,0,0,0,0,1,Cross-geography only
+river mobility,2,0,1,0,1,0,2,Multiple dimensions (3+)
+applied bioplastics,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+vibrant planet,2,0,1,0,0,0,1,Cross-type only
+green rebel foods,2,1,0,1,0,1,3,Cross-geography + green
+regen insights,2,1,1,1,0,1,4,Cross-geography + type
+upward farms,3,0,0,0,0,1,1,Cross-sector only
+sylvera,4,1,1,1,0,1,4,Cross-geography + type
+verity (metal containers & packaging),2,0,1,0,0,0,1,Cross-type only
+allinfra,2,0,1,1,0,0,2,Cross-type + green-focus
+log9 materials,2,1,1,0,0,0,2,Cross-geography + type
+dabbel,2,1,1,0,0,1,3,Cross-geography + type
+pratexo,2,1,1,0,0,1,3,Cross-geography + type
+novoloop,4,1,1,0,0,1,3,Cross-geography + type
+oshi (food products),2,1,1,0,0,1,3,Cross-geography + type
+h3x,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+tortoise (electronic equipment and instruments),3,1,1,0,0,1,3,Cross-geography + type
+archaea energy,3,1,1,0,0,0,2,Cross-geography + type
+persefoni,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+emitwise,5,1,1,1,0,1,4,Cross-geography + type
+hydrosat,4,1,1,1,0,0,3,Cross-geography + type
+ceres ai,5,1,1,1,0,1,4,Cross-geography + type
+algramo,6,1,1,0,1,1,4,Cross-geography + type
+hylium industries,2,1,0,1,0,1,3,Cross-geography + green
+motif foodworks,3,1,1,0,0,1,3,Cross-geography + type
+rts (commercial services),3,0,1,0,0,0,1,Cross-type only
+boox (containers and packaging),2,1,1,1,0,0,3,Cross-geography + type
+xbuild,4,1,1,1,1,1,5,Cross-geography + type
+zap energy,3,1,1,1,0,0,3,Cross-geography + type
+universal hydrogen,6,1,1,1,1,0,4,Cross-geography + type
+butlr,6,1,1,1,1,1,5,Cross-geography + type
+adept materials,3,0,1,1,0,0,2,Cross-type + green-focus
+made of air,2,1,1,0,0,0,2,Cross-geography + type
+sublime systems,2,0,1,0,1,0,2,Multiple dimensions (3+)
+lumen energy,3,1,1,0,0,0,2,Cross-geography + type
+agreena,2,1,1,0,0,0,2,Cross-geography + type
+sunroof technology,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+branch energy,4,1,1,1,0,1,4,Cross-geography + type
+moxion power,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+living carbon,6,1,1,1,0,1,4,Cross-geography + type
+veo (automotive),4,1,1,1,0,1,4,Cross-geography + type
+basigo,5,0,1,1,1,0,3,Cross-type + green-focus
+no evil foods,2,0,0,0,0,1,1,Cross-sector only
+halo industries,2,0,0,1,0,0,1,Cross-green-focus only
+solfácil,3,0,1,0,0,1,2,Multiple dimensions (3+)
+camus energy,2,1,1,0,0,0,2,Cross-geography + type
+electra,2,1,1,1,0,0,3,Cross-geography + type
+criaterra,3,1,1,0,0,1,3,Cross-geography + type
+vertical oceans,3,0,0,0,0,1,1,Cross-sector only
+aeditive,2,1,0,0,1,0,2,Cross-geography + stage
+local bounti (nys: locl),3,1,1,0,0,1,3,Cross-geography + type
+current foods,4,1,1,0,0,1,3,Cross-geography + type
+lightship (automotive),2,0,0,0,0,0,0,Same on all dimensions (homophily)
+ubco bikes,2,1,1,0,0,0,2,Cross-geography + type
+greenwork,3,1,1,1,0,0,3,Cross-geography + type
+dynami,2,0,0,0,0,1,1,Cross-sector only
+iron ox,3,0,0,0,0,1,1,Cross-sector only
+selex (automotive),2,1,1,0,0,0,2,Cross-geography + type
+oceanix,2,0,0,1,0,0,1,Cross-green-focus only
+repurpose global,4,1,1,0,0,1,3,Cross-geography + type
+npx,2,0,0,0,0,1,1,Cross-sector only
+copernic (industrial chemicals),2,0,0,0,0,0,0,Same on all dimensions (homophily)
+calicat,3,1,1,1,0,0,3,Cross-geography + type
+phytoform,5,1,1,1,0,1,4,Cross-geography + type
+energy dome,3,1,1,0,0,0,2,Cross-geography + type
+divigas,4,1,1,0,0,1,3,Cross-geography + type
+andes (agriculture),4,1,1,0,0,1,3,Cross-geography + type
+pionierkraft,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+biotic,4,1,1,0,0,1,3,Cross-geography + type
+odys aviation,2,0,0,0,0,1,1,Cross-sector only
+vytelle,2,0,1,0,0,1,2,Multiple dimensions (3+)
+smallhold,4,1,1,1,0,1,4,Cross-geography + type
+evergreen select,3,0,0,0,0,1,1,Cross-sector only
+remora,3,1,1,1,0,0,3,Cross-geography + type
+yali bio,4,1,1,1,0,1,4,Cross-geography + type
+wyvern,3,1,1,0,0,0,2,Cross-geography + type
+perfect day,4,1,1,1,0,1,4,Cross-geography + type
+ecso global,3,1,1,1,0,0,3,Cross-geography + type
+greenfi (financial software),5,1,1,1,0,1,4,Cross-geography + type
+thermulon,2,1,1,0,0,0,2,Cross-geography + type
+moment energy,3,0,1,0,0,0,1,Cross-type only
+enervenue,4,1,1,1,0,1,4,Cross-geography + type
+holiferm,2,1,1,0,0,0,2,Cross-geography + type
+puna bio,3,0,1,0,0,1,2,Multiple dimensions (3+)
+climateview,2,1,1,1,0,0,3,Cross-geography + type
+nanoloom,2,1,1,0,0,0,2,Cross-geography + type
+enspired,3,1,1,0,0,1,3,Cross-geography + type
+gigaton technologies,3,0,1,1,0,0,2,Cross-type + green-focus
+nexwafe,2,1,1,0,0,0,2,Cross-geography + type
+pique action,4,1,1,0,1,0,3,Cross-geography + type
+earthshot labs,2,0,1,0,0,0,1,Cross-type only
+moa foodtech,2,1,1,0,0,1,3,Cross-geography + type
+satvu,3,1,1,0,0,0,2,Cross-geography + type
+aqua cultured foods,5,1,1,0,0,1,3,Cross-geography + type
+brainbox ai,3,1,1,0,0,1,3,Cross-geography + type
+arc boats.,4,1,1,1,0,1,4,Cross-geography + type
+striemo,2,1,1,0,0,1,3,Cross-geography + type
+nxt grid,2,1,0,0,0,0,1,Cross-geography only
+sensible weather,2,1,1,1,0,0,3,Cross-geography + type
+sway innovation,6,1,1,1,0,1,4,Cross-geography + type
+matsmart,2,0,0,0,0,1,1,Cross-sector only
+sparkcharge,4,0,1,0,1,0,2,Multiple dimensions (3+)
+umami bioworks,5,1,1,0,0,1,3,Cross-geography + type
+daisy lab,2,1,1,0,0,1,3,Cross-geography + type
+ebb carbon,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+maglev aero,2,0,0,0,0,1,1,Cross-sector only
+daanaa,4,0,1,1,0,0,2,Cross-type + green-focus
+zonnepanelendelen,2,1,0,0,1,0,2,Cross-geography + stage
+ambar,3,0,1,0,0,1,2,Multiple dimensions (3+)
+harbinger,2,1,1,1,0,0,3,Cross-geography + type
+tidal vision,2,0,0,0,0,1,1,Cross-sector only
+enfuce,2,1,0,0,0,0,1,Cross-geography only
+ozonebio,3,0,1,0,0,1,2,Multiple dimensions (3+)
+chloris geospatial,3,0,0,0,0,1,1,Cross-sector only
+sealution,3,1,1,0,0,1,3,Cross-geography + type
+cheaf,3,1,1,0,0,0,2,Cross-geography + type
+solaires,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+summit nanotech,2,0,1,1,0,0,2,Cross-type + green-focus
+liftango,4,1,1,0,0,1,3,Cross-geography + type
+biofeyn,3,1,1,0,0,1,3,Cross-geography + type
+regent craft,3,1,1,0,1,0,3,Cross-geography + type
+exergyn,2,0,0,0,0,1,1,Cross-sector only
+dott,2,1,1,1,0,1,4,Cross-geography + type
+unicorn biotechnologies,4,1,1,0,0,1,3,Cross-geography + type
+shift ev,2,1,1,0,0,0,2,Cross-geography + type
+plantd,4,1,1,0,0,0,2,Cross-geography + type
+jua,2,1,1,0,0,0,2,Cross-geography + type
+greenportfolio,2,0,1,0,0,0,1,Cross-type only
+scindo,3,0,0,0,0,1,1,Cross-sector only
+umaro,4,1,1,0,0,1,3,Cross-geography + type
+sunly,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+watershed,3,1,1,1,0,0,3,Cross-geography + type
+ecolectro,4,0,1,0,0,1,2,Multiple dimensions (3+)
+gopowerev,3,0,1,1,0,0,2,Cross-type + green-focus
+kita (london),2,1,1,0,0,0,2,Cross-geography + type
+wildtype,5,1,1,1,1,1,5,Cross-geography + type
+climate x,5,1,1,1,0,1,4,Cross-geography + type
+fairbrics,2,0,0,0,0,1,1,Cross-sector only
+carbonblue,2,0,0,1,0,1,2,Multiple dimensions (3+)
+panthalassa,4,1,1,1,0,1,4,Cross-geography + type
+neocarbon,4,1,1,1,0,0,3,Cross-geography + type
+modvion,4,1,1,1,0,0,3,Cross-geography + type
+cambium (environmental services (b2b),2,0,0,0,0,0,0,Same on all dimensions (homophily)
+atomo (beverages),4,1,1,1,0,1,4,Cross-geography + type
+exodigo,2,0,0,1,0,0,1,Cross-green-focus only
+phinite,2,0,1,0,0,0,1,Cross-type only
+me&,3,1,1,0,0,1,3,Cross-geography + type
+melibio,4,1,1,0,0,1,3,Cross-geography + type
+opna,4,1,1,0,0,0,2,Cross-geography + type
+varaha,3,1,1,1,0,1,4,Cross-geography + type
+renewafi,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+safi,5,1,1,1,0,0,3,Cross-geography + type
+magrathea,3,1,1,1,0,0,3,Cross-geography + type
+powertrust,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+kiki milk,3,0,0,0,0,1,1,Cross-sector only
+sempera organics,2,0,0,0,0,1,1,Cross-sector only
+ateios,2,0,0,1,0,0,1,Cross-green-focus only
+brimstone,3,0,1,0,0,1,2,Multiple dimensions (3+)
+voltfang,3,1,1,0,0,0,2,Cross-geography + type
+cemvita factory,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+seabound,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+ren energy,5,1,1,0,0,1,3,Cross-geography + type
+melt&marble,3,1,1,0,0,1,3,Cross-geography + type
+samsara eco,2,1,1,0,0,0,2,Cross-geography + type
+carbicrete,3,0,1,0,0,0,1,Cross-type only
+battgenie,3,0,1,0,0,1,2,Multiple dimensions (3+)
+phase biolabs,2,1,1,1,0,0,3,Cross-geography + type
+rosi,3,1,0,0,0,0,1,Cross-geography only
+klaw industries,2,1,0,0,1,0,2,Cross-geography + stage
+sungreenh2,2,0,0,0,0,1,1,Cross-sector only
+manifest climate,3,0,1,0,0,0,1,Cross-type only
+project eaden,3,1,1,1,1,1,5,Cross-geography + type
+growin,2,1,0,1,0,0,2,Cross-geography + green
+future fields,3,0,1,0,0,1,2,Multiple dimensions (3+)
+airmyne,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+orchard robotics,2,1,1,1,0,0,3,Cross-geography + type
+sunairio,2,0,1,0,0,0,1,Cross-type only
+carbon crusher,3,1,1,0,0,0,2,Cross-geography + type
+shift thermal,2,0,1,0,0,0,1,Cross-type only
+ev motors japan,2,1,0,0,1,0,2,Cross-geography + stage
+micropep,3,1,1,1,0,1,4,Cross-geography + type
+banqloop,2,0,1,0,0,0,1,Cross-type only
+vertiq,3,1,1,1,0,1,4,Cross-geography + type
+ecosapiens,4,1,1,1,0,1,4,Cross-geography + type
+dastgyr technologies,3,1,1,0,0,1,3,Cross-geography + type
+peg africa,3,1,1,0,0,0,2,Cross-geography + type
+bia,2,0,1,0,0,0,1,Cross-type only
+rensair,2,1,1,0,0,0,2,Cross-geography + type
+cellfion,3,0,1,1,0,0,2,Cross-type + green-focus
+aicrete,3,0,0,0,0,1,1,Cross-sector only
+accacia,5,1,1,1,0,1,4,Cross-geography + type
+climatecrop,2,1,1,0,0,1,3,Cross-geography + type
+modo energy,2,1,1,0,0,0,2,Cross-geography + type
+zolar,4,1,1,0,0,0,2,Cross-geography + type
+planetarians,3,1,1,0,0,1,3,Cross-geography + type
+lava (energy),2,0,0,1,0,0,1,Cross-green-focus only
+lhyfe (par: lhyfe),2,1,0,0,0,0,1,Cross-geography only
+cellx,3,1,1,0,0,1,3,Cross-geography + type
+titan bioplastics,2,0,1,0,1,1,3,Multiple dimensions (3+)
+daylight energy,2,0,1,0,1,0,2,Multiple dimensions (3+)
+ducky,4,1,1,0,0,0,2,Cross-geography + type
+sustain.life,4,1,1,0,0,0,2,Cross-geography + type
+hydrogen mem-tech,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+fable (food products),3,1,1,0,0,1,3,Cross-geography + type
+muon space,3,0,1,0,1,0,2,Multiple dimensions (3+)
+kyomei (cultivation),2,0,0,0,0,1,1,Cross-sector only
+scope zero,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+upway,5,1,1,1,0,0,3,Cross-geography + type
+foundation alloy,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+wildfire energy,2,1,1,0,0,1,3,Cross-geography + type
+minimum,6,1,1,1,0,1,4,Cross-geography + type
+photon marine,4,1,1,0,1,0,3,Cross-geography + type
+protenga,2,0,1,0,0,1,2,Multiple dimensions (3+)
+rheaply,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+enteligent,2,1,0,0,0,0,1,Cross-geography only
+bedrock energy,3,0,1,1,0,0,2,Cross-type + green-focus
+aurora hydrogen,4,0,1,0,0,1,2,Multiple dimensions (3+)
+phoenix hydrogen,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+flexcharging,2,0,1,0,0,0,1,Cross-type only
+birch biosciences,3,0,1,0,1,1,3,Multiple dimensions (3+)
+carbon counts,4,1,1,0,0,0,2,Cross-geography + type
+solar panda,2,1,0,0,0,0,1,Cross-geography only
+vammo,3,1,1,1,0,1,4,Cross-geography + type
+perfekto,2,0,1,1,0,0,2,Cross-type + green-focus
+energy solar tech (mad: etc),2,1,0,0,0,0,1,Cross-geography only
+thorizon,2,0,1,1,0,0,2,Cross-type + green-focus
+tandem repeat,2,0,0,0,0,1,1,Cross-sector only
+corepower magnetics,2,0,1,0,0,0,1,Cross-type only
+transitry,2,1,1,0,0,1,3,Cross-geography + type
+bezero carbon,4,1,1,1,0,0,3,Cross-geography + type
+carbon direct,3,1,1,0,0,0,2,Cross-geography + type
+alcove (business/productivity software),2,1,1,1,0,0,3,Cross-geography + type
+alt mobility,2,1,1,0,0,1,3,Cross-geography + type
+intramotev,2,0,0,0,0,1,1,Cross-sector only
+xwatts,2,1,0,0,0,0,1,Cross-geography only
+nitrofix,3,1,1,0,0,1,3,Cross-geography + type
+detrapel,2,1,1,0,0,1,3,Cross-geography + type
+phlair,2,0,1,0,1,0,2,Multiple dimensions (3+)
+ordinary seafood,3,1,1,0,0,0,2,Cross-geography + type
+cuby technologies,3,1,1,0,0,0,2,Cross-geography + type
+grounded (beverages),4,1,1,1,0,1,4,Cross-geography + type
+farmless,4,1,1,0,0,1,3,Cross-geography + type
+dalinea,2,0,1,0,0,0,1,Cross-type only
+onima,3,1,1,0,0,1,3,Cross-geography + type
+renewell energy,3,1,1,0,0,1,3,Cross-geography + type
+veloz bio,2,0,0,0,0,1,1,Cross-sector only
+carbon title,3,1,1,0,0,0,2,Cross-geography + type
+futr.,6,1,1,1,0,0,3,Cross-geography + type
+prot,2,1,0,1,0,1,3,Cross-geography + green
+productive machines,4,1,1,0,0,0,2,Cross-geography + type
+solestial,4,1,1,1,0,0,3,Cross-geography + type
+farizon,2,1,1,0,0,0,2,Cross-geography + type
+onomotion,5,1,1,0,0,1,3,Cross-geography + type
+clarasight,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+pathwater,2,1,1,1,0,0,3,Cross-geography + type
+equii,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+verse,3,0,1,1,0,0,2,Cross-type + green-focus
+earth force,4,1,1,0,0,1,3,Cross-geography + type
+make sunsets,2,0,0,0,0,1,1,Cross-sector only
+skoon energy,3,1,1,0,0,0,2,Cross-geography + type
+co280,2,0,1,0,0,0,1,Cross-type only
+weavegrid,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+flintpro,3,1,1,0,0,0,2,Cross-geography + type
+terran robotics,2,0,0,0,0,1,1,Cross-sector only
+aidash,3,1,1,1,0,0,3,Cross-geography + type
+cylib,3,0,1,1,0,0,2,Cross-type + green-focus
+liberation bioindustries,2,0,0,0,0,1,1,Cross-sector only
+esper satellite imagery,4,1,1,0,0,0,2,Cross-geography + type
+wa+ts,3,0,1,0,1,0,2,Multiple dimensions (3+)
+asuene,2,1,1,0,0,0,2,Cross-geography + type
+aether fuels,2,0,0,1,0,0,1,Cross-green-focus only
+othersphere,3,0,1,0,0,0,1,Cross-type only
+interearth,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+phabuilder,2,1,0,0,0,0,1,Cross-geography only
+rho impact,2,0,1,0,0,0,1,Cross-type only
+einride (nas: enrdw),4,1,1,1,0,1,4,Cross-geography + type
+vow,5,1,1,1,0,1,4,Cross-geography + type
+better packaging,4,1,1,0,0,1,3,Cross-geography + type
+wattcarbon,2,0,0,0,0,1,1,Cross-sector only
+loom solar,2,1,0,0,0,0,1,Cross-geography only
+kafresh,2,1,0,0,0,0,1,Cross-geography only
+blakbear,4,1,1,0,0,1,3,Cross-geography + type
+charm industrial,6,1,1,1,0,1,4,Cross-geography + type
+earthodic,3,1,1,0,0,1,3,Cross-geography + type
+inplanet,4,1,1,0,0,1,3,Cross-geography + type
+ostrom,3,1,1,0,0,0,2,Cross-geography + type
+eion,3,0,0,0,0,1,1,Cross-sector only
+captura,5,1,1,0,0,1,3,Cross-geography + type
+hsl technologies,4,1,1,0,0,1,3,Cross-geography + type
+geopura,2,1,1,0,0,0,2,Cross-geography + type
+reblade,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+kubik,3,1,1,0,0,1,3,Cross-geography + type
+vflow tech,2,1,1,0,0,1,3,Cross-geography + type
+acx (financial software),4,1,1,1,1,1,5,Cross-geography + type
+sightline climate,4,1,1,0,0,1,3,Cross-geography + type
+sopht,2,1,1,0,0,1,3,Cross-geography + type
+air,3,0,0,1,0,1,2,Multiple dimensions (3+)
+tangible (business/productivity software),3,1,1,0,0,1,3,Cross-geography + type
+plan a (business/productivity software),3,0,1,1,0,0,2,Cross-type + green-focus
+boreal bioproducts,2,1,1,0,0,1,3,Cross-geography + type
+troes,3,1,1,0,0,0,2,Cross-geography + type
+photon vault,3,1,1,0,0,0,2,Cross-geography + type
+mantaray,2,1,1,1,0,0,3,Cross-geography + type
+vapaus bikes finland,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+aquarry,3,0,1,0,0,0,1,Cross-type only
+atmio,2,0,1,1,0,0,2,Cross-type + green-focus
+betterchoice,2,1,0,0,0,0,1,Cross-geography only
+perceptual robotics (uk),2,1,1,1,0,0,3,Cross-geography + type
+cleanhub,4,1,1,1,0,0,3,Cross-geography + type
+hohm energy,4,1,1,0,0,1,3,Cross-geography + type
+pivotal,3,1,1,1,0,0,3,Cross-geography + type
+metafuels,2,1,1,0,0,0,2,Cross-geography + type
+pure blue tech,2,0,1,0,0,1,2,Multiple dimensions (3+)
+swobbee,3,0,0,0,0,0,0,Same on all dimensions (homophily)
+boxpower,5,1,1,1,1,0,4,Cross-geography + type
+carbongraph,2,1,0,0,0,0,1,Cross-geography only
+calcarea,2,1,1,0,0,0,2,Cross-geography + type
+capture6,2,1,0,1,0,0,2,Cross-geography + green
+orange (electrical equipment),2,0,0,0,0,0,0,Same on all dimensions (homophily)
+bosso,2,1,1,1,0,0,3,Cross-geography + type
+olyns,2,0,0,0,0,1,1,Cross-sector only
+insectta,2,1,1,0,0,1,3,Cross-geography + type
+new school foods,4,1,1,0,0,1,3,Cross-geography + type
+mojave energy systems,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+evari (energy services),2,1,1,0,0,0,2,Cross-geography + type
+greenworkx,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+element3,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+zeroboard,2,1,1,0,0,0,2,Cross-geography + type
+carbon maps,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+green-got,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+pluton biosciences,3,0,1,1,0,1,3,Cross-type + green-focus
+friendlier,2,1,1,1,0,0,3,Cross-geography + type
+ambient fuels,3,1,1,1,0,0,3,Cross-geography + type
+soren hydrogen,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+rewind (environmental services),2,0,0,0,0,0,0,Same on all dimensions (homophily)
+ever.green,3,1,1,0,0,0,2,Cross-geography + type
+trawa,3,1,1,1,0,1,4,Cross-geography + type
+adaptis,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+treatech,3,1,1,0,0,0,2,Cross-geography + type
+greenlyte,3,1,1,0,0,1,3,Cross-geography + type
+dmat,3,0,0,0,0,1,1,Cross-sector only
+nearstar fusion,2,0,0,0,1,0,1,Cross-stage only
+chargezone,2,1,1,0,0,0,2,Cross-geography + type
+ht materials science,2,1,1,0,0,0,2,Cross-geography + type
+novali,2,1,1,0,0,1,3,Cross-geography + type
+dispersa,2,0,1,0,0,1,2,Multiple dimensions (3+)
+tvarit,2,1,1,0,0,0,2,Cross-geography + type
+airmo,4,1,1,1,0,0,3,Cross-geography + type
+climate vault,4,1,1,1,0,0,3,Cross-geography + type
+tanbark,2,0,1,1,0,1,3,Cross-type + green-focus
+claros farm,2,1,1,0,0,0,2,Cross-geography + type
+monalee,2,0,0,0,0,1,1,Cross-sector only
+ruuf (information services),4,1,1,1,0,0,3,Cross-geography + type
+neptune nanotechnologies,3,1,1,0,0,1,3,Cross-geography + type
+noya (environmental services),4,1,1,1,0,1,4,Cross-geography + type
+cyclic materials,2,0,1,0,0,0,1,Cross-type only
+enshift,3,1,1,0,0,0,2,Cross-geography + type
+abillion,2,1,1,0,0,1,3,Cross-geography + type
+rable,2,0,1,1,0,0,2,Cross-type + green-focus
+frontline wildfire defense,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+bound4blue,3,1,1,0,0,1,3,Cross-geography + type
+caravel bio,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+renewable metals,4,1,1,0,0,0,2,Cross-geography + type
+new sun road,3,0,1,0,0,0,1,Cross-type only
+re-fresh global,2,1,1,0,0,1,3,Cross-geography + type
+vateris,3,1,1,0,0,1,3,Cross-geography + type
+treehouse (commercial services),2,0,1,0,1,0,2,Multiple dimensions (3+)
+loewi,3,1,0,0,0,0,1,Cross-geography only
+via biofuels,3,1,1,0,0,1,3,Cross-geography + type
+fermelanta,2,1,1,0,0,1,3,Cross-geography + type
+granular energy,5,1,1,1,0,0,3,Cross-geography + type
+c16 biosciences,4,0,1,0,0,1,2,Multiple dimensions (3+)
+pretred,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+lyten,2,1,1,0,0,0,2,Cross-geography + type
+carbonade,4,1,1,0,0,1,3,Cross-geography + type
+parcel health,2,0,1,0,0,0,1,Cross-type only
+oceanwings,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+cyanocapture,3,1,1,0,0,0,2,Cross-geography + type
+pow.bio,5,1,1,0,0,1,3,Cross-geography + type
+glacier,3,0,1,0,0,0,1,Cross-type only
+hyfé,4,0,1,0,0,1,2,Multiple dimensions (3+)
+seasony,2,1,1,0,0,0,2,Cross-geography + type
+inicio,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+kuva space,2,1,1,0,0,0,2,Cross-geography + type
+supercritical (environmental services (b2b)),3,1,1,1,0,0,3,Cross-geography + type
+cool planet technologies,5,1,1,1,0,1,4,Cross-geography + type
+treefera,2,1,1,0,0,0,2,Cross-geography + type
+mitra chem,5,1,1,1,1,0,4,Cross-geography + type
+infravision,4,1,1,1,0,0,3,Cross-geography + type
+fertighy,2,1,1,0,0,0,2,Cross-geography + type
+florrent,4,0,1,0,0,1,2,Multiple dimensions (3+)
+blykalla,4,1,1,0,0,0,2,Cross-geography + type
+proxima fusion,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+peelon,4,1,1,0,0,1,3,Cross-geography + type
+sustaera,2,0,1,0,1,0,2,Multiple dimensions (3+)
+beltways,3,0,1,0,0,0,1,Cross-type only
+electric era,3,0,0,0,0,1,1,Cross-sector only
+transition metal solutions,4,1,1,0,0,1,3,Cross-geography + type
+sirona technologies,3,1,0,0,0,0,1,Cross-geography only
+ecolocked,4,1,1,0,0,0,2,Cross-geography + type
+paptic,4,1,1,1,0,1,4,Cross-geography + type
+plotlogic,4,1,1,0,1,1,4,Cross-geography + type
+sphere (asset management),2,1,0,0,1,0,2,Cross-geography + stage
+blue current,2,0,1,0,0,0,1,Cross-type only
+carbon upcycling,4,0,1,0,0,1,2,Multiple dimensions (3+)
+inlyte energy,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+tiger new energy,3,1,1,0,0,1,3,Cross-geography + type
+nukoko,3,1,1,0,0,1,3,Cross-geography + type
+thea energy,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+talus,2,0,0,0,0,1,1,Cross-sector only
+valis,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+adsorbi,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+gentian,5,1,1,1,0,1,4,Cross-geography + type
+ch4 global,2,0,0,0,0,1,1,Cross-sector only
+novatron fusion group,2,0,1,1,0,0,2,Cross-type + green-focus
+monumental (hardware),4,1,1,1,1,0,4,Cross-geography + type
+relocalize,2,0,1,0,0,1,2,Multiple dimensions (3+)
+magnus metal,3,0,0,1,0,1,2,Multiple dimensions (3+)
+erth,2,1,1,0,0,1,3,Cross-geography + type
+elyos energy,4,1,1,1,0,0,3,Cross-geography + type
+h55,3,1,1,1,0,0,3,Cross-geography + type
+faction (automotive),4,1,1,0,1,0,3,Cross-geography + type
+erthos (containers and packaging),5,1,1,0,0,1,3,Cross-geography + type
+circadian technologies,4,1,1,0,0,0,2,Cross-geography + type
+proteindistillery,2,1,1,0,0,1,3,Cross-geography + type
+aetech,2,1,0,1,0,0,2,Cross-geography + green
+planboo,3,1,0,0,0,0,1,Cross-geography only
+eden brew,2,1,1,0,0,1,3,Cross-geography + type
+eologix-ping,2,1,1,0,0,1,3,Cross-geography + type
+zeno (automotive),3,0,1,0,0,0,1,Cross-type only
+plant (environmental services),2,0,1,1,0,0,2,Cross-type + green-focus
+roam ( automotive),2,1,1,0,0,0,2,Cross-geography + type
+cnaught,3,1,1,1,0,0,3,Cross-geography + type
+carbonrun,2,0,1,0,0,0,1,Cross-type only
+freyr energy,3,1,1,0,0,0,2,Cross-geography + type
+nala earth,4,1,1,1,0,0,3,Cross-geography + type
+intrinsic power,4,1,1,0,0,1,3,Cross-geography + type
+aira,4,1,1,0,0,0,2,Cross-geography + type
+farminsect,2,0,1,1,0,0,2,Cross-type + green-focus
+avnos (us),3,0,0,0,0,1,1,Cross-sector only
+banyu carbon,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+carbon reform,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+dunya analytics,3,1,0,0,0,0,1,Cross-geography only
+oka,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+vizcab,6,1,1,0,1,1,4,Cross-geography + type
+rubi laboratories,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+mitico,4,1,1,0,0,1,3,Cross-geography + type
+hutanbio,2,1,1,0,0,0,2,Cross-geography + type
+plugop,2,1,1,0,0,0,2,Cross-geography + type
+carboncapture,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+parallel carbon,6,1,1,0,0,0,2,Cross-geography + type
+quilt,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+solhyd,2,1,0,0,0,0,1,Cross-geography only
+ammobia,5,1,1,0,0,1,3,Cross-geography + type
+green eagle solutions,3,1,1,1,0,0,3,Cross-geography + type
+martie,4,1,1,1,0,0,3,Cross-geography + type
+vulcan elements,2,1,1,1,0,1,4,Cross-geography + type
+monta,3,1,1,1,0,0,3,Cross-geography + type
+alithic,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+wesmart,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+gridcog,2,1,0,0,0,0,1,Cross-geography only
+gradyent,3,1,1,1,0,0,3,Cross-geography + type
+bandora,2,0,1,0,0,1,2,Multiple dimensions (3+)
+remind (environmental services (b2b)),2,1,0,0,0,0,1,Cross-geography only
+octavia carbon,4,1,1,0,0,0,2,Cross-geography + type
+stepchange,3,1,1,1,0,0,3,Cross-geography + type
+ceezer,3,1,1,1,0,0,3,Cross-geography + type
+relement,2,1,0,0,0,0,1,Cross-geography only
+fibe (plant textiles),4,1,1,0,0,0,2,Cross-geography + type
+planet fwd,3,1,1,0,0,0,2,Cross-geography + type
+mineral forecast,3,0,1,0,0,0,1,Cross-type only
+terra bioindustries,2,0,0,0,0,1,1,Cross-sector only
+found energy,4,0,0,1,0,1,2,Multiple dimensions (3+)
+deep planet,4,1,0,0,0,0,1,Cross-geography only
+acceleron fusion,2,1,1,0,0,0,2,Cross-geography + type
+fortera,3,0,1,1,0,0,2,Cross-type + green-focus
+carbonbuilt,4,1,1,1,0,0,3,Cross-geography + type
+modern synthesis,2,1,1,0,0,0,2,Cross-geography + type
+ponda,3,1,1,0,0,0,2,Cross-geography + type
+mitiga solutions,4,1,1,1,0,0,3,Cross-geography + type
+sention technologies,6,1,1,0,0,1,3,Cross-geography + type
+arnergy,3,1,1,0,0,0,2,Cross-geography + type
+nextron energia,3,0,1,0,0,1,2,Multiple dimensions (3+)
+tomorrow farms,2,0,0,0,0,1,1,Cross-sector only
+ecosafi,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+resource monitor,2,0,1,0,0,0,1,Cross-type only
+galy,3,1,1,0,0,1,3,Cross-geography + type
+axle energy,3,1,1,1,0,0,3,Cross-geography + type
+hytzer,2,1,1,0,0,0,2,Cross-geography + type
+carbonova,2,1,1,1,0,0,3,Cross-geography + type
+1komma5,4,1,1,1,0,0,3,Cross-geography + type
+carbonaught,2,0,0,0,0,1,1,Cross-sector only
+reefgen,2,1,1,0,0,0,2,Cross-geography + type
+dryad,2,1,0,0,0,0,1,Cross-geography only
+orus energy,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+torus (energy storage),2,0,1,0,1,0,2,Multiple dimensions (3+)
+elephant energy,3,1,1,0,1,0,3,Cross-geography + type
+rootrix,3,1,0,1,0,0,2,Cross-geography + green
+solarock,3,1,1,0,0,0,2,Cross-geography + type
+la vie,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+nobody engineering,3,0,1,1,0,0,2,Cross-type + green-focus
+drift energy,2,0,1,1,0,0,2,Cross-type + green-focus
+adamo foods,3,1,1,0,0,1,3,Cross-geography + type
+swtch,3,0,1,0,0,0,1,Cross-type only
+canopus (energy services),2,1,1,0,0,0,2,Cross-geography + type
+low carbon materials,3,0,0,0,0,0,0,Same on all dimensions (homophily)
+networkocean,2,0,1,1,0,0,2,Cross-type + green-focus
+samara energy,5,1,1,1,0,1,4,Cross-geography + type
+li industries,2,1,1,0,0,0,2,Cross-geography + type
+utility global,3,1,1,1,0,0,3,Cross-geography + type
+in bold print,2,0,1,0,0,0,1,Cross-type only
+gigacrop,2,0,0,0,0,1,1,Cross-sector only
+airloom (alternative energy equipment),2,0,0,0,0,0,0,Same on all dimensions (homophily)
+cocoon (raw materials),2,0,0,0,0,1,1,Cross-sector only
+tem (business/productivity software),4,0,1,1,0,0,2,Cross-type + green-focus
+crew carbon,4,1,1,0,0,0,2,Cross-geography + type
+deutsche sanierungsberatung,4,1,1,1,0,1,4,Cross-geography + type
+zerofy,3,1,0,0,1,0,2,Cross-geography + stage
+equinox ocean turbines,3,1,0,0,0,0,1,Cross-geography only
+neustark,4,1,1,1,1,0,4,Cross-geography + type
+textilere,2,1,1,1,0,0,3,Cross-geography + type
+statiq (automotive),3,1,1,0,0,0,2,Cross-geography + type
+reverion,5,1,1,0,1,1,4,Cross-geography + type
+okapi technologies,2,1,1,0,1,1,4,Cross-geography + type
+edacious,3,0,0,0,0,1,1,Cross-sector only
+rightcharge,2,1,1,0,0,0,2,Cross-geography + type
+nordic seafarm,2,1,1,0,0,1,3,Cross-geography + type
+concentro,2,0,0,0,0,1,1,Cross-sector only
+44.01,5,1,1,0,0,0,2,Cross-geography + type
+carbon ridge,5,1,1,0,0,1,3,Cross-geography + type
+helix earth,3,1,1,0,1,0,3,Cross-geography + type
+ucaneo,4,1,1,0,0,1,3,Cross-geography + type
+aalo,4,1,1,1,0,1,4,Cross-geography + type
+evident battery,4,0,1,0,1,1,3,Multiple dimensions (3+)
+seadling,3,1,1,0,0,1,3,Cross-geography + type
+encode energy,2,1,1,0,0,1,3,Cross-geography + type
+kazam,2,1,0,0,0,0,1,Cross-geography only
+power to hydrogen,6,1,1,1,0,1,4,Cross-geography + type
+ze energy (energy production),2,0,0,0,0,0,0,Same on all dimensions (homophily)
+type one energy,4,1,1,0,0,1,3,Cross-geography + type
+terraform industries,2,1,1,1,0,0,3,Cross-geography + type
+terra oleo,4,1,1,1,1,1,5,Cross-geography + type
+open access energy,2,1,1,0,0,0,2,Cross-geography + type
+terradot,4,1,1,1,0,1,4,Cross-geography + type
+everest carbon,4,1,1,0,0,0,2,Cross-geography + type
+electric outdoors,2,0,1,0,1,0,2,Multiple dimensions (3+)
+elyse energy,3,0,0,0,0,0,0,Same on all dimensions (homophily)
+meala,2,0,0,0,0,1,1,Cross-sector only
+skye energy,2,1,1,1,0,0,3,Cross-geography + type
+odos,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+neutreeno,4,1,1,1,1,0,4,Cross-geography + type
+gardin,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+conry tech,4,1,1,1,0,1,4,Cross-geography + type
+safire technology group,6,1,1,1,1,0,4,Cross-geography + type
+macro oceans,2,1,0,1,0,0,2,Cross-geography + green
+vaulted deep,3,0,0,0,0,1,1,Cross-sector only
+queens carbon,3,0,1,0,0,1,2,Multiple dimensions (3+)
+carbon neutral fuels,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+myland,2,1,1,0,0,1,3,Cross-geography + type
+nanoplume,3,0,1,0,0,1,2,Multiple dimensions (3+)
+phnxx,3,1,1,0,0,1,3,Cross-geography + type
+phoenix tailings,8,1,1,1,0,1,4,Cross-geography + type
+moon (alternative energy equipment),2,1,0,0,0,0,1,Cross-geography only
+electralith,4,1,1,0,0,1,3,Cross-geography + type
+ecospirits,4,1,1,0,0,1,3,Cross-geography + type
+nortech ai,2,0,1,1,0,0,2,Cross-type + green-focus
+exowatt,3,1,1,1,0,0,3,Cross-geography + type
+heirloom,4,1,1,1,0,0,3,Cross-geography + type
+nilo (environmental services),2,1,0,0,0,0,1,Cross-geography only
+dayone,4,1,1,1,0,1,4,Cross-geography + type
+voltiris,2,1,1,0,0,1,3,Cross-geography + type
+faura,4,1,1,0,0,0,2,Cross-geography + type
+standard nuclear (nys: stdn),3,1,1,1,0,1,4,Cross-geography + type
+inevitable technology,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+evoralis,4,0,0,0,0,0,0,Same on all dimensions (homophily)
+verretex,2,1,1,0,0,0,2,Cross-geography + type
+rarearth,4,1,1,1,0,0,3,Cross-geography + type
+kind designs,4,1,1,1,0,1,4,Cross-geography + type
+commonwealth fusion systems,4,1,1,0,0,1,3,Cross-geography + type
+base power,2,1,1,1,0,1,4,Cross-geography + type
+rara factory,2,1,1,0,0,1,3,Cross-geography + type
+ecoligo,2,1,0,0,0,0,1,Cross-geography only
+opensolar,2,1,1,0,0,0,2,Cross-geography + type
+terra co2,4,1,1,0,0,1,3,Cross-geography + type
+kynda,4,1,1,0,0,1,3,Cross-geography + type
+sigenergy (hkg: 06656),3,1,1,0,0,0,2,Cross-geography + type
+cellx biosolutions,2,0,1,1,0,0,2,Cross-type + green-focus
+ferveret,5,1,1,1,1,1,5,Cross-geography + type
+marvel fusion,4,1,1,1,0,0,3,Cross-geography + type
+nowos,3,1,1,0,0,1,3,Cross-geography + type
+steady energy,4,1,1,0,0,0,2,Cross-geography + type
+sk signet (krx: 260870),2,1,1,0,0,0,2,Cross-geography + type
+alt carbon,2,1,1,1,0,0,3,Cross-geography + type
+wattch,2,1,1,0,0,0,2,Cross-geography + type
+bloom biorenewables,3,1,1,0,0,1,3,Cross-geography + type
+heron power,2,1,1,1,0,0,3,Cross-geography + type
+rhizome,3,0,1,0,0,0,1,Cross-type only
+lithios,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+netzeronitrogen,3,1,1,0,0,0,2,Cross-geography + type
+realta fusion,2,0,0,1,0,0,1,Cross-green-focus only
+strataphy,2,1,0,0,0,0,1,Cross-geography only
+eventual (financial software),3,1,1,1,0,0,3,Cross-geography + type
+suyana,2,0,0,0,0,1,1,Cross-sector only
+cala systems,4,1,1,0,0,1,3,Cross-geography + type
+maximum information,3,1,1,1,0,0,3,Cross-geography + type
+termina (energy services),2,1,1,0,0,0,2,Cross-geography + type
+carbogenics,2,1,1,0,0,0,2,Cross-geography + type
+station a,4,1,1,0,0,0,2,Cross-geography + type
+enrise (alternative energy equipment),2,0,0,0,0,0,0,Same on all dimensions (homophily)
+voltrac,4,1,1,0,0,1,3,Cross-geography + type
+lookup,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+euclid power,5,1,1,1,0,0,3,Cross-geography + type
+solshare,4,1,1,0,0,1,3,Cross-geography + type
+genomines,5,1,1,0,0,1,3,Cross-geography + type
+super powers mobility,3,0,1,0,0,0,1,Cross-type only
+miresso,2,1,1,0,0,0,2,Cross-geography + type
+apeiron labs,2,1,1,1,0,1,4,Cross-geography + type
+dig energy,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+alphageo,4,1,1,0,1,1,4,Cross-geography + type
+curbwaste,3,1,1,1,0,0,3,Cross-geography + type
+vycarb,5,1,1,0,0,1,3,Cross-geography + type
+terawatt technology,3,1,1,0,0,0,2,Cross-geography + type
+cur8,2,1,1,0,0,0,2,Cross-geography + type
+cosmoserve space,2,0,1,1,0,0,2,Cross-type + green-focus
+wavr technologies,2,0,1,0,0,0,1,Cross-type only
+kestrel,3,1,1,0,0,0,2,Cross-geography + type
+janta power,4,0,1,0,0,1,2,Multiple dimensions (3+)
+terra ai,3,0,0,0,0,1,1,Cross-sector only
+arbor energy,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+solfium,3,0,1,0,1,1,3,Multiple dimensions (3+)
+exergy3,4,1,1,0,0,0,2,Cross-geography + type
+ecotone renewables,3,0,1,0,0,0,1,Cross-type only
+radify metals,4,1,1,1,0,0,3,Cross-geography + type
+eldo,2,1,1,0,0,0,2,Cross-geography + type
+addis energy,2,0,0,0,0,1,1,Cross-sector only
+voya energy,3,1,1,1,0,0,3,Cross-geography + type
+carbonyx,2,1,1,0,0,0,2,Cross-geography + type
+fuse energy,3,1,1,1,0,0,3,Cross-geography + type
+ph7 technologies,6,1,1,0,0,1,3,Cross-geography + type
+coral (business/productivity software),3,0,1,0,1,0,2,Multiple dimensions (3+)
+maia farms,3,0,1,0,0,1,2,Multiple dimensions (3+)
+infiniti recycling,2,0,0,0,0,0,0,Same on all dimensions (homophily)
+exponent energy,4,1,1,1,0,0,3,Cross-geography + type
+terragrit,4,1,1,0,0,1,3,Cross-geography + type
+alkemio,2,0,0,0,0,1,1,Cross-sector only
+cowboy space,3,1,1,1,0,0,3,Cross-geography + type
+encosa,2,1,0,0,1,0,2,Cross-geography + stage

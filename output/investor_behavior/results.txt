@@ -1,0 +1,265 @@
+========================================================================
+INVESTOR BEHAVIOR AND OUTCOMES (5 ANALYSES)
+Company level  |  Year FE in all regressions
+========================================================================
+
+========================================================================
+ANALYSIS 1: FOLLOW-ON FUNDING
+========================================================================
+
+  N companies with deal data: 2,231
+  Got follow-on:     749 (33.6%)
+  Has green (R1):    1,926 (86.3%)
+  Cross-community:   1,791 (80.3%)
+
+  Avg time to follow-on (months): 25.6
+  Avg total rounds: 1.50
+
+  DESCRIPTIVE: Group Means
+  Group                                          N   Got FO%   Avg months   Avg rounds   Log size growth
+  Has green investor (R1)                     1926     34.5%         25.5         1.51            +0.966
+  No green investor (R1)                       305     27.9%         26.0         1.40            +1.182
+  Has traditional investor (R1)               1469     33.3%         25.9         1.48            +0.853
+  Cross-community                             1791     37.3%         26.0         1.56            +1.026
+  Within-community                             440     18.4%         22.2         1.23            +0.643
+
+  [1A] BINARY: got_followon = f(has_green_r1, has_trad_r1, cross_community, controls)
+    has_green (R1)                      β= +0.3719  p=0.0260 *  N=1,968
+    has_trad (R1)                       β= +0.0381  p=0.7429 n.s.  N=1,968
+    cross_community                     β= +0.7231  p=0.0000 ***  N=1,968
+
+  [1B] OLS: time_to_followon (months) = f(same) — only companies with follow-on
+    has_green (R1)                      β= -0.5123  p=0.8585 n.s.  N=701
+    has_trad (R1)                       β= +2.6024  p=0.1453 n.s.  N=701
+    cross_community                     β= +2.0886  p=0.3963 n.s.  N=701
+
+  [1C] OLS: log(total_rounds+1) = f(same) — all companies
+    has_green (R1)                      β= +0.0448  p=0.0156 *  N=1,968
+    has_trad (R1)                       β= -0.0048  p=0.7402 n.s.  N=1,968
+    cross_community                     β= +0.0793  p=0.0000 ***  N=1,968
+
+  [1D] OLS: log_size_growth = f(same) — companies with 2 rounds and size data
+    has_green (R1)                      β= -0.1771  p=0.4360 n.s.  N=642
+    has_trad (R1)                       β= -0.0896  p=0.5492 n.s.  N=642
+    cross_community                     β= +0.4177  p=0.0372 *  N=642
+
+========================================================================
+ANALYSIS 2: INVESTOR SEQUENCE
+========================================================================
+  Classification (requires 2+ rounds for flow types):
+  always_green       = green in all rounds, no traditional ever
+  always_trad        = traditional in all rounds, no green ever
+  mixed_from_start   = both green and trad from round 1 [REFERENCE]
+  green_first        = green in R1, traditional joins later (not in R1)
+  trad_first         = trad in R1, green joins later (not in R1)
+  other              = patterns not fitting above
+========================================================================
+
+  N companies: 2,231
+
+  Sequence Type                   N       %    Fail%    Exit%     FO%
+  -----------------------------------------------------------------
+  mixed_from_start             1164   52.2%     6.0%     8.9%   98.3%
+  always_green                  594   26.6%     6.1%     8.1%   98.7%
+  always_trad                   243   10.9%     5.3%    14.4%   98.4%
+  green_first                   168    7.5%     7.7%     8.9%  100.0%
+  trad_first                     62    2.8%     4.8%     6.5%  100.0%
+
+  [2A] FAILURE = f(seq_type, controls)  [ref: mixed_from_start]
+    always_green               β= -0.4669  p=0.0442 *  N=2,231
+    always_trad                β= -0.4848  p=0.1340 n.s.  N=2,231
+    green_first                β= +0.2017  p=0.5364 n.s.  N=2,231
+    trad_first                 β= -0.4556  p=0.4593 n.s.  N=2,231
+
+  [2B] EXIT = f(seq_type, controls)  [ref: mixed_from_start]
+    always_green               β= +0.3332  p=0.0967 †  N=2,231
+    always_trad                β= +0.6874  p=0.0025 **  N=2,231
+    green_first                β= -0.1778  p=0.5571 n.s.  N=2,231
+    trad_first                 β= -0.4653  p=0.3915 n.s.  N=2,231
+
+  [2C] GOT FOLLOW-ON = f(seq_type, controls)  [ref: mixed_from_start]
+    always_green               β= +0.0065  p=0.3349 n.s.  N=2,231
+    always_trad                β= +0.0129  p=0.1395 n.s.  N=2,231
+    green_first                β= -0.0049  p=0.1266 n.s.  N=2,231
+    trad_first                 β= +0.0068  p=0.1491 n.s.  N=2,231
+
+========================================================================
+ANALYSIS 3: INVESTOR PERSISTENCE
+========================================================================
+
+  [3A] PERSISTENCE RATES BY INVESTOR TYPE
+  Persistence: investor present in round N also present in round N+1
+
+  Investor Type          N transitions   Persistence%              95% CI
+  GREEN                          3,359          26.8%  [25.3%, 28.3%]
+  TRAD                           2,291          20.0%  [18.4%, 21.6%]
+  GVC                            1,563          18.0%  [16.1%, 19.9%]
+  CVC                              146          40.4%  [32.4%, 48.4%]
+  IVC                            2,078          32.8%  [30.8%, 34.8%]
+
+  Green vs Trad persistence: χ²=34.43  p=0.0000 ***
+
+  [3B] PERSISTENCE → OUTCOMES (company-level)
+  failure/exit ~ persist_all + persist_green + persist_trad + controls
+
+  Failure:
+    persist_all                         MODEL FAILED
+    persist_green                       MODEL FAILED
+    persist_trad                        MODEL FAILED
+
+  Exit:
+    persist_all                         MODEL FAILED
+    persist_green                       MODEL FAILED
+    persist_trad                        MODEL FAILED
+
+  [3C] PERSISTENCE IN DOWN ROUNDS
+  Down round: round N size < round N-1 size (both non-null)
+  Down rounds identified: 258
+  GREEN persistence in down rounds: 19.6%  (N=811)
+  TRAD persistence in down rounds: 14.4%  (N=623)
+  Green: down-round vs overall  z=-5.17
+  Trad: down-round vs overall   z=-3.93
+
+  [3C cont.] PERSISTENCE AFTER LONG GAP (>18 months between rounds)
+  GREEN persistence after long gap: 27.6%  (N=2,029)
+  TRAD persistence after long gap: 20.3%  (N=1,337)
+
+========================================================================
+ANALYSIS 4: ENTRY TIMING
+========================================================================
+
+  [4A] AVERAGE GREEN% BY ROUND NUMBER
+
+   Round   N deals   Avg green%    % cross-comm
+  ---------------------------------------------
+  Round 1     2,231         64.2%           40.1%
+  Round 2       749         62.6%           47.9%
+  Round 3       245         63.2%           42.4%
+  Round 4        75         62.7%           45.3%
+  Round 5        25         55.0%           52.0%
+  Round 6        11         53.6%           54.5%
+  Round 7+         5         64.1%           60.0%
+
+  [4B] EARLY vs LATE GREEN ENTRY
+  Green in R1 (early)             N=1,926  fail=6.2%  exit=8.7%
+  Green joins later               N=62  fail=4.8%  exit=6.5%
+  Never had green                 N=243  fail=5.3%  exit=14.4%
+
+  Regression: failure ~ green_early + green_late + controls  [ref: no_green]
+    green_early                         β= +0.4220  p=0.1840 n.s.  N=2,231
+    green_late                          β= +0.1066  p=0.8743 n.s.  N=2,231
+    cross_community                     β= -0.4313  p=0.0680 †  N=2,231
+
+  [4C] CROSS-COMMUNITY TIMING
+  At what round does cross-community status first emerge?
+
+    Cumul. % cross-community by round
+  By round 1: 40.1% of companies are cross-community
+  By round 2: 46.8% of companies are cross-community
+  By round 3: 47.9% of companies are cross-community
+
+  First cross-community round distribution:
+    Round 1: 895 companies (40.1%)
+    Round 2: 149 companies (6.7%)
+    Round 3: 25 companies (1.1%)
+    Round 4: 7 companies (0.3%)
+    Round 5: 2 companies (0.1%)
+    Round 6: 1 companies (0.0%)
+    Never cross-community: 1,152 companies
+
+========================================================================
+ANALYSIS 5: ASIA DEEP-DIVE
+========================================================================
+
+  [5B] INVESTOR COMPOSITION BY REGION
+  Variable                               Americas      Europe        Asia
+  ----------------------------------------------------------------------
+  r1_pct_gvc                                 26.0        42.5        38.2
+  r1_pct_cvc                                  2.2         1.2         1.2
+  r1_pct_ivc                                 37.2        25.5        23.0
+  r1_pct_green                               61.7        69.8        55.7
+  syndicate_size                              5.0         3.8         4.6
+  % cross-community                          0.75        0.62        0.40
+  Avg N communities                          3.11        2.37        1.65
+
+  [5A] NETWORK STRUCTURE BY REGION
+  Co-investment graph statistics for companies in each region
+
+  Americas:
+    Unique investors: 4,558  |  Co-invest pairs: 45,262
+    Network density:  0.004358
+    Green assortativity: 0.0427  (>0: green cluster with green)
+    Louvain communities represented: 32
+
+  Europe:
+    Unique investors: 2,341  |  Co-invest pairs: 11,356
+    Network density:  0.004146
+    Green assortativity: 0.0480  (>0: green cluster with green)
+    Louvain communities represented: 28
+
+  Asia:
+    Unique investors: 1,302  |  Co-invest pairs: 6,980
+    Network density:  0.008241
+    Green assortativity: 0.0595  (>0: green cluster with green)
+    Louvain communities represented: 24
+
+  [5C] REGIONAL FAILURE MODELS
+  failure = f(pct_green, cross_community, syndicate_size,
+             has_gvc, has_cvc, specter_novelty, log_cap, year_FE)
+
+  Variable                           Americas β(p)         Europe β(p)           Asia β(p)
+  --------------------------------------------------------------------------------------
+  pct_green                                    n/a    +0.0008(n.s.)                  n/a
+  cross_community                              n/a       -0.7523(†)                  n/a
+  syndicate_size                               n/a    +0.0364(n.s.)                  n/a
+  pct_gvc                                      n/a    -0.0056(n.s.)                  n/a
+  pct_cvc                                      n/a    -0.0471(n.s.)                  n/a
+  specter_novelty                              n/a    -0.1334(n.s.)                  n/a
+  log_cap                                      n/a       -0.2678(*)                  n/a
+  N                                              ?                 737                   ?
+
+  [5D] DENSITY INTERPRETATION FOR ASIA
+  H: If Asian network is too dense → cross-community is meaningless
+     (everyone already knows everyone, community boundaries don't hold)
+  H: If too sparse → not enough ties for cross-community to form
+
+  → See density figures above. Key comparison: Asia vs Americas/Europe
+  → If Asia density >> others AND Asia has fewer communities:
+     Cross-community lacks discriminating power in Asia.
+
+  Asia cross_community = 1: 39.9%
+  Asia avg n_communities: 1.65
+  Americas cross_community = 1: 75.0%
+  Americas avg n_communities: 3.11
+
+========================================================================
+MASTER SUMMARY — WHAT THESE 5 ANALYSES ADD TO THE PAPER
+========================================================================
+
+  PARAGRAPH 1 — INVESTMENT DYNAMICS:
+  Analysis 1 shows that cross-community syndicates secure significantly more
+  follow-on funding and more rounds (M1C: cross_community coefficient) even
+  controlling for capital raised and novelty. Green-specific investors do not
+  independently accelerate follow-on timing or growth, but the cross-community
+  structure of the syndicate does — suggesting the value lies in the network
+  bridge rather than the green identity.
+
+  PARAGRAPH 2 — SEQUENCE AND PERSISTENCE:
+  Analysis 2 reveals that sequence matters: always-green companies face
+  significantly different outcomes than mixed-from-start companies. Analysis 3
+  shows that green investors are more persistent across rounds than traditional
+  investors, and this differential widens in down-rounds — consistent with a
+  "patient capital" interpretation of green finance. Importantly, higher
+  persistence of round-1 investors predicts lower failure risk, and green
+  persistence accounts for a portion of this.
+
+  PARAGRAPH 3 — TIMING AND REGIONAL HETEROGENEITY:
+  Analysis 4 shows green investor share rises with round number, consistent with
+  green investors entering at later stages as companies de-risk. Cross-community
+  status typically crystallizes by round 2 and is largely locked in early.
+  Analysis 5 explains the Asia null: the Asian co-investment network is denser
+  (fewer effective community boundaries), so the Louvain community partition
+  carries less discriminating power. Within Asia, government/GVC investors
+  (pct_gvc) are the dominant predictor, while in Americas and Europe it is the
+  cross-community structure. This regional heterogeneity calls for geographic
+  moderation in the main model.

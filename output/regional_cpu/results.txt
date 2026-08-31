@@ -1,0 +1,113 @@
+========================================================================
+REGIONAL CPU × CROSS-BORDER SYNDICATION — COMPANY LEVEL
+Monthly CPU matched to each company's first investment date.
+CPU_EU (Basaglia): covers 1990-2019-12 | CPU_US (Gavriilidis): 2013–2026
+YEAR FIXED EFFECTS in all models. First-differences as robustness.
+========================================================================
+
+DATA NOTES:
+  CPU_EU ends 2019-12 → companies with first deal after 2019 have NA for EU CPU.
+  CPU_gap defined only for US/EU startups with both series available.
+  z-scores computed over 2014-2019 overlapping window.
+  is_cross_border: majority investor region ≠ startup HQ region.
+
+SAMPLE COVERAGE (N=6,718):
+  With startup CPU:             1,211
+  With investor CPU:            1,119
+  With CPU_gap (US/EU, ≤2019): 1,005
+  is_cross_border classifiable: 1,832
+  is_cross_border = 1:          144
+  pct_foreign classifiable:     1,832
+
+========================================================================
+MODEL 1: REGIONAL CPU → CROSS-BORDER INVESTMENT
+  H: High startup-region CPU reduces foreign investor participation
+  Controls: pure_green + log_cap + nrounds + hq_region + YEAR FE
+========================================================================
+
+  [Startup-region CPU]
+    is_cross_border (logit) β= +0.1509  p=0.1439 n.s.  N=1,022
+    pct_foreign (OLS/HC3)    β= +0.0020  p=0.4670 n.s.  N=1,022  adj-R²=0.010
+
+  [Investor-region CPU]
+    is_cross_border (logit) β= +0.2259  p=0.0481 *  N=1,101
+    pct_foreign (OLS/HC3)    β= +0.0109  p=0.0034 **  N=1,101  adj-R²=0.449
+
+  [FIRST-DIFFERENCE ROBUSTNESS: Δpct_foreign ~ ΔCPU (region-year panel)]
+    Δpct_foreign ~ ΔCPU  β=-0.01936  p=1.0000 n.s.  N=16
+
+========================================================================
+MODEL 2: CPU DIVERGENCE → CROSS-BORDER FLOWS
+  H: |CPU_US − CPU_EU| shifts deals toward the lower-uncertainty region
+  Restricted to US/EU startups with deals 2014–2019 (CPU_EU available)
+  Year FE absorbs common time trends
+========================================================================
+  US/EU sample: N=1,005
+
+  pct_foreign ~ cpu_gap  β=+0.33192  p=0.0059 **  adj-R²=0.265
+  is_cross_border ~ cpu_gap: ERROR Singular matrix
+
+  [By startup region: startup_cpu vs investor_cpu]
+  Americas (N=884): startup_cpu β=-0.2703 **  inv_cpu β=+0.2699 **
+  Europe (N=121): startup_cpu β=+0.1788 n.s.  inv_cpu β=-0.1768 n.s.
+
+  [FIRST-DIFFERENCE ROBUSTNESS: Δpct_foreign ~ Δcpu_gap (region-year)]
+    Δpct_foreign ~ Δcpu_gap  β=+0.20178  p=0.3039 n.s.  N=16
+
+========================================================================
+MODEL 3: CROSS-BORDER × STARTUP_CPU → FAILURE
+  H: is_cross × startup_CPU < 0 → foreign investors more protective
+     when home region has high climate policy uncertainty
+  Year FE + controls
+========================================================================
+  N = 1,022
+
+  Outcome: is_failed
+    Main: is_cross β=+0.7214 n.s.  startup_cpu β=-0.2202 *
+    Interaction: ERROR Singular matrix
+
+  Outcome: is_exit
+    Main effects: ERROR Singular matrix
+    Interaction β=+0.3625  p=0.2327 n.s.  → n.s.
+
+  [FIRST-DIFFERENCE ROBUSTNESS: Δfailure ~ ΔCPU × cross_pct (region-year)]
+    FD interaction β=+101.03933  p=0.0000 ***  N=14
+
+========================================================================
+MODEL 4: REGIONAL CPU → GEOGRAPHIC COMMUNITY ACTIVATION
+  H: CPU_US↑ → US-dominant communities retreat; EU/Asia communities fill gap
+  DV: 1 if company's syndicate included an investor from US/EU/Asia community
+  Year FE + controls
+========================================================================
+
+  [US-comm ~ startup_CPU]  N=1,211
+    H: US CPU↑ → US community retreats (β<0)
+    startup_cpu_z β= -0.0073  p=0.8509 n.s.  → n.s.
+
+  [EU-comm ~ startup_CPU]  N=1,211
+    H: US CPU↑ → EU communities substitute
+    startup_cpu_z β= +0.0153  p=0.7349 n.s.  → n.s.
+
+  [Asia-comm ~ startup_CPU]  N=1,211
+    H: Asia opportunistic during US uncertainty
+    ERROR: Singular matrix
+
+  [US-comm ~ investor_CPU]  N=1,119
+    H: high inv-region CPU → US comm less active
+    inv_cpu_z β= +0.0089  p=0.8556 n.s.  → n.s.
+
+  [EU-comm ~ investor_CPU]  N=1,119
+    H: high inv-region CPU → EU comm less active
+    inv_cpu_z β= -0.0062  p=0.8880 n.s.  → n.s.
+
+  [FIRST-DIFFERENCE ROBUSTNESS: Δcomm_share ~ ΔCPU (region-year)]
+  US-comm ~ startup_CPU: β=-0.12100  p=0.5395 n.s.  N=15
+  EU-comm ~ startup_CPU: β=-0.24393  p=0.2538 n.s.  N=15
+
+========================================================================
+INTERPRETATION GUIDE
+========================================================================
+  Unit: company (cross-section). CPU varies by startup region × month-of-first-deal.
+  Year FE removes cohort trends. Cross-sectional CPU variation is limited.
+  CPU_gap analyses restricted to US/EU deals 2014–2019 (small N).
+  FD robustness uses region-year averages (not company-level differences).

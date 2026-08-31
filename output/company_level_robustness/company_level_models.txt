@@ -1,0 +1,89 @@
+
+======================================================================
+MODEL 1: Syndicate Composition → Failure & Exit (Logit)
+  Reference = Mixed syndicate; pure_green=pct_green≥60%, pure_trad≥60%
+======================================================================
+
+  DEAL-LEVEL BENCHMARKS (N≈32,503 from script 09c):
+    is_exit:   Pure_Green β=−0.292  p=0.000002 ***
+               Pure_Non_Green β=+0.029  p=0.674 n.s.
+    is_failed: pure_green β=−0.023  p=0.001 **   (from CPU script, N=6,718 co-level)
+    NOTE: exit model was run at deal-level; failure model already company-level
+
+  COMPANY-LEVEL (N=6,718):
+
+  is_exit  N=6,718
+    pure_green:  β=-0.0292  p=0.818 n.s.
+    pure_trad:   β=+0.6175  p=0.000 ***
+
+  is_failed  N=6,718
+    pure_green:  β=-0.4176  p=0.000 ***
+    pure_trad:   β=-0.0019  p=0.990 n.s.
+
+
+======================================================================
+MODEL 2: Cross-Community → Failure & Exit (Logit)
+  cross_community=1 if company backed by investors from 2+ Louvain communities
+======================================================================
+
+  DEAL-LEVEL BENCHMARKS (N=6,718, already company-level in script 18):
+    is_failed: cross_community β=−0.0194  p=0.017 *
+    is_exit:   cross_community β=−0.0117  p=0.096 †
+
+  COMPANY-LEVEL LOGIT (same N=6,718, different model spec):
+
+  failed  N=6,718
+    cross_community:  β=-0.4256  p=0.000 ***
+
+  exited  N=6,718
+    cross_community:  β=-0.2541  p=0.047 *
+
+  DOSE-RESPONSE (n_communities, continuous):
+  failed  N=6,718: n_communities β=-0.2101  p=0.000 ***
+  exited  N=6,718: n_communities β=-0.1530  p=0.000 ***
+
+
+======================================================================
+MODEL 3: Cox Proportional Hazards — Time-to-Failure
+  Company-level: duration = years from first deal to 2026-mid (or failure)
+  Event = failed; censored = still operating or exited
+======================================================================
+
+  DEAL-LEVEL BENCHMARK: Cox had NaN (convergence failure at 32K rows)
+
+  COMPANY-LEVEL Cox (N=6,718):
+  N=6,718 companies; events=562
+
+  pure_green              coef=-0.1417  HR=0.868  p=0.019 *
+  pure_trad               coef=+0.0327  HR=1.033  p=0.714 n.s.
+  cross_community         coef=-0.2146  HR=0.807  p=0.000 ***
+
+
+======================================================================
+MODEL 4: CPU Mediation — Direct & Indirect Paths
+  CPU models were ALREADY company-level (N=6,718) in script 18
+  Re-running to confirm with logit (script 18 used LPM/OLS)
+======================================================================
+
+  DEAL-LEVEL BENCHMARKS (= same as company-level, both N=6,718):
+    is_failed: pure_green β=−0.023 p=0.001 **; cpu_narrow_z β=−0.001 p=0.878 n.s.
+    pure_green:cpu_narrow_z β=−0.002 p=0.832 n.s.
+    cross_community β=−0.019 p=0.017 *; cross_community:cpu_narrow_z β=+0.008 p=0.257 n.s.
+
+  COMPANY-LEVEL LOGIT (vs OLS above):
+
+  failed  N=6,718
+    pure_green                           β=-0.4265  p=0.000 ***
+    pure_trad                            β=-0.0289  p=0.848 n.s.
+    cpu_z                                β=+0.0141  p=0.873 n.s.
+    pure_green:cpu_z                     β=-0.0960  p=0.315 n.s.
+    cross_community                      β=-0.4174  p=0.000 ***
+    cross_community:cpu_z                β=+0.0653  p=0.496 n.s.
+
+  exited  N=6,718
+    pure_green                           β=-0.0377  p=0.776 n.s.
+    pure_trad                            β=+0.6054  p=0.000 ***
+    cpu_z                                β=+0.0868  p=0.428 n.s.
+    pure_green:cpu_z                     β=-0.0299  p=0.786 n.s.
+    cross_community                      β=-0.2719  p=0.037 *
+    cross_community:cpu_z                β=-0.0803  p=0.478 n.s.

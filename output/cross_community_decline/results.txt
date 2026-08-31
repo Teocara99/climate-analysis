@@ -1,0 +1,134 @@
+========================================================================
+STRUCTURAL FACTORS BEHIND THE CROSS-COMMUNITY DECLINE (2014–2025)
+DV: % of companies in founding cohort with cross-community syndicate
+    (ground truth from cpu_company_dataset.csv — 6,718 companies)
+========================================================================
+
+========================================================================
+PART A: ANNUAL COHORT PANEL — WHAT EXPLAINS THE DECLINE?
+  DV: pct_cross = mean(cross_community) for companies funded in year Y
+  Ground truth: company-level cross_community from cpu_company_dataset.csv
+  N years: 12  (2014–2025, min 30 companies/year)
+  Declined from 78.6% (2014) to 44.9% (2025)
+  Controls: time_trend
+  All predictors: ecosystem metrics in year Y (z-scored)
+========================================================================
+
+  [A1] BIVARIATE: pct_cross ~ structural_var + time_trend
+  Variable                             β        p   adj-R²  verdict
+  --------------------------------------------------------------------
+  n_active_inv                  β=+0.0188  p=0.3109  R²=0.941  n.s.
+  n_communities                 β=+0.0118  p=0.6003  R²=0.932  n.s.
+  avg_community_size            β=+0.0161  p=0.4920  R²=0.938  n.s.
+  hhi_community                 β=+0.0141  p=0.0887  R²=0.944  †
+  avg_syndicate_size            β=+0.0154  p=0.3356  R²=0.938  n.s.
+  pct_new_investors             β=+0.0680  p=0.1607  R²=0.945  n.s.
+  avg_exp                       β=-0.0152  p=0.4579  R²=0.935  n.s.
+
+  [A2] HORSE RACE: all structural vars + time_trend
+  N = 12
+  adj-R² = 0.925
+  Variable                             β        p  verdict
+  n_active_inv                  β=-0.0187  p=0.9432  n.s.
+  n_communities                 β=+0.0631  p=0.5505  n.s.
+  avg_community_size            β=+0.0497  p=0.7878  n.s.
+  hhi_community                 β=+0.0373  p=0.4995  n.s.
+  avg_syndicate_size            β=-0.1011  p=0.6984  n.s.
+  pct_new_investors             β=-0.0227  p=0.9481  n.s.
+  avg_exp                       β=-0.0750  p=0.7283  n.s.
+
+  HIGH VIF (>5): n_active_inv_z=251.7, n_communities_z=27.9, avg_community_size_z=227.0, avg_syndicate_size_z=58.8, pct_new_investors_z=17.1, avg_exp_z=34.9
+
+  [A4] FIRST-DIFFERENCE ROBUSTNESS (removes secular trends)
+  Δpct_cross(t) ~ Δstructural(t)  +  Δstructural(t-1)
+  Variable                          β(Δt)        p    β(Δt-1)        p
+  ----------------------------------------------------------------------
+  n_active_inv                  β= +0.0043  p=0.9294 n.s.  β= -0.0067  p=0.9204 n.s.
+  n_communities                 β= +0.0155  p=0.7250 n.s.  β= +0.0188  p=0.6521 n.s.
+  avg_community_size            β= +0.0060  p=0.8396 n.s.  β= -0.0149  p=0.4763 n.s.
+  hhi_community                 β= +0.0065  p=0.5411 n.s.  β= -0.0016  p=0.8878 n.s.
+  avg_syndicate_size            β= +0.0030  p=0.9029 n.s.  β= -0.0120  p=0.6188 n.s.
+  pct_new_investors             β= +0.0085  p=0.9189 n.s.  β= +0.0178  p=0.8345 n.s.
+  avg_exp                       β= +0.0026  p=0.9481 n.s.  β= -0.0003  p=0.9917 n.s.
+
+  [A5] TREND DECOMPOSITION: how much did each variable change 2014→2025?
+  Variable                          2014      2025         Δ    Δ (σ)  direction
+  n_active_inv                   202.000  1667.500  +1465.500    +1.68σ  ↑ rises
+  n_communities                   18.500    28.000    +9.500    +2.15σ  ↑ rises
+  avg_community_size               5.880    44.642   +38.761    +1.70σ  ↑ rises
+  hhi_community                    0.100     0.113    +0.013    +1.18σ  ↑ rises
+  avg_syndicate_size               2.875     4.467    +1.592    +1.99σ  ↑ rises
+  pct_new_investors                0.967     0.578    -0.389    -2.94σ  ↓ falls
+  avg_exp                         19.045     9.221    -9.824    -2.43σ  ↓ falls
+  pct_cross                        0.769     0.485    -0.284    -2.87σ  ↓ falls
+
+  [A6] MECHANISM INTERPRETATION
+  Cross-community DECLINED while ecosystem GREW. Key structural moves:
+  (Highlighted vars that both changed substantially AND predict pct_cross)
+  hhi_community               : ↑ 1.2σ  → predicts ↑ cross  [OPPOSES decline]
+
+========================================================================
+PART B: COMPANY-LEVEL — WHAT PREDICTS CROSS-COMMUNITY FUNDING?
+  DV: is_cross_community (investors span ≥2 Louvain communities)
+  IVs: n_investors, total_funding, n_rounds, investor experience, year_FE, region
+========================================================================
+
+  Company sample: N=6,693
+  cross_community=1: 4,127 (61.7%)
+
+  [B1] BIVARIATE PREDICTORS (each + year FE + region)
+  Variable                                         β        p  N  verdict
+  ----------------------------------------------------------------------
+  log(n_investors in first deal)            β=+1.1132  p=0.0000  N=6,693  ***
+  log(total funding)                        β=+0.2347  p=0.0000  N=6,693  ***
+  log(n_rounds)                             β=+2.1678  p=0.0000  N=6,693  ***
+  log(avg investor experience)              β=+0.4790  p=0.0000  N=6,693  ***
+  pure_green syndicate (dummy)              β=+0.0793  p=0.1980  N=6,693  n.s.
+  pure_traditional syndicate (dummy)        β=-0.2330  p=0.0091  N=6,693  **
+  % green investors                         β=-0.0013  p=0.2754  N=6,693  n.s.
+
+  [B2] FULL MODEL
+  N=6,693  pseudo-R²=0.245
+    n_inv_log                     β=+0.8156  p=0.0000  ***
+    log_cap                       β=+0.1347  p=0.0000  ***
+    nrounds                       β=+2.0935  p=0.0000  ***
+    log_exp                       β=+0.2719  p=0.0000  ***
+    pct_green                     β=-0.0009  p=0.4591  n.s.
+
+  [B3] CROSS-COMMUNITY TREND BY REGION
+  Region         2014-15   2023-25        Δ  trend β/yr  verdict
+  Americas      83.6%    67.4%  -16.2%  -0.0178/yr ***
+  Europe        74.6%    51.8%  -22.8%  -0.0258/yr ***
+  Asia          56.1%    29.5%  -26.6%  -0.0270/yr ***
+
+  [B4] SYNDICATE SIZE → CROSS-COMMUNITY (dose-response)
+  H: Larger syndicates mechanically span more communities
+   n_investors   % cross-community  N
+  n_inv =  1   70.0%  ██████████████  (N=651)
+  n_inv =  2   69.4%  █████████████  (N=337)
+  n_inv =  3   83.3%  ████████████████  (N=227)
+  n_inv =  4   83.3%  ████████████████  (N=198)
+  n_inv =  5   90.5%  ██████████████████  (N=168)
+  n_inv =  6   92.6%  ██████████████████  (N=121)
+  n_inv =  7   92.0%  ██████████████████  (N=88)
+  n_inv =  8   90.2%  ██████████████████  (N=82)
+  n_inv =  9   94.5%  ██████████████████  (N=73)
+
+  [B5] WHAT ELSE PREDICTS CROSS-COMMUNITY? (controlling for syndicate size)
+  log(funding)            β=+0.1318 ***   [n_inv_log β=+1.1132 ***]  N=6,693
+  investor experience     β=+0.2714 ***   [n_inv_log β=+0.8182 ***]  N=6,693
+  green investor %        β=-0.0007 n.s.  [n_inv_log β=+1.1117 ***]  N=6,693
+  pure_traditional        β=-0.2088 *     [n_inv_log β=+1.1108 ***]  N=6,693
+
+========================================================================
+SUMMARY
+========================================================================
+
+  PART A — Structural variables that predict (bivariate, with trend control):
+    None at p<0.05 after trend control
+    hhi_community                 β=+0.0141  p=0.0887 †  (marginal)
+
+  INTERPRETATION:
+  Variables with positive β INCREASE pct_cross (if they RISE → counter the decline).
+  Variables with negative β DECREASE pct_cross (if they RISE → drive the decline).
+  Consistent driver = variable that ROSE over time AND has β in the direction of decline.

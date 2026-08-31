@@ -1,0 +1,2634 @@
+company_key,cross_community,cross_geo,cross_type,cross_stage,cross_sector,cross_green,n_inv,n_comms,cross_comm_cdf,is_failed,hq_region
+chargerlink,0,0,0,0,0,0,2,1,0.0,0.0,Asia
+isar aerospace,1,0,1,1,0,1,18,2,1.0,0.0,Europe
+nomadd desert solar solutions,0,0,0,0,0,0,1,1,,,
+numat (specialty chemicals),1,0,0,0,0,0,2,2,,,
+biosyntia,0,1,1,0,0,0,4,1,,,
+nirvana energy systems,0,0,0,0,0,0,1,1,,,
+cysal,1,0,1,1,0,1,3,2,,,
+smartlam north america,0,0,0,0,0,1,4,1,,,
+parkwind,0,0,0,0,0,0,1,1,,,
+cerapower,0,0,0,0,0,0,1,1,,,
+hst,0,0,1,0,0,0,4,1,,,
+covercress,0,0,1,1,0,0,2,1,,,
+sinewatts,0,0,0,0,0,0,1,1,,,
+nature's fynd,0,0,0,0,0,0,1,1,,,
+heliotrope,0,0,0,0,0,0,1,1,,,
+seismos,0,0,1,0,0,1,4,1,,,
+renew energy partners,0,0,0,0,0,0,1,0,,,
+monolith (chemicals and gases),0,0,0,0,0,1,2,1,,,
+encored technologies,0,0,0,0,0,0,1,1,,,
+biomason,0,0,0,0,0,0,1,0,,,
+cleanchoice energy,1,1,1,1,0,1,7,3,,,
+voltaiq,0,0,0,0,0,0,2,1,,,
+terrestrial energy (nas: imsr),0,0,0,0,0,0,1,0,,,
+enact solar,0,1,0,1,0,0,2,1,1.0,0.0,Americas
+cleanfiber,1,0,0,0,0,1,8,3,,,
+exo (usa),1,0,1,1,0,1,11,2,,,
+curb (equipment),1,0,1,1,0,1,12,2,,,
+heliogen,0,1,1,0,0,1,11,1,,,
+nextpower. (nas: nxt),0,0,1,1,0,1,3,1,,,
+bert thin films,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+afingen,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+plenish (beverages),0,0,0,0,0,0,1,0,,,
+boston metal,0,0,0,0,0,0,1,1,,,
+ananas anam,0,0,0,0,0,0,1,1,,,
+swedish algae factory,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+ecopro polymers,0,0,0,0,0,0,1,1,1.0,1.0,Americas
+sailwint,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+ather (nse: atherenerg),0,0,0,1,0,1,6,1,,,
+fishpeople,0,0,0,0,0,0,1,0,,,
+orbital insight,1,0,1,1,0,1,5,2,,,
+xti (electrical equipment),0,0,0,0,0,0,1,0,,,
+alertmedia,1,0,1,1,0,1,5,2,,,
+global surface intelligence,0,0,0,0,0,0,3,1,,,
+lattis,0,0,0,0,1,1,11,1,,,
+understory,1,0,1,1,0,1,7,2,,,
+crop one (cultivation),1,0,1,0,0,1,4,2,,,
+arcadia,1,0,1,1,0,1,6,2,1.0,0.0,Americas
+mirova sunfunder,1,1,1,1,1,1,12,3,,,
+origami (cambridge),0,0,0,0,0,0,2,1,,,
+longman suntech energy,0,0,0,0,0,0,1,0,,,
+lifesmart,0,0,0,0,0,0,1,0,,,
+roadrunner,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+depcom power,0,0,0,0,0,0,1,1,,,
+powervault,0,0,0,0,0,0,1,0,,,
+asgard renewables,0,0,0,0,0,0,1,0,,,
+sparkmeter,1,1,1,0,0,0,3,3,,,
+chai energy,1,1,0,0,0,1,2,2,,,
+renovagen,0,0,0,0,0,0,1,0,,,
+obeo (paper containers & packaging),0,0,1,1,0,0,2,1,0.0,1.0,Europe
+enpower,0,0,1,0,0,1,2,1,1.0,0.0,Americas
+newleaf symbiotics,0,0,0,1,0,1,5,1,,,
+ewind,0,0,0,0,0,0,1,1,,,
+calwave,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+cozynergy,0,0,0,0,0,0,1,1,,,
+skyspecs,0,0,0,0,0,0,1,1,,,
+windesco,1,1,1,1,0,0,3,2,1.0,0.0,Americas
+powidian,0,0,0,0,0,0,1,1,,,
+raw pressery,0,0,0,0,0,0,1,1,,,
+sparkfund,0,0,0,1,0,1,3,1,,,
+pvcomplete,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+utilityapi,1,1,0,1,0,1,6,2,1.0,0.0,Americas
+enertechnos,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+flair (household appliances),0,0,0,0,0,1,2,1,1.0,0.0,Americas
+mosaic materials,0,0,0,0,0,1,5,1,1.0,0.0,Americas
+sense labs (electronics (b2c)),0,0,1,1,0,0,2,1,,,
+industrial microbes,0,1,0,0,0,1,5,1,1.0,0.0,Americas
+cinderbio,0,0,0,0,0,0,1,1,,,
+pls (usa),0,0,0,0,0,0,1,0,0.0,0.0,Americas
+tierra,0,0,0,0,0,0,4,1,1.0,0.0,Americas
+ecovia bio,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+innocit,0,0,0,0,0,0,2,1,0.0,0.0,Americas
+modern hydrogen,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+clevershuttle,0,1,1,0,0,1,2,1,1.0,0.0,Europe
+zymochem,0,0,0,0,0,0,2,1,,,
+solandeo,0,0,0,0,0,0,1,1,,,
+wunder,0,0,1,0,0,1,3,1,,,
+les pâtes des frangines,0,0,0,0,0,1,2,1,0.0,0.0,Europe
+electrum,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+75f,1,0,1,1,0,1,4,2,,,
+social charging,0,0,0,0,0,0,1,0,,,
+fast-form systems,0,0,0,0,0,0,2,1,,,
+spero renewables,1,0,1,0,0,0,2,2,,,
+forever oceans,0,0,0,0,0,0,2,1,1.0,1.0,Americas
+earthviews,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+veloryx (tae: vryx),0,0,0,0,0,0,2,1,1.0,0.0,Middle East
+insight m,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+sunfed,0,0,0,0,0,0,1,1,1.0,1.0,Oceania
+hyliion holdings (ase: hyln),0,0,0,0,0,0,4,0,1.0,0.0,Americas
+sothic bioscience,0,0,0,0,0,0,1,1,1.0,1.0,Europe
+quidnet energy,1,0,0,1,0,0,3,2,,,
+limejump,1,0,1,1,0,1,4,2,,,
+visolis,0,0,0,0,0,0,1,1,,,
+strata critical medical (nas: srta),1,0,1,1,1,1,8,3,1.0,0.0,Americas
+axegaz trading & technologies,0,0,1,1,0,0,2,1,,,
+thermolift,0,0,0,0,0,0,1,0,,,
+hazel technologies,1,0,1,0,0,1,4,2,1.0,0.0,Americas
+source,0,0,0,1,0,0,2,1,1.0,0.0,Americas
+optiwatti,0,0,1,1,0,1,3,1,,,
+corpower ocean,1,0,0,0,0,0,5,3,,,
+waga energy (par: waga),1,0,1,0,0,0,3,2,1.0,0.0,Europe
+navitas semiconductor (nas: nvts),1,1,0,1,0,1,4,2,1.0,0.0,Americas
+spark (alternative energy equipment),0,0,0,0,0,0,2,0,,,
+pegasus solar,0,0,0,0,0,0,1,1,,,
+helion,0,0,0,0,0,0,1,1,,,
+evercharge,0,0,1,1,0,1,6,1,,,
+sighten,0,0,1,0,0,1,7,1,,,
+vector intel,0,0,1,1,0,1,9,1,1.0,1.0,Americas
+rizome,0,0,0,0,0,0,4,0,,,
+mycotechnology,0,1,1,1,0,1,9,1,,,
+ses ai (nys: ses),0,0,1,1,0,1,5,1,,,
+drygro,0,0,0,0,0,0,1,1,1.0,1.0,Europe
+leaf (household appliances),0,0,1,1,0,1,6,1,0.0,1.0,Americas
+biodel ag,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+drivezy,0,0,0,0,0,0,11,0,1.0,0.0,Asia
+bright exchange,1,1,1,1,0,1,14,4,1.0,0.0,Americas
+bollinger innovations (pinx: bini),0,0,0,0,0,0,1,1,,,
+incredible bakery company,0,0,0,0,0,0,1,1,,,
+utonomy,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+laki power,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+synergy fuels,1,1,1,1,0,1,4,2,1.0,0.0,Asia
+superbrewed food,0,0,0,0,0,0,1,1,,,
+new wave foods,0,0,0,0,0,0,2,1,1.0,1.0,Americas
+talam biotech,0,1,0,0,0,0,2,1,,,
+drift,0,0,0,1,0,1,2,1,,,
+full harvest,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+li auto (hkg: 02015),0,0,0,0,0,0,1,1,1.0,0.0,Asia
+grownetics,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+alpha ring international,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+manta biofuel,0,0,0,0,0,0,1,1,1.0,1.0,Americas
+sustane,0,0,0,0,0,0,2,1,0.0,0.0,Americas
+measurabl,0,0,1,0,0,1,3,1,,,
+prêt à pousser,1,0,0,0,0,1,4,2,,,
+evnex,0,0,0,0,0,0,1,1,0.0,0.0,Oceania
+nevados,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+eharvesthub,0,1,0,0,0,1,3,1,,,
+lumishield,0,0,1,0,0,1,2,1,1.0,0.0,Americas
+zincfive,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+ozo innovations,0,0,0,0,0,0,1,1,,,
+vartega,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+fibersail,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+isotruss,0,0,0,0,0,0,2,0,1.0,0.0,Americas
+axiom exergy,1,0,1,1,0,1,9,2,1.0,1.0,Americas
+cadenza innovation,0,0,0,0,0,0,2,1,,,
+twingtec,1,0,1,1,0,1,5,2,,,
+sunibrain,0,0,1,0,0,0,3,1,,,
+aessensegrows,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+mikage bio energy,0,0,0,1,0,0,2,1,0.0,0.0,Asia
+uniti sweden,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+artemis (other agriculture),1,0,1,1,1,1,19,2,1.0,0.0,Americas
+naska.ai,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+accelerate wind,0,0,0,0,0,0,3,1,1.0,0.0,Americas
+rensource,0,0,1,1,0,1,6,1,1.0,0.0,Africa
+treevia,0,0,0,0,0,0,2,0,1.0,0.0,Americas
+noveon,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+koepala,0,0,0,0,0,0,1,1,,,
+ulemco,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+solar for schools,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+agrosmart,0,0,1,0,0,0,3,1,1.0,0.0,Americas
+cleanrobotics technologies,0,0,0,0,0,1,2,1,1.0,1.0,Americas
+blue planet energy,1,0,0,0,0,1,2,2,1.0,0.0,Americas
+otovo (osl: otovo),1,1,1,1,0,1,13,2,1.0,0.0,Europe
+rezatec,1,0,1,1,0,1,4,2,,,
+newheat,0,0,0,0,0,0,3,1,0.0,0.0,Europe
+modern pop,0,0,0,0,0,0,1,1,,,
+new barn organics,0,0,0,1,0,1,4,1,0.0,0.0,Americas
+united wind,1,0,1,0,0,1,6,2,,,
+q-bot,0,0,1,0,0,1,4,1,,,
+one stop warehouse,0,0,0,0,0,0,1,0,,,
+naturemetrics,0,0,1,0,0,1,3,1,1.0,0.0,Europe
+oceanus power & water,0,0,0,0,0,0,1,1,,,
+enobraq,1,0,1,1,0,1,6,2,1.0,1.0,Europe
+grub cycle,0,0,0,0,0,0,1,0,1.0,1.0,Asia
+hpnow,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+twelve,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+migo (automotive),0,0,0,0,0,0,1,1,1.0,1.0,Americas
+cycladex,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+plenty,1,0,1,1,1,1,10,4,1.0,0.0,Americas
+staq energy,0,0,0,0,0,0,1,1,,,
+electriq,1,1,0,0,0,0,4,2,,,
+beta hatch,1,0,1,1,0,1,6,2,1.0,1.0,Americas
+resq club,0,0,0,1,1,1,7,1,1.0,0.0,Europe
+zehus,0,0,0,1,0,1,3,1,,,
+agerpoint,1,0,0,0,0,1,6,3,,,
+cityscoot,0,0,1,1,0,1,9,1,1.0,0.0,Europe
+carbonbook,1,0,0,0,0,0,2,2,1.0,1.0,Americas
+udelv,1,1,0,1,0,1,3,2,1.0,0.0,Americas
+hydro x,1,0,0,0,0,0,2,2,1.0,0.0,Middle East
+nutpods,0,0,0,1,0,1,2,1,,,
+vivopower international (nas: vivo),0,0,0,0,0,0,1,0,0.0,0.0,Europe
+the every company,1,1,1,1,1,1,16,5,1.0,0.0,Americas
+coliba,0,0,0,0,0,0,1,1,1.0,0.0,Africa
+kwh analytics,0,1,1,0,0,1,5,1,,,
+aeropowder,1,0,1,0,0,1,2,2,1.0,0.0,Europe
+stormsensor,1,0,1,1,0,1,9,2,1.0,1.0,Americas
+mobike,1,1,1,1,1,1,7,2,1.0,0.0,Asia
+membrion,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+neighborhood sun,0,0,1,1,0,1,2,1,1.0,0.0,Americas
+teq,1,0,0,1,0,0,2,2,1.0,0.0,Americas
+olio,0,0,1,1,1,1,8,1,1.0,0.0,Europe
+elix wireless,0,0,0,0,0,0,1,0,,,
+e-zinc,0,0,0,0,0,1,2,1,,,
+factorial (nas: fac),0,0,1,1,0,1,3,1,,,
+ēdn,0,0,1,1,0,1,4,1,1.0,0.0,Americas
+ocean hugger foods,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+triplew,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+mimsi materials,1,0,1,1,0,0,2,2,,,
+cycle.land,0,0,0,0,0,0,1,1,0.0,1.0,Europe
+utkal tubers,0,0,0,0,0,0,2,1,0.0,0.0,Asia
+kayrros,0,1,1,0,0,1,3,1,1.0,0.0,Europe
+urbanfootprint,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+apana,1,0,1,1,0,1,5,2,,,
+hachi,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+qd solar,0,1,1,1,0,0,3,1,1.0,0.0,Americas
+insolight,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+nabrawind,0,0,0,0,0,0,2,1,1.0,0.0,Europe
+arctura,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+azuri technologies,1,1,1,1,0,0,2,2,,,
+enough (food products),0,0,0,0,0,1,2,1,1.0,0.0,Europe
+avertana,0,1,1,1,0,1,10,1,1.0,0.0,Oceania
+menlomicro,1,0,1,1,0,1,8,2,1.0,0.0,Americas
+estar investments,0,0,0,0,0,0,1,0,,,
+sironix renewables,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+optimal (agriculture),1,1,0,0,0,1,2,2,1.0,0.0,Europe
+knip (commercial products),0,0,1,1,0,1,4,1,,,
+the fresh factory (tsx: frsh),1,0,0,0,0,1,5,2,1.0,0.0,Americas
+senergy innovations,0,0,0,0,0,1,8,1,,,
+cover,1,0,1,1,0,1,9,4,1.0,0.0,Americas
+four sigmatic,1,0,0,1,0,1,3,2,1.0,0.0,Americas
+twaice,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+cowboy cricket farms,0,0,0,0,0,0,3,0,0.0,1.0,Americas
+microgrid labs,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+wright,1,1,1,1,1,1,18,3,1.0,0.0,Americas
+interface polymers,0,0,1,1,0,0,2,1,1.0,0.0,Europe
+envelio,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+buildee,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+wp systems,0,0,0,1,0,0,2,1,1.0,0.0,Europe
+gridtential energy,0,0,1,1,0,1,8,1,,,
+levelten energy,1,0,1,1,0,1,6,3,1.0,0.0,Americas
+nugen systems,0,0,1,0,0,1,3,1,,,
+avalon battery,0,0,0,0,0,0,1,1,,,
+sqe energy group,0,0,0,0,0,0,2,0,0.0,0.0,Europe
+clarity ai,1,1,1,1,0,1,9,4,1.0,0.0,Americas
+gradiant,0,1,1,1,0,1,3,1,,,
+beijing tongcheng bing technology (nas: flx),0,0,0,1,0,0,4,1,,,
+hydra energy,0,0,0,0,0,0,1,1,,,
+ecotree,0,0,0,0,0,1,2,1,0.0,0.0,Europe
+athenium analytics,0,0,0,0,0,0,2,1,,,
+retrolux,0,0,0,0,0,0,1,1,,,
+northvolt,1,0,0,1,0,1,5,2,1.0,0.0,Europe
+grinergy,0,0,0,1,0,1,2,1,1.0,0.0,Asia
+ofo,1,1,1,1,1,1,8,3,1.0,1.0,Asia
+arbnco,0,0,0,0,0,0,1,1,,,
+janajal,0,0,0,0,0,0,7,0,,,
+cibo,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+innovasea,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+fero labs,1,1,1,1,1,1,5,2,1.0,0.0,Americas
+electriq power (pinx: eliqq),0,0,0,0,0,0,1,1,,,
+sulapac,0,0,1,1,0,1,9,1,1.0,0.0,Europe
+grid edge,0,1,0,1,0,0,2,1,1.0,0.0,Europe
+spin (automotive),1,0,0,1,1,1,7,2,1.0,0.0,Americas
+lxp group,0,0,1,0,0,0,2,1,,,
+magnomer,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+redwood materials,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+via separations,1,0,0,0,0,0,5,2,1.0,0.0,Americas
+tomorrow.io,0,1,1,1,0,1,9,1,1.0,0.0,Americas
+lixea,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+goodr,0,0,0,0,0,0,2,0,1.0,0.0,Americas
+nautilus data technologies,1,1,1,0,0,1,5,2,,,
+sally r,0,0,0,0,0,1,4,1,1.0,0.0,Europe
+halsa (food products),1,0,1,1,0,1,3,3,1.0,1.0,Americas
+bulb energy,0,0,0,0,0,0,1,1,,,
+microbiometer,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+fuenix,0,0,0,0,0,1,5,1,,,
+flash sports & media holdings (nas: flzh),0,0,0,0,0,0,1,0,,,
+homebiogas (tae: hmgs),0,0,0,0,0,0,1,1,,,
+skypull,0,0,1,0,0,0,2,1,1.0,0.0,Asia
+offgridbox,0,0,1,0,0,1,9,1,1.0,0.0,Americas
+electron,1,0,0,1,0,0,2,2,1.0,0.0,Europe
+soilytics,0,0,0,0,0,0,1,1,,,
+finless foods,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+weavair,1,1,1,1,0,1,5,2,1.0,0.0,Americas
+powergrow,0,0,0,1,0,0,2,1,0.0,1.0,Americas
+entocycle,1,0,0,0,0,0,3,3,1.0,0.0,Europe
+dimensional energy,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+switched source,1,0,1,1,0,1,3,3,1.0,0.0,Americas
+pure harvest smart farms,0,1,1,1,0,1,24,1,1.0,0.0,Middle East
+dandelion energy,1,1,0,0,0,0,4,2,1.0,0.0,Americas
+leading edge equipment technologies,0,1,0,0,0,0,2,1,1.0,1.0,Americas
+bioo,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+shoreline wind,1,1,1,0,0,1,4,3,1.0,0.0,Europe
+temperpack technologies,1,0,1,1,0,1,8,2,,,
+natural fiber welding,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+innowatts,1,1,1,0,0,0,3,3,,,
+easelink,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+square roots,1,0,1,1,1,1,8,6,1.0,0.0,Americas
+omnidian,1,0,1,1,0,1,12,3,1.0,0.0,Americas
+perennial (beverages),1,0,1,1,0,1,6,3,1.0,1.0,Americas
+desolenator,0,0,0,0,0,0,2,1,1.0,0.0,Europe
+soundenergy,1,1,1,1,0,0,3,2,1.0,0.0,Europe
+solarkal,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+skyven technologies,0,0,0,0,0,0,1,1,,,
+eco-tech ceram,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+form energy,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+freewire,1,1,1,1,1,1,22,3,1.0,0.0,Americas
+snaptrude,0,1,0,0,0,0,2,1,1.0,0.0,Americas
+pexapark,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+generate (capital markets/institutions),0,0,1,0,0,0,2,1,1.0,0.0,Americas
+lettus grow,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+aceleron,0,0,0,0,0,1,2,1,1.0,0.0,Europe
+mobius (environmental services (b2b)),0,0,0,0,0,0,1,1,1.0,1.0,Americas
+big blue technologies,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+harmony biosciences holdings (nas: hrmy),1,1,1,1,1,1,10,3,1.0,0.0,Americas
+bluefield (business/productivity software),1,0,0,1,0,0,2,2,1.0,1.0,Americas
+nordetect,0,0,0,0,0,1,2,1,1.0,0.0,Americas
+switch automation,1,1,0,0,0,1,3,3,,,
+bead,1,1,1,1,0,1,3,3,1.0,0.0,Europe
+alpha foods,0,0,1,1,0,0,7,1,0.0,0.0,Americas
+kuva systems,1,0,1,1,0,1,6,3,1.0,0.0,Americas
+girasol energy,0,0,0,0,0,0,1,1,0.0,0.0,Asia
+rute,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+stars technology corporation,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+seres,0,0,0,0,0,0,1,1,,,
+amp sortation,1,1,1,1,0,0,4,3,1.0,0.0,Americas
+manna cea,0,0,0,0,0,0,1,1,,,
+turntide technologies,0,0,1,1,0,0,4,1,,,
+furcifer,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+mast reforestation,1,0,1,1,0,1,12,4,1.0,0.0,Americas
+outrider,1,0,0,1,0,0,2,2,1.0,0.0,Americas
+impactvision,1,0,1,1,0,1,5,2,1.0,0.0,Americas
+lilac,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+advano,1,1,1,1,0,1,13,5,1.0,0.0,Americas
+creapaper,0,0,0,0,0,0,1,1,,,
+plants laboratory,0,0,0,1,0,0,2,1,0.0,0.0,Asia
+greenlytics,0,0,0,0,0,0,1,1,1.0,1.0,Europe
+hello (other transportation),0,0,1,1,0,1,6,1,1.0,0.0,Asia
+hexafly,1,1,1,1,0,1,4,2,1.0,0.0,Europe
+your local greens,0,0,0,0,0,0,1,0,0.0,1.0,Americas
+daedalean,1,0,1,1,0,1,3,2,1.0,0.0,Europe
+depsys,1,0,1,1,0,0,3,2,,,
+farm from a box,0,0,0,0,0,0,2,1,,,
+prime roots,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+hyperborean,1,0,1,0,0,1,3,2,,,
+zaphiro,0,0,0,0,0,0,2,1,1.0,0.0,Europe
+fluidion,0,0,0,0,0,0,1,1,,,
+babylon micro-farms,0,0,1,1,0,1,7,1,1.0,0.0,Americas
+gegadyne energy,1,0,1,1,0,1,4,2,1.0,0.0,Asia
+gradient (electronics (b2c)),1,0,0,0,0,0,2,2,1.0,0.0,Americas
+ampersand (automotive),0,0,0,0,0,0,1,1,1.0,0.0,Africa
+microera power,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+terracoh,0,0,0,0,0,0,1,1,1.0,1.0,Americas
+nexton,1,1,1,1,0,0,2,2,1.0,0.0,Asia
+nanogence,0,0,0,0,0,0,2,1,1.0,0.0,Europe
+energyguard,0,1,0,0,0,1,3,1,1.0,0.0,Americas
+useful wastes,0,0,0,0,0,0,1,1,1.0,1.0,Europe
+aquacycl,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+zunum aero,1,0,0,1,0,0,2,2,,,
+lingrove,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+polycharge,0,0,0,0,0,0,2,0,0.0,0.0,Americas
+xerotech,0,0,0,0,0,0,1,1,0.0,1.0,Europe
+fomm,1,0,0,1,0,1,5,2,,,
+infinitum,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+airex,0,0,0,1,1,1,2,1,1.0,0.0,Europe
+agronet,0,0,0,0,0,0,1,1,,,
+orison,0,0,0,0,0,0,1,0,,,
+electra vehicles,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+hexxen,1,0,1,1,0,1,5,2,,,
+curie co,1,0,0,1,0,0,2,2,1.0,0.0,Americas
+ejoule,0,0,0,0,0,1,3,1,1.0,0.0,Americas
+beanstalk,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+finboot,0,0,0,1,0,0,3,1,1.0,0.0,Europe
+jupiter intelligence,0,0,1,0,0,1,3,1,1.0,0.0,Americas
+rebbl,0,0,0,0,0,0,2,1,,,
+bounce infinity,1,1,1,1,0,1,4,2,1.0,0.0,Asia
+solarhome,1,0,1,1,0,1,4,3,1.0,0.0,Asia
+goterra,1,1,1,0,0,0,3,3,1.0,0.0,Oceania
+boost biomes,1,1,1,1,1,1,7,4,1.0,0.0,Americas
+solatom,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+ohmconnect,1,0,1,1,1,1,9,4,1.0,0.0,Americas
+nithio,0,0,1,1,0,0,2,1,1.0,0.0,Americas
+native state foods,1,0,0,1,0,1,2,2,1.0,1.0,Americas
+cycloid,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+aurelia turbines,0,0,0,0,0,0,1,1,,,
+circular systems,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+hello cycling,1,1,1,1,1,1,8,2,1.0,0.0,Asia
+oizom,0,0,0,0,0,0,1,1,1.0,0.0,Asia
+national electric vehicle sweden,0,0,0,0,0,0,1,1,,,
+hibersense,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+ampup,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+nanotech energy,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+candam tech,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+bin-e,0,0,0,1,0,0,2,1,1.0,0.0,Europe
+redaptive,1,1,1,1,0,1,6,3,1.0,0.0,Americas
+anu (agriculture),0,0,0,0,0,0,1,1,1.0,0.0,Americas
+rfc power,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+provenance bio,1,0,0,1,0,0,2,2,1.0,0.0,Americas
+transcend packaging,0,0,1,0,0,0,2,1,1.0,0.0,Europe
+earthlabs (tsx: spot),0,0,0,0,0,0,1,0,0.0,0.0,Americas
+unisieve,0,0,1,0,0,0,2,1,1.0,0.0,Europe
+nimbus materials,0,0,0,0,0,0,1,0,,,
+spindrive,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+geltor,1,1,1,1,0,1,18,2,1.0,0.0,Americas
+oceano fresco,0,0,0,0,0,0,2,0,1.0,0.0,Europe
+checkerspot,1,0,1,1,0,1,7,3,1.0,0.0,Americas
+lightyear,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+chrg network,0,0,0,1,0,1,3,1,1.0,0.0,Europe
+japan wind tunnel manufacturing,0,0,0,1,0,1,2,1,0.0,0.0,Asia
+genecis,0,0,0,0,0,1,4,1,1.0,0.0,Americas
+mialgae,0,0,0,1,0,0,3,1,1.0,0.0,Europe
+fairtile,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+fluence bioengineering,0,0,0,0,0,0,1,0,,,
+conamix,1,0,1,1,0,1,5,2,1.0,0.0,Americas
+spark microsystems,0,0,0,0,0,0,2,1,0.0,0.0,Americas
+skip (automotive),1,0,0,1,0,1,5,4,1.0,0.0,Americas
+union (food products),0,0,0,0,0,0,1,1,,,
+eagronom,0,0,1,1,1,1,12,1,1.0,0.0,Europe
+grin scooter,1,0,1,1,0,1,20,4,1.0,0.0,Americas
+recykal,0,0,1,1,0,1,6,1,1.0,0.0,Asia
+sirocco energy,0,1,0,0,0,0,2,1,0.0,0.0,Americas
+bird global,1,1,0,1,1,1,16,3,1.0,0.0,Americas
+sealed,0,0,0,0,0,0,1,1,,,
+beta bugs,1,0,0,0,0,1,4,2,1.0,0.0,Europe
+green story,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+yulu,1,0,1,1,0,1,9,2,1.0,0.0,Asia
+origen,0,0,0,0,0,0,1,1,,,
+greenflux,0,0,1,0,0,1,4,1,,,
+hopflyt,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+transport phenomena technologies,0,0,0,0,0,0,1,1,1.0,1.0,Americas
+urban electric power,1,0,1,1,0,0,5,2,,,
+agriwebb,0,0,0,0,0,0,1,1,,,
+eggoz,1,0,1,1,1,1,7,2,1.0,0.0,Asia
+zwitterco,1,0,0,0,0,0,4,2,1.0,0.0,Americas
+new age eats,0,0,0,0,0,0,1,1,1.0,1.0,Americas
+ampaire,0,0,0,1,0,1,2,1,1.0,0.0,Americas
+stämm,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+yellow mobility solutions,0,0,0,0,0,1,6,1,0.0,0.0,Americas
+lupfe,0,0,0,0,0,0,1,1,,,
+kilowatt labs,0,0,0,0,0,0,1,0,,,
+water.io (tae: watr),1,1,0,1,0,1,5,2,1.0,0.0,Middle East
+qeebike,0,0,0,1,0,1,4,1,1.0,0.0,Asia
+algenesis materials,0,0,0,0,0,0,1,1,,,
+solstice power technologies,1,0,1,1,0,0,4,2,1.0,0.0,Americas
+amply power,1,1,1,1,0,1,14,3,1.0,0.0,Americas
+zonful energy,1,1,0,0,0,1,3,2,,,
+fora:butter,1,1,1,1,0,1,13,2,1.0,0.0,Americas
+zume,1,0,1,1,1,1,4,3,,,
+plant prefab,1,0,1,1,0,1,5,3,1.0,0.0,Americas
+keiryo,0,0,0,0,0,1,2,1,1.0,0.0,Europe
+the vurger co,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+aquasprouts,0,0,0,0,0,0,1,1,,,
+empel,0,0,0,1,0,0,3,1,,,
+advanced electric machines,1,0,0,0,0,0,2,2,1.0,0.0,Europe
+kilter,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+corumat,0,0,0,0,0,0,2,1,,,
+farmforce,0,0,0,0,0,0,1,1,,,
+evus,0,0,1,1,0,1,4,1,0.0,0.0,Americas
+recup,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+uhoo,1,0,1,1,1,1,6,2,1.0,0.0,Asia
+geospiza (business/productivity software),1,0,1,1,0,1,9,2,1.0,1.0,Americas
+scrap connection (netherlands),0,0,0,0,0,0,1,1,,,
+virta,0,0,0,1,0,0,2,1,,,
+pvcase,0,0,0,0,0,0,2,1,1.0,0.0,Europe
+kula bio,1,0,1,1,0,1,15,4,1.0,0.0,Americas
+kitro,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+tier mobility,1,0,0,1,0,1,11,2,1.0,0.0,Europe
+solugen,1,0,1,1,0,1,20,2,1.0,0.0,Americas
+zenith aerospace,1,0,0,0,0,0,2,2,1.0,0.0,Americas
+evanesce,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+ride (brazil),0,0,0,0,0,0,1,0,,,
+planetiq,1,0,1,1,1,1,11,4,,,
+wirelane,0,0,1,1,0,1,4,1,0.0,0.0,Europe
+ecobot,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+lucent biosciences,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+lo3 energy,1,0,1,0,0,1,7,2,,,
+hypersciences,0,0,1,1,0,1,20,1,1.0,0.0,Americas
+modvans,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+biorealize,0,0,0,0,0,0,1,1,1.0,1.0,Americas
+encamp,0,0,1,1,0,1,5,1,1.0,0.0,Americas
+delfos,1,1,0,1,0,1,3,2,1.0,0.0,Europe
+brc solar,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+hamama,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+last energy,1,0,0,1,0,0,2,2,1.0,0.0,Americas
+the cusp initiative,0,0,0,0,0,0,1,1,,,
+climateai,0,1,1,1,0,1,9,1,1.0,0.0,Americas
+luna (nashville),1,0,0,1,0,1,9,2,1.0,0.0,Americas
+daphne technology,0,1,1,0,0,0,2,1,1.0,0.0,Europe
+ekwateur,1,0,1,1,0,1,5,3,1.0,0.0,Europe
+terrafuse ai,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+revel,1,0,0,1,0,1,4,3,1.0,0.0,Americas
+shiok meats,1,1,1,1,0,1,11,3,1.0,0.0,Asia
+cornish lithium,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+energy vault holdings (nys: nrgv),1,0,0,0,0,1,2,2,1.0,0.0,Americas
+trion battery technologies,0,0,0,0,0,0,1,1,,,
+repurpose energy,0,0,1,0,0,1,5,1,1.0,0.0,Americas
+windmill,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+hps home power solutions,0,0,0,0,0,0,1,1,1.0,1.0,Europe
+chip[s] board,0,0,0,0,0,0,1,0,0.0,1.0,Europe
+s4 mobile laboratories,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+nanopattern technologies,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+oceanium,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+meoss,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+bond pet foods,0,0,0,1,0,1,4,1,0.0,0.0,Americas
+subsea micropiles,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+wise-integration,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+heila technologies,1,0,0,0,0,1,4,2,1.0,0.0,Americas
+soteria battery innovation group,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+gelatex,1,1,1,1,0,1,6,4,1.0,0.0,Europe
+celadyne,1,0,0,0,0,1,4,2,1.0,0.0,Americas
+move on,0,0,0,0,0,0,1,0,0.0,0.0,Middle East
+aquagreen,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+ororatech,0,0,1,0,0,1,6,1,1.0,0.0,Europe
+fork & good,1,0,0,1,0,1,3,2,1.0,0.0,Americas
+fazla,1,1,1,0,0,0,2,2,1.0,0.0,Middle East
+waha,0,0,0,0,0,0,2,1,0.0,0.0,Americas
+skyfora,0,0,1,0,0,0,2,1,1.0,0.0,Europe
+everestlabs,0,0,1,1,0,1,6,1,1.0,0.0,Americas
+aurora solar,0,0,1,1,0,1,5,1,,,
+oishii,1,1,1,1,0,1,6,2,1.0,0.0,Americas
+fsight,0,1,0,1,0,1,2,1,1.0,0.0,Middle East
+agrology,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+conovate,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+graphene composites,0,0,0,1,0,1,2,1,1.0,0.0,Europe
+redbud software,0,0,0,0,0,0,1,1,,,
+farmshelf,1,1,1,1,1,1,6,3,1.0,0.0,Americas
+iunu,1,0,1,1,0,1,6,3,,,
+coral vita,1,0,1,1,0,1,11,3,1.0,0.0,Americas
+sensorflow,1,1,1,0,0,1,15,3,1.0,0.0,Asia
+perch mobility,0,0,0,0,0,1,2,1,1.0,0.0,Americas
+cruz foam,1,0,1,1,0,1,3,3,1.0,0.0,Americas
+deedster,0,0,0,0,0,0,2,1,1.0,0.0,Europe
+ctfusion,0,0,0,0,0,0,1,1,0.0,1.0,Americas
+quick reach,0,0,0,0,0,0,1,0,,,
+angara global,0,0,0,1,0,1,9,1,0.0,0.0,Europe
+national safety inspections,0,0,0,0,0,0,1,0,,,
+nuru,1,1,1,1,0,1,3,2,1.0,0.0,Africa
+swell energy,1,0,0,1,0,1,3,2,1.0,1.0,Americas
+negawatt,0,0,0,0,0,0,1,1,,,
+puraffinity,1,1,0,1,0,1,5,4,1.0,0.0,Europe
+singularity energy,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+avant meats,1,1,0,1,0,1,3,2,1.0,0.0,Asia
+perennial,1,0,1,1,0,1,7,3,1.0,0.0,Americas
+nxu (pinx: nxur),0,0,0,0,0,0,1,1,,,
+c-motive,1,0,1,0,0,0,4,3,,,
+adaviv,1,0,1,1,0,1,11,3,1.0,0.0,Americas
+pachama,1,1,1,1,1,1,15,5,1.0,0.0,Americas
+embion technologies,0,0,1,1,0,0,3,1,1.0,0.0,Europe
+arkion (business/productivity software),0,0,0,0,0,0,1,1,1.0,0.0,Europe
+hygge power,1,0,0,1,0,1,2,2,1.0,0.0,Americas
+ionblox,0,0,1,1,0,1,4,1,0.0,0.0,Americas
+new culture,1,0,1,1,0,1,8,2,1.0,0.0,Americas
+socïvolta,1,0,1,1,0,1,6,3,1.0,0.0,Americas
+parmela creamery,1,0,1,1,0,1,3,2,1.0,0.0,Americas
+meati,1,1,1,1,0,1,8,5,1.0,0.0,Americas
+apb (japan),0,0,1,0,0,1,13,1,0.0,1.0,Asia
+ac biode,1,1,1,1,0,1,4,3,1.0,0.0,Asia
+neta auto,0,0,0,0,0,0,2,0,0.0,1.0,Asia
+eavor,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+fusion farms,0,0,0,0,0,0,1,0,,,
+blue eco line,0,0,0,0,0,1,4,1,1.0,0.0,Europe
+lettuce grow,1,0,1,1,1,1,5,3,1.0,0.0,Americas
+plento,0,1,0,0,0,0,2,1,0.0,1.0,Asia
+kuhmute,1,0,1,1,0,1,3,2,1.0,1.0,Americas
+allmade materials,0,0,0,1,0,1,3,1,0.0,0.0,Americas
+phuture,0,1,0,0,0,0,2,1,1.0,0.0,Asia
+airspace experience technologies,0,0,0,0,0,0,4,0,0.0,0.0,Americas
+eden (energy infrastructure),1,1,1,0,0,1,5,2,1.0,0.0,Americas
+prime life technologies,0,0,0,0,0,0,3,1,0.0,0.0,Asia
+okra solar,0,0,0,0,0,0,1,0,1.0,0.0,Oceania
+noops,1,0,1,1,0,1,4,2,1.0,1.0,Americas
+clean planet,0,0,0,0,0,0,1,0,,,
+microbyre,1,0,1,0,0,1,6,2,1.0,1.0,Americas
+domatic,1,0,0,1,0,1,11,4,1.0,0.0,Americas
+david energy,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+clir,1,0,0,1,0,1,3,2,1.0,0.0,Americas
+noblegen (biotechnology),0,1,0,0,0,1,3,1,,,
+sitehive,0,0,0,0,0,0,1,1,1.0,0.0,Oceania
+skyhook solar,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+lytos,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+nuventura,1,1,1,0,0,1,8,2,1.0,0.0,Europe
+ninewatt,0,0,0,0,0,0,1,1,1.0,0.0,Asia
+vaulta,0,0,0,0,0,0,1,1,1.0,0.0,Oceania
+infinite acres,0,0,0,0,0,0,3,0,0.0,0.0,Europe
+evmatch,0,0,1,1,0,0,6,1,1.0,0.0,Americas
+chargicity,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+wattmore,1,0,1,1,0,1,4,4,1.0,0.0,Americas
+xocean,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+nextore,0,0,1,0,0,1,2,1,0.0,0.0,Oceania
+igs,1,1,1,0,0,0,3,2,,,
+lancey energy storage,1,0,0,0,0,0,3,2,1.0,0.0,Europe
+wallbox (nys: wbx),0,0,0,0,0,1,2,1,1.0,0.0,Europe
+agnetix,0,0,1,1,0,1,2,1,0.0,0.0,Americas
+boaz bikes,1,0,0,1,0,1,4,2,1.0,0.0,Americas
+setpoint (electronic equipment and instruments),1,1,0,0,0,0,2,2,1.0,0.0,Middle East
+enerpoly,0,0,0,0,0,0,1,1,1.0,1.0,Europe
+nth cycle,1,0,0,0,0,0,2,2,1.0,0.0,Americas
+earth ai,1,1,1,1,0,1,16,4,1.0,0.0,Americas
+jolt,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+invers,0,0,0,1,0,1,2,1,0.0,0.0,Europe
+simulate,1,1,1,1,1,1,16,5,1.0,0.0,Americas
+sensor industries,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+moku foods,1,0,1,1,0,1,18,2,1.0,0.0,Americas
+nzero,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+reharvest provisions,0,0,0,0,0,0,1,1,1.0,1.0,Americas
+mori (specialty chemicals),1,0,1,1,0,1,10,4,1.0,0.0,Americas
+titan advanced energy solutions,0,0,1,0,0,1,2,1,1.0,0.0,Americas
+egg technology,0,0,0,0,0,0,1,1,,,
+kugu,0,0,1,1,0,1,6,1,0.0,0.0,Europe
+syzygy plasmonics,1,0,1,1,0,1,8,4,1.0,0.0,Americas
+cell propulsion,0,0,1,1,0,1,4,1,1.0,0.0,Asia
+urban sky,0,0,0,1,0,1,4,1,1.0,0.0,Americas
+artesa,0,0,0,1,0,1,2,1,,,
+redox power systems,0,0,0,0,0,0,1,1,,,
+bluwave-ai,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+loop (environmental services (b2b)),1,1,0,0,0,0,3,3,1.0,0.0,Americas
+aquaponic management project,0,0,0,0,0,0,3,0,0.0,0.0,Europe
+respiq,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+energyx technologies,0,0,1,1,0,1,6,1,1.0,0.0,Asia
+upside foods,1,0,1,1,1,1,31,3,1.0,0.0,Americas
+marvelous foods,0,0,0,0,0,0,1,1,1.0,0.0,Asia
+xos (nas: xos),1,1,0,1,0,1,4,2,1.0,0.0,Americas
+wheels,1,0,1,1,0,1,10,4,1.0,0.0,Americas
+tcs (business/productivity software),1,0,1,1,0,1,8,2,1.0,0.0,Americas
+ocean oasis,1,0,0,1,0,1,3,2,1.0,0.0,Europe
+solar foods (hel: sfoods),0,0,1,0,0,1,5,1,1.0,0.0,Europe
+elevate vertical farms,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+electro-active technologies,0,0,1,0,0,1,4,1,1.0,0.0,Americas
+syncris,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+infraprime logistics technologies,0,1,0,0,0,0,2,1,1.0,0.0,Asia
+planet a energy,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+presso,1,0,1,1,0,1,5,2,1.0,0.0,Americas
+kapsul air,1,0,1,1,0,1,3,2,1.0,0.0,Americas
+60hertz,1,0,1,1,0,0,3,2,1.0,0.0,Americas
+reit ev,1,1,0,1,0,1,2,2,1.0,1.0,Asia
+miwa,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+suncolombia,0,0,0,0,0,0,1,1,,,
+peafowl plasmonics,0,0,1,0,0,1,3,1,1.0,1.0,Europe
+kobold metals,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+skilancer solar,1,0,0,0,1,0,3,2,1.0,0.0,Asia
+micromobility.com,1,0,0,1,1,1,3,2,1.0,1.0,Americas
+komp-act,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+hooray foods,0,1,0,0,0,1,3,1,1.0,1.0,Americas
+biocraft,0,1,0,1,0,1,3,1,1.0,0.0,Europe
+retein,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+mpower technology,0,0,0,1,0,1,3,1,1.0,0.0,Americas
+numocity,1,1,1,1,1,0,3,2,1.0,0.0,Asia
+zaahh,0,0,0,0,0,0,2,0,0.0,0.0,Americas
+barocal,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+tesselo,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+joule case,0,0,1,1,0,1,2,1,1.0,0.0,Americas
+transaera,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+american ostrich farms,0,0,0,0,0,0,1,1,,,
+porotech,0,0,1,1,0,1,6,1,1.0,0.0,Europe
+arbol (commercial/professional insurance),1,0,1,1,0,1,5,2,1.0,0.0,Americas
+xframe,0,0,0,0,0,0,1,1,0.0,0.0,Oceania
+first airborne,0,0,0,0,0,0,1,1,1.0,0.0,Middle East
+jaza energy,1,1,1,0,0,1,6,3,1.0,0.0,Americas
+susteon,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+natron energy,1,0,1,0,0,1,8,3,,,
+aanika,0,0,1,1,0,1,5,1,1.0,0.0,Americas
+scale microgrid solutions,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+zitara,1,0,0,0,0,1,2,2,1.0,0.0,Americas
+arc marine,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+evergen,0,0,1,1,0,0,2,1,0.0,0.0,Oceania
+valent low-carbon technologies,0,0,0,0,0,1,2,1,0.0,0.0,Americas
+afyren (par: alafy),0,0,1,1,0,1,8,1,,,
+atrevida science,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+sophie heat recovery,0,0,0,0,0,0,1,1,,,
+darcy solutions,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+les alchimistes,0,0,1,1,0,0,3,1,0.0,0.0,Europe
+manocap energy,1,1,1,1,0,1,4,3,1.0,0.0,Africa
+cmblu energy,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+byfusion,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+little leaf farms,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+overair,0,0,0,0,0,0,1,0,,,
+leap,1,0,1,1,0,1,7,2,1.0,0.0,Americas
+neuron mobility,1,1,1,1,1,1,7,2,1.0,0.0,Asia
+amai proteins,0,1,1,1,0,1,11,1,1.0,0.0,Middle East
+aeroshield,1,0,1,1,0,1,11,6,1.0,0.0,Americas
+sound agriculture,0,0,0,0,0,0,2,1,,,
+polymertal,0,0,0,1,0,0,4,1,,,
+hydrogenious lohc,0,1,1,1,0,1,5,1,,,
+fabric.ai (nas: fabc),0,0,0,0,0,0,1,0,0.0,0.0,Americas
+debut biotechnology,1,1,0,1,0,1,4,4,1.0,0.0,Americas
+seatrac,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+electriphi,1,0,0,1,0,0,5,2,1.0,0.0,Americas
+unigen power,0,0,0,0,0,0,1,0,,,
+planetary technologies (energy),1,0,0,1,0,1,4,2,1.0,0.0,Americas
+biomass controls,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+tre tau engineering (italy),0,0,0,0,0,1,2,1,,,
+greenonyx,0,0,0,0,0,0,1,1,,,
+vividye,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+wildplastic,0,0,1,1,0,1,6,1,0.0,0.0,Europe
+princeton nuenergy,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+sesu.ai,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+breathe,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+brightwater tools,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+industrial climate solutions,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+britishvolt,0,0,0,0,0,1,3,1,1.0,0.0,Europe
+crossfield fusion,0,0,1,0,0,0,2,1,1.0,0.0,Europe
+diffuse energy,0,0,1,0,0,1,7,1,1.0,1.0,Oceania
+ecopackables,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+crosslink,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+land,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+casju,0,0,0,0,0,0,1,0,0.0,1.0,Europe
+urbankisaan,1,1,1,1,0,1,7,3,1.0,0.0,Asia
+alchemr,1,0,1,0,0,0,2,2,1.0,0.0,Americas
+veir,0,0,0,1,0,0,3,1,1.0,0.0,Americas
+superbin,0,1,1,1,1,1,11,1,1.0,0.0,Asia
+turtletree,1,1,1,1,0,1,7,3,1.0,0.0,Asia
+deep isolation,1,0,0,1,0,1,4,2,1.0,0.0,Americas
+zeno power,1,0,0,1,0,1,7,2,1.0,0.0,Americas
+enviro power,0,0,1,0,0,1,6,1,,,
+vlinder,0,0,0,0,0,0,2,1,1.0,0.0,Europe
+conservation labs,1,0,1,1,0,1,10,2,1.0,0.0,Americas
+powerx (business/productivity software),1,1,0,1,0,0,3,3,1.0,0.0,Americas
+aeromutable,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+nori (environmental services),1,1,1,1,0,1,8,5,1.0,1.0,Americas
+yotta energy,1,1,1,0,0,1,3,2,1.0,0.0,Americas
+notpla,1,1,1,0,1,1,6,5,1.0,0.0,Europe
+sun exchange,0,0,0,0,0,0,1,0,1.0,0.0,Africa
+electric royalties (tsx: elec),0,0,0,0,0,0,1,0,,,
+arrival uk,0,0,1,0,0,1,3,1,1.0,1.0,Europe
+appharvest,0,0,1,1,1,1,4,1,1.0,1.0,Americas
+aworld,0,0,0,0,1,1,2,1,1.0,0.0,Europe
+enpowered,1,0,1,1,0,1,11,3,1.0,0.0,Americas
+daiz,0,1,1,1,0,1,11,1,1.0,0.0,Asia
+evocco,1,0,0,1,0,1,3,2,1.0,1.0,Europe
+loam,1,1,1,1,0,1,6,2,1.0,0.0,Oceania
+sparkchange (financial software),1,0,1,0,0,1,8,2,1.0,0.0,Europe
+nuleaf tech,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+space power,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+ecodudu,0,0,0,0,0,0,2,0,0.0,0.0,Africa
+hungry harvest,1,1,1,1,0,1,7,2,1.0,0.0,Americas
+nitricity,1,1,1,1,0,1,18,3,1.0,0.0,Americas
+voltstorage,1,1,1,1,0,1,8,3,1.0,1.0,Europe
+novomoto,0,0,0,0,0,0,1,1,1.0,1.0,Americas
+ubirator,0,0,0,1,0,1,3,1,1.0,0.0,Europe
+emergent energy (alternative energy equipment),0,0,0,0,0,0,1,1,1.0,0.0,Europe
+sinai,1,0,0,1,0,1,5,2,1.0,0.0,Americas
+kvasir technologies,0,0,0,0,0,0,2,1,0.0,0.0,Europe
+nikola (pinx: nklaq),0,0,0,0,0,0,1,0,,,
+carbon america,1,0,1,1,0,1,7,3,1.0,0.0,Americas
+knowde,1,0,0,0,0,1,5,4,1.0,0.0,Americas
+blue frontier,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+oned battery sciences,1,0,0,0,0,1,4,3,,,
+prometheus fuels,1,1,1,1,0,1,4,4,1.0,0.0,Americas
+lilium (pinx: lilmf),1,1,1,1,1,1,10,4,,,
+juno,1,1,1,1,0,1,12,6,1.0,0.0,Americas
+plasmabound,0,0,1,0,0,1,2,1,1.0,0.0,Europe
+capsero,0,0,0,0,0,0,1,0,,,
+audette,1,1,0,1,0,1,4,3,1.0,0.0,Americas
+pathzero,0,1,1,1,0,1,6,1,1.0,0.0,Oceania
+trace (environmental services),0,0,0,0,0,0,1,1,1.0,0.0,Oceania
+polymateria,1,0,0,0,0,0,2,2,1.0,0.0,Europe
+ecoworks,1,0,0,1,0,1,10,2,1.0,0.0,Europe
+hungry planet,1,1,1,1,0,1,8,4,1.0,0.0,Americas
+coreshell,1,0,1,1,0,1,9,5,1.0,0.0,Americas
+clim8 (financial software),0,1,1,0,0,1,3,1,1.0,1.0,Europe
+jaunt air mobility,0,0,0,0,0,0,2,0,0.0,0.0,Americas
+circunomics,1,0,1,1,0,1,5,3,1.0,0.0,Europe
+the next closet,0,0,1,1,0,1,6,1,,,
+propagate,0,0,1,0,0,0,3,1,1.0,0.0,Americas
+hdata,0,0,0,0,0,0,9,0,1.0,0.0,Americas
+enginzyme,1,0,1,1,0,0,3,2,1.0,0.0,Europe
+recharge (automotive),0,0,0,0,0,0,1,1,,,
+qmerit,1,1,1,1,0,0,3,2,1.0,0.0,Americas
+airovation technologies,0,0,1,0,0,1,3,1,1.0,0.0,Middle East
+econcrete,1,1,0,1,0,1,3,2,,,
+dendra,1,1,1,0,0,1,11,5,1.0,0.0,Europe
+energicity,1,0,1,1,0,0,2,2,1.0,0.0,Americas
+kitepower,0,0,0,1,0,0,4,1,1.0,0.0,Europe
+qdot technology,0,0,1,0,0,0,3,1,1.0,0.0,Europe
+company six,1,0,1,1,0,1,6,3,1.0,1.0,Americas
+agrint,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+rise (consumer durables),1,0,1,0,0,1,10,3,1.0,0.0,Americas
+airly (business/productivity software),1,1,1,1,1,1,10,3,1.0,0.0,Europe
+growberry,0,0,0,0,0,0,1,1,1.0,1.0,Europe
+glanris,1,0,0,0,0,1,5,2,1.0,0.0,Americas
+blue sky analytics,1,1,1,1,0,1,7,3,1.0,0.0,Asia
+divirod,0,0,1,1,0,1,3,1,1.0,0.0,Americas
+euler motors,0,0,1,1,0,1,10,1,1.0,0.0,Asia
+quaise energy,0,0,0,1,0,1,4,1,1.0,0.0,Americas
+greyparrot,1,1,1,1,0,1,5,4,1.0,0.0,Europe
+spero,1,1,1,1,0,1,9,6,1.0,0.0,Americas
+the concept,0,0,0,0,0,0,1,1,0.0,1.0,Middle East
+ambee,0,1,1,0,0,1,7,1,1.0,0.0,Americas
+fenice energy,0,1,0,1,0,1,2,1,0.0,0.0,Asia
+xl batteries,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+vertical future,0,0,0,0,0,0,1,1,1.0,1.0,Europe
+one concern,1,0,1,1,1,1,17,5,1.0,0.0,Americas
+reeldata ai,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+sicona battery technologies,1,0,1,1,0,1,4,2,1.0,0.0,Oceania
+recycleye,1,0,0,1,0,1,5,2,1.0,0.0,Europe
+utility stream,1,0,1,1,0,0,2,2,1.0,0.0,Europe
+purfi,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+solarx|works,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+captoplastic,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+zipp mobility,0,0,0,1,0,0,2,1,0.0,0.0,Europe
+aspire (animal husbandry),0,0,0,0,0,0,1,1,,,
+infarm,1,1,1,1,1,1,13,4,,,
+mill industries,0,0,1,0,0,1,3,1,1.0,0.0,Americas
+passivelogic,1,1,1,1,0,1,6,4,1.0,0.0,Americas
+purecycle technologies (nas: pct),0,0,1,1,0,1,3,1,1.0,0.0,Americas
+swift solar,1,0,1,1,0,1,11,3,1.0,0.0,Americas
+carbonchain,1,1,0,1,0,1,9,5,1.0,0.0,Europe
+parallel systems (los angeles),1,0,0,0,0,0,3,3,1.0,0.0,Americas
+fisker,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+dextall,0,0,1,1,0,1,4,1,0.0,0.0,Americas
+flash forest,0,0,0,0,0,0,4,0,1.0,0.0,Americas
+gaiamer,0,0,0,0,0,0,1,0,,,
+prolific machines,0,0,0,0,0,1,4,1,1.0,0.0,Americas
+overstory,1,1,0,1,0,1,6,4,1.0,0.0,Europe
+flooid power,0,0,0,0,0,0,7,0,0.0,0.0,Americas
+myst ai,0,0,0,0,0,1,3,1,1.0,0.0,Americas
+shellworks,1,1,1,1,1,1,9,2,1.0,0.0,Europe
+utilidata,0,0,0,1,0,1,5,1,,,
+archer aviation (nys: achr),1,1,1,1,1,1,10,4,1.0,0.0,Americas
+pontus water lentils,0,0,0,0,0,0,1,0,,,
+sunswap,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+oats'up,0,0,0,0,0,0,1,1,,,
+biotech foods,1,0,0,0,0,0,2,2,1.0,0.0,Europe
+exci,0,0,0,0,0,0,1,1,,,
+ifarm,0,1,1,1,0,1,8,1,1.0,0.0,Europe
+the emerald tutu,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+nu ride (pinx: nrde),0,0,0,0,0,0,1,0,,,
+edgehog,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+revolution gelato,0,0,0,1,0,1,3,1,,,
+guangzhou xiaopeng motors technology (hkg: 09868),1,1,1,1,0,1,5,3,1.0,0.0,Asia
+verkor,0,0,0,1,0,1,3,1,1.0,0.0,Europe
+powertap,0,0,0,0,0,0,1,0,,,
+toledo solar,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+treefree,0,0,0,0,0,1,2,1,0.0,0.0,Asia
+sensegrass technologies,0,1,0,0,0,1,3,1,1.0,0.0,Asia
+canoo,0,0,0,0,0,0,1,0,1.0,1.0,Americas
+power roll,1,0,1,1,0,1,8,2,,,
+evage motors,0,0,0,0,0,0,5,0,1.0,0.0,Asia
+rhombus energy solutions,1,1,0,1,0,1,5,4,,,
+met3r,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+lytehorse,0,0,0,0,0,0,1,1,,,
+project canary,1,0,0,1,0,1,3,2,1.0,0.0,Americas
+ecolution power,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+cowboy clean fuels,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+peace of meat,0,0,0,0,0,0,1,0,1.0,1.0,Europe
+forest carbon works,0,0,0,0,0,0,1,1,,,
+taxus it,0,0,0,0,0,0,1,1,,,
+eodev,0,0,0,0,0,0,5,1,1.0,0.0,Europe
+apparatus,1,0,1,1,0,1,7,3,1.0,0.0,Americas
+kettle,1,0,0,0,1,1,6,4,1.0,0.0,Americas
+eva (air),1,0,1,1,0,0,2,2,1.0,0.0,Americas
+enernet global,0,0,0,0,0,0,2,0,0.0,0.0,Americas
+blue planet systems,1,0,0,0,1,1,5,2,,,
+farmqa,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+patch,1,1,1,1,0,1,4,2,1.0,0.0,Americas
+devotion food,1,1,1,1,0,1,4,2,1.0,0.0,Asia
+chargerhelp!,1,0,0,1,1,0,7,3,1.0,0.0,Americas
+liquid wind,0,0,0,0,0,1,3,1,1.0,1.0,Europe
+ecobodaa,0,0,0,0,0,0,1,1,0.0,1.0,Africa
+tiamat sciences,1,0,0,1,0,0,2,2,1.0,1.0,Americas
+lasso food technologies,0,0,0,0,0,1,2,1,1.0,0.0,Americas
+ishence agtech,0,1,0,0,0,0,2,1,0.0,1.0,Middle East
+ecomar propulsion,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+heartfoods,0,0,0,0,0,0,1,0,,,
+hyzon fuel cell,1,0,1,0,1,1,5,2,1.0,0.0,Americas
+optibus,0,1,1,1,1,1,9,1,1.0,0.0,Middle East
+romeo power,0,0,0,0,0,1,2,1,1.0,0.0,Americas
+traceless,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+hooked (food products),1,1,1,1,0,1,9,3,1.0,1.0,Europe
+zauben,1,0,1,1,0,0,2,2,1.0,0.0,Americas
+dash energy,0,0,0,0,0,0,1,1,0.0,1.0,Americas
+mozza foods,1,0,0,1,0,1,6,3,1.0,0.0,Americas
+sust global,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+v2food,1,1,1,1,0,1,11,4,1.0,0.0,Oceania
+everfuel,1,0,1,0,0,1,4,3,1.0,0.0,Europe
+lavle,0,0,0,0,0,0,1,0,0.0,1.0,Americas
+sunvigo,0,0,1,0,0,0,2,1,1.0,1.0,Europe
+koalalifter,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+solarduck,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+allonnia,1,0,1,1,0,1,5,2,1.0,0.0,Americas
+the hydrogen group,0,0,0,0,0,0,2,0,0.0,0.0,Americas
+enerdrape,0,0,0,0,0,1,2,1,1.0,0.0,Europe
+green li-ion,0,1,0,1,0,1,5,1,1.0,0.0,Asia
+bullfinch,0,0,1,1,0,1,5,1,1.0,0.0,Europe
+the new (food products),1,0,0,1,0,1,4,2,1.0,1.0,Americas
+fortum (alternative energy equipment),0,0,0,0,0,0,1,0,,,
+cellcentric (electrical equipment),0,0,0,0,0,0,1,0,0.0,0.0,Europe
+aeoncharge,0,0,0,0,0,0,2,0,1.0,0.0,Americas
+metron,1,1,1,1,0,1,8,6,,,
+matrix f.t.,1,0,1,1,1,1,7,2,1.0,0.0,Americas
+caldera,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+atmo,1,1,1,1,1,1,17,4,1.0,0.0,Americas
+sea electric,0,0,0,0,0,0,3,0,,,
+barta,1,0,1,0,0,1,4,2,,,
+t4l,0,0,0,0,0,0,1,0,0.0,1.0,Americas
+resilient entanglement,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+portable electric,1,0,1,1,0,1,3,2,1.0,0.0,Americas
+mint innovation,0,0,1,1,0,1,8,1,1.0,0.0,Oceania
+rheom materials,1,0,1,0,0,1,8,3,1.0,0.0,Americas
+blue world technologies,0,0,0,0,0,1,2,1,1.0,0.0,Europe
+entoprot,0,0,0,0,0,0,3,1,1.0,0.0,Europe
+core biogenesis,1,1,1,1,0,1,5,3,1.0,0.0,Europe
+foodyworm,1,0,1,0,1,1,5,2,0.0,0.0,Asia
+aphea.bio,0,0,1,1,0,1,11,1,1.0,0.0,Europe
+red horticulture,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+strong by form,1,1,0,1,0,1,7,2,1.0,0.0,Europe
+helios (petah tikva),1,0,1,1,0,1,2,2,1.0,0.0,Middle East
+cypher ( media and information services),1,0,1,1,0,1,13,3,1.0,1.0,Americas
+framespace,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+mosa meat,1,1,1,1,1,1,16,5,1.0,0.0,Europe
+dcbel,1,0,0,0,0,0,4,3,,,
+remilk,0,1,1,1,0,1,15,1,0.0,0.0,Middle East
+novamera,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+bergen carbon solutions (osl: bcs),0,0,0,0,0,1,2,1,0.0,0.0,Europe
+electric last mile solutions,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+ampion (other energy services),0,0,0,0,0,0,1,0,0.0,0.0,Americas
+cleartrace,1,0,1,1,0,1,5,3,1.0,0.0,Americas
+upstart power,0,0,0,0,0,1,3,1,1.0,0.0,Americas
+fortuna cools,1,1,1,1,1,1,6,3,1.0,0.0,Asia
+platio,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+brighte,1,0,0,1,0,1,6,2,1.0,0.0,Oceania
+nossa data,1,1,1,1,0,1,3,3,1.0,0.0,Europe
+noon energy,0,0,1,0,0,1,4,1,1.0,0.0,Americas
+hoxton farms,1,1,0,1,0,1,8,2,1.0,0.0,Europe
+versogen,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+kanin energy,1,1,0,0,0,1,4,3,1.0,0.0,Americas
+graphene manufacturing group (tsx: gmg),0,0,0,0,0,0,1,0,1.0,0.0,Oceania
+wigl,0,0,0,0,0,0,1,0,,,
+scanifly,1,0,0,1,0,1,4,2,1.0,0.0,Americas
+myeasyfarm,0,0,1,0,0,1,3,1,1.0,0.0,Europe
+redefine meat,1,1,1,1,1,1,8,3,1.0,0.0,Middle East
+ground control (business/productivity software),0,0,0,0,0,0,1,1,,,
+bia (business/productivity software),1,0,0,0,0,0,2,2,1.0,0.0,Europe
+copenhagen atomics,1,1,1,0,0,1,4,2,1.0,0.0,Europe
+waterjade,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+quanterra,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+because (business/productivity software),0,0,0,0,0,0,1,0,1.0,0.0,Europe
+horse (automotive),0,0,0,0,0,0,1,0,0.0,0.0,Asia
+solarsteam,1,1,1,0,0,1,12,2,1.0,0.0,Americas
+wegot utility solutions,0,0,1,1,0,1,7,1,1.0,0.0,Asia
+dewarmte,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+lux bio,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+peregrine (environmental services (b2b)),0,0,0,0,0,0,1,1,1.0,1.0,Europe
+standard carbon,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+hystar,1,0,1,0,0,0,3,2,1.0,0.0,Europe
+ev.energy,1,1,1,0,0,1,8,5,1.0,0.0,Europe
+change foods,0,1,1,1,0,1,30,1,0.0,0.0,Americas
+epoch biodesign,1,1,1,0,0,1,7,4,1.0,0.0,Europe
+peak power,0,0,1,0,0,1,6,1,1.0,0.0,Americas
+kyf,0,0,0,0,0,0,1,0,,,
+carbonworks,0,0,0,0,0,1,2,1,0.0,0.0,Europe
+plantaform,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+starfield(shenzhen),0,0,1,1,1,1,6,1,1.0,0.0,Asia
+shandi,1,1,1,0,1,1,8,2,1.0,0.0,Asia
+meridian clean energy,0,0,0,0,0,0,1,1,,,
+lithion technologies,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+simple,0,1,0,1,0,1,5,1,1.0,0.0,Asia
+hydgene renewables,0,0,0,0,0,0,1,0,1.0,0.0,Oceania
+physee,0,0,1,1,0,1,8,1,1.0,0.0,Europe
+salpha energy,0,0,0,0,0,0,1,1,0.0,0.0,Africa
+nimble farms,0,0,0,0,0,1,3,1,0.0,0.0,Americas
+cultivo,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+oodles energy,0,0,0,0,0,0,1,0,0.0,1.0,Americas
+ocochem,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+oxygen8,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+save trees,1,0,1,0,0,1,6,3,1.0,0.0,Americas
+mirai international,0,0,1,1,1,1,5,1,0.0,0.0,Europe
+ekona power,1,1,1,1,0,1,14,3,1.0,0.0,Americas
+faraday&future (nas: ffai),0,0,0,0,0,0,1,0,1.0,0.0,Americas
+cultured decadence,1,0,1,1,0,1,12,4,1.0,0.0,Americas
+progressus clean technologies,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+mintgreen,0,0,1,0,0,1,14,1,1.0,0.0,Americas
+smart joules,1,1,1,1,0,1,12,2,1.0,0.0,Asia
+hero protein,0,1,1,1,0,1,3,1,1.0,0.0,Asia
+exnaton,1,1,1,1,0,1,5,2,1.0,0.0,Europe
+applied impact robotics,1,1,1,1,0,1,4,2,1.0,0.0,Americas
+inseact,1,1,1,1,0,1,5,2,1.0,0.0,Asia
+mission barns,1,1,1,1,1,1,25,6,1.0,0.0,Americas
+lanzajet,0,0,0,0,1,1,3,1,1.0,0.0,Americas
+fermi energia,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+quick smart wash,0,0,0,0,0,0,1,0,,,
+endera,0,0,0,0,0,0,2,0,1.0,0.0,Americas
+sea forest (asx: sea),0,0,0,0,0,0,2,1,1.0,0.0,Oceania
+li-cycle,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+moleaer,1,1,1,1,0,1,6,2,1.0,0.0,Americas
+brill power,1,1,1,1,0,1,9,3,1.0,0.0,Europe
+autonomy,0,0,1,1,0,1,25,1,1.0,0.0,Americas
+stegra,1,1,1,1,0,1,16,2,1.0,0.0,Europe
+jiva materials,0,0,1,0,0,1,5,1,1.0,0.0,Europe
+malta,0,0,1,1,0,1,6,1,1.0,0.0,Americas
+amogy,0,1,0,1,0,1,4,1,1.0,0.0,Americas
+electricfish energy,1,1,1,1,0,1,6,2,1.0,0.0,Americas
+river mobility,1,0,0,1,0,0,2,2,1.0,0.0,Asia
+infinitum energy,0,0,0,0,0,0,1,1,,,
+handprint,0,0,0,0,0,0,1,0,1.0,0.0,Asia
+xampla,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+laminar scientific,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+flux hybrids,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+lionvolt,0,0,1,1,0,1,5,1,1.0,0.0,Europe
+digested organics,0,0,0,0,0,0,2,1,,,
+kinetic pressure control,0,0,1,0,0,1,3,1,0.0,0.0,Americas
+terraformation,0,0,1,1,0,0,4,1,1.0,0.0,Americas
+aerbio,0,1,0,0,0,0,2,1,1.0,0.0,Europe
+applied bioplastics,1,1,0,0,0,1,2,2,1.0,0.0,Americas
+vibrant planet,1,0,1,1,0,1,13,2,1.0,0.0,Americas
+vonmercier,0,0,0,0,1,0,3,1,,,
+ocergy,0,0,0,0,0,0,2,1,0.0,0.0,Americas
+green rebel foods,1,1,1,1,0,0,9,2,1.0,0.0,Asia
+fervo energy (nas: frvo),0,0,1,1,0,1,11,1,1.0,0.0,Americas
+solv8,0,0,0,1,0,1,3,1,0.0,0.0,Asia
+regen insights,1,1,0,0,0,1,3,2,1.0,1.0,Europe
+gross-wen technologies,0,0,1,1,0,1,9,1,1.0,0.0,Americas
+heimdall power,0,0,1,1,0,1,9,1,0.0,0.0,Europe
+tandem pv,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+upward farms,1,0,0,1,0,1,9,3,,,
+evpassport,0,0,0,1,0,0,2,1,0.0,0.0,Americas
+forever ware,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+sylvera,1,1,0,1,0,1,6,4,1.0,0.0,Europe
+hercules electric mobility,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+re:dish,0,0,0,1,0,1,3,1,1.0,0.0,Americas
+electric hydrogen,0,0,1,1,0,0,4,1,1.0,0.0,Americas
+ripe building services,0,0,1,1,0,0,4,1,1.0,0.0,Europe
+numu,0,0,0,1,0,0,2,1,0.0,0.0,Americas
+verity (metal containers & packaging),1,0,1,1,1,1,7,2,1.0,0.0,Americas
+allinfra,1,1,1,0,0,1,5,2,1.0,0.0,Asia
+kevinlab,0,0,0,0,0,0,1,1,1.0,0.0,Asia
+lower carbon certifed,0,0,0,0,0,0,1,1,,,
+ni-cat,0,1,1,1,0,1,5,1,1.0,0.0,Middle East
+solar materials,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+heliac,0,1,0,0,0,1,2,1,1.0,0.0,Europe
+log9 materials,1,1,1,1,1,1,14,2,1.0,0.0,Asia
+dabbel,1,1,1,1,0,1,4,2,1.0,0.0,Europe
+pratexo,1,1,0,1,0,0,5,2,1.0,0.0,Americas
+enelion,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+novoloop,1,1,1,1,1,1,11,4,1.0,0.0,Americas
+oshi (food products),1,1,1,1,0,1,8,2,1.0,0.0,Middle East
+rivus,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+rda climate solutions,0,0,0,0,0,0,1,0,,,
+h3x,1,0,1,1,1,1,14,2,1.0,0.0,Americas
+tortoise (electronic equipment and instruments),1,0,1,1,0,1,24,3,1.0,1.0,Americas
+oakwood construction services,0,0,0,0,0,0,1,0,,,
+archaea energy,1,1,1,1,0,1,5,3,1.0,0.0,Americas
+hypervolt,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+upright (food products),0,0,0,0,0,0,1,1,1.0,0.0,Americas
+persefoni,1,0,1,1,0,1,6,2,1.0,0.0,Americas
+emitwise,1,1,1,1,0,1,11,5,1.0,0.0,Europe
+hydrosat,1,1,0,1,1,1,11,4,1.0,0.0,Americas
+simple homes,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+circular rubber technologies,0,1,0,0,0,0,2,1,,,
+ceres ai,1,0,0,1,1,1,13,5,,,
+algramo,1,1,1,1,1,1,10,6,,,
+hylium industries,1,0,1,0,1,1,15,2,1.0,0.0,Asia
+motif foodworks,1,0,1,1,0,1,15,3,1.0,1.0,Americas
+rts (commercial services),1,0,1,1,0,1,7,3,1.0,0.0,Americas
+boox (containers and packaging),1,0,0,0,0,1,4,2,1.0,0.0,Americas
+xbuild,1,0,1,1,0,0,5,4,1.0,0.0,Americas
+im3ny,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+zap energy,1,0,1,0,0,1,9,3,1.0,0.0,Americas
+universal hydrogen,1,1,1,1,0,1,14,6,1.0,1.0,Americas
+butlr,1,1,1,1,0,1,22,6,1.0,0.0,Americas
+adept materials,1,0,1,0,0,0,3,3,1.0,0.0,Americas
+made of air,1,1,1,1,0,1,8,2,1.0,0.0,Europe
+rstream,0,0,1,0,0,1,3,1,1.0,0.0,Americas
+brami,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+greenplaces,0,1,1,1,1,1,9,1,1.0,0.0,Americas
+sublime systems,1,0,1,1,0,0,5,2,1.0,0.0,Americas
+lumen energy,1,0,0,1,0,0,3,3,1.0,0.0,Americas
+agreena,1,0,1,0,0,0,3,2,1.0,0.0,Europe
+abatable,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+ampd energy,0,1,1,0,0,0,3,1,1.0,0.0,Asia
+sunroof technology,1,0,1,1,0,1,10,2,1.0,0.0,Europe
+branch energy,1,1,1,1,0,1,10,4,1.0,0.0,Americas
+energyx,0,0,1,1,0,1,5,1,1.0,0.0,Americas
+moxion power,1,0,0,0,0,1,7,2,1.0,1.0,Americas
+living carbon,1,1,1,1,1,1,31,6,1.0,0.0,Americas
+urban tiller,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+gropyus,0,0,1,0,0,1,2,1,1.0,0.0,Europe
+eeki,0,0,1,1,0,1,9,1,1.0,0.0,Asia
+okinawa autotec,0,0,0,0,0,0,2,0,0.0,0.0,Asia
+plant factory (horticulture),0,0,0,0,0,0,1,0,,,
+encina,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+veo (automotive),1,0,1,1,0,1,7,4,1.0,0.0,Americas
+hysata,0,0,1,0,0,0,3,1,1.0,0.0,Oceania
+basigo,1,1,0,1,0,1,6,5,1.0,0.0,Africa
+andluca,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+driven plastics,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+no evil foods,1,0,1,1,0,1,5,2,1.0,0.0,Americas
+halo industries,1,0,0,1,0,1,3,2,1.0,0.0,Americas
+n-sense,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+hdf energy (par: hdf),0,0,0,0,0,0,1,0,,,
+ezraider global (pinx: ezrg),0,0,0,0,0,0,1,0,,,
+solfácil,1,1,1,1,0,1,4,3,1.0,0.0,Americas
+qea tech,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+bambrew,0,0,1,1,1,1,4,1,0.0,0.0,Asia
+rolling energy resources,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+camus energy,1,1,0,1,0,1,5,2,1.0,0.0,Americas
+electra,1,0,1,1,0,1,3,2,1.0,0.0,Americas
+elevation,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+mindgrove,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+criaterra,1,1,1,0,0,0,3,3,1.0,0.0,Middle East
+exergenics,0,0,0,0,0,0,1,1,0.0,0.0,Oceania
+solar earth,0,0,1,1,0,0,2,1,1.0,0.0,Americas
+hydrolite,0,0,0,0,0,0,1,1,1.0,0.0,Middle East
+hexafarms,0,0,0,0,0,0,1,1,,,
+yoconut dairy free,0,1,0,0,0,0,2,1,1.0,0.0,Americas
+ace green recycling,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+avalanche (alternative energy equipment),0,0,1,0,0,0,4,1,1.0,0.0,Americas
+float foods,0,0,1,0,0,1,11,1,0.0,0.0,Asia
+vertical oceans,1,0,0,1,0,0,4,3,1.0,0.0,Asia
+aeditive,1,0,1,1,0,1,6,2,1.0,1.0,Europe
+ion storage systems,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+navmatic,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+ecosync,0,0,1,1,0,1,5,1,1.0,0.0,Europe
+vertical aerospace group (nys: evtl),0,1,1,0,1,1,8,1,1.0,0.0,Europe
+lypid,0,0,0,1,0,0,4,1,1.0,0.0,Americas
+ubuntoo,0,0,0,0,0,0,3,0,0.0,0.0,Americas
+cleveron,0,0,1,1,0,1,5,1,0.0,1.0,Europe
+blakthumb,0,0,0,0,0,0,1,1,1.0,1.0,Americas
+local bounti (nys: locl),1,0,1,0,1,1,3,3,1.0,0.0,Americas
+current foods,1,1,1,0,0,1,14,4,1.0,0.0,Americas
+teld new energy,0,0,1,1,0,1,4,1,1.0,0.0,Asia
+lightship (automotive),1,0,0,1,0,0,5,2,1.0,0.0,Americas
+ubco bikes,1,1,1,1,0,1,10,2,1.0,0.0,Oceania
+greenwork,1,0,1,1,0,1,17,3,1.0,1.0,Americas
+dynami,1,0,1,1,0,1,8,2,1.0,0.0,Americas
+sage geosystems,0,1,1,1,0,1,11,1,0.0,0.0,Americas
+green lithium,0,1,0,0,0,1,3,1,1.0,0.0,Europe
+nexii,0,0,1,0,0,1,2,1,1.0,0.0,Americas
+asf (automotive),0,0,1,1,1,1,7,1,0.0,0.0,Asia
+chargetrip,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+maya milk,0,0,0,0,0,0,1,1,,,
+carbon collect,0,0,0,1,0,0,3,1,1.0,0.0,Europe
+seawith,0,0,0,0,0,1,5,1,0.0,0.0,Asia
+iron ox,1,0,1,1,0,1,12,3,1.0,1.0,Americas
+selex (automotive),1,1,0,1,0,1,3,2,1.0,0.0,Asia
+oceanix,1,0,0,1,0,1,3,2,1.0,0.0,Americas
+blueconduit,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+qorium,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+repurpose global,1,0,1,0,0,1,5,4,1.0,0.0,Americas
+element 16 technologies,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+npx,1,0,0,1,0,1,2,2,1.0,1.0,Americas
+metry,0,0,0,1,0,0,2,1,,,
+forest,0,0,0,0,0,0,1,1,,,
+chint(zhejiang),0,0,1,1,0,1,8,1,0.0,0.0,Asia
+copernic (industrial chemicals),1,0,0,0,0,1,3,2,1.0,0.0,Americas
+has.to.be,0,0,0,0,0,0,1,0,,,
+scw systems,0,0,0,0,0,0,1,1,,,
+calicat,1,0,1,1,0,1,11,3,1.0,0.0,Americas
+puro renewables,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+phytoform,1,1,1,1,0,1,13,5,1.0,0.0,Europe
+plexigrid,0,0,1,1,0,0,3,1,1.0,0.0,Europe
+tepeo,0,0,1,0,0,1,3,1,1.0,0.0,Europe
+energy dome,1,1,0,1,0,1,4,3,1.0,0.0,Europe
+divigas,1,1,0,1,0,1,10,4,1.0,0.0,Asia
+inspire clean energy,0,0,0,0,0,0,1,0,,,
+andes (agriculture),1,0,1,1,0,1,9,4,1.0,0.0,Americas
+allego (other services (b2c non-financial)),0,0,0,0,0,0,1,0,,,
+pionierkraft,1,0,0,1,0,1,9,2,1.0,0.0,Europe
+tynt,0,1,1,0,0,1,3,1,1.0,0.0,Americas
+biotic,1,1,1,1,0,1,9,4,1.0,0.0,Middle East
+odys aviation,1,1,1,1,0,1,20,2,1.0,0.0,Americas
+cirqle,0,0,0,1,0,0,2,1,0.0,0.0,Europe
+caulibox,0,0,0,0,0,1,2,1,1.0,0.0,Europe
+volta trucks,0,0,1,0,0,1,4,1,1.0,0.0,Europe
+hamr energy,0,0,0,0,0,0,1,1,1.0,0.0,Oceania
+earthoptics,0,0,1,1,0,1,6,1,1.0,0.0,Americas
+tevva,0,0,0,0,0,0,1,0,,,
+be power,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+carbonwave,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+vytelle,1,0,1,1,0,1,7,2,1.0,0.0,Americas
+smallhold,1,1,0,1,0,1,7,4,1.0,0.0,Americas
+evergreen select,1,0,1,1,0,1,8,3,1.0,0.0,Americas
+remora,1,0,0,1,0,1,5,3,1.0,0.0,Americas
+yali bio,1,0,1,1,0,1,11,4,1.0,0.0,Americas
+utility innovation group,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+wyvern,1,0,1,1,0,1,6,3,1.0,0.0,Americas
+perfect day,1,1,1,1,1,1,23,4,1.0,0.0,Americas
+ecso global,1,1,0,1,1,1,7,3,1.0,0.0,Asia
+greenfi (financial software),1,0,1,1,0,1,14,5,,,
+general index,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+thermulon,1,0,0,1,0,1,2,2,1.0,0.0,Europe
+spear power systems,0,0,0,0,0,0,1,0,,,
+indiedwell,0,0,1,0,0,1,4,1,0.0,1.0,Americas
+solarmente,0,1,0,1,0,1,4,1,1.0,0.0,Europe
+rondo energy,0,0,1,1,0,1,5,1,1.0,0.0,Americas
+ev safe charge,0,0,0,1,0,0,3,1,1.0,0.0,Americas
+moment energy,1,0,1,1,0,1,6,3,1.0,0.0,Americas
+rising.eco,0,0,0,0,0,0,1,1,,,
+edible garden (nas: edbl),0,0,0,0,0,1,2,1,,,
+kensino technology,0,0,0,0,0,0,2,0,0.0,0.0,Asia
+m2x,0,0,0,0,0,0,1,1,,,
+enervenue,1,1,1,1,0,1,7,4,1.0,0.0,Americas
+holiferm,1,1,1,0,0,0,2,2,1.0,0.0,Europe
+nomy,0,0,1,1,0,1,14,1,1.0,0.0,Europe
+btrlyf,0,0,0,0,0,0,2,1,0.0,0.0,Asia
+valgotech,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+puna bio,1,0,1,1,0,1,8,3,1.0,0.0,Americas
+pionix,0,0,0,1,0,0,3,1,1.0,0.0,Europe
+zodhya,0,0,0,0,0,0,1,1,1.0,0.0,Asia
+quino energy,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+hynovation,0,0,0,1,0,1,3,1,0.0,0.0,Asia
+ngon solutions,0,0,0,0,0,0,2,1,0.0,0.0,Americas
+saiheat (nas: saih),0,0,0,0,0,0,1,0,0.0,0.0,Asia
+climateview,1,1,1,1,0,1,12,2,1.0,0.0,Europe
+candi,0,1,1,0,0,0,3,1,1.0,0.0,Europe
+nanoloom,1,0,1,0,0,0,2,2,1.0,0.0,Europe
+nextchem,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+pt blink,0,0,0,0,0,0,1,0,1.0,0.0,Oceania
+enspired,1,0,1,1,0,1,5,3,1.0,0.0,Europe
+gigaton technologies,1,0,1,1,0,1,7,3,1.0,0.0,Europe
+ezzing,0,0,0,0,0,0,1,1,,,
+nexwafe,1,1,1,1,0,1,7,2,1.0,0.0,Europe
+reliasol,0,0,1,1,0,0,2,1,1.0,1.0,Europe
+aeroflexx,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+purifire energy,0,0,0,0,0,1,2,1,1.0,0.0,Europe
+pique action,1,1,0,1,0,0,4,4,1.0,0.0,Americas
+earthshot labs,1,0,1,1,0,1,7,2,1.0,0.0,Americas
+standard biocarbon,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+moa foodtech,1,1,0,0,0,0,2,2,1.0,0.0,Europe
+quativa,0,0,0,0,0,0,1,0,,,
+california cultured,0,0,1,1,1,1,5,1,1.0,0.0,Americas
+satvu,1,1,1,0,0,1,10,3,1.0,0.0,Europe
+perfecta energía,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+scrapp,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+charbone (tsx: ch),0,0,0,0,0,0,1,0,,,
+brayfoil,0,0,0,0,0,0,1,1,1.0,1.0,Africa
+aqua cultured foods,1,1,1,1,0,1,20,5,1.0,1.0,Americas
+brainbox ai,1,0,1,1,0,1,6,3,1.0,0.0,Americas
+arc boats.,1,0,1,1,1,1,13,4,1.0,0.0,Americas
+brenmiller energy (nas: bnrg),0,0,0,0,0,0,3,1,,,
+cirt,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+urban machine,0,0,0,1,0,1,4,1,1.0,0.0,Americas
+striemo,1,1,1,1,0,1,4,2,1.0,0.0,Asia
+electricpe,0,0,1,1,0,1,19,1,0.0,0.0,Asia
+nxt grid,1,1,1,0,0,0,2,2,1.0,0.0,Europe
+foil technologies,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+sensible weather,1,0,1,1,0,1,5,2,1.0,0.0,Americas
+sway innovation,1,1,1,1,1,1,20,6,1.0,0.0,Americas
+glavel,0,1,1,1,0,1,3,1,1.0,0.0,Americas
+gazelle wind power,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+emporia,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+zero-x,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+matsmart,1,1,1,0,0,0,4,2,,,
+sparkcharge,1,0,1,1,1,1,12,4,1.0,0.0,Americas
+zeroavia,0,1,1,1,1,1,16,1,1.0,0.0,Americas
+patch organics,0,0,0,1,0,0,2,1,0.0,0.0,Americas
+umami bioworks,1,1,1,1,0,1,15,5,1.0,0.0,Asia
+novasolix,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+daisy lab,1,1,1,1,1,1,6,2,1.0,0.0,Oceania
+ebb carbon,1,0,0,0,0,1,2,2,1.0,0.0,Americas
+spark possibilities,0,0,0,0,0,0,1,0,0.0,0.0,Africa
+maglev aero,1,0,0,1,1,1,5,2,1.0,0.0,Americas
+xendee,0,0,1,1,0,1,4,1,1.0,0.0,Americas
+chemifolio,0,0,1,1,0,0,6,1,0.0,0.0,Asia
+drip.ai,0,1,1,0,0,1,4,1,0.0,0.0,Asia
+daanaa,1,0,1,1,0,1,14,4,1.0,0.0,Americas
+kosmodehealth,0,0,0,0,0,0,1,1,0.0,0.0,Asia
+tianshu new energy,0,0,0,0,0,0,1,0,,,
+monumo,0,0,1,1,0,1,9,1,1.0,0.0,Europe
+zonnepanelendelen,1,0,0,0,0,1,4,2,1.0,0.0,Europe
+swft labs,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+ambar,1,0,0,1,0,1,7,3,,,
+cens,0,0,1,1,0,0,3,1,1.0,0.0,Middle East
+aeonus,0,0,1,0,0,1,5,1,0.0,0.0,Asia
+harbinger,1,1,1,1,0,1,8,2,1.0,0.0,Americas
+coolset,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+en/io,0,0,0,0,0,0,1,0,0.0,0.0,Middle East
+tidal vision,1,0,1,1,0,1,9,2,1.0,0.0,Americas
+liquid-charge,0,0,0,0,0,0,2,1,1.0,1.0,Americas
+insect feed technologies,0,0,0,0,0,0,3,0,1.0,0.0,Asia
+mura technology,0,0,0,0,0,0,3,1,1.0,0.0,Europe
+enfuce,1,1,0,1,1,0,4,2,1.0,0.0,Europe
+p2x solutions,0,0,0,0,0,0,3,1,0.0,0.0,Europe
+ozonebio,1,0,1,1,0,1,5,3,1.0,0.0,Americas
+chloris geospatial,1,1,1,1,0,1,4,3,1.0,0.0,Americas
+sealution,1,1,1,1,0,1,4,3,1.0,0.0,Europe
+wind mobility,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+cheaf,1,1,0,1,1,1,6,3,1.0,0.0,Americas
+solaires,1,0,1,1,0,1,4,2,1.0,0.0,Americas
+zhejiang power new energy (shg: 688184),0,0,0,0,0,0,2,0,0.0,0.0,Asia
+eve holding (nys: evex),0,1,1,0,1,1,12,1,1.0,0.0,Americas
+devvstream (nas: devs),0,0,0,0,0,0,1,0,,,
+wase,0,0,0,0,0,1,2,1,1.0,0.0,Europe
+summit nanotech,1,0,1,1,0,1,8,2,1.0,0.0,Americas
+elmtronics,0,0,0,0,0,0,1,0,,,
+liftango,1,1,1,1,0,1,11,4,1.0,0.0,Europe
+tiba tempeh,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+biofeyn,1,1,1,1,0,1,12,3,1.0,0.0,Americas
+ideal energy sunflower,0,0,0,0,0,0,1,1,,,
+regent craft,1,0,1,1,1,1,22,3,1.0,0.0,Americas
+exergyn,1,1,0,1,0,1,4,2,,,
+g-power full cell system,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+vivici,0,0,0,0,0,1,2,1,1.0,0.0,Europe
+unergy,0,0,1,0,0,1,8,1,0.0,0.0,Americas
+dott,1,1,1,0,0,0,2,2,1.0,0.0,Europe
+hydregen,0,0,1,0,0,0,2,1,1.0,0.0,Europe
+savanna circuit,0,0,0,0,0,0,1,0,,,
+lyrata,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+cetogenix,0,0,1,1,0,1,8,1,1.0,0.0,Oceania
+mga thermal,0,0,0,0,0,0,1,1,1.0,0.0,Oceania
+mantel capture,0,0,1,0,0,0,3,1,1.0,0.0,Americas
+auar,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+becq,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+247solar,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+highlands rewilding,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+the leaf protein co.,0,1,0,0,0,1,2,1,1.0,0.0,Oceania
+instagrid,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+unicorn biotechnologies,1,1,1,1,1,1,13,4,1.0,0.0,Europe
+one cell foods,0,0,1,1,0,1,4,1,0.0,1.0,Americas
+curio,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+shift ev,1,1,1,0,0,1,4,2,1.0,0.0,Africa
+plantd,1,0,1,1,0,1,10,4,1.0,0.0,Americas
+serva energy,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+carbon cap,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+boxabl (nas: bxbl),0,0,0,0,0,0,2,0,,,
+jua,1,0,1,1,0,1,6,2,1.0,0.0,Europe
+skinny butcher,0,0,0,0,0,0,1,1,,,
+greenportfolio,1,0,1,1,0,0,5,2,1.0,0.0,Americas
+scindo,1,1,0,1,0,1,3,3,1.0,0.0,Europe
+sax power,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+umaro,1,0,1,1,0,0,8,4,1.0,0.0,Americas
+s.lab,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+sunly,1,0,1,0,0,0,4,2,1.0,0.0,Europe
+wundergrubs,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+watershed,1,0,0,1,0,1,8,3,1.0,0.0,Americas
+ecolectro,1,1,1,1,0,1,10,4,1.0,0.0,Americas
+pearlita foods,0,0,0,0,1,1,3,1,1.0,1.0,Americas
+gopowerev,1,0,1,1,0,0,3,3,1.0,0.0,Americas
+kita (london),1,1,1,1,0,1,5,2,1.0,0.0,Europe
+ucanpower,0,0,0,0,0,0,1,0,,,
+cellestial e-mobility,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+legend new energy technology,0,0,0,0,0,0,3,1,0.0,0.0,Asia
+silvis materials,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+intercontinental energy,0,0,0,0,0,0,1,1,0.0,0.0,Asia
+wildtype,1,1,1,1,0,1,14,5,1.0,0.0,Americas
+acca industries,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+climate x,1,1,1,1,0,1,11,5,1.0,0.0,Europe
+fairbrics,1,1,1,1,0,1,4,2,1.0,0.0,Europe
+carbonblue,1,0,0,1,0,1,4,2,1.0,0.0,Middle East
+nucicer,0,0,1,1,0,0,6,1,1.0,0.0,Americas
+panthalassa,1,0,0,1,0,1,11,4,1.0,0.0,Americas
+kyoto fusioneering,0,0,1,1,0,1,7,1,1.0,0.0,Asia
+x1 wind,0,0,0,0,0,1,2,1,1.0,0.0,Europe
+neocarbon,1,0,1,1,0,1,7,4,1.0,0.0,Europe
+modvion,1,0,1,1,0,0,7,4,1.0,0.0,Europe
+charzer,0,0,0,0,0,0,3,1,0.0,0.0,Asia
+pink albatross,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+nat4bio,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+cambium (environmental services (b2b),1,0,1,1,0,1,8,2,1.0,0.0,Americas
+above (business/productivity software),0,0,0,0,0,0,2,1,1.0,0.0,Europe
+atomo (beverages),1,0,1,1,1,1,10,4,1.0,0.0,Americas
+cascadia seaweed,0,0,0,0,0,1,2,1,1.0,0.0,Americas
+little feet packaging,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+daze (electrical equipment),0,0,0,1,0,1,3,1,1.0,0.0,Europe
+exodigo,1,1,1,1,1,1,10,2,1.0,0.0,Middle East
+planet smart city,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+urent,0,0,0,0,0,0,3,0,0.0,0.0,Europe
+al tabee'ah,0,0,0,0,0,0,1,0,,,
+saveggy,0,0,0,1,0,0,3,1,1.0,0.0,Europe
+hypower (china),0,0,0,0,0,0,1,0,,,
+phinite,1,0,1,1,0,0,5,2,1.0,0.0,Americas
+me&,1,1,0,1,0,0,3,3,1.0,1.0,Oceania
+canopii,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+melibio,1,1,1,1,0,1,13,4,1.0,0.0,Americas
+opna,1,1,1,1,0,1,5,4,1.0,0.0,Europe
+varaha,1,1,1,1,1,1,9,3,1.0,0.0,Asia
+shapemaker,0,0,0,1,0,1,4,1,1.0,0.0,Europe
+renewafi,1,0,1,1,0,1,10,2,1.0,0.0,Americas
+kineticcore,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+plugo [electrical equipment],0,0,0,0,0,1,8,1,,,
+algaeba,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+moliving,0,0,0,0,0,0,1,0,,,
+safi,1,1,1,1,0,1,15,5,1.0,0.0,Europe
+magrathea,1,1,1,1,0,1,32,3,1.0,0.0,Americas
+zefiro methane (neoe: zefi),0,0,0,0,0,0,1,0,0.0,0.0,Americas
+powertrust,1,0,1,0,0,1,2,2,1.0,0.0,Americas
+kiki milk,1,0,1,0,0,1,8,3,1.0,0.0,Americas
+hempwood,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+sempera organics,1,0,0,0,0,1,3,2,1.0,0.0,Americas
+ateios,1,0,0,1,0,1,4,2,1.0,0.0,Americas
+brimstone,1,1,1,1,0,1,14,3,1.0,0.0,Americas
+black buffalo 3d,0,0,0,0,0,0,1,1,,,
+electrum charging solutions,0,0,0,0,0,0,1,0,,,
+voltfang,1,0,1,0,0,1,8,3,1.0,0.0,Europe
+cemvita factory,1,0,1,0,0,0,2,2,1.0,0.0,Americas
+seabound,1,1,1,1,0,1,10,2,1.0,0.0,Europe
+ren energy,1,1,1,1,0,1,7,5,1.0,0.0,Americas
+vertru,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+melt&marble,1,1,1,1,0,1,5,3,1.0,0.0,Europe
+kwota,0,0,1,0,0,1,6,1,0.0,1.0,Europe
+newcleo,0,0,1,0,0,1,11,1,1.0,0.0,Europe
+samsara eco,1,1,1,1,0,1,14,2,1.0,0.0,Oceania
+carbicrete,1,0,1,1,0,1,13,3,1.0,0.0,Americas
+bubble paper,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+ten-nine tech,0,0,0,0,0,0,2,0,0.0,0.0,Americas
+greener (environmental services (b2b)),0,0,0,0,0,0,1,1,0.0,1.0,Europe
+forsea,0,1,0,1,0,1,7,1,1.0,0.0,Middle East
+battgenie,1,0,1,1,0,1,8,3,1.0,0.0,Americas
+phase biolabs,1,0,0,1,0,1,3,2,1.0,0.0,Europe
+rosi,1,1,0,0,0,1,3,3,1.0,0.0,Europe
+enecoat,0,0,1,0,0,1,8,1,1.0,0.0,Asia
+klaw industries,1,0,0,0,0,1,3,2,1.0,0.0,Americas
+hb11 energy,0,0,0,0,0,0,1,1,1.0,0.0,Oceania
+bioesol,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+aker offshore wind,0,0,0,0,0,0,1,0,,,
+sungreenh2,1,1,1,1,1,1,14,2,1.0,0.0,Asia
+manifest climate,1,0,1,1,1,1,11,3,1.0,0.0,Americas
+grow oyster reefs,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+project eaden,1,1,1,1,1,1,10,3,1.0,0.0,Europe
+growin,1,1,1,0,0,1,3,2,1.0,1.0,Middle East
+future fields,1,0,0,1,0,1,6,3,1.0,0.0,Americas
+seatrec,0,0,0,0,0,0,1,1,,,
+my emissions,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+wattev,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+airmyne,1,0,1,1,0,1,9,2,1.0,0.0,Americas
+aquabattery,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+orchard robotics,1,0,0,1,0,0,3,2,1.0,0.0,Americas
+mermade (biotechnology),0,1,1,1,0,1,4,1,1.0,0.0,Middle East
+outlander materials,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+melanin kapital,0,0,0,0,0,0,1,1,1.0,0.0,Africa
+eco2grow,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+enspired solutions,0,0,1,1,0,0,2,1,1.0,0.0,Americas
+sunairio,1,0,1,1,0,1,10,2,1.0,0.0,Americas
+mitte (household appliances),0,0,0,0,0,0,1,1,1.0,1.0,Europe
+carbon crusher,1,1,1,1,0,1,14,3,1.0,0.0,Europe
+sharing energy,0,0,1,1,0,1,17,1,0.0,0.0,Asia
+amica terra,0,0,1,0,0,1,10,1,0.0,0.0,Asia
+verne,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+shift thermal,1,0,1,1,0,1,5,2,1.0,0.0,Americas
+x-centric,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+solar holler,0,0,0,0,0,0,1,1,,,
+biomush,0,0,1,1,0,1,5,1,1.0,0.0,Europe
+ev motors japan,1,1,1,0,1,1,7,2,1.0,0.0,Asia
+micropep,1,1,1,1,0,1,6,3,1.0,0.0,Europe
+prti,0,0,0,0,0,0,1,0,,,
+volteum,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+avanti battery,0,0,1,0,0,0,3,1,0.0,1.0,Americas
+banqloop,1,0,0,0,0,0,2,2,1.0,0.0,Americas
+amatec,0,0,0,0,0,1,2,1,1.0,0.0,Americas
+solarcycle,0,0,1,1,0,1,6,1,1.0,0.0,Americas
+vertiq,1,0,0,1,0,1,6,3,1.0,0.0,Americas
+ecosapiens,1,1,0,1,1,1,10,4,1.0,0.0,Americas
+dastgyr technologies,1,1,1,1,0,1,21,3,1.0,0.0,Europe
+iroko analytics,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+liongo new energy,0,0,1,1,0,1,5,1,1.0,0.0,Asia
+veloce energy,0,0,0,0,0,0,1,0,1.0,1.0,Americas
+peg africa,1,1,1,1,0,1,6,3,,,
+bia,1,1,1,1,0,1,21,2,1.0,0.0,Americas
+rensair,1,1,1,0,0,0,3,2,1.0,0.0,Europe
+neat burger,0,1,1,1,1,1,11,1,0.0,1.0,Europe
+envoria,0,0,0,1,0,1,3,1,0.0,0.0,Europe
+litonghang automobile parts,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+solarbiotech,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+smartcocoon,0,0,1,0,0,1,5,1,1.0,0.0,Americas
+cellfion,1,0,1,1,0,0,5,3,1.0,0.0,Europe
+låkril technologies,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+earth blox,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+aicrete,1,1,0,1,0,1,5,3,1.0,0.0,Americas
+charged,0,0,0,1,0,1,2,1,1.0,0.0,Asia
+accacia,1,1,0,1,0,1,14,5,1.0,0.0,Asia
+growflux,0,0,1,0,0,1,3,1,1.0,0.0,Americas
+sentinel ag,0,0,1,0,0,1,9,1,1.0,0.0,Americas
+climatecrop,1,1,1,1,0,0,6,2,1.0,0.0,Middle East
+modo energy,1,1,0,1,0,1,5,2,1.0,0.0,Europe
+slutty vegan,0,0,0,0,0,1,3,1,0.0,0.0,Americas
+zolar,1,1,1,1,0,0,6,4,1.0,0.0,Europe
+planetarians,1,1,1,1,1,1,10,3,,,
+lava (energy),1,1,1,1,0,1,3,2,1.0,0.0,Middle East
+marli technology solutions,0,0,0,0,0,0,1,1,1.0,0.0,Oceania
+lhyfe (par: lhyfe),1,1,1,0,0,1,4,2,1.0,0.0,Europe
+cellx,1,1,1,1,0,1,6,3,1.0,0.0,Asia
+titan bioplastics,1,0,0,0,0,1,2,2,1.0,1.0,Americas
+daylight energy,1,0,1,1,0,1,15,2,1.0,0.0,Americas
+alva industries,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+ducky,1,1,1,1,0,0,6,4,1.0,0.0,Europe
+kinsect,0,0,0,0,0,0,2,0,0.0,0.0,Europe
+kanop,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+sustain.life,1,1,0,1,0,1,6,4,1.0,0.0,Americas
+voltaero,0,0,0,0,0,0,2,1,1.0,0.0,Europe
+carbo culture,0,0,0,0,0,0,1,1,,,
+hydrogen mem-tech,1,1,1,1,0,0,6,2,1.0,0.0,Europe
+fable (food products),1,1,1,0,0,1,15,3,1.0,0.0,Oceania
+neu battery materials,0,0,0,1,0,1,2,1,1.0,0.0,Asia
+grecon semi,0,0,0,1,0,0,3,1,0.0,0.0,Asia
+powerx (electrical equipment) (tks: 485a),0,1,1,1,0,1,18,1,1.0,0.0,Asia
+muon space,1,0,0,0,0,1,5,3,1.0,0.0,Americas
+kyomei (cultivation),1,1,0,1,0,1,5,2,1.0,0.0,Europe
+scope zero,1,0,0,0,0,1,2,2,1.0,0.0,Americas
+heyday integrated circuits,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+upway,1,1,1,1,0,1,8,5,1.0,0.0,Americas
+foundation alloy,1,0,1,1,0,1,7,2,1.0,0.0,Americas
+wildfire energy,1,1,1,1,0,1,5,2,1.0,0.0,Oceania
+minimum,1,1,1,1,0,1,10,6,1.0,0.0,Europe
+reegen,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+photon marine,1,1,1,1,0,1,9,4,1.0,0.0,Americas
+orca water,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+protenga,1,1,1,1,0,1,5,2,1.0,0.0,Asia
+rheaply,1,0,1,0,1,1,23,2,1.0,0.0,Americas
+cascade (cultivation),0,0,0,0,0,0,1,1,,,
+haggerty agrobotics,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+enteligent,1,1,0,0,0,0,2,2,1.0,0.0,Americas
+radical catalyst,0,0,0,0,0,0,1,1,1.0,1.0,Americas
+minus materials,0,0,0,0,0,0,1,1,1.0,1.0,Americas
+bedrock energy,1,0,1,1,0,1,10,3,1.0,0.0,Americas
+znika,0,0,0,0,0,1,3,1,1.0,1.0,Europe
+botanical water technologies,0,0,0,0,0,0,1,0,,,
+inbalance grid,0,0,0,0,0,1,4,1,1.0,0.0,Europe
+evcs,0,0,0,0,0,1,3,1,1.0,0.0,Americas
+aurora hydrogen,1,0,1,1,0,1,9,4,1.0,0.0,Americas
+hydrova,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+alpha tech,0,0,0,0,0,0,1,1,,,
+phoenix hydrogen,1,0,1,1,0,1,9,2,1.0,0.0,Americas
+9-tech,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+flexcharging,1,0,1,1,0,0,2,2,1.0,0.0,Americas
+charge+,0,0,0,0,1,1,2,1,1.0,0.0,Asia
+birch biosciences,1,0,0,1,0,1,10,3,1.0,0.0,Americas
+zerocis,0,0,0,0,0,0,1,1,0.0,0.0,Asia
+the kawa project,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+xpansiv,0,1,1,1,1,1,15,1,1.0,0.0,Americas
+carbon counts,1,1,1,1,0,1,11,4,1.0,0.0,Americas
+solar panda,1,1,1,1,0,0,3,2,1.0,0.0,Africa
+elasticstage,0,0,0,0,0,0,5,0,1.0,0.0,Europe
+nz functional foods,0,0,0,0,0,0,2,0,0.0,0.0,Oceania
+permalution,0,0,1,0,0,0,2,1,1.0,0.0,Americas
+ndb,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+petra nova,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+mattiq,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+vammo,1,0,0,1,0,1,8,3,1.0,0.0,Americas
+vitriform3d,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+the first element group,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+perfekto,1,1,0,0,1,1,3,2,1.0,1.0,Americas
+orange ev,0,0,1,0,1,0,2,1,,,
+clean kitchen club,0,0,0,0,0,1,4,1,0.0,1.0,Europe
+ratedpower,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+next.e.go mobile (pinx: egoxf),0,0,0,0,0,0,1,1,,,
+energy solar tech (mad: etc),1,1,1,0,0,1,4,2,1.0,0.0,Europe
+instinct,0,0,1,1,0,1,4,1,0.0,0.0,Americas
+thorizon,1,0,1,1,0,0,5,2,1.0,0.0,Europe
+vector sustainable energy,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+trillium renewable chemicals,0,0,0,0,0,0,3,1,1.0,0.0,Americas
+tandem repeat,1,0,0,0,0,1,3,2,1.0,0.0,Americas
+maa'va,0,0,0,0,0,0,2,1,0.0,0.0,Americas
+mirá biotech,0,0,0,0,0,0,2,1,0.0,0.0,Americas
+gringrin foods,0,0,0,0,0,0,1,1,1.0,1.0,Europe
+egreen,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+again,0,0,0,0,0,1,2,1,1.0,0.0,Europe
+inputi,0,0,0,0,0,0,1,1,0.0,0.0,Africa
+rivalia chemical,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+corepower magnetics,1,0,0,0,0,0,2,2,1.0,0.0,Americas
+bioeutectics,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+creturner,0,0,0,0,0,0,1,0,,,
+transitry,1,1,0,0,0,0,3,2,1.0,0.0,Asia
+bezero carbon,1,1,1,0,0,1,10,4,1.0,0.0,Europe
+carbon direct,1,1,1,1,0,1,8,3,1.0,0.0,Americas
+alcove (business/productivity software),1,0,0,1,0,1,3,2,1.0,0.0,Americas
+revert technologies,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+aqua yield operations,0,0,0,0,0,0,3,1,0.0,0.0,Americas
+alt mobility,1,0,0,1,0,1,7,2,1.0,0.0,Asia
+gac aion,0,0,1,1,0,1,9,1,1.0,0.0,Asia
+intramotev,1,0,1,1,1,1,14,2,1.0,0.0,Americas
+innerbottle,0,0,0,1,0,0,2,1,1.0,0.0,Asia
+zero emission industries,0,0,1,1,0,1,2,1,1.0,0.0,Americas
+silicon mobility,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+xwatts,1,0,1,0,0,1,2,2,1.0,0.0,Europe
+nitrofix,1,1,1,1,0,1,7,3,1.0,0.0,Middle East
+edge foods,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+detrapel,1,1,1,1,0,1,8,2,,,
+photara,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+phlair,1,0,0,0,0,0,2,2,1.0,0.0,Europe
+woltair,0,1,0,1,0,1,8,1,0.0,1.0,Europe
+ordinary seafood,1,1,0,1,0,0,6,3,1.0,1.0,Europe
+cuby technologies,1,0,0,1,0,1,3,3,1.0,0.0,Americas
+gcoo,0,1,1,1,1,1,11,1,1.0,0.0,Asia
+remora bio,0,0,1,0,0,1,4,1,,,
+grounded (beverages),1,1,1,1,0,1,5,4,1.0,0.0,Europe
+farmless,1,1,1,1,0,1,15,4,1.0,0.0,Europe
+dalinea,1,0,1,0,0,1,5,2,1.0,0.0,Americas
+ene.hub,0,1,0,0,0,0,2,1,,,
+jiangsu yancheng clean energy development,0,0,0,0,0,0,4,1,0.0,0.0,Asia
+seedsheet,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+latimer controls,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+shipshape agworks,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+onima,1,1,1,1,0,1,10,3,1.0,0.0,Europe
+torev motors,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+mahindra waste to energy solutions,0,0,0,0,0,0,1,0,,,
+rival foods,0,0,1,0,0,0,2,1,1.0,0.0,Europe
+renewell energy,1,0,1,0,0,1,5,3,1.0,0.0,Americas
+veloz bio,1,0,1,1,1,1,7,2,1.0,0.0,Americas
+eddytec,0,0,1,0,0,0,2,1,1.0,0.0,Europe
+carbon title,1,1,0,1,0,1,5,3,1.0,1.0,Americas
+solvari (energy equipment),0,0,0,0,0,0,1,1,0.0,0.0,Americas
+futr.,1,1,0,0,0,1,8,6,1.0,0.0,Americas
+infinity water solutions,0,0,0,0,0,0,1,0,,,
+lebby snacks,0,1,0,1,0,1,5,1,0.0,0.0,Americas
+prot,1,1,0,0,0,1,3,2,1.0,0.0,Asia
+productive machines,1,1,1,1,0,1,7,4,1.0,0.0,Europe
+treeline biosciences,0,0,1,0,0,0,3,1,1.0,0.0,Americas
+solestial,1,1,1,1,0,1,8,4,,,
+farizon,1,0,1,1,0,1,6,2,1.0,0.0,Asia
+onomotion,1,1,1,1,0,1,11,5,1.0,0.0,Europe
+nordic batteries,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+clarasight,1,0,0,1,0,1,8,2,1.0,0.0,Americas
+pathwater,1,0,1,1,0,1,16,2,1.0,0.0,Americas
+equii,1,0,0,1,0,1,6,2,1.0,0.0,Americas
+grain (environmental services (b2b)),0,0,0,0,0,1,2,1,1.0,0.0,Americas
+climatecamp,0,0,1,1,0,1,5,1,1.0,0.0,Europe
+verse,1,0,0,1,0,1,8,3,1.0,0.0,Americas
+amugreen,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+rematter,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+earth force,1,1,1,1,0,1,11,4,1.0,0.0,Americas
+make sunsets,1,0,0,1,0,1,3,2,1.0,0.0,Americas
+skoon energy,1,1,0,1,0,0,4,3,1.0,0.0,Europe
+capricorn power,0,0,0,0,0,0,1,0,0.0,0.0,Oceania
+co280,1,1,1,1,0,1,9,2,1.0,0.0,Americas
+7 leagues,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+weavegrid,1,1,1,1,0,1,18,2,1.0,0.0,Americas
+cinis fertilizer,0,0,0,0,0,0,6,0,0.0,0.0,Europe
+michroma,0,1,1,1,0,1,25,1,1.0,0.0,Americas
+flintpro,1,1,0,1,0,1,5,3,1.0,0.0,Oceania
+terran robotics,1,0,0,0,0,1,5,2,1.0,0.0,Americas
+aidash,1,1,1,1,0,1,12,3,1.0,0.0,Americas
+flying ship company,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+cylib,1,0,1,1,0,1,11,3,1.0,0.0,Europe
+labcycle,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+liberation bioindustries,1,0,1,0,1,1,6,2,1.0,0.0,Americas
+hypercraft,0,0,0,0,0,0,2,0,0.0,0.0,Americas
+amai (food products),0,0,0,0,0,0,1,0,0.0,0.0,Americas
+esper satellite imagery,1,1,0,1,0,1,5,4,1.0,0.0,Oceania
+wa+ts,1,0,1,1,0,1,7,3,1.0,0.0,Americas
+morfo,0,0,1,1,0,1,18,1,1.0,0.0,Europe
+syso technologies,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+t2earth,0,0,0,0,0,0,1,0,,,
+solar intermodal,0,0,0,0,0,0,1,0,,,
+covalent (environmental services),0,0,0,0,0,0,4,1,1.0,1.0,Americas
+asuene,1,1,1,1,1,1,12,2,1.0,0.0,Asia
+solarx,0,0,0,1,0,0,3,1,1.0,0.0,Africa
+adclean,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+aether fuels,1,0,1,1,0,1,5,2,1.0,0.0,Asia
+carboledger,0,1,0,1,0,1,2,1,0.0,0.0,Americas
+othersphere,1,0,0,1,0,1,4,3,1.0,0.0,Americas
+kaly group,0,0,1,1,0,1,3,1,0.0,0.0,Europe
+longpath technologies,0,0,1,0,0,1,8,1,1.0,0.0,Americas
+interearth,1,1,1,0,0,0,3,2,1.0,0.0,Oceania
+phabuilder,1,0,0,1,0,1,9,2,1.0,0.0,Asia
+rho impact,1,0,1,0,0,1,5,2,1.0,0.0,Americas
+einride (nas: enrdw),1,1,1,1,0,1,10,4,,,
+renewwest,0,0,0,1,0,0,3,1,1.0,0.0,Americas
+xcharge (nas: xch),0,0,0,0,0,0,1,0,1.0,0.0,Europe
+terrawaste,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+robeff,0,0,0,0,0,0,1,0,0.0,0.0,Middle East
+helical fusion,0,1,1,1,0,1,8,1,1.0,0.0,Asia
+pulsiv,0,0,0,0,0,0,1,0,,,
+green energy storage,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+vow,1,1,1,1,1,1,14,5,1.0,0.0,Oceania
+pannon green power,0,0,0,0,0,1,2,1,0.0,0.0,Europe
+better packaging,1,1,1,1,1,1,6,4,1.0,0.0,Oceania
+wattcarbon,1,0,1,1,0,1,13,2,1.0,0.0,Americas
+ureca,0,0,0,1,0,1,3,1,0.0,0.0,Asia
+commonshare,0,0,0,0,0,0,1,1,,,
+carbonethics,0,0,0,0,0,0,1,0,1.0,0.0,Asia
+olokun minerals,0,0,0,1,0,1,3,1,1.0,0.0,Americas
+indie power systems,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+apgreen,0,0,0,0,0,0,2,1,0.0,0.0,Asia
+checksammy technologies,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+loom solar,1,1,1,1,0,0,6,2,1.0,0.0,Asia
+earndlt,0,0,1,1,0,0,4,1,0.0,0.0,Americas
+kafresh,1,1,1,1,0,1,8,2,1.0,0.0,Africa
+blakbear,1,1,1,1,0,1,9,4,1.0,0.0,Europe
+charm industrial,1,1,1,1,0,1,15,6,1.0,0.0,Americas
+earthodic,1,1,0,1,0,1,5,3,1.0,0.0,Americas
+partanna,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+inplanet,1,1,1,1,0,1,6,4,1.0,0.0,Americas
+ostrom,1,1,1,0,0,1,5,3,1.0,0.0,Europe
+ren-gas,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+eion,1,1,1,1,1,1,11,3,1.0,0.0,Americas
+avarni,0,1,0,0,0,1,5,1,0.0,0.0,Oceania
+tera (environmental services (b2b)),0,0,0,0,0,0,1,0,0.0,0.0,Oceania
+pecos wind power,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+envertech,0,0,0,0,0,0,1,0,,,
+donghua energy (maoming),0,0,0,0,0,0,1,1,,,
+thanks plants,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+captura,1,1,1,1,0,1,15,5,1.0,0.0,Americas
+das solar,0,0,1,1,0,1,8,1,0.0,0.0,Asia
+hsl technologies,1,1,1,1,0,1,7,4,1.0,0.0,Europe
+geopura,1,1,1,1,0,1,6,2,1.0,0.0,Europe
+reblade,1,0,0,0,0,0,2,2,1.0,0.0,Europe
+kubik,1,1,1,1,0,1,17,3,1.0,0.0,Africa
+vflow tech,1,1,1,1,0,1,13,2,1.0,0.0,Asia
+acx (financial software),1,1,1,1,0,1,6,4,1.0,0.0,Asia
+sightline climate,1,1,1,1,0,1,13,4,1.0,0.0,Americas
+prairie lithium,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+uugreenpower (she: 301590),0,0,0,1,0,0,4,1,1.0,0.0,Asia
+solano energy,0,0,0,0,0,1,2,1,0.0,1.0,Asia
+hum.ai,0,0,0,0,0,0,2,0,1.0,0.0,Americas
+sopht,1,1,1,1,0,1,8,2,1.0,0.0,Europe
+air,1,1,1,1,0,1,5,3,1.0,0.0,Middle East
+zhonggong new energy,0,0,0,0,0,0,1,1,,,
+tangible (business/productivity software),1,1,0,1,0,1,10,3,1.0,0.0,Americas
+plan a (business/productivity software),1,1,1,1,0,1,10,3,1.0,0.0,Europe
+boreal bioproducts,1,1,0,0,0,1,2,2,1.0,0.0,Europe
+circular silicon,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+e.battery systems,0,0,0,0,0,0,2,0,0.0,0.0,Europe
+electricalgae,0,0,0,0,0,0,1,1,0.0,0.0,Middle East
+troes,1,0,0,1,0,1,3,3,1.0,0.0,Americas
+consciesg,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+doktar technologies,0,0,0,1,0,1,2,1,1.0,0.0,Europe
+photon vault,1,0,1,1,0,1,5,3,1.0,0.0,Americas
+mantaray,1,1,0,0,0,1,3,2,1.0,0.0,Oceania
+sierra (automotive),0,0,0,0,0,0,2,0,0.0,0.0,Americas
+vapaus bikes finland,1,0,0,0,0,1,7,2,1.0,0.0,Europe
+furbnow,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+jios aerogel,0,1,1,1,0,1,3,1,,,
+nettle toc,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+aquarry,1,1,1,1,0,0,4,3,1.0,0.0,Americas
+atmio,1,0,1,1,0,1,5,2,1.0,0.0,Europe
+lomarlabs,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+caban,0,0,1,1,1,1,5,1,1.0,0.0,Americas
+betterchoice,1,0,0,0,0,1,2,2,1.0,0.0,Europe
+oriciro genomics,0,0,0,0,0,0,1,0,1.0,0.0,Asia
+sustainabase,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+perceptual robotics (uk),1,0,1,1,0,1,9,2,1.0,0.0,Europe
+cleanhub,1,1,1,0,0,1,12,4,1.0,0.0,Europe
+carbon yield,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+hohm energy,1,1,1,0,1,1,12,4,1.0,1.0,Africa
+wave mining,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+groots,0,0,1,0,0,0,2,1,1.0,0.0,Europe
+pivotal,1,0,0,1,0,0,4,3,1.0,0.0,Europe
+genesis systems,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+metafuels,1,1,0,0,0,0,2,2,1.0,0.0,Europe
+pure blue tech,1,0,0,1,0,1,3,2,,,
+carbon balance,0,0,0,0,0,0,1,1,,,
+revo zero,0,0,0,0,0,0,1,1,,,
+swobbee,1,0,1,1,0,1,3,3,1.0,0.0,Europe
+boxpower,1,0,1,1,0,1,12,5,1.0,0.0,Americas
+carbongraph,1,0,1,0,0,0,2,2,1.0,0.0,Americas
+calcarea,1,1,1,1,0,1,9,2,1.0,0.0,Americas
+kofa (electrical equipment),0,1,1,0,0,1,5,1,1.0,0.0,Africa
+frio,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+h2chp,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+urbyn,0,0,1,1,0,1,4,1,1.0,0.0,Europe
+avadain,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+capture6,1,1,0,0,0,0,2,2,1.0,0.0,Americas
+neoom,0,0,1,0,0,1,4,1,1.0,0.0,Europe
+orange (electrical equipment),1,0,1,1,0,1,14,2,1.0,0.0,Americas
+nxtclean fuels,0,0,1,0,0,1,2,1,0.0,0.0,Americas
+futura gaïa,0,0,0,1,0,1,13,1,1.0,1.0,Europe
+wastefuel,0,1,0,1,0,1,8,1,1.0,0.0,Americas
+stuff4life,0,0,0,0,0,0,1,0,,,
+reclimate,0,0,0,0,0,0,1,1,1.0,0.0,Asia
+mini green power,0,0,0,0,0,0,2,1,1.0,1.0,Europe
+bosso,1,1,1,1,1,1,6,2,1.0,0.0,Africa
+olyns,1,0,0,1,0,1,3,2,1.0,0.0,Americas
+insectta,1,0,0,0,1,1,5,2,1.0,0.0,Asia
+ubiden,0,0,1,0,0,1,8,1,1.0,0.0,Asia
+electra.aero,0,1,1,0,1,1,4,1,1.0,0.0,Americas
+volterra,0,0,0,0,0,0,1,1,,,
+new school foods,1,1,1,1,0,1,12,4,1.0,0.0,Americas
+mojave energy systems,1,0,0,1,0,1,8,2,1.0,0.0,Americas
+wifine tech,0,0,0,0,0,1,2,1,0.0,1.0,Asia
+evari (energy services),1,1,0,0,0,0,2,2,1.0,0.0,Americas
+greenworkx,1,0,1,1,0,1,8,2,1.0,0.0,Europe
+element3,1,0,1,0,0,0,3,2,,,
+zeroboard,1,1,1,1,0,1,21,2,1.0,0.0,Asia
+reseed,0,0,1,1,0,1,5,1,0.0,0.0,Americas
+sotas,0,0,1,1,0,1,4,1,1.0,0.0,Asia
+aimwell partners (pinx: aimn),0,0,0,0,0,0,1,0,,,
+oghji,0,0,1,0,0,1,3,1,0.0,0.0,Europe
+carbon maps,1,0,1,1,0,1,4,2,1.0,0.0,Europe
+zevx,0,0,0,0,0,0,2,0,0.0,1.0,Americas
+green-got,1,0,1,1,0,1,5,2,1.0,0.0,Europe
+pluton biosciences,1,0,1,1,1,1,11,3,1.0,0.0,Americas
+friendlier,1,0,0,1,0,0,2,2,1.0,0.0,Americas
+ascendance,0,0,1,1,0,1,14,1,1.0,0.0,Europe
+cloverly,0,0,1,1,0,1,13,1,1.0,0.0,Americas
+ambient fuels,1,0,1,0,0,1,4,3,1.0,0.0,Americas
+aqualung,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+pyran,0,0,1,0,0,1,3,1,1.0,0.0,Americas
+ftn motion,0,0,0,1,0,0,2,1,0.0,0.0,Oceania
+renewagri om ecommerce,0,0,0,0,0,0,3,1,1.0,0.0,Asia
+soren hydrogen,1,0,1,1,0,1,6,2,1.0,1.0,Europe
+agoprene,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+tergo,0,0,0,0,0,0,1,1,1.0,0.0,Europe
++nutri co,0,0,1,1,0,1,4,1,0.0,0.0,Americas
+rewind (environmental services),1,1,0,1,0,1,5,2,1.0,0.0,Middle East
+mash makes,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+sesame solar,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+ever.green,1,0,1,1,0,1,7,3,1.0,0.0,Americas
+trawa,1,0,1,1,0,1,9,3,1.0,0.0,Europe
+adaptis,1,0,0,1,0,1,4,2,1.0,0.0,Americas
+bodhi (business/productivity software),0,0,0,0,0,0,1,1,1.0,0.0,Americas
+treatech,1,0,1,0,0,1,6,3,1.0,0.0,Europe
+greenlyte,1,0,1,1,0,1,6,3,1.0,0.0,Europe
+trina storage,0,0,0,0,0,0,3,1,0.0,0.0,Asia
+photonect,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+dmat,1,0,0,1,0,1,3,3,1.0,0.0,Europe
+nearstar fusion,1,0,0,0,0,0,2,2,1.0,0.0,Americas
+aquanzo,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+revterra,0,0,1,1,0,1,6,1,1.0,0.0,Americas
+chargezone,1,1,1,1,0,1,2,2,1.0,0.0,Asia
+ht materials science,1,1,1,1,0,0,5,2,1.0,0.0,Europe
+new day hydrogen,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+airseed technologies,0,0,0,0,0,0,2,0,0.0,0.0,Oceania
+novali,1,0,0,0,0,1,2,2,1.0,0.0,Europe
+coinflex,0,0,0,0,0,0,1,0,1.0,0.0,Asia
+pure lithium,0,0,0,0,0,0,2,0,1.0,0.0,Americas
+dispersa,1,0,1,0,0,1,7,2,1.0,0.0,Americas
+tvarit,1,1,1,0,0,0,4,2,1.0,0.0,Europe
+airmo,1,0,1,1,0,1,7,4,1.0,0.0,Europe
+climate vault,1,0,1,1,0,1,4,4,1.0,0.0,Americas
+joe's future food,0,0,0,0,0,0,1,1,0.0,0.0,Asia
+tanbark,1,0,0,0,0,0,2,2,1.0,0.0,Americas
+claros farm,1,1,1,1,1,1,5,2,1.0,0.0,Americas
+correntics,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+sniffer robotics,0,1,1,0,0,1,8,1,0.0,0.0,Americas
+enginuity power systems,0,0,0,0,0,1,2,1,0.0,0.0,Americas
+heliup,0,0,1,1,0,1,5,1,0.0,0.0,Europe
+monalee,1,0,0,1,0,1,6,2,1.0,0.0,Americas
+carbondrop,0,0,0,0,0,0,2,1,0.0,0.0,Americas
+ruuf (information services),1,1,1,1,1,1,9,4,1.0,0.0,Americas
+neptune nanotechnologies,1,1,1,1,0,1,4,3,1.0,0.0,Americas
+noya (environmental services),1,0,1,1,0,1,16,4,1.0,1.0,Americas
+supersola,0,0,0,1,0,1,4,1,1.0,0.0,Europe
+cupffee,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+velca,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+rushnu,0,0,0,0,0,1,2,1,1.0,0.0,Americas
+co2bioclean,0,0,0,0,0,1,4,1,0.0,0.0,Europe
+cyclic materials,1,0,1,1,0,0,5,2,1.0,0.0,Americas
+dishwill,0,0,0,0,0,1,2,1,0.0,0.0,Asia
+pave power,0,0,0,0,0,0,1,0,,,
+kapture (commercial products),0,0,0,0,0,0,1,1,1.0,0.0,Oceania
+heero technologies,0,0,1,1,0,1,3,1,0.0,1.0,Europe
+oyika,0,0,0,0,0,1,2,1,1.0,0.0,Asia
+mobec,0,0,0,0,0,0,1,0,,,
+spark cleantech,0,0,1,1,0,1,5,1,1.0,0.0,Europe
+enshift,1,1,1,0,0,1,5,3,1.0,0.0,Europe
+abillion,1,0,0,0,0,0,2,2,1.0,0.0,Asia
+zila bioworks,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+rable,1,0,1,0,0,1,4,2,1.0,0.0,Europe
+frontline wildfire defense,1,0,1,1,0,1,4,2,1.0,0.0,Americas
+greendays,0,0,0,0,0,0,1,0,0.0,0.0,Middle East
+eugenie.ai,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+greenstic europe,0,0,0,0,0,0,1,1,,,
+bound4blue,1,1,1,1,1,1,9,3,1.0,0.0,Europe
+caravel bio,1,0,0,0,0,1,2,2,1.0,0.0,Americas
+deep sky,0,0,1,1,0,1,5,1,1.0,0.0,Americas
+qd-sol,0,0,0,0,0,0,1,0,1.0,0.0,Middle East
+airsensa,0,0,0,0,0,0,5,0,0.0,0.0,Europe
+renewable metals,1,1,1,1,0,1,11,4,1.0,0.0,Oceania
+new sun road,1,0,1,1,1,1,8,3,1.0,0.0,Americas
+limenet,0,0,1,1,0,1,9,1,1.0,0.0,Europe
+re-fresh global,1,1,1,1,0,1,9,2,1.0,0.0,Europe
+fiberx,0,0,1,0,0,1,4,1,0.0,0.0,Americas
+vinfast auto (nas: vfs),0,0,0,0,0,0,1,0,0.0,0.0,Asia
+vateris,1,1,1,1,0,1,15,3,1.0,0.0,Europe
+koala (other energy services),0,0,0,0,0,0,1,1,,,
+dissolves,0,0,1,0,0,0,3,1,1.0,0.0,Americas
+the very food,0,0,1,0,0,1,10,1,1.0,0.0,Europe
+treehouse (commercial services),1,0,1,1,0,1,12,2,1.0,0.0,Americas
+loewi,1,0,1,0,1,1,6,3,1.0,0.0,Europe
+via biofuels,1,1,1,1,0,1,7,3,1.0,0.0,Americas
+agricells,0,0,1,0,0,1,2,1,0.0,0.0,Europe
+fermelanta,1,1,1,0,0,1,3,2,1.0,0.0,Asia
+molendotech,0,0,1,0,0,0,3,1,1.0,0.0,Europe
+advanced ionics,0,1,1,1,0,1,9,1,1.0,0.0,Americas
+caeli energie,0,0,1,1,0,1,7,1,1.0,0.0,Europe
+granular energy,1,1,1,1,0,1,8,5,1.0,0.0,Europe
+on.energy,0,0,0,0,0,0,2,1,0.0,0.0,Americas
+c16 biosciences,1,1,1,1,1,1,14,4,1.0,0.0,Americas
+pretred,1,0,1,1,0,1,4,2,1.0,0.0,Americas
+lyten,1,0,1,1,0,1,8,2,1.0,0.0,Americas
+theracann beyond farming,0,0,0,0,0,0,1,0,,,
+carbonade,1,1,1,0,0,0,5,4,1.0,0.0,Middle East
+tokenovate,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+parcel health,1,0,1,1,0,0,3,2,1.0,0.0,Americas
+aris robotics,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+oceanwings,1,0,1,1,1,1,9,2,1.0,0.0,Europe
+bchar,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+wind my roof,0,0,0,1,0,1,4,1,0.0,0.0,Europe
+net zero build,0,0,0,0,0,0,1,1,1.0,0.0,Middle East
+cyanocapture,1,0,1,1,0,0,5,3,1.0,0.0,Europe
+owlfly,0,0,0,0,0,0,1,1,,,
+pow.bio,1,1,1,0,0,1,19,5,1.0,0.0,Americas
+day1lab,0,0,0,1,0,1,3,1,0.0,0.0,Asia
+brightly,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+rubber conversion,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+glacier,1,0,1,0,0,1,3,3,1.0,0.0,Americas
+hyfé,1,0,0,1,0,1,8,4,1.0,0.0,Americas
+jumplights,0,0,0,1,0,0,2,1,1.0,0.0,Americas
+7analytics,0,0,1,0,0,1,2,1,1.0,0.0,Europe
+sensoneo,0,0,0,0,0,1,4,1,1.0,0.0,Europe
+culture fresh foods,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+avatr technology,0,0,0,0,0,1,5,1,0.0,0.0,Asia
+noodoe,0,0,0,0,0,0,1,0,,,
+seasony,1,1,1,0,0,1,8,2,1.0,1.0,Europe
+inicio,1,0,1,1,0,1,4,2,1.0,0.0,Europe
+fengbei biotech (shg: 603334),0,0,0,0,0,1,2,1,0.0,0.0,Asia
+enua,0,0,0,1,0,1,3,1,0.0,0.0,Europe
+mombak,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+inspro,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+mob-energy,0,0,1,1,0,1,9,1,0.0,1.0,Europe
+kuva space,1,1,1,0,0,1,6,2,1.0,0.0,Europe
+cryodesalination,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+mecaware,0,0,1,1,0,1,6,1,1.0,0.0,Europe
+supercritical (environmental services (b2b)),1,1,1,1,0,1,7,3,1.0,0.0,Europe
+thola,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+helical solar,0,0,1,0,0,0,2,1,0.0,0.0,Americas
+cool planet technologies,1,1,1,1,0,1,6,5,1.0,0.0,Europe
+noriware,0,0,1,0,0,1,4,1,1.0,0.0,Europe
+hansung green factory,0,0,0,0,0,0,1,0,,,
+treefera,1,1,1,1,0,1,4,2,1.0,0.0,Europe
+mitra chem,1,1,1,1,1,1,20,5,1.0,0.0,Americas
+neuron energy,0,0,0,0,0,0,4,0,0.0,0.0,Asia
+recatalyst,0,0,1,1,0,1,5,1,1.0,0.0,Europe
+infravision,1,1,1,1,0,1,8,4,1.0,0.0,Oceania
+gaia tech,0,0,1,0,0,1,3,1,1.0,0.0,Europe
+fertighy,1,0,1,1,0,1,6,2,1.0,0.0,Europe
+florrent,1,0,1,0,0,1,9,4,1.0,0.0,Americas
+the nold,0,0,1,1,0,1,6,1,0.0,0.0,Europe
+materialisting,0,0,1,1,0,1,4,1,1.0,0.0,Europe
+blykalla,1,1,1,1,0,1,11,4,,,
+proxima fusion,1,0,1,1,1,1,12,2,1.0,0.0,Europe
+peelon,1,1,1,1,1,1,5,4,1.0,0.0,Americas
+myrspoven,0,0,1,1,0,0,4,1,0.0,0.0,Europe
+go to-u,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+koolsign,0,0,0,1,0,0,2,1,,,
+sustaera,1,0,1,0,0,0,2,2,1.0,0.0,Americas
+beltways,1,0,1,1,0,1,7,3,1.0,0.0,Americas
+electric era,1,1,1,1,1,1,29,3,1.0,0.0,Americas
+eter climate,0,0,0,0,0,0,1,0,,,
+zhongke gaoyou,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+transition metal solutions,1,1,1,1,0,0,6,4,1.0,0.0,Americas
+konnex.ai,0,0,0,0,0,0,1,1,,,
+austere environmental,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+atlas agro,0,0,0,0,0,0,2,0,0.0,0.0,Europe
+sapphire technologies,0,0,1,0,0,1,5,1,0.0,0.0,Americas
+sirona technologies,1,0,1,1,0,1,11,3,1.0,0.0,Europe
+blue laser fusion,0,1,0,0,0,0,2,1,1.0,0.0,Americas
+ecolocked,1,0,1,1,0,1,6,4,1.0,0.0,Europe
+paptic,1,0,1,1,1,1,7,4,1.0,0.0,Europe
+clean energy connect,0,0,1,1,0,1,5,1,0.0,0.0,Asia
+plotlogic,1,1,1,1,0,1,7,4,1.0,0.0,Oceania
+sphere (asset management),1,1,1,0,0,1,7,2,1.0,0.0,Americas
+blue current,1,0,1,0,0,1,4,2,1.0,0.0,Americas
+carbon upcycling,1,1,1,1,0,1,9,4,1.0,0.0,Americas
+emission free generators,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+amu,0,0,1,1,0,1,5,1,0.0,0.0,Asia
+erguvan,0,0,0,0,0,0,2,0,0.0,0.0,Europe
+qev technologies (ams: qev),0,0,0,0,0,0,1,0,,,
+coolreg enerji,0,0,0,0,0,0,1,0,0.0,0.0,Middle East
+inlyte energy,1,1,1,1,0,1,10,2,1.0,0.0,Americas
+umlilo energy,0,0,0,0,0,0,1,0,0.0,0.0,Africa
+volektra,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+mitra ev,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+synera renewable energy,0,0,0,0,0,0,1,0,,,
+greenwood power,0,0,0,0,0,0,2,0,0.0,0.0,Europe
+tiger new energy,1,1,1,1,0,1,7,3,1.0,0.0,Asia
+nukoko,1,1,1,1,0,0,5,3,1.0,0.0,Europe
+thea energy,1,0,1,1,0,1,11,2,1.0,0.0,Americas
+clean food group,0,1,0,0,1,1,4,1,1.0,0.0,Europe
+mygrid,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+talus,1,0,1,1,1,1,6,2,1.0,0.0,Americas
+valis,1,0,1,1,0,1,5,2,1.0,0.0,Americas
+hyme,0,0,1,1,0,1,5,1,1.0,0.0,Europe
+better place forests,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+niu niu,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+fyta (food products),0,0,0,0,0,0,1,0,0.0,0.0,Americas
+sakowin green energy,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+miro analytical,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+hexwise,0,0,0,0,0,1,2,1,0.0,0.0,Europe
+adsorbi,1,0,1,1,0,1,3,2,1.0,0.0,Europe
+gentian,1,1,1,1,0,1,7,5,1.0,0.0,Europe
+ch4 global,1,0,0,0,0,1,6,2,1.0,0.0,Americas
+novatron fusion group,1,0,1,1,0,1,5,2,1.0,0.0,Europe
+skooteco,0,0,1,0,0,1,4,1,0.0,0.0,Europe
+gbuilder,0,0,1,0,0,0,2,1,1.0,0.0,Europe
+patentix,0,0,1,0,0,1,2,1,0.0,0.0,Asia
+monumental (hardware),1,0,0,1,0,1,7,4,1.0,0.0,Europe
+sofi tec,0,0,0,0,0,0,1,1,,,
+expresstec,0,0,0,0,0,0,1,0,,,
+erthos,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+relocalize,1,0,1,1,0,1,6,2,1.0,0.0,Americas
+magnus metal,1,1,1,1,0,1,12,3,1.0,0.0,Middle East
+western frac vap,0,0,0,0,0,0,1,1,,,
+preinvel,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+encentive,0,0,1,0,0,1,7,1,1.0,0.0,Europe
+spiritus,0,1,0,1,0,1,3,1,0.0,0.0,Americas
+erth,1,0,1,1,0,1,4,2,1.0,0.0,Asia
+iona,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+altilium metals (environmental services),0,0,0,0,0,0,1,1,,,
+novohydrogen,0,0,0,0,0,0,1,0,,,
+ulama,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+jingtsing,0,0,0,1,0,1,4,1,0.0,0.0,Asia
+earnest agriculture,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+elyos energy,1,1,0,1,0,1,8,4,1.0,0.0,Europe
+cropbiome,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+h55,1,1,1,1,0,1,4,3,1.0,0.0,Europe
+shibusa systems,0,0,0,0,0,0,5,0,0.0,0.0,Americas
+faction (automotive),1,1,1,1,1,1,9,4,1.0,0.0,Americas
+concular,0,0,0,1,0,1,12,1,1.0,0.0,Europe
+renewablebot,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+megarevo technology,0,0,0,1,0,1,2,1,0.0,0.0,Asia
+42watt,0,0,1,1,0,1,9,1,0.0,0.0,Europe
+erthos (containers and packaging),1,1,1,1,1,1,9,5,1.0,0.0,Americas
+aza power,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+sunwealth,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+circadian technologies,1,1,0,1,0,1,6,4,1.0,0.0,Europe
+proteindistillery,1,0,0,0,0,0,2,2,1.0,0.0,Europe
+skip tech,0,0,1,1,0,1,4,1,1.0,0.0,Americas
+purple farms,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+amphistar,0,0,1,1,0,0,6,1,1.0,0.0,Europe
+energiot,0,0,1,0,0,0,3,1,1.0,0.0,Europe
+aetech,1,0,1,1,0,1,9,2,1.0,0.0,Asia
+vext science (cnq: vext),0,0,0,0,0,0,1,0,,,
+qube technologies,0,0,1,1,0,1,4,1,1.0,0.0,Americas
+good agriculture,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+planboo,1,1,0,0,0,1,4,3,1.0,0.0,Europe
+eden brew,1,1,1,0,0,1,12,2,1.0,0.0,Oceania
+eologix-ping,1,0,1,1,0,1,11,2,1.0,0.0,Europe
+zeno (automotive),1,1,0,0,0,1,4,3,1.0,0.0,Asia
+adia,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+common energy,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+shrimptech jircas,0,0,1,0,0,0,2,1,0.0,0.0,Asia
+plant (environmental services),1,0,0,0,0,0,3,2,1.0,0.0,Europe
+roam ( automotive),1,1,1,1,1,1,9,2,1.0,0.0,Africa
+cnaught,1,1,1,1,0,1,9,3,1.0,0.0,Americas
+rad propulsion,0,0,1,1,0,0,5,1,1.0,0.0,Europe
+carbonrun,1,1,1,0,1,1,4,2,1.0,0.0,Americas
+freyr energy,1,1,1,1,0,1,5,3,1.0,0.0,Asia
+renfuel,0,0,0,0,0,0,1,0,,,
+nala earth,1,1,1,1,0,1,8,4,1.0,0.0,Europe
+intrinsic power,1,0,1,1,0,1,4,4,1.0,0.0,Americas
+aira,1,1,1,1,0,1,9,4,1.0,0.0,Europe
+farminsect,1,0,1,0,0,1,7,2,1.0,1.0,Europe
+fischer farms,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+tianjin clean energy investment,0,0,0,0,0,0,1,0,,,
+9zero,0,0,0,0,0,0,1,0,,,
+emotion fleet,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+zapgo (oxford),0,0,0,0,0,0,1,0,,,
+avsalt (ngm: avsalt),0,0,0,0,0,0,1,0,0.0,0.0,Europe
+avnos (us),1,1,1,1,0,1,6,3,1.0,0.0,Americas
+eden tech (commercial products),0,0,0,1,0,1,3,1,0.0,0.0,Americas
+solor,0,1,0,0,0,1,2,1,0.0,0.0,Middle East
+banyu carbon,1,1,1,0,0,1,6,2,1.0,0.0,Americas
+carbon reform,1,0,1,0,0,0,3,2,1.0,0.0,Americas
+coi energy,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+zeekr automobile,0,0,0,0,1,1,3,1,1.0,0.0,Asia
+tongfang (chengdu) smart agriculture,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+fourth power,0,0,0,1,0,1,3,1,0.0,0.0,Americas
+willy anti-gaspi,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+kikleo,0,0,1,1,0,0,2,1,1.0,0.0,Europe
+dunya analytics,1,1,0,0,0,1,4,3,1.0,0.0,Americas
+carbon oxytech,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+monarch energy (energy infrastructure),0,0,0,1,0,0,3,1,0.0,0.0,Americas
+oka,1,0,0,1,0,1,4,2,1.0,0.0,Americas
+vizcab,1,1,1,0,0,1,8,6,1.0,0.0,Europe
+plantswitch,0,0,0,1,1,1,3,1,1.0,0.0,Americas
+elexon (aachen),0,0,0,0,0,0,2,0,0.0,0.0,Europe
+sumclimate,0,1,0,0,0,1,2,1,0.0,0.0,Oceania
+elexity,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+rubi laboratories,1,0,0,1,0,0,4,2,1.0,0.0,Americas
+pando electric,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+gaia envirotech,0,0,0,0,0,0,1,1,,,
+stardust solar technologies (tsx: sun),0,0,0,0,0,0,1,0,0.0,0.0,Americas
+mitico,1,1,1,1,0,1,14,4,1.0,0.0,Americas
+hynaero,0,0,0,0,0,1,2,1,0.0,0.0,Europe
+blend energy,0,0,0,0,0,0,1,0,,,
+vyra,0,0,0,0,0,0,1,1,,,
+godi,0,0,0,0,0,0,1,0,1.0,0.0,Asia
+hutanbio,1,0,0,0,0,0,2,2,1.0,0.0,Europe
+premergy,0,0,0,0,0,0,1,0,,,
+plugop,1,0,0,0,0,1,2,2,1.0,0.0,Americas
+carboncapture,1,1,1,1,0,1,16,2,1.0,0.0,Americas
+parallel carbon,1,1,1,1,0,1,8,6,1.0,0.0,Europe
+quilt,1,0,1,1,0,1,9,2,1.0,0.0,Americas
+infinite bioworks,0,0,0,0,0,0,1,0,,,
+solhyd,1,1,1,1,0,1,5,2,1.0,0.0,Europe
+ammobia,1,1,1,0,1,1,14,5,1.0,0.0,Americas
+green eagle solutions,1,0,0,1,0,1,3,3,,,
+martie,1,1,0,1,1,1,10,4,1.0,0.0,Americas
+vulcan elements,1,0,1,1,0,1,4,2,1.0,0.0,Americas
+munro vehicles,0,0,0,0,0,0,1,1,,,
+electra (utilities),0,0,1,1,0,1,11,1,0.0,0.0,Europe
+unblock (environmental services (b2b)),0,0,1,0,0,1,4,1,1.0,0.0,Americas
+monta,1,1,1,1,1,1,9,3,1.0,0.0,Europe
+vvf agtech,0,0,0,0,0,0,12,0,0.0,0.0,Americas
+solid world,0,0,0,0,0,0,1,1,1.0,1.0,Europe
+alithic,1,1,0,1,0,0,2,2,1.0,0.0,Americas
+heatio,0,0,1,1,0,1,6,1,1.0,0.0,Europe
+wesmart,1,0,0,1,0,0,2,2,,,
+gridcog,1,1,1,0,0,1,3,2,1.0,0.0,Europe
+thanks carbon,0,0,0,1,0,1,3,1,0.0,0.0,Asia
+senyong new energy,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+pherosyn,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+colipi,0,0,1,1,0,1,4,1,1.0,0.0,Europe
+planted (business/productivity software),0,0,0,0,0,0,1,1,0.0,0.0,Europe
+gradyent,1,1,1,1,0,1,8,3,1.0,0.0,Europe
+monsapo,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+plantforge,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+bandora,1,1,1,1,0,1,3,2,1.0,0.0,Europe
+remind (environmental services (b2b)),1,0,0,1,0,0,3,2,1.0,0.0,Asia
+hydroinformatics institute,0,0,0,0,0,0,1,0,,,
+deep blue biotech,0,0,1,0,0,1,4,1,1.0,0.0,Europe
+istya air,0,0,0,0,0,0,2,1,1.0,0.0,Europe
+hydroyal,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+octavia carbon,1,1,1,1,0,0,6,4,1.0,0.0,Americas
+stepchange,1,1,0,0,0,1,4,3,1.0,0.0,Asia
+green future project,0,0,1,0,0,1,2,1,0.0,0.0,Europe
+ceezer,1,0,0,0,0,1,4,3,1.0,0.0,Europe
+relement,1,1,1,0,1,1,4,2,1.0,0.0,Europe
+fibe (plant textiles),1,1,1,1,0,1,4,4,1.0,0.0,Europe
+culture organics,0,0,0,0,0,0,2,0,0.0,0.0,Americas
+ecoin energy,0,0,0,0,0,0,2,1,1.0,0.0,Asia
+pavakah energy,0,0,0,0,0,0,1,1,1.0,0.0,Asia
+dayatani,0,1,1,1,0,1,8,1,1.0,0.0,Asia
+planet fwd,1,1,1,1,0,1,8,3,1.0,0.0,Americas
+freezem,0,0,0,0,0,0,1,1,1.0,0.0,Middle East
+mineral forecast,1,0,0,1,0,1,6,3,,,
+terra bioindustries,1,0,1,0,0,0,3,2,1.0,0.0,Americas
+found energy,1,1,1,1,1,1,17,4,1.0,0.0,Americas
+deep planet,1,1,1,0,0,1,6,4,1.0,1.0,Europe
+acceleron fusion,1,0,1,1,0,1,13,2,1.0,0.0,Americas
+the warming surfaces company,0,0,1,0,0,0,7,1,0.0,0.0,Europe
+fortera,1,0,1,1,0,1,6,3,1.0,0.0,Americas
+mozaic earth,0,0,1,0,0,1,3,1,1.0,0.0,Europe
+bluegreen water technologies,0,0,0,0,0,1,2,1,,,
+terrapin geothermics,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+alfapur technologies,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+carbonbuilt,1,1,1,1,1,1,14,4,1.0,0.0,Americas
+modern synthesis,1,1,0,1,0,0,3,2,1.0,0.0,Europe
+ponda,1,0,0,1,0,1,3,3,1.0,0.0,Europe
+mitiga solutions,1,1,1,0,0,1,6,4,1.0,0.0,Europe
+sention technologies,1,1,1,1,0,1,10,6,1.0,0.0,Europe
+lilli,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+holosolis,0,0,0,0,0,0,5,1,0.0,0.0,Europe
+green cop,0,0,0,0,0,0,2,0,1.0,0.0,Asia
+arnergy,1,1,1,1,0,1,6,3,,,
+nextron energia,1,0,1,0,0,1,4,3,1.0,0.0,Americas
+proof (miami),0,0,0,0,0,0,1,1,1.0,0.0,Americas
+prairiefood,0,0,0,0,0,0,1,0,,,
+tomorrow farms,1,0,0,0,0,0,3,2,1.0,0.0,Americas
+sora fuel,0,0,0,1,0,0,3,1,1.0,0.0,Americas
+travertine,0,0,1,0,0,0,3,1,1.0,0.0,Americas
+mazaohub,0,1,1,1,0,1,7,1,1.0,0.0,Africa
+starstone,0,0,0,0,0,0,2,1,0.0,0.0,Americas
+ecosafi,1,1,0,0,0,0,4,2,1.0,0.0,Africa
+resource monitor,1,0,1,1,0,1,4,2,1.0,0.0,Americas
+galy,1,1,1,1,1,1,14,3,1.0,0.0,Americas
+enviria,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+axle energy,1,1,1,1,0,1,7,3,1.0,0.0,Europe
+outlast,0,0,1,0,0,1,2,1,1.0,0.0,Americas
+equisera,0,0,0,0,0,0,2,1,1.0,0.0,Europe
+viridis terra,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+hytzer,1,1,1,1,0,1,9,2,1.0,0.0,Asia
+jolt (specialty chemicals),0,0,0,0,0,0,1,0,1.0,0.0,Europe
+telo trucks,0,0,0,1,1,1,6,1,1.0,0.0,Americas
+boidel,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+granulous,0,0,1,1,0,1,4,1,0.0,0.0,Europe
+carbonova,1,1,1,0,0,1,2,2,1.0,0.0,Americas
+1komma5,1,1,1,1,0,1,12,4,1.0,0.0,Europe
+m2x energy,0,0,1,1,0,0,6,1,1.0,0.0,Americas
+brisil,0,1,1,0,0,1,3,1,1.0,0.0,Asia
+technocarbon,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+coflux purification,0,0,1,0,0,1,2,1,1.0,0.0,Americas
+casol,0,0,0,0,0,0,1,1,0.0,0.0,Asia
+grounded,0,0,1,1,1,1,7,1,0.0,0.0,Americas
+carbonaught,1,1,1,0,0,0,2,2,1.0,0.0,Oceania
+killington materials,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+proterra investment partners,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+reefgen,1,0,1,0,0,0,2,2,1.0,0.0,Americas
+tidal metals,0,0,0,1,0,0,3,1,1.0,0.0,Americas
+eolic wall,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+dryad,1,0,1,0,0,0,2,2,1.0,0.0,Europe
+orus energy,1,0,1,1,0,1,6,2,1.0,0.0,Europe
+shangyuan intelligence technology,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+powerfull,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+torus (energy storage),1,0,1,1,0,1,12,2,1.0,0.0,Americas
+lightshift energy,0,0,0,0,0,0,1,1,,,
+elephant energy,1,0,1,1,0,1,5,3,1.0,0.0,Americas
+bionomic,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+rootrix,1,0,0,1,0,1,3,3,1.0,0.0,Asia
+solarock,1,1,1,1,0,1,5,3,1.0,0.0,Europe
+la vie,1,0,1,1,0,0,4,2,1.0,0.0,Europe
+nobody engineering,1,0,1,0,0,0,4,3,1.0,0.0,Europe
+drift energy,1,1,0,0,0,0,2,2,1.0,0.0,Europe
+zanskar,0,0,1,1,0,1,9,1,1.0,0.0,Americas
+adamo foods,1,1,1,1,0,1,4,3,1.0,0.0,Europe
+edgecom energy,0,0,1,0,0,0,2,1,1.0,0.0,Americas
+guofuhee (hkg: 02582),0,0,0,0,0,1,2,1,0.0,0.0,Asia
+farm to feed,0,1,1,0,0,0,4,1,1.0,0.0,Africa
+strong roots,0,0,0,0,0,0,1,1,,,
+thermoshade,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+teco 2030,0,0,0,0,0,0,1,0,0.0,1.0,Europe
+swtch,1,0,1,1,0,1,5,3,1.0,0.0,Americas
+neuponicsai,0,0,0,0,0,0,1,0,,,
+lithosquare,0,0,0,1,0,1,3,1,1.0,0.0,Europe
+archeda (environmental services),0,0,0,0,0,0,2,1,0.0,0.0,Asia
+sohhytec,0,0,0,0,0,1,2,1,1.0,0.0,Europe
+canopus (energy services),1,1,1,0,0,0,3,2,1.0,0.0,Europe
+hytrade,0,0,1,1,0,1,4,1,0.0,0.0,Europe
+breton technology (hkg: 01333),0,0,0,0,0,0,1,1,0.0,0.0,Asia
+low carbon materials,1,0,1,1,0,1,7,3,1.0,0.0,Europe
+forever feed technologies,0,0,0,0,0,0,11,0,0.0,0.0,Americas
+networkocean,1,0,0,1,0,1,7,2,1.0,0.0,Americas
+red canyon resources (cnq: redc),0,0,0,0,0,0,2,0,0.0,0.0,Americas
+blaze barrier,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+samara energy,1,0,1,1,0,1,8,5,1.0,0.0,Europe
+li industries,1,1,1,1,0,1,11,2,1.0,0.0,Americas
+traace,0,0,1,0,0,1,4,1,1.0,0.0,Europe
+utility global,1,0,1,1,0,1,5,3,1.0,0.0,Americas
+in bold print,1,0,1,0,0,1,4,2,1.0,0.0,Americas
+gigacrop,1,0,1,1,0,0,3,2,1.0,0.0,Americas
+sluicebox,0,0,0,0,0,0,1,1,,,
+airloom (alternative energy equipment),1,0,0,0,0,0,5,2,1.0,0.0,Americas
+cocoon (raw materials),1,1,1,1,0,1,5,2,1.0,0.0,Europe
+solus power,0,0,0,0,0,0,2,0,0.0,0.0,Europe
+urbanchain,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+tem (business/productivity software),1,0,1,0,0,1,7,4,1.0,0.0,Europe
+agrilectric,0,0,0,0,0,0,1,1,0.0,0.0,Asia
+orygen (environmental services (b2b)),0,0,0,0,0,0,1,0,0.0,0.0,Europe
+crew carbon,1,1,1,1,0,0,8,4,1.0,0.0,Americas
+deutsche sanierungsberatung,1,1,1,1,0,1,8,4,1.0,0.0,Europe
+focused energy,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+midriq,0,0,0,0,0,0,1,1,1.0,0.0,Asia
+zerofy,1,1,1,1,0,1,3,3,1.0,0.0,Europe
+equinox ocean turbines,1,0,0,1,0,0,5,3,1.0,0.0,Europe
+solaqua (alternative energy equipment),0,0,0,0,0,0,1,1,,,
+neustark,1,1,1,1,0,1,7,4,1.0,0.0,Europe
+cecilia materials,0,0,0,0,0,0,2,1,1.0,0.0,Americas
+textilere,1,0,1,1,0,1,3,2,1.0,0.0,Asia
+statiq (automotive),1,1,1,1,0,1,4,3,1.0,0.0,Asia
+futurevoltaics,0,0,1,0,0,0,2,1,0.0,0.0,Europe
+bravelycultured,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+reverion,1,1,1,0,0,0,8,5,1.0,0.0,Europe
+parq,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+nice (automotive),0,0,0,0,0,0,1,1,,,
+planted solar,0,0,0,1,0,1,2,1,1.0,0.0,Americas
+zordi,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+cenate,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+okapi technologies,1,0,1,1,0,1,6,2,1.0,0.0,Asia
+tao climate,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+edacious,1,0,1,1,0,1,6,3,1.0,0.0,Americas
+muon vision,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+jwala bioenergy,0,0,0,0,0,0,13,0,0.0,0.0,Europe
+rightcharge,1,1,1,0,0,1,2,2,1.0,0.0,Europe
+nordic seafarm,1,1,0,0,0,1,2,2,1.0,0.0,Europe
+standard h2,0,0,0,0,0,0,1,0,,,
+alphabiome,0,1,0,0,0,0,2,1,1.0,0.0,Middle East
+bigtorage,0,0,0,0,0,0,1,1,0.0,1.0,Asia
+tual,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+rejoule,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+aratherm services,0,0,0,0,0,0,1,0,,,
+concentro,1,1,1,1,0,1,9,2,1.0,0.0,Americas
+44.01,1,1,1,1,0,1,20,5,1.0,0.0,Europe
+terramtech,0,0,0,0,0,0,1,1,,,
+enviraboard,0,0,0,0,0,0,1,0,,,
+carbon ridge,1,1,1,1,0,1,12,5,1.0,0.0,Americas
+helix earth,1,1,1,1,0,1,4,3,1.0,0.0,Americas
+darwin data,0,0,0,1,0,1,2,1,0.0,0.0,Europe
+ez ops,0,0,0,0,0,0,3,0,,,
+ucaneo,1,1,1,1,0,1,9,4,1.0,0.0,Europe
+btry,0,0,0,0,0,1,2,1,1.0,0.0,Europe
+entosystem,0,0,1,1,1,0,3,1,0.0,0.0,Americas
+recepta,0,1,0,0,0,1,4,1,1.0,0.0,Americas
+evercomm,0,0,0,1,0,0,2,1,,,
+karbon korea,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+aalo,1,1,1,1,0,1,20,4,1.0,0.0,Americas
+universal fuel technologies,0,0,0,0,0,0,5,1,1.0,0.0,Americas
+platypus,0,0,0,0,0,0,1,1,1.0,0.0,Middle East
+evident battery,1,1,0,1,0,1,5,4,1.0,0.0,Americas
+seadling,1,1,1,1,0,1,3,3,1.0,0.0,Asia
+encode energy,1,0,0,0,0,0,2,2,1.0,0.0,Americas
+kazam,1,0,0,0,0,1,4,2,1.0,0.0,Asia
+power to hydrogen,1,1,1,0,0,1,14,6,1.0,0.0,Americas
+ze energy (energy production),1,0,0,0,0,1,6,2,1.0,0.0,Europe
+tantti,0,0,0,0,0,0,1,0,1.0,0.0,Asia
+graphyte (environmental services (b2b)),0,0,1,1,0,0,4,1,0.0,0.0,Americas
+type one energy,1,1,1,1,1,1,25,4,1.0,0.0,Americas
+crabaride,0,0,0,0,0,0,1,0,1.0,0.0,Africa
+terraform industries,1,1,1,0,0,1,4,2,1.0,0.0,Americas
+nostromo energy,0,1,1,1,0,1,5,1,1.0,0.0,Americas
+terra oleo,1,0,1,0,0,0,4,4,1.0,0.0,Asia
+electromaim,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+creattura,0,0,1,1,0,0,4,1,0.0,0.0,Asia
+green graphite technologies,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+hangyang energy management service,0,0,0,0,0,0,2,1,0.0,0.0,Asia
+open access energy,1,1,0,1,0,1,4,2,1.0,0.0,Africa
+return to vendor,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+recharged,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+hydryx,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+savengy technologies,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+graphitic energy,0,1,1,0,0,1,4,1,1.0,0.0,Americas
+photon crystal energy,0,0,1,1,0,1,4,1,0.0,0.0,Asia
+dat bike,0,0,1,1,0,0,2,1,1.0,0.0,Asia
+laconic,0,0,0,0,0,0,2,0,0.0,0.0,Americas
+terradot,1,1,1,1,0,1,16,4,1.0,0.0,Americas
+sichuan iat auto,0,0,0,0,0,0,1,1,0.0,0.0,Asia
+everest carbon,1,1,1,1,0,1,5,4,1.0,0.0,Americas
+electric outdoors,1,0,1,1,0,1,5,2,1.0,0.0,Americas
+electrofuel marine,0,0,0,0,0,0,1,0,,,
+teiny,0,0,0,0,0,0,1,1,0.0,0.0,Oceania
+elyse energy,1,0,1,1,0,0,4,3,1.0,0.0,Europe
+meala,1,1,0,0,0,0,3,2,1.0,0.0,Middle East
+hover energy,0,0,0,0,0,0,1,0,,,
+infrared.city,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+skye energy,1,1,0,0,0,1,4,2,1.0,0.0,Europe
+exposome,0,0,1,0,0,1,10,1,1.0,0.0,Asia
+odos,1,0,1,1,0,1,3,2,1.0,0.0,Europe
+scout discoveries,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+onego bio,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+greenbug,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+neutreeno,1,1,1,1,0,0,7,4,1.0,0.0,Europe
+gardin,1,0,1,1,0,1,7,2,1.0,0.0,Europe
+vbase oil company,0,0,1,0,0,1,3,1,0.0,0.0,Americas
+nimbus power systems,0,0,1,0,0,1,2,1,,,
+green aero propulsion,0,1,0,0,0,1,4,1,1.0,0.0,Asia
+zeti,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+conry tech,1,1,1,1,0,1,5,4,1.0,0.0,Oceania
+safire technology group,1,0,1,1,1,1,8,6,1.0,0.0,Americas
+macro oceans,1,0,1,1,0,1,5,2,1.0,0.0,Americas
+vaulted deep,1,0,1,1,0,1,7,3,1.0,0.0,Americas
+el-monde,0,0,0,0,0,0,1,0,,,
+siete family foods,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+done properly,0,1,1,1,1,1,5,1,1.0,0.0,Americas
+epic charging,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+queens carbon,1,0,1,0,0,1,5,3,1.0,0.0,Americas
+prodigy9,0,0,0,0,0,0,1,0,,,
+carbon neutral fuels,1,0,0,1,0,1,3,2,1.0,0.0,Europe
+aura aero,0,0,0,1,0,0,3,1,1.0,0.0,Europe
+blue carbon,0,1,0,0,0,0,2,1,1.0,0.0,Oceania
+callirius,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+qnetic,0,0,1,0,0,1,4,1,0.0,0.0,Americas
+mint home,0,0,0,0,0,1,2,1,0.0,0.0,Americas
+agreka build,0,0,1,0,0,1,2,1,1.0,0.0,Europe
+northstar impact solution,0,0,0,0,0,0,1,1,0.0,0.0,Asia
+myland,1,1,1,0,0,1,2,2,1.0,0.0,Americas
+ooyoo,0,0,1,1,0,1,8,1,0.0,0.0,Asia
+ocean,0,0,1,0,0,0,2,1,1.0,0.0,Americas
+nanoplume,1,1,1,1,0,0,5,3,1.0,0.0,Europe
+phnxx,1,1,0,0,0,1,5,3,1.0,0.0,Oceania
+beeplanet factory,0,0,1,1,0,0,6,1,1.0,0.0,Europe
+kinava,0,0,0,0,0,0,3,0,1.0,0.0,Asia
+solarsub,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+cleversolar,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+maxvolt energy (nse: maxvolt),0,0,0,0,0,0,1,0,0.0,0.0,Asia
+phoenix tailings,1,1,1,1,0,1,31,8,1.0,0.0,Americas
+envrtech,0,0,0,0,0,0,1,0,,,
+moon (alternative energy equipment),1,1,1,1,0,1,7,2,1.0,0.0,Europe
+medisun energy,0,1,0,1,0,1,5,1,1.0,0.0,Asia
+fotenix,0,0,0,0,0,1,2,1,1.0,0.0,Europe
+enervivo,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+flash weather ai,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+sequestra,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+electralith,1,1,1,0,1,1,12,4,1.0,0.0,Oceania
+ecospirits,1,1,1,1,1,1,16,4,1.0,0.0,Asia
+nortech ai,1,0,0,1,0,1,2,2,1.0,0.0,Europe
+vivifica sustainable solutions,0,0,0,0,0,0,1,1,1.0,0.0,Asia
+hatch (other business products and services),0,0,0,0,0,0,1,1,0.0,0.0,Asia
+exowatt,1,1,1,1,0,1,31,3,1.0,0.0,Americas
+heirloom,1,1,1,1,0,1,21,4,1.0,0.0,Americas
+nocomed,0,0,0,1,0,0,3,1,0.0,0.0,Europe
+apis point energy,0,0,0,1,0,1,3,1,0.0,0.0,Americas
+nilo (environmental services),1,1,0,0,0,1,3,2,1.0,0.0,Oceania
+evolution data,0,0,0,0,0,0,1,1,,,
+dayone,1,1,1,1,0,1,13,4,1.0,0.0,Asia
+bramble energy,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+nanoweave,0,1,0,1,0,1,2,1,1.0,0.0,Americas
+agronet zero,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+basestud.io,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+jaipur robotics,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+voltiris,1,1,0,1,0,1,3,2,1.0,0.0,Europe
+faura,1,0,0,1,0,1,7,4,1.0,0.0,Americas
+ce-tek,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+standard nuclear (nys: stdn),1,0,1,1,0,1,9,3,,,
+b2 labtech,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+sgprotein,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+stryde (commercial products),0,0,0,0,0,0,1,0,0.0,0.0,Europe
+amperehour,0,0,1,0,0,0,2,1,1.0,0.0,Asia
+inevitable technology,1,0,0,1,0,1,4,2,1.0,0.0,Americas
+evoralis,1,0,1,1,0,1,9,4,1.0,0.0,Europe
+greeneple,0,0,0,0,0,1,2,1,0.0,0.0,Asia
+duranium,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+verretex,1,0,1,1,0,0,2,2,1.0,0.0,Europe
+koolboks,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+rise reforming,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+adaptavate,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+robinsun,0,0,0,1,0,1,8,1,0.0,0.0,Europe
+rarearth,1,0,1,1,0,1,6,4,1.0,0.0,Europe
+kind designs,1,0,1,1,0,1,10,4,1.0,0.0,Americas
+inyanga,0,0,0,1,0,0,2,1,0.0,0.0,Europe
+bettertable,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+elysis,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+commonwealth fusion systems,1,1,1,1,1,1,47,4,1.0,0.0,Americas
+noarktech,0,0,0,0,0,0,1,0,1.0,0.0,Asia
+heat2power,0,0,0,0,0,0,1,1,,,
+faeger,0,0,1,1,0,1,8,1,0.0,0.0,Asia
+octet scientific,0,0,0,0,0,1,3,1,1.0,0.0,Americas
+eqore,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+brightank,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+mote,0,1,0,1,0,1,4,1,1.0,0.0,Americas
+base power,1,0,1,1,0,1,18,2,1.0,0.0,Americas
+nomadic drones,0,1,0,0,0,0,2,1,1.0,0.0,Europe
+hydgen,0,0,0,1,0,1,3,1,1.0,0.0,Asia
+rara factory,1,1,0,0,1,1,5,2,1.0,0.0,Europe
+reask,0,0,0,0,0,0,1,1,1.0,0.0,Oceania
+otaria,0,0,0,0,0,0,1,1,,,
+ikkaton,0,0,0,0,0,0,1,1,,,
+national renewable network,0,0,0,1,0,1,6,1,1.0,0.0,Oceania
+ecoligo,1,1,1,0,0,0,3,2,1.0,0.0,Europe
+applied atomics (energy production),0,1,1,1,0,1,8,1,1.0,0.0,Americas
+pinepeak,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+opensolar,1,1,1,1,0,1,11,2,1.0,0.0,Oceania
+oleo (environmental services),0,0,0,0,0,1,2,1,1.0,0.0,Americas
+e-heat,0,0,0,0,0,0,1,0,,,
+terra co2,1,1,1,1,0,1,10,4,1.0,0.0,Americas
+kynda,1,1,1,1,0,1,7,4,1.0,0.0,Europe
+foton teld microgrid technology,0,0,0,0,0,0,2,0,0.0,0.0,Asia
+causal labs,0,0,0,1,0,1,7,1,0.0,0.0,Americas
+sigenergy (hkg: 06656),1,1,1,1,1,1,17,3,1.0,0.0,Asia
+cellx biosolutions,1,0,1,1,0,0,5,2,1.0,0.0,Europe
+ionkraft,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+shizai,0,1,1,0,1,1,2,1,1.0,0.0,Asia
+ferveret,1,1,1,1,0,1,12,5,1.0,0.0,Americas
+greenda,0,0,1,1,0,1,5,1,1.0,0.0,Asia
+sphere for good,0,0,0,0,0,0,1,1,1.0,0.0,Oceania
+marvel fusion,1,0,1,1,0,1,13,4,1.0,0.0,Europe
+reusables,0,0,1,1,0,0,5,1,1.0,0.0,Americas
+nowos,1,1,0,1,1,0,4,3,1.0,0.0,Europe
+aeon blue,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+steady energy,1,1,1,1,0,1,7,4,1.0,0.0,Europe
+stargate hydrogen,0,0,1,0,0,1,4,1,0.0,0.0,Europe
+waterwhelm,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+sk signet (krx: 260870),1,1,0,0,0,1,2,2,1.0,0.0,Asia
+alt carbon,1,1,1,0,0,1,5,2,1.0,0.0,Asia
+wattch,1,0,1,1,0,1,4,2,1.0,0.0,Americas
+esgrid,0,0,0,1,0,1,3,1,1.0,1.0,Europe
+mpower ventures (alternative energy equipment),0,0,0,1,0,0,2,1,1.0,0.0,Europe
+eflow,0,0,0,0,0,1,5,1,1.0,0.0,Asia
+gridvisibility,0,0,0,0,0,0,1,1,,,
+trende,0,0,0,0,0,1,4,1,0.0,0.0,Asia
+was co.,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+rotorvault,0,0,0,0,0,0,1,1,,,
+bioworks,0,0,0,0,0,0,2,0,1.0,0.0,Asia
+xoople,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+ace power,0,0,0,0,0,0,1,0,0.0,0.0,Oceania
+sunfish (hardware),0,0,0,0,0,0,1,1,1.0,0.0,Americas
+bovotica,0,1,1,1,0,1,4,1,1.0,0.0,Oceania
+e-station,0,0,0,0,0,0,1,1,,,
+sunsave,0,0,1,0,0,1,7,1,1.0,0.0,Europe
+bloom biorenewables,1,1,1,1,0,1,10,3,1.0,0.0,Europe
+c2x,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+hiiroc,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+heron power,1,0,1,1,0,1,8,2,1.0,0.0,Americas
+aria teknologi bersih,0,0,0,1,0,1,2,1,0.0,0.0,Asia
+rhizome,1,0,1,1,0,1,15,3,1.0,0.0,Americas
+inviro,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+zeus ai,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+noora,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+revcoo,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+lithios,1,0,1,1,0,1,9,2,1.0,0.0,Americas
+tada,0,1,1,0,0,1,4,1,0.0,0.0,Europe
+midbar,0,0,0,0,0,0,1,1,1.0,0.0,Asia
+elementrailer,0,0,0,0,0,0,2,1,0.0,0.0,Americas
+netzeronitrogen,1,1,1,0,0,0,6,3,1.0,0.0,Europe
+realta fusion,1,0,1,1,0,1,12,2,1.0,0.0,Americas
+pulpac,0,0,1,0,0,1,3,1,1.0,0.0,Europe
+the pack,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+greenlib,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+irestify,0,0,0,0,0,0,2,1,0.0,0.0,Americas
+carbovolt labs,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+megaplan,0,0,0,1,0,1,3,1,1.0,0.0,Asia
+kg motors,0,1,1,1,1,1,18,1,0.0,0.0,Asia
+strataphy,1,0,0,1,0,1,4,2,1.0,0.0,Middle East
+eventual (financial software),1,0,0,1,0,1,6,3,1.0,0.0,Americas
+ecobrew,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+gencores,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+electrified thermal solutions,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+suyana,1,0,1,1,1,1,4,2,1.0,0.0,Americas
+magnefy,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+cala systems,1,0,1,1,0,1,5,4,1.0,0.0,Americas
+maximum information,1,1,1,1,0,1,4,3,1.0,0.0,Europe
+osmosun (par: alwtr),0,0,0,0,0,0,1,0,1.0,0.0,Europe
+azure printed homes,0,0,0,0,0,0,4,1,1.0,0.0,Americas
+termina (energy services),1,1,1,1,0,1,5,2,1.0,0.0,Oceania
+lithium de france,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+carbogenics,1,1,1,0,0,1,5,2,1.0,0.0,Europe
+station a,1,1,1,1,0,1,9,4,1.0,0.0,Americas
+aircapture,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+kuafu,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+enrise (alternative energy equipment),1,0,1,1,0,1,6,2,1.0,0.0,Europe
+voltrac,1,0,0,1,1,1,7,4,1.0,0.0,Europe
+k-motors,0,0,1,1,0,1,6,1,0.0,0.0,Europe
+lookup,1,0,1,1,0,1,6,2,1.0,0.0,Europe
+nuuenergy,0,0,1,1,0,1,7,1,0.0,0.0,Europe
+euclid power,1,0,1,1,0,1,10,5,1.0,0.0,Americas
+allume energy,0,0,0,0,0,1,3,1,1.0,0.0,Oceania
+solshare,1,1,1,1,0,0,8,4,1.0,0.0,Asia
+airturb,0,0,0,0,0,0,2,0,0.0,0.0,Europe
+meteoia,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+luna systems,0,0,1,0,0,0,3,1,1.0,0.0,Europe
+downland,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+weco (alternative energy equipment),0,0,0,0,0,0,3,0,0.0,0.0,Europe
+vyse tech,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+sunspeker,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+resilient power,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+empery digital (nas: empd),0,0,0,0,0,0,4,0,0.0,0.0,Americas
+battolyser systems,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+streamline innovations,0,0,0,0,0,0,2,0,0.0,0.0,Americas
+genomines,1,1,1,1,0,1,14,5,1.0,0.0,Europe
+super powers mobility,1,0,1,1,0,1,7,3,1.0,0.0,Americas
+antora energy,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+plasmonic reactor systems,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+zooz power (tae: zooz),0,1,0,0,0,1,5,1,,,
+symbiose management,0,1,0,1,0,1,3,1,1.0,0.0,Europe
+aquila space technologies,0,0,0,0,0,0,1,0,1.0,0.0,Oceania
+sg enviro,0,1,1,1,0,0,2,1,0.0,0.0,Asia
+miresso,1,1,1,1,0,1,11,2,1.0,0.0,Asia
+apeiron labs,1,0,0,0,0,1,6,2,1.0,0.0,Americas
+nokken group,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+dig energy,1,0,1,1,0,1,10,2,1.0,0.0,Americas
+phaxtec,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+alphageo,1,1,1,1,1,1,9,4,1.0,0.0,Asia
+everox,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+skyacres,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+samil chemical,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+a1rwater,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+drizzlex,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+redearth,0,0,0,0,0,0,1,0,,,
+curbwaste,1,0,0,1,0,1,5,3,1.0,0.0,Americas
+monte caldera technologies,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+fenceline,0,0,0,0,0,0,1,1,,,
+solariskit,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+pravah,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+nanochronia,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+diel technologies,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+tenchijin,0,0,1,1,1,1,12,1,1.0,0.0,Asia
+vycarb,1,1,1,1,0,1,15,5,1.0,0.0,Americas
+terawatt technology,1,1,1,1,0,1,19,3,1.0,0.0,Americas
+planteva farms,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+cur8,1,1,1,0,0,1,4,2,1.0,0.0,Europe
+cosmoserve space,1,1,1,1,0,1,8,2,1.0,0.0,Asia
+wavr technologies,1,0,1,0,0,0,4,2,1.0,0.0,Americas
+ideation3x,0,0,0,0,0,0,1,1,0.0,0.0,Asia
+nxlite,0,0,1,1,0,1,5,1,1.0,0.0,Americas
+aeromon,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+climerock,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+synboli,0,0,0,1,0,0,2,1,0.0,0.0,Europe
+bamboo for life,0,0,1,0,0,0,2,1,1.0,0.0,Europe
+kestrel,1,1,0,0,0,1,4,3,1.0,0.0,Americas
+flybox,0,0,0,0,1,0,3,1,1.0,0.0,Europe
+janta power,1,0,1,1,1,1,5,4,1.0,0.0,Americas
+thermalcyclones,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+nzt group,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+terra ai,1,0,1,0,0,1,4,3,1.0,0.0,Americas
+preservaland,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+arbor energy,1,0,1,1,0,1,8,2,1.0,0.0,Americas
+solfium,1,0,1,1,0,1,5,3,1.0,0.0,Americas
+iconic air,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+nordic bioproducts group,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+energy node,0,0,0,0,0,0,1,1,0.0,0.0,Europe
+blue dot motorworks,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+exergy3,1,0,1,0,0,0,6,4,1.0,0.0,Europe
+ecotone renewables,1,0,1,1,0,1,11,3,1.0,0.0,Americas
+radify metals,1,0,0,1,0,1,6,4,,,
+atmoszero,0,0,1,1,0,1,5,1,1.0,0.0,Americas
+paragon geochemical laboratories (tsx: pals),0,0,0,0,0,0,1,0,0.0,0.0,Americas
+ipotisedge,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+eldo,1,1,1,1,0,0,3,2,,,
+solar drone,0,0,0,0,0,0,1,0,,,
+addis energy,1,0,0,1,0,1,3,2,1.0,0.0,Americas
+voya energy,1,0,1,1,0,1,12,3,1.0,0.0,Americas
+carbonyx,1,0,1,0,0,0,4,2,1.0,0.0,Americas
+lam'on,0,0,0,0,0,0,1,1,1.0,0.0,Europe
+fuse energy,1,1,1,1,0,1,13,3,,,
+highland electric fleets,0,0,0,1,0,0,2,1,1.0,0.0,Americas
+myriad wind energy systems,0,0,1,1,0,1,5,1,1.0,0.0,Europe
+maplewell energy,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+scrapad,0,0,1,0,0,1,6,1,1.0,0.0,Europe
+ph7 technologies,1,1,1,0,1,1,12,6,1.0,0.0,Americas
+encoat,0,0,1,0,0,1,3,1,,,
+coral (business/productivity software),1,0,1,1,0,1,12,3,1.0,0.0,Americas
+maia farms,1,0,1,0,0,1,7,3,1.0,0.0,Americas
+robo.ai (nas: aiio),0,0,0,0,0,0,1,1,1.0,0.0,Asia
+jak solar,0,0,0,0,0,0,1,0,,,
+applied ev,0,0,1,1,0,1,5,1,1.0,0.0,Oceania
+naarea,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+ilek,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+outlast power,0,0,0,0,0,0,1,1,,,
+tobe energy,0,0,0,0,0,0,2,0,0.0,0.0,Americas
+ecodetect,0,0,0,0,0,1,3,1,0.0,0.0,Europe
+lacuum,0,0,0,0,0,0,1,1,1.0,0.0,Americas
+carbonaide,0,0,1,0,0,1,7,1,1.0,0.0,Europe
+voltico,0,0,1,0,0,0,3,1,0.0,0.0,Europe
+cannatrek,0,0,0,0,0,0,1,0,1.0,0.0,Oceania
+datlantis,0,0,0,0,0,0,1,0,,,
+magnax,0,1,0,0,0,0,2,1,1.0,0.0,Europe
+infiniti recycling,1,0,1,1,0,1,4,2,1.0,0.0,Europe
+jumine,0,0,0,0,0,0,1,1,0.0,0.0,Americas
+vectores,0,0,0,0,0,0,1,0,0.0,0.0,Americas
+regeno,0,0,1,0,0,1,2,1,0.0,0.0,Europe
+exponent energy,1,1,1,1,1,1,12,4,1.0,0.0,Asia
+inoqo,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+newtrace,0,0,1,0,0,1,8,1,1.0,0.0,Asia
+terragrit,1,1,1,1,0,1,6,4,1.0,0.0,Americas
+alkemio,1,0,1,1,0,1,6,2,1.0,0.0,Americas
+fara (business/productivity software),0,0,0,0,0,0,1,0,,,
+energyaid,0,0,0,0,0,0,1,0,,,
+ahes,0,0,0,0,0,1,5,1,0.0,0.0,Asia
+coastal measures,0,0,0,0,0,0,1,0,1.0,0.0,Americas
+smobya,0,0,1,1,0,1,3,1,0.0,0.0,Europe
+kärnfull next (environmental services),0,0,0,0,0,0,1,0,0.0,0.0,Europe
+nz clean energy,0,0,0,0,0,0,1,1,,,
+pranos fusion,0,0,1,1,0,1,7,1,1.0,0.0,Asia
+planck technologies,0,0,0,0,0,0,1,0,0.0,0.0,Europe
+petra power,0,0,0,0,0,1,2,1,1.0,0.0,Americas
+teravenir,0,0,0,0,0,0,1,0,,,
+booost sustainability,0,0,0,0,0,0,2,0,1.0,0.0,Asia
+cowboy space,1,0,1,1,0,1,10,3,1.0,0.0,Americas
+cygni energy,0,0,0,0,0,0,1,0,0.0,0.0,Asia
+eddy grid,0,0,0,1,0,0,2,1,0.0,0.0,Europe
+solar spy,0,0,0,0,0,0,1,0,,,
+d-crbn,0,0,1,0,0,1,3,1,1.0,0.0,Europe
+bosque foods,0,0,0,0,0,0,1,0,1.0,0.0,Europe
+athos metals,0,0,0,0,0,0,1,0,,,
+encosa,1,0,1,1,0,1,13,2,1.0,0.0,Europe
+inobus,0,0,0,0,0,1,2,1,1.0,0.0,Asia
+nomad transportable power systems,0,0,0,0,0,0,1,0,0.0,0.0,Americas

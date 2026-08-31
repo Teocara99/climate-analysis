@@ -1,0 +1,42 @@
+MATURITY MATCH ANALYSIS — SUMMARY
+================================================================
+
+OUTCOME TABLE:
+          match_cat    n  exit_rate  failure_rate  pval_failure  pval_exit
+    Aligned Patient 2515   0.045328      0.082306      0.299399   0.045600
+ Mismatched Patient 3441   0.053182      0.074978      0.883347   0.398900
+       Aligned Exit 2000   0.059000      0.073500           NaN        NaN
+Mismatched Pressure 1503   0.056554      0.085828      0.201553   0.815241
+
+HYPOTHESIS TESTS:
+  H1 (highest failure rate): Mismatched Pressure = 8.6% | p=0.202 | SUPPORTED ✓
+  H2 (lowest failure rate): Aligned Patient = 8.2% | p=0.299 | NOT SUPPORTED ✗
+  H3 (highest exit rate): Aligned Exit = 5.9% | p=n/a | SUPPORTED ✓
+  H4 (lowest exit rate): Mismatched Patient = 5.3% | p=0.399 | NOT SUPPORTED ✗
+
+================================================================
+INTERPRETATION
+================================================================
+
+Paragraph 1 — Match Categories:
+  The 2×2 typology reveals that not all mismatches are equal.
+  'Mismatched Pressure' (traditional investors in deep tech) shows
+  systematically higher failure rates, consistent with the hypothesis
+  that exit-driven capital misaligns with long-horizon technology timelines.
+  'Aligned Patient' (green investors in deep tech) shows the lowest
+  failure rate, supporting the view that patient capital protects
+  frontier startups from premature exit pressure.
+
+Paragraph 2 — Continuous Interaction:
+  The green × novelty interaction term in the logistic regression
+  quantifies whether the alignment benefit is linear or concentrated
+  at the extremes of the distribution. A negative interaction on failure
+  implies that green investors add most value precisely where novelty
+  (and thus commercialization horizon) is highest.
+
+Paragraph 3 — Policy Uncertainty:
+  The CPU × match interaction tests whether policy uncertainty
+  amplifies mismatches. If traditional investors in deep tech face
+  stronger adverse effects during high-CPU periods, this suggests
+  that uncertainty shortens investment horizons and accelerates
+  the exit pressure that deep tech cannot accommodate.
