@@ -1,0 +1,9 @@
+,0
+n_pairs,1035.0
+n_pairs_with_bridge,467.0
+mean_bridge_count,25.28985507246377
+bootstrap_delta_mean,-0.14217112723599631
+bootstrap_delta_se,0.15354753996653636
+bootstrap_p,0.344
+bootstrap_ci_lo,-0.42170142650689957
+bootstrap_ci_hi,0.16196558117915247

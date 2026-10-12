@@ -1,0 +1,28 @@
+cluster,iea,ipcc_option,ipcc_ch,gt_co2,conf,note
+40,Solar photovoltaics,Solar PV (utility+distributed),6,4.0,H,Ch6 Fig6.19
+17,Offshore wind,Wind energy (onshore+offshore),6,2.8,H,Ch6 Fig6.19
+0,Advanced nuclear (SMR+fusion),Nuclear power,6,0.5,H,Ch6 Fig6.19
+2,Green hydrogen via electrolysis,Clean hydrogen (energy/industry),6,0.8,M,Ch6+Ch11; cross-sector
+37,Biomass to energy / Biochar,Bioenergy (BECCS incl.),6,0.7,M,Ch6; BECCS uncertain
+5,Enhanced geothermal systems,Geothermal power,6,0.2,M,Ch6; smaller potential
+15,Ocean wave and tidal energy,Ocean energy,6,0.05,L,Ch6; pre-commercial
+13,Carbon capture (CCUS / DAC),CO2 capture and storage (CCS),6,1.0,M,Ch6; range 0.7-2.0
+55,Li-ion and next-gen batteries,Energy storage (enabling),6,0.5,M,Ch6; indirect via RE
+54,Thermal energy storage,Energy storage (enabling),6,0.2,M,Ch6; minor direct
+56,Grid-scale long-duration storage,Energy storage (enabling),6,0.5,M,Ch6; same as above
+57,Battery storage (grid-connected),Energy storage (enabling),6,0.5,M,Ch6; combined
+59,Smart grid / distributed energy,Demand-side flexibility / DSM,6,0.4,M,Ch6; grid flexibility
+4,Battery electric vehicles,Road transport electrification,10,2.0,H,Ch10; LDV dominant
+3,EV charging infrastructure,Road transport electrification,10,2.0,H,Ch10; enabling infra
+16,Electric aviation (eVTOL),Aviation decarbonisation,10,0.2,L,Ch10; early-stage
+21,Zero-emission shipping (H2/NH3),Shipping decarbonisation,10,0.4,M,Ch10
+60,Heat pumps (space heating),Building electrification (HP),9,0.8,H,Ch9
+62,Efficient cooling and HVAC,Building cooling efficiency,9,0.5,H,Ch9; HFC+energy
+31,Methane abatement and monitoring,Methane abatement (O&G+agri),6,1.5,H,Ch6+Ch12; high urgency
+42,Li-ion battery recycling,Industrial circular economy,11,0.2,L,Ch11; enabling
+43,Low-carbon cement and concrete,Low-carbon cement production,11,0.5,H,Ch11
+45,Bio-based materials (lignin/fibers),Bio-based materials (industry),11,0.3,M,Ch11
+46,Chemical plastics recycling,Plastic waste management,11,0.2,M,Ch11
+47,Bio-based/compostable packaging,Material substitution (packaging),11,0.1,L,Ch11
+49,Advanced waste sorting/recycling,Waste management + recycling,11,0.3,M,Ch11+Ch12
+51,Low-carbon construction materials,Low-carbon construction,11,0.3,M,Ch11

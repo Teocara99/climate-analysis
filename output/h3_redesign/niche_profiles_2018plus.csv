@@ -1,0 +1,342 @@
+niche_id,founding_startup,founding_year,founding_community,n_founder_inv,n_founder_inv_w_comm,n_members,members
+0,Nepcoe Greenstar,2018,,0,0,3,Nepcoe Greenstar; ASELUS; Lume (Alternative Energy Equipment)
+2,FlyLab Solutions,2022,,1,0,2,FlyLab Solutions; Salam Kisan
+3,Redefine Meat,2018,15.0,2,1,3,Redefine Meat; Unlimeat; Greenwise
+4,ACX (Financial Software),2019,,0,0,4,ACX (Financial Software); Carbonfuture; Bluesphere Ventures; Carbcoin
+5,Carbonfact,2021,26.0,1,1,3,Carbonfact; Pathways (Business/Productivity Software); NeuerEnergy
+6,SmartResilience,2019,,1,0,5,SmartResilience; repath; Climate X; Beehive; Eter Climate
+7,Viable Gear,2021,,1,0,4,Viable Gear; Algeon Materials; Grisea; Alaagi
+8,Liquium,2018,,0,0,4,Liquium; Swan-H; Facet Amtech; Addis Energy
+10,v2food,2019,,2,0,3,v2food; Edgy Veggie; Peas of Heaven
+12,Sami AI,2022,,1,0,3,Sami AI; Beyond Sustainability; Otaria
+13,Hygrid Energy,2021,2.0,1,1,3,Hygrid Energy; Electro Base; Range Therapy
+15,Mission Barns,2018,,1,0,9,Mission Barns; New Age Eats; Fork & Good; Cellmeat; Vow; Gaia Foods; Evolved Meats; Myo Palate; Meatiply
+16,Tiamat,2018,,1,0,3,Tiamat; Weifang Energy; China Sodium-ion Times
+17,NZero,2019,,1,0,3,NZero; Sangti; Carbonwize
+18,Nunam,2021,,1,0,3,Nunam; Ion Energy; Ampowr
+19,Seven Generation Capital,2021,,1,0,5,Seven Generation Capital; ALT Mobility; Service4Charger; Pave Power; eMotion Fleet
+20,Microendo,2019,27.0,1,1,5,Microendo; Quorum Bio (Agriculture); Soilbiom; ReGen Soil; Cquesta
+21,Bucolic Kailash Agritech and FMCG,2020,,0,0,3,Bucolic Kailash Agritech and FMCG; Never Farm; Myco Systemics
+23,Geosapiens,2018,,1,0,3,Geosapiens; ClimateAI; Climatig
+24,Oceans of Energy,2018,,1,0,4,Oceans of Energy; SolarDuck; Marino Solar; SolarinBlue
+26,Geyser Batteries,2018,,1,0,2,Geyser Batteries; HalioGEN Power
+27,OLI Systems,2022,,1,0,2,OLI Systems; Integrative Charging
+30,Qiyuan Green Power,2020,,1,0,3,Qiyuan Green Power; Voltloader; Foton Teld Microgrid Technology
+31,Pionix,2021,,1,0,3,Pionix; Epic Charging; Pando Electric
+33,Grinergy,2018,,0,0,5,Grinergy; LionVolt; Daylyte Batteries; Pure Lithium; Cationics Materials
+36,Carapac,2018,,1,0,4,Carapac; Shellworks; Gaiamer; DAY1LAB
+38,Pronoe,2022,,0,0,2,Pronoe; Safer Earth
+40,IMPACT Plus,2023,2.0,1,1,3,IMPACT Plus; The Goodnet; Climaty AI
+41,DAIZ,2018,,4,0,4,DAIZ; Julienne Bruno; Remastered Foods; Shanhaizhiwu
+42,Biopraedium,2020,,1,0,3,Biopraedium; Farm.io; Urban Farming Partners
+43,Liantes,2018,,1,0,3,Liantes; Shenyuan Technology; Exa Energy Technology
+45,BWR Innovations,2020,,0,0,2,BWR Innovations; Encortec
+47,Sync Energy AI,2020,,0,0,4,Sync Energy AI; Sustainaccount; Class 3 Technologies; Rhizome
+48,Griin,2018,,0,0,4,Griin; AmplifiedAg; Biopic.it; Verde Compacto
+52,FarmPod,2019,,1,0,3,FarmPod; Aqua Farm; Tunisie Aquaponie
+53,Chimera Energy,2021,17.0,1,1,3,Chimera Energy; ZNL Energy; InfiniCell Energy
+54,Pyxo,2019,,1,0,4,Pyxo; Forever Ware; Reusabowl; Sykell
+56,Magneto (Alternative Energy Equipment),2019,,1,0,3,Magneto (Alternative Energy Equipment); Barocal; Magnoric
+58,Huake Chaoneng,2020,,2,0,3,Huake Chaoneng; China National Energy; Jiatai New Energy
+59,CurbWaste,2018,,0,0,3,CurbWaste; Invisible foods; Limetrack
+60,Return,2022,6.0,9,7,3,Return; Zeru Earth; Kyoto (Environmental Services (B2B))
+63,Epoch Biodesign,2019,,0,0,4,Epoch Biodesign; Evoralis; BioXycle; Birch Biosciences
+64,Aerogram,2019,,1,0,4,Aerogram; Earthview; VL Energy; VayuDrishti
+67,Bosque Foods,2020,,0,0,5,Bosque Foods; Mycovation; Mush Foods USA; Eternal (Food Products); Adamo Foods
+69,Earthly,2018,,0,0,3,Earthly; Zeroco2; Solaxy Group
+72,HiNa Battery,2018,,2,0,3,HiNa Battery; Haona New Energy; TaiSan
+73,Mojia Biotechnology,2020,40.0,2,2,3,Mojia Biotechnology; Zhihe Biotechnology; Xunyuan Technology
+76,Zhidao Hechuang,2019,,2,0,3,Zhidao Hechuang; Skiff Energy Tech; Legend Energy (China)
+79,Maistic,2018,,0,0,4,Maistic; Celise Bioproducts; Plastic Move; Regeno (Containers and Packaging)
+80,Rondo Energy,2022,1.0,5,3,3,Rondo Energy; Build to Zero; Flex Power Solutions
+81,Arcpoint Connect,2020,,1,0,3,Arcpoint Connect; Hypervolt; Charge+
+82,Hybridworks Chemical,2023,,0,0,2,Hybridworks Chemical; Verretex
+83,SUN Energy (Jakarta),2021,,2,0,2,SUN Energy (Jakarta); Solarfix
+84,PhyFarm,2018,,1,0,3,PhyFarm; Black Eye Technologies; Move On
+85,Treeconomy,2021,17.0,1,1,4,Treeconomy; Geotree; One Mtn; AirToTree
+87,Iconic Air,2020,,1,0,6,Iconic Air; Greenly; Plan Be Eco; CarbonGraph; Carbon Neutral Research Institute; ClimateCamp
+89,Hyfé,2022,,1,0,3,Hyfé; Gaia Tech; SCO2
+90,Dott,2018,3.0,6,1,3,Dott; Ant Bicycle; Boaz Bikes
+94,Archisen,2018,,1,0,10,Archisen; Green Labs; Agrolabs (UK); iFarm [Cultivation]; Enkitek; eAgro; MazaoHub; Doktar Technologies; AgriDoot; SAWIE
+95,Poseidon Impact,2020,,1,0,4,Poseidon Impact; SkootEco; Greenr Technologies; GetGreen
+96,GreenGrid Energy Systems,2019,,1,0,3,GreenGrid Energy Systems; Direct Energy Partners; Entrust Microgrid
+98,OGGS,2018,,0,0,6,OGGS; Evo Foods; Le Papondu; SIMULATE; Float Foods; Unreal Food
+100,Standard Carbon,2019,,1,0,3,Standard Carbon; CCU International; Ecohydro Innovations
+103,Thanks Plants,2020,,1,0,3,Thanks Plants; ALTist; GrinGrin Foods
+104,Cecil,2022,21.0,3,2,3,Cecil; Regenativ; Ponterra
+107,Previsico,2018,,1,0,6,Previsico; Forerunner; True Flood Risk; DiviningLAB; 7Analytics; Bluemapping
+109,Atmo,2020,34.0,1,1,2,Atmo; mistEO
+110,Camus Energy,2019,18.0,1,1,4,Camus Energy; Plexigrid; Scope Zero; GridAstra
+111,ONO Exponential Farming,2019,,0,0,5,ONO Exponential Farming; L&P Agricultural Corporation; Fresh 'n Crisp Farms; BlueLeaves Farms; BlueFields ()
+114,Prisma Renewable Composites,2018,,0,0,3,Prisma Renewable Composites; Lignovations; Lignoflow
+115,Home Grown Fuels,2022,,1,0,3,Home Grown Fuels; Autarkize; Verenovo Energy
+116,CarbonLink (Energy Infrastructure),2023,30.0,1,1,4,CarbonLink (Energy Infrastructure); Mangue Tech; CBAM Estimator; Artem
+117,Sunman Energy,2018,,2,0,3,Sunman Energy; FutureVoltaics; Open Waters Solar
+118,HydroNeo,2018,,1,0,5,HydroNeo; Algaeba; AutoDive; Fish Box; NatureMark Zoetech
+119,Intropic Materials,2020,14.0,2,2,2,Intropic Materials; PlantSwitch
+120,Changeblock,2022,,2,0,2,Changeblock; DigiCarbon
+124,Senyong New Energy,2021,,1,0,3,Senyong New Energy; Jingdezhen Zhengye New Energy Technology; Consilium Green Energy
+126,Osquareteck,2018,,0,0,3,Osquareteck; RACE Energy; Pollen ( Electrical Equipment)
+127,Farm Estates,2021,,1,0,4,Farm Estates; Vision Greens; Mirroryasai; Plant Factory
+128,XLG,2020,,1,0,2,XLG; ELOOP
+134,Entoprot,2018,15.0,2,1,3,Entoprot; Inseco; Mothership Materials
+137,ev.energy,2019,,2,0,4,ev.energy; Daze (Electrical Equipment); Gridlinx; Bluebird Power
+138,Hy2gen,2019,,1,0,3,Hy2gen; Keiryo (Energy Infrastructure); Aragea
+139,Cala Systems,2020,7.0,1,1,4,Cala Systems; Elephant Energy; Electric Air; Pearl Edison
+143,Benviro,2018,,0,0,3,Benviro; Rheom Materials; Nuterials
+144,Spatial Risk Systems,2019,,0,0,3,Spatial Risk Systems; Sust Global; EnvAI
+146,Peace of Meat,2019,,1,0,5,Peace of Meat; CellX; Joe's Future Food; Blue Ridge Bantam; C Foods
+148,MUGO,2020,,0,0,4,MUGO; CEEZER; IN BOLD PRINT; ZeroPact
+149,Gearbox Innovations,2019,,0,0,3,Gearbox Innovations; Polysense (Business/Productivity Software); Terragrow
+150,PassiveLogic,2018,0.0,1,1,3,PassiveLogic; R8 Technologies; Istya Air
+154,HiveMind (Alternative Energy Equipment),2019,,0,0,4,HiveMind (Alternative Energy Equipment); Carbon Collect; 280 Earth; DACMA
+155,STech (China),2021,,1,0,4,STech (China); HYPOWER (China); Shenzhen Wenshi Hydrogen Energy Technology; Ecofem
+156,Boox (Containers and Packaging),2019,,1,0,4,Boox (Containers and Packaging); Ecovia (Containers and Packaging); Movopack; Fuhai Internet of Things
+157,Gigaton Technologies,2020,17.0,1,1,3,Gigaton Technologies; Othersphere; TC Labs
+159,Blip Energy,2021,2.0,1,1,5,Blip Energy; Feishi Technology; Base Power; Çaçan Energy and Agricultural Technologies; On Spot Energy
+161,Uplift360,2022,,0,0,2,Uplift360; Vinyl Institute
+163,BreakPET,2021,3.0,1,1,4,BreakPET; Protein Evolution; Plasticentropy; beworm
+164,New Roots,2018,25.0,1,1,3,New Roots; Grounded (Food Products); Lumi Foods
+165,Arolytics,2018,,1,0,4,Arolytics; Emust; The Climate Choice; Planckton Data
+167,BeDimensional,2018,,1,0,6,BeDimensional; Anaphite; Bright Day Graphene; EnyGy; MATTERENE; Grapherry
+171,Olivine Technologies,2024,4.0,1,1,3,Olivine Technologies; Forge Minerals; Anvil Capture Systems
+172,Malta,2018,,2,0,2,Malta; Economical Energy
+173,PowereX (Business/Productivity Software),2018,,1,0,6,PowereX (Business/Productivity Software); Sustech; Capalo AI; WattOur; Qurrent (Alternative Energy Equipment); Hytrade
+175,Reusables,2021,,0,0,3,Reusables; Cirqle; Aroundrs
+177,Alora (Biotechnology),2019,27.0,2,2,3,Alora (Biotechnology); GeneNeer; ClimateCrop
+178,NOMOO,2019,,3,0,3,NOMOO; Pink Albatross; Wildgood
+179,TerGo,2023,8.0,1,1,4,TerGo; Ethicstream; WinCL; Tao Climate
+180,Luxeed,2019,,1,0,3,Luxeed; Kilter; Farm-ING
+181,Believ,2020,,2,0,3,Believ; it's electric; Even Recharge
+185,Nitricity,2018,,1,0,4,Nitricity; Atlas Agro; NTP Technologies; plasNifix
+186,Densepower,2022,,1,0,2,Densepower; EpiGreenVision
+187,Scandens,2021,,1,0,3,Scandens; Geosophy; Urban Carbon Digital Technology
+190,Lite&Fog,2021,47.0,3,1,2,Lite&Fog; Graze it
+192,Re.alto,2019,,0,0,4,Re.alto; Leap; Enode; IOEN
+193,Helios (Petah Tikva),2020,18.0,4,2,3,Helios (Petah Tikva); Element Zero; Ironic Metals
+194,mPower Technology,2019,6.0,1,1,2,mPower Technology; Astrix Astronautics
+195,Hypontech,2022,44.0,2,1,3,Hypontech; Fox ESS; TALESUNESS
+196,Heatify,2023,8.0,1,1,5,Heatify; Quilt; Nusku; HeatLeap; Modakbul Energy
+198,BlueDot Photonics,2019,,1,0,4,BlueDot Photonics; Solaires; TerraChange Solar; HelioTrope Photonics
+203,Erth,2020,,1,0,4,Erth; Core (Services (B2C Non-Financial)); Scipher Technologies; Remind (Environmental Services (B2B))
+206,MOODLES,2021,,1,0,4,MOODLES; Onego Bio; Meala; Pureture
+208,Earth Blox,2020,,1,0,3,Earth Blox; SumClimate; Climcycle
+209,Alpine Vertical,2019,,0,0,3,Alpine Vertical; Eve Holding (NYS: EVEX); Maglev Aero
+210,Soren Hydrogen,2022,30.0,1,1,2,Soren Hydrogen; Avina (Energy Infrastructure)
+213,Enernet Global,2021,,2,0,3,Enernet Global; Apeiro Energy; Wise Energie
+214,Circunomics,2019,,1,0,3,Circunomics; Cling Systems; Voltest
+217,Sustainable Projects Group,2022,,1,0,3,Sustainable Projects Group; Green Compass (Construction and Engineering); Burch Energy
+220,Sunbird Straws,2020,,1,0,3,Sunbird Straws; Pepaa; Ecorush
+221,ecoLocked,2022,1.0,1,1,3,ecoLocked; Reaforma; Fiber Global
+222,Superforest,2020,,0,0,3,Superforest; Carbon Counts; PLANET.Y
+226,Skilancer Solar,2018,,1,0,4,Skilancer Solar; Infiction Labs; Reset Company; Jetsons Robotics
+227,Komo Energy,2020,,0,0,7,Komo Energy; KESK; Syrcuit Energy Solutions; Vertriebsader; Luz Consultancy; Energy Bay; Flywheel Renewables
+228,Afreenergy,2023,,1,0,2,Afreenergy; Astatine
+229,BIOMILQ,2020,,1,0,3,BIOMILQ; Harmony (Consumer Non-Durables); Me&
+231,JHyM,2018,,11,0,4,JHyM; ELEMENT 2; Hyviva; BG Energy
+232,Gridcog,2020,,1,0,3,Gridcog; Scale Microgrid Solutions; Utility Innovation Group
+233,Nithio,2018,,2,0,2,Nithio; SoshoPay
+234,Dresscode010,2019,,1,0,7,Dresscode010; ReFabric; Lebiu; New Optimist; Venero; Vintabilia; Barbecha
+235,Greenpass,2021,,3,0,3,Greenpass; Accacia; Open Hydro
+237,JET Motors,2020,,2,0,3,JET Motors; Avvenire (Automotive); Evaya
+238,Odys Aviation,2019,,0,0,4,Odys Aviation; Autonomous Flight; Cosmic Aerospace; Lucy (Air)
+240,CircKit.ai,2023,,0,0,3,CircKit.ai; Digimind (Multimedia and Design Software); TEXIA
+241,Yanekara,2021,,1,0,3,Yanekara; LexEnergy; SuryaTech
+242,Ants Innovate,2018,,0,0,6,Ants Innovate; Matrix F.T.; Lasso Food Technologies; Offbeast; Moon Steak Technologies; Whiteboard Foods
+244,Agricarbon,2020,,1,0,6,Agricarbon; Climate Action; Ormex; Proba; CarbonCel; Alt Carbon
+247,Oxara,2019,,1,0,5,Oxara; MAA'VA; Plantd; Ouros Materials; Endelevo
+249,Green Spot Technologies,2018,,1,0,6,Green Spot Technologies; Bevo (Food Products); Done Properly; BioMush; Anchor Ingredients; Butterfly Foods
+251,Invaio,2018,,1,0,5,Invaio; Terra Vera; Evolutive Agronomy; Preagon Biotech; Pertinent Eco-Solutions
+254,Clever Offsets,2023,33.0,1,1,2,Clever Offsets; Offstream
+255,Lytos,2018,,1,0,3,Lytos; Embiome; SCUDO TECHNOLOGY
+258,Tokenovate,2022,,0,0,3,Tokenovate; Lympha; SAGINT
+259,Brimstone,2019,,1,0,11,Brimstone; Fortera; CemGreen; Concretene; Sublime Systems; Vateris; Nationwide Engineering; Co-Reactive; Uni Am; ReefCycle; Cura (Raw Materials (Non-Wood))
+264,Fermi Energia,2019,,0,0,4,Fermi Energia; HEATNUC; The Nuclear Company; Plasmonic Reactor Systems
+266,Fil & Fab,2019,,1,0,4,Fil & Fab; Net Your Problem; Amu; Acckon
+267,Water Warriors,2018,,1,0,6,Water Warriors; P-Agro Minerals; Airbuild; HydroPhos Solutions; ALBON; Capture Tech
+268,Farm to Flame Energy,2018,,0,0,2,Farm to Flame Energy; Globe Green Energy
+269,Tonik Energy,2019,10.0,1,1,4,Tonik Energy; Sunvigo; Daylight Energy; Bling Energy
+272,Jal Jaivik Bazaar,2021,,1,0,4,Jal Jaivik Bazaar; Samak Technologies; Shunya Agritech; Vision3F
+273,B-FCTL,2019,,2,0,3,B-FCTL; GaoJingChuMei; Weidun Environmental Protection
+275,Planeteers,2023,1.0,1,1,2,Planeteers; Nekton Labs
+277,Glacies,2018,,1,0,4,Glacies; ZYD Energy; Propellane; Tad Frost
+278,FutureProof Technologies,2019,0.0,3,2,3,FutureProof Technologies; Dorothy; Faura
+283,Halocycle,2022,18.0,3,3,2,Halocycle; Itero Technologies
+284,OCEANIUM,2019,19.0,6,1,6,OCEANIUM; Nordic SeaFarm; Seadling; Phyco; Kaly Group; Macro Oceans
+285,Big Sun Solar,2018,,1,0,5,Big Sun Solar; CY Enerji; Illumine i; EightTwenty; ZTRIC
+287,44.01,2021,16.0,4,1,4,44.01; Karbonetiq; sequestra; RubiscoBlack
+289,Poseidon Plastics,2018,,3,0,3,Poseidon Plastics; NAMé Recycling; Tridi Oasis
+293,E2H2NANO,2021,0.0,1,1,4,E2H2NANO; NovaMea; Leaf-Tech; Vimano
+294,Alchemity,2022,,1,0,3,Alchemity; Alfapur Technologies; QioN
+295,CCell,2018,,1,0,7,CCell; Grow Oyster Reefs; archiREEF; IntelliReefs; The Reef Company; Oyster Heaven; SeaCrete
+297,NODES,2018,,2,0,8,NODES; Flower Infrastructure Technologies; SYSO Technologies; Tensor Energy; RAZO Energy; Enspi.io; Eddy Grid; Cleanwatts Digital
+300,HB11 Energy,2019,,1,0,3,HB11 Energy; Marvel Fusion; Cambridge Heavy Industries
+302,Daotong,2020,,1,0,10,Daotong; NEU Battery Materials; Keyking Recycling; Changzhou Liyuan; The Battery Recycling Company; Shunhua Lithium; Jirui Keji; Cool Amps; Listie; Carmine Minerals
+304,Ubuntoo,2018,,0,0,2,Ubuntoo; SP3inspire
+305,TRIFOL,2018,,0,0,5,TRIFOL; Polycycl; PuriFire Energy; EnvoProtect; Greeneple
+306,Synera Renewable Energy,2019,,1,0,4,Synera Renewable Energy; Aker Offshore Wind; Vidi Energy; Blue Wind
+307,Equitable Earth,2021,,1,0,3,Equitable Earth; Intrinsic Methods; Eva (Environmental Services)
+308,Olokun Minerals,2021,,1,0,3,Olokun Minerals; Uplift Geosystems; Tuleva
+310,Betterbin,2020,,1,0,3,Betterbin; CIRT; Scrapp
+311,ECSO Global,2018,,1,0,6,ECSO Global; Enzymit; Yali Bio; Pathfinder Bio; Mycolever; BreakDown Bio
+312,Planetary Technologies (Energy),2020,,1,0,6,Planetary Technologies (Energy); Limenet; Cestore; Bloomineral; CarbonRun; Neo-Fossil
+313,Ivy (Business/Productivity Software),2022,,2,0,5,Ivy (Business/Productivity Software); Revalue (Environmental Services (B2B)); Calculus Carbon; C-nery; Carbon Remove
+319,Carbonlaces Solutions,2024,35.0,1,1,2,Carbonlaces Solutions; Sightline Climate
+320,Binding Solutions,2019,,0,0,3,Binding Solutions; GreenIron; Electra
+321,Revcoo,2021,,0,0,3,Revcoo; HexSeed Technology; FrostCarbon
+323,Zhongjinjiantan,2021,,0,0,3,Zhongjinjiantan; Some Carbon; Tongrongtanhui
+325,GreenCap Solutions,2021,,0,0,6,GreenCap Solutions; Powered Carbon; Linhe Climate; CO2 CAP & CONV Technology; JCCL; Kairos Carbon
+326,FF Ventures,2019,,2,0,3,FF Ventures; Innovo Renewables; Cerulean Winds
+329,Andersen EV,2018,,0,0,5,Andersen EV; Easy Charger; Cargar; On Charge; Prian Energy
+330,Chargetrip,2018,,1,0,10,Chargetrip; Electriphi; BLive; Evera; Volteum; ReVolt; Voltaage; VPush Technologies; Encode Energy; ELU Mobility
+332,Ecosapiens,2022,26.0,10,8,3,Ecosapiens; ClimaTech Innovations; Pantheon Regeneration
+335,Vishvaksenah Agro & Dairy,2022,,1,0,3,Vishvaksenah Agro & Dairy; Kirat Biotech; Shoolini Saffron
+336,Dioxycle,2020,,1,0,3,Dioxycle; Sandbox Environmental Systems; Helix Carbon
+337,Enviro Integration Strategies,2022,,1,0,2,Enviro Integration Strategies; DecisionHall
+338,Tarla.io,2019,,1,0,4,Tarla.io; Sensible Weather; Suyana; Riwe Technologies
+340,Apleum,2023,16.0,1,1,4,Apleum; C+UP; Pura Futura; Fremsyn
+343,Suppli (Containers and Packaging),2020,,1,0,3,Suppli (Containers and Packaging); &Repeat; Return It
+344,Cascadia Seaweed,2019,,0,0,5,Cascadia Seaweed; Carbonwave; CropBiome; Kelpinor; The Crop Project
+345,Algopoly,2019,,1,0,3,Algopoly; Neuralio AI; Uncharted AI
+346,Wakefield BioChar,2020,,0,0,6,Wakefield BioChar; Eion; Bison Underground; Carbonaught; Terradot; ClimeRock
+347,Recycle.Green,2020,,1,0,4,Recycle.Green; Malhari Projects; REEcover.; EXE Engineering
+348,Aeol,2018,,1,0,4,Aeol; WaHa; Windmill; Panjurli Labs
+349,Ampcera,2018,,0,0,11,Ampcera; YuHuang New Energy; Liongo New Energy; Keda New Energy Technology; Xinmao New Energy; ShanXiHongMa Tech; Jinpu New Energy; Tttrnet; Carbonx Technology; Xianna Technology; Hongyuan New Energy Technology
+350,Revolve Solar,2023,,1,0,2,Revolve Solar; Revolty
+352,FeTu,2018,,0,0,3,FeTu; LAVA (Energy); Mechapres
+354,Sonocrete,2018,,1,0,3,Sonocrete; Mimicrete; DMAT
+355,Emnotion,2021,,2,0,4,Emnotion; Jua; Causal Labs; Secondlaw
+356,Kopa System Technology,2018,,2,0,3,Kopa System Technology; In-One Tech; Jidongli
+357,Roam ( Automotive),2018,,1,0,4,Roam ( Automotive); Vioma Motors; Lightship (Automotive); Okinawa Autotec
+360,Xerotech,2018,,1,0,15,Xerotech; Renewance; MiniMines; BatX Energies; ExPost; NOWOS; UCANPower; BATx; Novocycle Technologies; Changyue New Energy; Battery Pollution Technologies; Converteca; Nice (Automotive); Mapleview Energy; ReVolt Solutions
+361,Minions Recycling,2022,,0,0,3,Minions Recycling; Yishun Green Technology; Ecorenowa Solutions
+363,Descycle,2018,,1,0,3,Descycle; Modern Mining; SharpPulse
+364,Ignis H2 Energy,2021,,0,0,3,Ignis H2 Energy; Lithium de France; New Mantle Technologies
+365,Vuma Biofuels,2020,,5,0,5,Vuma Biofuels; Ecosafi; EcoGrow Solutions; Malasha Briquettes; STB Pellet
+367,Spark Cleantech,2020,,1,0,2,Spark Cleantech; RedShift Energy
+369,Darcy Solutions,2018,,1,0,2,Darcy Solutions; Strataphy
+370,Energo (Energy Services),2020,,1,0,4,Energo (Energy Services); Rising.eco; Hygge Energy; Distro Energy
+371,one.fıve,2021,19.0,11,6,3,one.fıve; Liberation Bioindustries; Anthrogen
+374,Swiss Solar Group,2023,,1,0,4,Swiss Solar Group; Exergie; Limelights Electronics; SolarHub
+375,Tenways,2021,,0,0,4,Tenways; Upway; Loewi; Mint Bikes
+377,Delsys,2022,3.0,5,1,2,Delsys; Bevy.City
+378,Zeus AI,2022,,1,0,4,Zeus AI; Mathclick; Coastal Measures; Tini Scientific
+379,enshift,2024,3.0,5,4,3,enshift; Solfin; Besana
+380,Mantle8,2024,,0,0,4,Mantle8; GeoKiln; Anning; Kavenex
+382,Regbes,2022,20.0,1,1,3,Regbes; Ocean Power Grid; Flux Lines
+384,Winns,2021,24.0,1,1,5,Winns; Quatt; Nido (Alternative Energy Equipment); Aira; ThermalCyclones
+385,CH4 Global,2019,,1,0,15,CH4 Global; ODOS; Aramune; Synergraze; Alga Biosciences; Susterco; Number8Bio; ArkeaBio; Alphabiome; Methagone; Elysia Bio; Pasture Biosciences; Cerryx; Data Biome; Bovotica
+386,Z-Bikez,2018,,1,0,7,Z-Bikez; Rydable; Autonomy; T4L; Kineo; ZED MOTORS; Chango (Automotive)
+390,Stations-e,2019,35.0,2,1,2,Stations-e; Yna Kenya
+394,Square Mile Farms,2020,,0,0,2,Square Mile Farms; Nannilam
+402,Applied EV,2020,,2,0,3,Applied EV; Faction (Automotive); Zero One Automotive
+403,Remediiate,2019,,0,0,5,Remediiate; Arrhenius; Greenlight (Energy Production); ElectricAlgae; Aljadix
+404,Capital for Climate,2020,7.0,1,1,2,Capital for Climate; Celeste (Business/Productivity Software)
+405,iRestify,2018,,1,0,2,iRestify; Tector
+408,VOCSens,2019,,1,0,3,VOCSens; respiQ; sigma5
+415,EarthEn,2021,,1,0,6,EarthEn; Vorté Technologies; Enginuity Power Systems; Pascal (Electrical Equipment); Barrow Green; Energy Node
+417,bullfinch,2019,,1,0,6,bullfinch; Catalyst (Putzbrunn); eCERTO; Geniess; Euclid Power; Refy (Energy Traders and Brokers)
+418,Grecon Semi,2021,,1,0,3,Grecon Semi; XinJiaDianLu; Geo Micro Devices
+421,ClimateView,2019,25.0,1,1,4,ClimateView; RdA Climate Solutions; Affine Climate Solutions; Rennie Advisory
+423,ReefGen,2020,7.0,1,1,3,ReefGen; Robocean; Blusink
+425,Liquidstar,2019,,1,0,6,Liquidstar; Pegasus Group Holdings; Edge Centres; DayOne; Vesari; Galaxy Data Center
+427,TurtleTree,2019,27.0,3,1,7,TurtleTree; Fantastic Farms; Phyx44; Daisy Lab; Change Foods; Senara; Future Cow
+429,Aylara Power Solutions,2024,,1,0,3,Aylara Power Solutions; PowerMatrix; Enent
+433,Green Energy Exchange,2018,,2,0,5,Green Energy Exchange; Metha Energia; Ostrom; Electy; Enliv
+435,XBuild,2021,26.0,5,4,5,XBuild; Fire Aside; Pinepeak; Firex.ai; Paladin
+436,Aeditive,2019,,2,0,3,Aeditive; MiCoB; Black Buffalo 3D
+437,Ecoin Energy,2020,,1,0,2,Ecoin Energy; Enwise Energy
+440,Lingrove,2018,23.0,2,2,6,Lingrove; SQIM; Kenaf Ventures; INCA Renewtech; SCALE Advanced Biocomposites; PaperShell
+443,Sesame Solar,2021,,1,0,5,Sesame Solar; HIKO Unlimited International; Eversun (Energy Infrastructure); Aerovec; General Matter
+445,Kärnfull Next (Environmental Services),2022,9.0,1,1,4,Kärnfull Next (Environmental Services); Blue Capsule Technology; InfigoLabs; HyperHeat
+447,ICA-Finance,2021,,0,0,3,ICA-Finance; Salan Low-Carbon; Imperative Global
+448,Huayao Photovoltaic Technology,2020,,1,0,10,Huayao Photovoltaic Technology; Gokin Solar; HuaSun Energy; Heguang New Energy Technology; Gold Stone(Fujian); Unigrace (China); Cando Solar; Liansheng Photovoltaic; Longxiang New Energy; Yingfa Dekun
+449,AmphiStar,2021,,1,0,2,AmphiStar; Ruby Bio
+451,Numer8,2018,,1,0,4,Numer8; Intoto; 3Rwater; Novion (Business/Productivity Software)
+452,Solarworx,2018,,1,0,7,Solarworx; Erthos; Re(Source) Energy; WeSolar; Ranger Power; Zero Citizen; REEF
+453,Abhima Agritech,2024,,1,0,2,Abhima Agritech; Sepia Infrastructure
+458,Batconnect,2020,,1,0,4,Batconnect; Wild Technologies; Pebble( Transportation); Proper Voltage
+459,Nahum-Eli,2018,,0,0,5,Nahum-Eli; Hanwei Polymers; Hondol Material; Yisheng Optical Material; Xingchuan New Material
+461,Artus Air,2021,17.0,3,1,3,Artus Air; Hydronic Shell Technologies; Zeroth
+462,ECO RnS,2020,,3,0,11,ECO RnS; Primobius; MagREEsource; Cyclic Materials; REMRETEch; Metastable Materials; tozero; RarEarth; Lithium Salvage; Back to Battery; Dingo Technology
+463,Nobon,2021,,1,0,14,Nobon; Therm Solutions; Opna; Solid World; Greentrade; Arbonics; Creduce Technologies; Fairatmos; Brightly; Restoration Climate; Vert (Business/Productivity Software); Callirius; Cavex; Atmo (Business/Productivity Software)
+465,Nexii,2019,,0,0,4,Nexii; Amatec; Dextall; Systco
+466,Voltaic Marine,2020,7.0,1,1,6,Voltaic Marine; RAD Propulsion; Arc Boats.; Hercules Electric Mobility; eKraft; Photon Marine
+468,Agritecture,2021,,0,0,2,Agritecture; Mk Agbiz Technocrats
+470,Zeti,2021,,1,0,4,Zeti; Futr.; Tenet; Zeno (Automotive)
+471,ECA engineering,2020,,1,0,3,ECA engineering; Path to Zero; Nature Electric
+474,Groupe EverWatt,2019,,0,0,2,Groupe EverWatt; Energy+ (Energy Marketing)
+477,Ecobase,2022,,0,0,10,Ecobase; Orizon (Other Agriculture); Fairventures Agroforestry; Agricapture; Agroforestry Carbon; Noora; Horizom; Rainforest Builder; Kateri; Flora Carbon AI
+479,The Emerald Tutu,2019,,1,0,3,The Emerald Tutu; OCEANIX; SEAform
+481,Saveggy,2020,,1,0,5,Saveggy; greenase; Perfekto; 100% Livre; Hansung Green Factory
+482,Urbio,2019,,1,0,3,Urbio; Confluency; Augmenta (Business/Productivity Software)
+484,Toroto,2020,,1,0,15,Toroto; Xylo Systems; Tēnaka; Key Conservation; Vlinder; Pivotal; Inverto Earth; refinq; RegisTree (Business/Productivity Software); Veritree; Ecolynx; Nala Earth; Dunya Analytics; Darwin Data; NatureHelm
+486,Jeosal: Advanced Materials Research,2019,28.0,1,1,4,Jeosal: Advanced Materials Research; ReCom (); Catack-H; RCB Nanotechnologies
+487,Exergenics,2019,,1,0,2,Exergenics; Hexwise
+488,LithologIQ,2023,7.0,2,1,3,LithologIQ; Elemission; CDXi Solutions
+491,BL!XT,2018,,0,0,3,BL!XT; Greenwood Power; Heron Power
+492,SPREAD (Energy Marketing),2018,15.0,1,1,4,SPREAD (Energy Marketing); Boom Power; Field Energy; Alaska Renewables
+493,Carbon Yield,2018,,1,0,12,Carbon Yield; Agreena; Moss.Earth; Carbon Asset Solutions; SysFarm; Carbone Farmers; Chestnut Carbon; Carbonlink (Business/Productivity Software); Faeger; CO2IN; Terraspect; Jizoku
+494,Plan3t,2020,,1,0,12,Plan3t; Climate Action Now; Cool Points Club; Aloe Points; Forevergreen Tech; CarbonSifr; Chilli (Environmental Services (B2B)); Climategames; Turn it Green; Cool The Globe; Widu; Ecocentive
+497,OOTT,2018,,1,0,2,OOTT; Unicomm (Poland)
+499,EVUS,2018,,0,0,3,EVUS; Entropy Technology(Xuzhou); ZN-Energy
+500,Nanjing Saturn Technology,2019,,1,0,3,Nanjing Saturn Technology; Nomadic Drones; Pravah
+505,Hygn Energy,2022,19.0,1,1,4,Hygn Energy; DeCarice; Hydro Ecotech; Hy-Boost Technology
+506,Enginzyme,2021,2.0,3,1,3,Enginzyme; Neela Biotech; Decycle Bio
+507,Coreshell,2018,,1,0,5,Coreshell; CAS Supercap; iPotisEdge; Viritech; Hyposto Energy
+509,Neolithe,2019,,1,0,3,Neolithe; Citron Energy; Nataraj Hydrocarbons
+511,SAIHEAT (NAS: SAIH),2019,,1,0,3,SAIHEAT (NAS: SAIH); Ferveret; MegaCool Technologies
+514,Lekatech,2018,,0,0,3,Lekatech; LimeArc; I-ROX
+515,Ecobloom,2018,,1,0,6,Ecobloom; AgrilogiQ; GSF System; Petal International; Bloom Climate; Dutch Lion
+517,HighLine Technology,2021,2.0,3,1,3,HighLine Technology; Foundation Alloy; Thalon Materials
+521,Ecording,2019,,1,0,8,Ecording; Viridis Terra; Forestal Naj-Ché; El Santo; Atlas Florestal; Orygen (Environmental Services (B2B)); Flying Forests; Nos Grandes Forêts
+525,Scarab,2018,,1,0,3,Scarab; IVER; Circular Industries
+526,Hero Laboratories,2019,,1,0,7,Hero Laboratories; Aqva More; Eco Shower; Orca Water; HULO; IVAPPS; Foresight AI (Business Products and Services)
+531,Dubo Polymer,2018,,1,0,8,Dubo Polymer; BIOVOX; Donglan Materials; Sugar Coated Technologies; Bioenvision (Multi-line Chemicals); Earthodic; Vbase Oil Company; PakItGreen
+533,Ecotone Renewables,2021,2.0,1,1,8,Ecotone Renewables; Biotech Energy; HeartFoods; Monsapo; Hector le Collector; Composta+; Bioconverter; Ecofrit
+536,Kamilo,2020,29.0,1,1,10,Kamilo; Blue Room Innovation; ScrapAd; enspired; Xworks Holdings; Safi; CommonShare; METYCLE; Orobo; Reviver
+537,Treety,2019,,1,0,14,Treety; Klimate; Iclima Earth; Nossa Data; Grain (Environmental Services (B2B)); Goodcarbon; Carbonaires; Covalent (Environmental Services); OpenCarbon; Earth Finance; Kara; Cawa (Environmental Services (B2B)); crbn.trade; Gentoo
+539,Pow.bio,2019,,2,0,8,Pow.bio; Unicorn Biotechnologies; SolarBiotech; MOA Foodtech; DUDE CHEM; Myco4Food; Curve (Specialty Chemicals); Digiclean Solutions
+541,ACTIVEcharge,2019,6.0,1,1,12,ACTIVEcharge; WEO (Environmental Services); Xoople; Varuna (Business/Productivity Software); Eugenie.ai; 4 Earth Intelligence; EOLAS; Flying Demon; NyasaAerial; SpaceLab; GreenAnt; LandScan
+542,Terran Robotics,2020,7.0,1,1,3,Terran Robotics; Madco3d; Construx
+543,HiiROC,2019,,1,0,12,HiiROC; Graphitic Energy; Hycamite; Supercritical (Alternative Energy Equipment); BurnStar Technologies; SGH2 Energy; VulcanX; Helix Hydrogen; APGREEN; OneSix Energy; Verdion; ProtheiMA
+544,Debut Biotechnology,2020,30.0,4,3,6,Debut Biotechnology; Carbon Capture Company; Vibrant Planet; CarbonEthics; Bio-Logical; Dashboard Earth
+547,Brisil,2022,,1,0,3,Brisil; Rivalia Chemical; PHNX Materials
+549,MeliBio,2020,26.0,1,1,2,MeliBio; Bee-io Honey (TAE: BHNY)
+551,WaterRR,2019,,4,0,4,WaterRR; Bluemethane; Zefiro Methane (NEOE: ZEFI); Capwell Services
+553,Zero Impact,2018,,1,0,3,Zero Impact; The Kawa Project; Unspent
+554,Infravision,2021,,1,0,3,Infravision; 5 Sec Recharging EVs; Witching Hour
+557,Agrology,2019,6.0,1,1,15,Agrology; Boomitra; Zora Ecosystems; Gazelle Ecosolutions; Carbotanix; Korotu; Savimbo; Varaha; Thryve.Earth; Bioforestal; Carbonof; Fossagrim; 3T (Environmental Services); Clargreen; Selva Wild
+559,MobiGarage,2020,26.0,4,1,7,MobiGarage; Hello RSE; Valyuu; GAIA GreenTech; Reboot (Services (B2C Non-Financial)); Infiniti Recycling; Smartpheed
+567,Feltwood,2018,,1,0,26,Feltwood; Grale; 3rd Planet Innovation; Natural Fiber Welding; Lenera; Modern Synthesis; Qorium; Uluu; Really Clever; Oleatex; Banofi; Ecotune; Biotic; Phaxtec; ChakraTech; Metacycler Bioinnovations; PEEL Lab; Africa Collect Textiles; Alt.; Sakula; Eden Materials; Replica Biomaterials; Avinya; Kykloris; Coast Fibers; Salt & Fiber
+569,BlueGrid,2018,,1,0,10,BlueGrid; Arkitech; D-ICE Engineering; ZeroNorth (Business/Productivity Software); ETA Shipping; zero44; FE3 Elixir; Green Navigation; BetterSea; Smart Vessel Optimizer
+570,Hopes (Energy Storage),2023,,1,0,3,Hopes (Energy Storage); Spherical Rotors; Eleon Energy Systems
+571,PowerX (Business/Productivity Software),2020,34.0,1,1,3,PowerX (Business/Productivity Software); National Safety Inspections; Percival Company
+572,Tessael,2020,,1,0,2,Tessael; Yellow Sub Geo
+575,Overstory,2018,,1,0,2,Overstory; AiDash
+576,Curie Co,2018,,1,0,15,Curie Co; Cemvita Factory; Mattiq; FimusKraft; HydGene Renewables; Perseo Biotechnology; Mercel; MicroBite (Commodity Chemicals); BioPhenolics; Planck Technologies; altM; Eutechtics; RARA Factory; Altrove; Entalpic
+578,Outrider,2018,12.0,2,1,5,Outrider; Renu Robotics; Directed Machines; Robeff; Kevares Autonomous Services
+579,PlantVation,2019,,1,0,3,PlantVation; Rhizocore; New Spring
+582,Subsea Micropiles,2018,,1,0,3,Subsea Micropiles; Pivotree (Oil and Gas Equipment); Triton Anchor
+583,Washywash,2019,,1,0,4,Washywash; Patriot Maids; Sayfaya; iCleanse Carpet and Upholstery Cleaning
+588,SimplexDNA,2021,,1,0,4,SimplexDNA; IdentMe; Azul Bio; EnviroDNA
+589,Andluca,2018,,1,0,11,Andluca; iyris (Alternative Energy Equipment); EnKoat; Enerthing; Sunphade; Oramoon; SpectrumLab; P-layer; Pirta; Dewpoint Innovations; Climate Correct Engineers
+590,Sustainable Business Academy,2021,,1,0,4,Sustainable Business Academy; GREEN Solar Academy; Greenworkx; Vyra
+592,VTFM,2021,,0,0,4,VTFM; Capacitor Metals; MSE Supplies; Applied 2d Materials
+595,Be-Grow,2020,,1,0,3,Be-Grow; AgriTech Futura; Sylcast
+602,Yonz Technology (SHG: 603381),2021,,4,0,5,Yonz Technology (SHG: 603381); Hypset; HIVE Materials; Guoqiang Singsun; X-Solar Energy
+604,Material Evolution,2020,,1,0,12,Material Evolution; Naturally Urban Environmental; 100 Thousand Million; Carbon Saver; Taurus Concrete; 548 Enterprise; Tangible (Business/Productivity Software); Agreka Build; EcoRemix; Digne; vyzn; Satiq Concrete Manufacturer
+606,U-Map,2018,,0,0,11,U-Map; Qdot Technology; Evercloak; Cedrion; Cooling Photonics; The Warming Surfaces Company; Ubiquetherm; Novara Materials; Karman Industries; MHS; Helionis Labs
+609,RSI Engineering,2019,,1,0,2,RSI Engineering; RW Logistics & Transport
+611,AkteLabs,2018,,3,0,6,AkteLabs; Nature Preserve; Econexus Ventures; Edacious; BioFlare; SolStove
+613,Gaiascope,2019,45.0,1,1,6,Gaiascope; Atmen; Anderson Optimization; Carbonfreed; Tekve; Dolivo
+618,Coastal Waters Biotechnology 2,2018,,1,0,12,Coastal Waters Biotechnology 2; Mowfleet; SeaTrac; SubSeaSail; Aqua Superpower; Eunoia Innovations; Frontier Robotics; Seascape Autonomy; InXTech; Lacuum; Sunfish Robotics; Apollo Generators
+619,Mirsae,2018,,1,0,6,Mirsae; Hydrofinity; Premeter; Vycarb; Kephi Innovations; Capture6
+623,Plant Based News,2018,23.0,1,1,5,Plant Based News; Pique Action; Esmiyor; MorphCast; Greenroom
+624,GTarang Solutions,2019,,1,0,8,GTarang Solutions; GCE Institute; Space Power; ICE Thermal Harvesting; Wigl; PulsarTech; Aquila Space Technologies; Stratoship
+626,Raisers Partners,2023,,0,0,3,Raisers Partners; Tower Peak Partners; Second Sphere Partners
+629,Fabric.AI (NAS: FABC),2018,,0,0,6,Fabric.AI (NAS: FABC); Sealution; Aikido Technologies; Panthalassa; NetworkOcean; Axonal Networks
+631,Iltani Resources (ASX: ILT),2021,,0,0,3,Iltani Resources (ASX: ILT); FinEx Metals (TSX: FINX); Red Canyon Resources (CNQ: REDC)
+632,Vaxa,2018,,1,0,12,Vaxa; CyanoCapture; MariHealth Solutions; Terragia; Konree Innovation; Enchi; Algaflag; ShrimpTech JIRCAS; Second Ocean; Ocean Rich Resources; Algenie; MegaPlan
+633,Darsun Laser,2018,,1,0,4,Darsun Laser; Lumi Space; Stars Edge; Cosmoserve Space
+635,Otro,2018,,1,0,4,Otro; WildVenture XR; A-Live; Sneakar

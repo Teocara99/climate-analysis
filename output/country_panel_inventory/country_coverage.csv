@@ -1,0 +1,21 @@
+country,n_deals,n_companies,q_ge10,q_ge5,total_q
+United States,13266,2724,56,58,58
+United Kingdom,4459,885,49,52,58
+China,2313,675,43,47,52
+Canada,2246,460,43,45,53
+Germany,1883,453,41,48,56
+France,1783,432,43,47,55
+India,1435,422,37,42,52
+Sweden,959,194,35,44,52
+Australia,939,259,35,39,51
+Netherlands,908,265,36,43,59
+Switzerland,849,155,35,39,54
+Spain,812,187,36,38,49
+South Korea,657,181,30,32,49
+Japan,640,166,24,33,43
+Israel,634,143,27,39,52
+Singapore,592,156,28,34,48
+Italy,529,153,24,32,49
+Finland,499,105,23,39,50
+Denmark,453,106,18,34,52
+Norway,345,110,14,27,41

@@ -1,0 +1,3 @@
+spec,N,stayer,quiet_exit,full_exit,qe_share
+primary (end 2026-06-20),10564,4517,3372,2675,0.319
+backfill (end 2025-06-20),10988,5484,3312,2192,0.301

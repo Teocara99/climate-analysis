@@ -1,0 +1,2 @@
+n_matched_clusters,n_unmatched_clusters,n_startups_with_trl,n_startups_total,pct_startups,n_dyads_with_trl,n_dyads_total,pct_dyads,trl_mean,trl_sd,trl_distinct_values,beta_sem_x_trl,se_sem_x_trl,p_sem_x_trl,mde_80pct
+27,36,1800,4669,38.6,19932,53628,37.2,8.63,1.79,8,0.094,0.0339,0.0056,0.0951

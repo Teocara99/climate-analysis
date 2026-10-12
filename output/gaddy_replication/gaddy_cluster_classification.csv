@@ -1,0 +1,64 @@
+cluster,cat,conf,n_startups,keywords,examples
+0,MCP,H,87,"nuclear, fusion, energy, nuclear power, fusion energy, power, reactors, reactor",Naarea | Standard Nuclear | Marvel Fusion | Moltex Energy | Novatron Fusion Group
+1,Other,L,35,"operating stealth, stealth, currently operating, stealth mode, mode, currently, operating, energy",ABM Fuels | ASELUS | Atomic Number Six | Aurora Renewables | CapCycle Creations
+2,MCP,H,344,"hydrogen, energy, green hydrogen, hydrogen production, fuel, enabling, hydrogen fuel, fuel cell",TSK | FengBei Biotech (SHG: 603334) | ZHGAS | Shanghai REFIRE Group (HKG: 02570) | Cellcentric (Electrical Equipment)
+3,HW,H,271,"charging, electric, vehicle, electric vehicle, vehicle charging, charging stations, ev, stations",Star Charge | Elli (Road) | Wallbox (NYS: WBX) | Electra (Utilities) | Chaevi (KRX: 0011T0)
+4,HW,H,523,"electric, vehicles, mobility, enabling, vehicle, bike, scooters, transportation",Li Auto (HKG: 02015) | Škoda X s. r. o. | ZEEKR Automobile | Guangzhou Xiaopeng Motors Technology (HKG: 09868) | Hello (Other Transportation)
+5,HW,M,28,"geothermal, geothermal energy, energy, drilling, enabling, power, wells, baseload",HyperSciences | Lithium de France | Geothermal Technologies | Fervo Energy (NAS: FRVO) | TerraCOH
+6,Other,M,134,"mining, exploration, metals, mineral, enabling, metal, enabling mining, mineral exploration",Waga Energy (PAR: WAGA) | Mint Innovation | Chrysos Corporation (ASX: C79) | EarthLabs (TSX: SPOT) | Exodigo
+7,HW,M,241,"water, wastewater, treatment, enabling, wastewater treatment, water treatment, drinking water, intended",Shangyuan Intelligence Technology | Bore Charger | Biowave Technologies | Streamline Innovations | Mingjia Environmental Technology
+8,MCP,M,86,"insect, protein, feed, food, insects, animal feed, animal, larvae",Volare (Commercial Products) | Eggoz | InnovaFeed | Greenda | HiProMine (WAR: HPM)
+9,MCP,H,144,"protein, fermentation, enabling, proteins, food, biology, enzyme, synthetic biology",Harmony Biosciences Holdings (NAS: HRMY) | GS Biotech | ECSO Global | OrbiFarm | Zea
+10,Other,H,293,"meat, food, plant, dairy, protein, producer plant, vegan, products",Meati | Siete Family Foods | Oarmilk | The Fresh Factory (TSX: FRSH) | SIMULATE
+11,MCP,H,45,"meat, animal, cell, tissue, cultivated, cultured, cultivated meat, cultured meat",Biftek | Brightplus | Tissen Biofarm | KosmodeHealth | DaNAgreen
+12,Other,M,29,"seafood, plant seafood, seafood products, fish, producer plant, plant, producer, enabling",AQUA Cultured Foods | Hooked (Food Products) | Hailia | Save Da Sea | Avant Meats
+13,MCP,H,206,"carbon, dioxide, carbon dioxide, capture, enabling, air capture, direct air, carbon capture",Solugen | Powered Carbon | Compact Carbon Capture | Liquid Wind | Remora
+14,HW,M,80,"power, energy, enabling, semiconductor, computing, data, optical, wireless",SPARK Microsystems | Ivp Semi | Navitas Semiconductor (NAS: NVTS) | Grecon Semi | InnovaStella
+15,HW,H,82,"energy, wave, electricity, power, ocean, wave energy, enabling, renewable",Latitude Power | Hyliion Holdings (ASE: HYLN) | CalWave | Ocean Oasis | FairHydro
+16,HW,H,80,"aircraft, landing, electric, electric vertical, aviation, flight, takeoff, takeoff landing",Airflow.aero | Strata Critical Medical (NAS: SRTA) | AURA AERO | Isar Aerospace | Ampaire
+17,HW,H,121,"wind, turbines, turbine, energy, wind turbines, wind turbine, wind energy, offshore",GE Vernova (NYS: GEV) | Delijia Transmission Technology (SHG: 603092) | Zhonggong New Energy | Nabrawind | Aker Offshore Wind
+18,Other,M,50,"aquaculture, fish, seaweed, farming, enabling, shrimp, production, feed",PowerX (Electrical Equipment) (TKS: 485A) | MegaPlan | Nordic SeaFarm | Carbonwave | Aquaponic Management Project
+19,Other,M,48,"ocean, marine, reef, carbon, coral, restoration, enabling, restore",Kind Designs | Cestore | SEAform | Aqua Superpower | ARC Marine
+20,HW,M,44,"underwater, ocean, marine, fishing, enabling, monitoring, data, autonomous",Sunfish (Hardware) | Coastal Waters Biotechnology 2 | Numer8 | Sensor Globe | Eunoia Innovations
+21,HW,H,51,"maritime, marine, ships, shipping, ship, propulsion, fuel, vessels",Yolcargo | X Shore | Bound4Blue | BlueGrid | Azane Fuel Solutions
+22,SW,M,39,"wildfire, fire, wildfires, detection, enabling, forest, monitoring, early",umgrauemeio | Treet | Nordic Timber Labs | GreenBug | Instinct
+23,SW,H,62,"satellite, data, observation, earth observation, geospatial, enabling, monitoring, earth",Esper Satellite Imagery | WaterView | Scepter (Media and Information Services) | Varuna (Business/Productivity Software) | Kuva Space
+24,HW,H,588,"farming, enabling, indoor, hydroponic, farmers, vertical, crop, vertical farming",Firmmit | Little Leaf Farms | CASIC(Guizhou) | Sumá | Agrosmart
+25,SW,H,42,"weather, forecasts, forecasting, data, weather forecasting, enabling, hyperlocal, meteorological",Tomorrow.io | Atmo | Pluvia.ai | Hypermeteo | stormglass.io
+26,DF,H,93,"risk, flood, data, insurance, enabling, risks, financial, exposure",ClimateAI | Risilience | Hydroinformatics Institute | Eoliann | Coastal Risk
+27,Other,M,40,"forest, forests, carbon, enabling, satellite, forestry, data, restoration",Pachama | CollectiveCrunch | AirForestry | Innovatree Carbon Group | Code of Nature
+28,Other,M,121,"carbon, forest, restoration, enabling, intended, biodiversity, forests, reforestation",Varaha | EcoTree | Future Carbon Group | Viridis Terra | Egan
+29,MCP,M,65,"crop, fertilizer, soil, fertilizers, farmers, enabling farmers, enabling, agricultural",Cinis Fertilizer | Wakefield BioChar | NitroCapt | Joyn Bio | Biodel AG
+30,MCP,M,41,"crop, crops, enabling, agricultural, farmers, enabling farmers, plant, crop protection",Elicit Plant | Micropep | Afingen | Telluris Biotech | Singrow
+31,SW,H,50,"methane, monitoring, enabling, gas, methane emissions, predictive maintenance, emissions, industrial",Kuva Systems | MIRO Analytical | Sniffer Robotics | Reliasol | Eugenie.ai
+32,HW,M,76,"air, air quality, air purification, quality, enabling, purification, indoor air, indoor",Chakr Innovation | PlanetWatch | Aeol | Preinvel | Pollen Sense
+33,SW,H,288,"carbon, enabling, data, emissions, reporting, sustainability, environmental, footprint",Thanks Carbon | Watershed | Hifen Testing | Plan-B Net Zero | Asuene
+34,SW,M,119,"enabling, action, intended, environmental, sustainability, engagement, impact, operator",Proterra Investment Partners | Fluxys C-Grid | Hatch (Other Business Products and Services) | Otago (Environmental Services (B2B)) | Deedster
+35,DF,M,97,"blockchain, carbon, enabling, energy, credits, verification, carbon credits, offset",ACX (Financial Software) | Lition (Financial Software) | BloXmove | Equilibrium (Environmental Services) | Carbontribe
+36,DF,H,52,"carbon, financing, projects, project, finance, enabling, funding, credit",Earthbanc | BeZero Carbon | Allklear | Scope Advisers | Nobon
+37,MCP,H,164,"waste, organic, biochar, enabling, carbon, into, energy, waste into",Kinava | Vaulted Deep | ARF Bio (IST: ARFYE) | Antec (Energy Infrastructure) | Biomass Controls
+38,Other,M,52,"food, food waste, reduce food, waste, surplus food, surplus, restaurants, enabling",Too Good To Go | Full Harvest | Pure Plus | Martie | OLIO
+39,Other,M,38,"textile, fashion, clothing, textile waste, waste, materials, textile recycling, textiles",Cloov | ReFabric | Verretex | 9Fiber | Africa Collect Textiles
+40,HW,H,673,"solar, energy, photovoltaic, enabling, power, solar energy, renewable, renewable energy",CHINT(Zhejiang) | DAS Solar | Gokin Solar | Sungrow New Energy | Fusion Paste (SHG: 688503)
+41,Other,L,38,"inventory, enabling, plastic, waste, logistics, sellers, retailers, management",FR8 | Safi | Nous Anti-Gaspi | ScrapAd | b:bot
+42,MCP,H,95,"lithium, battery, battery recycling, recycling, batteries, lithium ion, ion, lithium extraction",Redwood Materials | Northvolt | MiniMines | Jirui Keji | Zhongyuan Technology
+43,MCP,H,65,"concrete, cement, carbon, construction, construction industry, enabling, enabling construction, materials",Fortera | Posregen | TechnoCarbon | WAS Co. | DMAT
+44,MCP,H,38,"leather, textile, materials, fibers, cellulose, textiles, enabling, sustainable",Tandem Repeat | Nobrak | CelluXtreme | Bi-Rex | Green Continue
+45,MCP,H,49,"fiber, materials, fibers, lignin, enabling, adhesives, bio, sustainable",Helicoid Industries | PulPac | Industrial Microbes | KiwiFibre | Leaf Biotech
+46,MCP,H,80,"plastic, waste, plastic waste, plastics, recycling, into, enabling, materials",Nextchem | LD Carbon | PureCycle Technologies (NAS: PCT) | Catack-H | Novoplast
+47,MCP,H,177,"packaging, plastic, biodegradable, compostable, enabling, plastics, materials, bags",Bio-Lutions | Transcend Packaging | Bambrew | Paptic | Genecis
+48,Other,M,67,"packaging, reusable packaging, reusable, containers, enabling, waste, food, single packaging",Ponera Group | Boox (Containers and Packaging) | Return It | TRIA (Paper Containers & Packaging) | Arka
+49,HW,H,48,"waste, recycling, sorting, waste management, enabling, management, waste collection, collection",Qian Niao Hu Lian | SuperBin | Sensoneo | AETECH | Peregrine (Environmental Services (B2B))
+50,Other,M,56,"waste, recycling, waste management, collection, management, enabling, waste collection, services",Carbon Zero Technologies International | Checksammy Technologies | RTS (Commercial Services) | RECO (Environmental Services) | Ideation3x
+51,MCP,H,32,"construction, materials, building, building materials, waste, enabling, carbon, intended",Pangu New Material | Recoma | Sustonable | Arqlite | Resair
+52,HW,M,81,"housing, construction, homes, enabling, building, buildings, sustainable, intended",Prime Life Technologies | Planet Smart City | Aro Homes | 011h | Framespace
+53,DF,M,25,"energy, electricity, renewable, enabling, green, green energy, renewable energy, intended",SQE Energy Group | Energie d'ici | Bolt Energie | Clarke Energia | Bioenergy Iberica
+54,HW,H,30,"energy, storage, heat, energy storage, thermal, thermal energy, store, store energy",Energy Dome | Accenta | Cartesian | MGA Thermal | Storenergy
+55,MCP,H,165,"batteries, battery, energy, ion, energy storage, lithium, storage, ion batteries",Romeo Power | Xiamen Hithium Energy Storage Technology Company | RT-Hitech | Tiancheng Lithium Battery | ZincFive
+56,HW,H,61,"energy, energy storage, storage, power, storage system, storage systems, storage products, system",Trina Storage | Cactos | Cubenergy Technology | Higee | Megarevo Technology
+57,HW,H,41,"energy, storage, energy storage, battery, storage systems, grid, systems, renewable",Energy Vault Holdings (NYS: NRGV) | TESVOLT | Weiheng Ecactus | Pixii (Alternative Energy Equipment) | Ingrid Capacity
+58,DF,H,37,"energy, assets, enabling, renewable, management, trading, power, grid",Flower Infrastructure Technologies | Fusebox.Energy | Qurrent (Alternative Energy Equipment) | OakTree Power | NODES
+59,SW,H,31,"grid, energy, power, enabling, utilities, management, data, distributed energy",Camus Energy | Heimdall Power | BluWave-ai | Plexigrid | IONATE
+60,HW,H,48,"heat, heating, heat pump, heat pumps, energy, pump, pumps, hot water",Woltair | Galvany | Aira | CoolREG Enerji | Winns
+61,SW,H,94,"energy, consumption, energy management, enabling, management, energy consumption, data, reduce",Senapt | BeeBryte | NX | Smart Joules | LEDCity
+62,HW,H,104,"cooling, energy, heating, ventilation, air conditioning, enabling, air, conditioning",Redaptive | PassiveLogic | Humaster | Air Techno India | AirEx
